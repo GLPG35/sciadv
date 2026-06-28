@@ -1,6 +1,19 @@
 import { defineMiddleware } from "astro/middleware"
 
+const excemptions = [
+	'/404',
+	'/404/',
+	'/es/404',
+	'/es/404/'
+]
+
 export const onRequest = defineMiddleware(async (context, next) => {
+	const { pathname } = context.url
+
+	if (excemptions.includes(pathname)) {
+		return next()
+	}
+
 	const response = await next()
 
 	if (response.status === 404) {
