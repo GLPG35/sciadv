@@ -47,6 +47,40 @@
 				"name": "Requerido ver después de terminar el juego"
 			}
 		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/chn/1.avif",
+					"/screenshots/chn/1.webp",
+					"/screenshots/chn/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/chn/2.avif",
+					"/screenshots/chn/2.webp",
+					"/screenshots/chn/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/chn/3.avif",
+					"/screenshots/chn/3.webp",
+					"/screenshots/chn/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/chn/4.avif",
+					"/screenshots/chn/4.webp",
+					"/screenshots/chn/4.jpg"
+				],
+				"visible"
+			]
+		],
 		"faq": [
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
@@ -121,19 +155,41 @@
 		"screenshots": [
 			[
 				[
+					"/screenshots/sg/1.avif",
+					"/screenshots/sg/1.webp",
 					"/screenshots/sg/1.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/sg/2.avif",
+					"/screenshots/sg/2.webp",
 					"/screenshots/sg/2.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/sg/3.avif",
+					"/screenshots/sg/3.webp",
 					"/screenshots/sg/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg/4.avif",
+					"/screenshots/sg/4.webp",
+					"/screenshots/sg/4.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg/5.avif",
+					"/screenshots/sg/5.webp",
+					"/screenshots/sg/5.jpg"
 				],
 				"visible"
 			]
@@ -213,6 +269,24 @@
 				}
 			]
 		},
+		"screenshots": [
+			[
+				[
+					"/screenshots/chlcc/1.avif",
+					"/screenshots/chlcc/1.webp",
+					"/screenshots/chlcc/1.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/chlcc/2.avif",
+					"/screenshots/chlcc/2.webp",
+					"/screenshots/chlcc/2.png"
+				],
+				"visible"
+			]
+		],
 		"faq": [
 			{
 				"question": "¿Cuándo habrá un parche para este juego?",
@@ -267,6 +341,40 @@
 				"url": "/sidecontent/sg",
 				"name": "Requerido ver después de terminar el juego"
 			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/sgmde/1.avif",
+					"/screenshots/sgmde/1.webp",
+					"/screenshots/sgmde/1.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgmde/2.avif",
+					"/screenshots/sgmde/2.webp",
+					"/screenshots/sgmde/2.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgmde/3.avif",
+					"/screenshots/sgmde/3.webp",
+					"/screenshots/sgmde/3.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgmde/4.avif",
+					"/screenshots/sgmde/4.webp",
+					"/screenshots/sgmde/4.png"
+				],
+				"visible"
+			]
 		],
 		"faq": [
 			{
@@ -334,6 +442,40 @@
 				"url": "/sidecontent/sg",
 				"name": "Requerido ver después de terminar el juego"
 			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/sgvso/1.avif",
+					"/screenshots/sgvso/1.webp",
+					"/screenshots/sgvso/1.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgvso/2.avif",
+					"/screenshots/sgvso/2.webp",
+					"/screenshots/sgvso/2.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgvso/3.avif",
+					"/screenshots/sgvso/3.webp",
+					"/screenshots/sgvso/3.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgvso/4.avif",
+					"/screenshots/sgvso/4.webp",
+					"/screenshots/sgvso/4.png"
+				],
+				"visible"
+			]
 		],
 		"faq": [
 			{
@@ -408,19 +550,41 @@
 		"screenshots": [
 			[
 				[
+					"/screenshots/rne/1.avif",
+					"/screenshots/rne/1.webp",
 					"/screenshots/rne/1.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/rne/2.avif",
+					"/screenshots/rne/2.webp",
 					"/screenshots/rne/2.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/rne/3.avif",
+					"/screenshots/rne/3.webp",
 					"/screenshots/rne/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rne/4.avif",
+					"/screenshots/rne/4.webp",
+					"/screenshots/rne/4.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rne/5.avif",
+					"/screenshots/rne/5.webp",
+					"/screenshots/rne/5.jpg"
 				],
 				"visible"
 			]
@@ -486,6 +650,40 @@
 				"url": "/sidecontent/sg",
 				"name": "Requerido ver después de terminar el juego"
 			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/sglbp/1.avif",
+					"/screenshots/sglbp/1.webp",
+					"/screenshots/sglbp/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sglbp/2.avif",
+					"/screenshots/sglbp/2.webp",
+					"/screenshots/sglbp/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sglbp/3.avif",
+					"/screenshots/sglbp/3.webp",
+					"/screenshots/sglbp/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sglbp/4.avif",
+					"/screenshots/sglbp/4.webp",
+					"/screenshots/sglbp/4.jpg"
+				],
+				"visible"
+			]
 		],
 		"faq": [
 			{
@@ -557,24 +755,32 @@
 		"screenshots": [
 			[
 				[
+					"/screenshots/cc/1.avif",
+					"/screenshots/cc/1.webp",
 					"/screenshots/cc/1.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/cc/2.avif",
+					"/screenshots/cc/2.webp",
 					"/screenshots/cc/2.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/cc/3.avif",
+					"/screenshots/cc/3.webp",
 					"/screenshots/cc/3.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/cc/4.avif",
+					"/screenshots/cc/4.webp",
 					"/screenshots/cc/4.jpg"
 				],
 				"visible"
@@ -651,6 +857,40 @@
 				"url": "/sidecontent/sg0",
 				"name": "Requerido ver después de terminar el juego"
 			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/sg0/1.avif",
+					"/screenshots/sg0/1.webp",
+					"/screenshots/sg0/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg0/2.avif",
+					"/screenshots/sg0/2.webp",
+					"/screenshots/sg0/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg0/3.avif",
+					"/screenshots/sg0/3.webp",
+					"/screenshots/sg0/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg0/4.avif",
+					"/screenshots/sg0/4.webp",
+					"/screenshots/sg0/4.jpg"
+				],
+				"visible"
+			]
 		],
 		"faq": [
 			{
@@ -769,36 +1009,48 @@
 		"screenshots": [
 			[
 				[
+					"/screenshots/on/1.avif",
+					"/screenshots/on/1.webp",
 					"/screenshots/on/1.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/on/2.avif",
+					"/screenshots/on/2.webp",
 					"/screenshots/on/2.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/on/3.avif",
+					"/screenshots/on/3.webp",
 					"/screenshots/on/3.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/on/4.avif",
+					"/screenshots/on/4.webp",
 					"/screenshots/on/4.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/on/5.avif",
+					"/screenshots/on/5.webp",
 					"/screenshots/on/5.jpg"
 				],
 				"visible"
 			],
 			[
 				[
+					"/screenshots/on/6.avif",
+					"/screenshots/on/6.webp",
 					"/screenshots/on/6.jpg"
 				],
 				"visible"
@@ -886,19 +1138,17 @@
 		"screenshots": [
 			[
 				[
-					"/screenshots/cclcc/1.jpg"
+					"/screenshots/cclcc/1.avif",
+					"/screenshots/cclcc/1.webp",
+					"/screenshots/cclcc/1.png"
 				],
 				"visible"
 			],
 			[
 				[
-					"/screenshots/cclcc/2.jpg"
-				],
-				"visible"
-			],
-			[
-				[
-					"/screenshots/cclcc/3.jpg"
+					"/screenshots/cclcc/2.avif",
+					"/screenshots/cclcc/2.webp",
+					"/screenshots/cclcc/2.png"
 				],
 				"visible"
 			]
@@ -965,7 +1215,33 @@
 		"screenshots": [
 			[
 				[
+					"/screenshots/rnd/1.avif",
+					"/screenshots/rnd/1.webp",
 					"/screenshots/rnd/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rnd/2.avif",
+					"/screenshots/rnd/2.webp",
+					"/screenshots/rnd/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rnd/3.avif",
+					"/screenshots/rnd/3.webp",
+					"/screenshots/rnd/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rnd/4.avif",
+					"/screenshots/rnd/4.webp",
+					"/screenshots/rnd/4.jpg"
 				],
 				"visible"
 			]
@@ -1036,6 +1312,40 @@
 				"name": "Requerido ver antes o después de jugar el juego"
 			}
 		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/ac/1.avif",
+					"/screenshots/ac/1.webp",
+					"/screenshots/ac/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/ac/2.avif",
+					"/screenshots/ac/2.webp",
+					"/screenshots/ac/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/ac/3.avif",
+					"/screenshots/ac/3.webp",
+					"/screenshots/ac/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/ac/4.avif",
+					"/screenshots/ac/4.webp",
+					"/screenshots/ac/4.jpg"
+				],
+				"visible"
+			]
+		],
 		"faq": [
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
@@ -1085,6 +1395,40 @@
 				"platform": "Steam",
 				"url": "https://store.steampowered.com/app/4012810/STEINSGATE_REBOOT/"
 			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/sgrb/1.avif",
+					"/screenshots/sgrb/1.webp",
+					"/screenshots/sgrb/1.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgrb/2.avif",
+					"/screenshots/sgrb/2.webp",
+					"/screenshots/sgrb/2.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgrb/3.avif",
+					"/screenshots/sgrb/3.webp",
+					"/screenshots/sgrb/3.png"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sgrb/4.avif",
+					"/screenshots/sgrb/4.webp",
+					"/screenshots/sgrb/4.png"
+				],
+				"visible"
+			]
 		]
 	},
 	{
