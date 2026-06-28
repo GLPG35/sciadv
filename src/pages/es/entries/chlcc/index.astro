@@ -20,10 +20,12 @@ const date = isDate ? Intl.DateTimeFormat('es', { dateStyle: 'long' }).format(ne
 const currentLang = getLangFromUrl(Astro.url)
 const translatePath = useTranslatedPath(currentLang)
 
-if (entry.name === 'chlcc' || entry.name === 'cclcc') {
-	if (!entry.faq) return
+const faq = entry.faq
 
-	const { answer } = entry.faq[0]
+if (entry.name === 'chlcc' || entry.name === 'cclcc') {
+	if (!faq) return
+
+	const { answer } = faq[0]
 	const percentage = await fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5').then(res => res.json().then(json => {
 		if (res.ok) {
 			const { open_issues, closed_issues } = json
@@ -37,7 +39,7 @@ if (entry.name === 'chlcc' || entry.name === 'cclcc') {
 	}))
 
 	const parseAnswer = answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
-	entry.faq[0].answer = parseAnswer
+	faq[0].answer = parseAnswer
 }
 
 const anim = {
@@ -289,11 +291,11 @@ const customTransition = {
 								<GalleryContainer client:idle gallery={entry.screenshots} title='Capturas de pantalla' spoilerText={['(Mostrar spoilers)', '(Ocultar spoilers)']} />
 							</div>
 						}
-						{entry.faq &&
+						{faq &&
 							<div class="section">
 								<h3>Preguntas frecuentes</h3>
 								<div class="questions">
-									{entry.faq.map(({ question, answer }) => (
+									{faq.map(({ question, answer }) => (
 										<div class="question">
 											<h4>{question}</h4>
 											{answer.map(paragraph => <p set:html={paragraph}></p>)}
