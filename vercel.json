@@ -1,11 +1,12 @@
 {
+	"cleanUrls": true,
 	"rewrites": [
 		{
 			"source": "/es/:path*",
 			"destination": "/es/404.html"
 		},
 		{
-			"source": "/(:path*)",
+			"source": "/((?!es/).*)",
 			"destination": "/404.html"
 		}
 	]
