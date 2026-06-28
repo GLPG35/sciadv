@@ -38,6 +38,21 @@
                 ]
             },
             {
+           		"uuid": "019f1026-ad38-7000-9498-ab4f226b6297",
+            	"title": "Trigger 1: Nishijou Nanami",
+            	"date": "2008-12-24",
+            	"essential": false,
+             	"notRecommended": false,
+              	"incomplete": false,
+              	"type": "dramacd",
+              	"urls": [
+               		{
+               			"name": "[YouTube] (Sólo en inglés)",
+                		"url": "https://www.youtube.com/watch?v=GeT8YjFsfNo"
+                 	}
+               	]
+            },
+            {
                 "uuid": "019ef96c-52a8-7001-b82f-b6c7f602bcfd",
                 "title": "Chaos;Chat",
                 "date": "2008-12-28",
@@ -664,6 +679,29 @@
                 ],
                 "notes": [
                     "Este manga es una adaptación de la ruta de Kurisu de STEINS;GATE: My Darling's Embrace."
+                ],
+                "must": {
+                	"name": "STEINS;GATE: My Darling's Embrace",
+                 	"link": "/entries/sgmde",
+                  	"type": "play"
+                }
+            },
+            {
+           		"uuid": "019f101f-b339-7000-90da-672058722e14",
+            	"title": "Steins;Gate: DROPS",
+             	"date": "2012-04-14",
+              	"essential": false,
+               	"notRecommended": false,
+                "incomplete": true,
+                "type": "manga",
+                "urls": [
+                	{
+                		"name": "[MangaDex] (Sólo en inglés)",
+                		"url": "https://mangadex.org/title/add63234-4406-4833-98b2-05b7732d9695/steins-gate-drops"
+                 	}
+                ],
+                "notes": [
+                	"Este manga es una adaptación de algunos eventos de STEINS;GATE: My Darling's Embrace."
                 ],
                 "must": {
                 	"name": "STEINS;GATE: My Darling's Embrace",

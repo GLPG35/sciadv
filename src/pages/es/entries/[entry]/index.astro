@@ -24,26 +24,6 @@ const date = isDate ? Intl.DateTimeFormat('es', { dateStyle: 'long' }).format(ne
 const currentLang = getLangFromUrl(Astro.url)
 const translatePath = useTranslatedPath(currentLang)
 
-if (entry.name === 'chlcc' || entry.name === 'cclcc') {
-	if (!entry.faq) return
-	
-	const { answer } = entry.faq[0]
-	const percentage = await fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5').then(res => res.json().then(json => {
-		if (res.ok) {
-			const { open_issues, closed_issues } = json
-			const total = open_issues + closed_issues
-			const percentage = ((closed_issues / total) * 100).toFixed(2)
-
-			return percentage
-		}
-
-		return 87.64
-	}))
-
-	const parseAnswer = answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
-	entry.faq[0].answer = parseAnswer
-}
-
 const anim = {
 	old: {
 		name: "bezier",
@@ -149,7 +129,7 @@ const customTransition = {
 									</ul>
 								}
 								{entry.upcomingPatch &&
-									<span>Patche próximo:</span>
+									<span>Parche próximo:</span>
 									<p>{entry.upcomingPatch.name}</p>
 									<ul>
 										{entry.upcomingPatch.completionURLs.map(async version => {

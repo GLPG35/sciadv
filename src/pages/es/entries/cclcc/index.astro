@@ -1,24 +1,43 @@
 ---
-import type { GetStaticPaths } from 'astro'
-import Layout from '../../../layouts/Layout.astro'
-import entries from '../../../utils/entries.json'
+export const prerender = false
+
+import Layout from '../../../../layouts/Layout.astro'
+import entries from '../../../../utils/entries_es.json'
 import './styles.scss'
-import ExtDownload from '../../../components/ExtDownload'
-import GalleryContainer from '../../../components/GalleryContainer'
+import ExtDownload from '../../../../components/ExtDownload'
+import GalleryContainer from '../../../../components/GalleryContainer'
+import { getLangFromUrl, useTranslatedPath } from '../../../../i18n/utils'
 
-export const getStaticPaths = (() => {
-	return entries.map(({ name }) => ({
-		params: { entry: name }
-	}))
-}) satisfies GetStaticPaths
-
-const entry = entries.find(x => x.name == Astro.params.entry)
+const entry = entries.find(x => x.name === 'cclcc')
 
 if (!entry) return Astro.redirect('/404')
 
 const isDate = entry.year.includes('-')
 const [fullYear, month, day] = entry.year.split('-')
-const date = isDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : entry.year
+const date = isDate ? Intl.DateTimeFormat('es', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : entry.year
+
+const currentLang = getLangFromUrl(Astro.url)
+const translatePath = useTranslatedPath(currentLang)
+
+if (entry.name === 'chlcc' || entry.name === 'cclcc') {
+	if (!entry.faq) return
+
+	const { answer } = entry.faq[0]
+	const percentage = await fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5').then(res => res.json().then(json => {
+		if (res.ok) {
+			const { open_issues, closed_issues } = json
+			const total = open_issues + closed_issues
+			const percentage = ((closed_issues / total) * 100).toFixed(2)
+
+			return percentage
+		}
+
+		return 87.64
+	}))
+
+	const parseAnswer = answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
+	entry.faq[0].answer = parseAnswer
+}
 
 const anim = {
 	old: {
@@ -40,7 +59,7 @@ const customTransition = {
 }
 ---
 
-<html lang="en">
+<html lang="es">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
@@ -52,10 +71,10 @@ const customTransition = {
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>SciADV Series - {entry.title}</title>
-		<meta name="description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta name="description" content={entry.epigraph || "El panorama que tus ojos perciben, ¿es real?"} />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content={`SciADV Series - ${entry.title}`} />
-		<meta property="og:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="og:description" content={entry.epigraph || "El panorama que tus ojos perciben, ¿es real?"} />
 		<meta property="og:url" content="https://sciadvseri.es/" />
 		<meta property="og:image" content={`https://sciadvseri.es${entry.card}`} />
 		<meta property="og:image:width" content="1200">
@@ -63,7 +82,7 @@ const customTransition = {
 		<meta property="twitter:card" content="summary_large_image" />
 		<meta property="twitter:url" content="https://sciadvseri.es/" />
 		<meta property="twitter:title" content={`SciADV Series - ${entry.title}`} />
-		<meta property="twitter:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="twitter:description" content={entry.epigraph || "El panorama que tus ojos perciben, ¿es real?"} />
 		<meta property="twitter:image" content={`https://sciadvseri.es${entry.card}`} />
 	</head>
 	<body>
@@ -93,39 +112,39 @@ const customTransition = {
 							<div class="date">{date}</div>
 						</div>
 						<div class="downloads">
-							<h3>Downloads</h3>
+							<h3>Descargas</h3>
 							<div class="section">
-								<span>Base game{entry.japaneseOnly && entry.japaneseOnly.downloads && ' (Japanese only)'}:</span>
+								<span>Juego base{entry.japaneseOnly && entry.japaneseOnly.downloads && ' (sólo en japonés)'}:</span>
 								<ul>
 									{entry.downloads.length > 0 ?
 										entry.downloads.map((platform, i) => {
 											if ("urls" in platform) {
-												return <li set:html={`${platform.platform} ${i === 0 ? '(Recommended)' : ''} ${platform.urls.map(url => `<a href="${url.url}" target="_blank">${url.name}</a>`).join(' ')}`}>
+												return <li set:html={`${platform.platform} ${i === 0 ? '(Recomendado)' : ''} ${platform.urls.map(url => `<a href="${url.url}" target="_blank">${url.name}</a>`).join(' ')}`}>
 												</li>
 											}
 
 											if ("notes" in platform) {
 												return <>
-													<li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recommended)' : ''}</li>
+													<li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recomendado)' : ''}</li>
 													{platform.notes?.map((note) => <span>{note}</span>)}
 												</>
 											}
 
-											return <li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recommended)' : ''}</li>
+											return <li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recomendado)' : ''}</li>
 										})
 									:
-										<span>There are no available versions of this game at the moment.</span>
+										<span>No hay versiones disponibles de este juego por el momento.</span>
 									}
 								</ul>
 								{entry.patch &&
-									<span>Patch (mandatory):</span>
+									<span>Parche (obligatorio):</span>
 									<ul>
-										<li>Committee of Zero Patch <a href={entry.patch.url} target='_blank'>[GitHub]</a></li>
+										<li>Parche del Committee of Zero <a href={entry.patch.url} target='_blank'>[GitHub]</a></li>
 										{entry.patch.warning && <span>{entry.patch.warning}</span>}
 									</ul>
 								}
 								{entry.upcomingPatch &&
-									<span>Upcoming patch:</span>
+									<span>Parche próximo:</span>
 									<p>{entry.upcomingPatch.name}</p>
 									<ul>
 										{entry.upcomingPatch.completionURLs.map(async version => {
@@ -155,7 +174,7 @@ const customTransition = {
 									</ul>
 								}
 								{entry.lightNovel &&
-									<span>Light Novel (source material):</span>
+									<span>Novela ligera (material de origen):</span>
 									<ul>
 										{entry.lightNovel.map(({ name, link, url, link2, url2, external }) => {
 											if (external) {
@@ -184,7 +203,7 @@ const customTransition = {
 									</ul>
 								}
 								{entry.manga &&
-									<span>Manga (Japanese only):</span>
+									<span>Manga (sólo en japonés):</span>
 									<ul>
 										{entry.manga.map(({ name, link, url, link2, url2, external }) => {
 											if (external) {
@@ -207,7 +226,7 @@ const customTransition = {
 									</ul>
 								}
 								{entry.localeEmulator &&
-									<span>Locale Emulator (mandatory on PC):</span>
+									<span>Locale Emulator (obligatorio en PC):</span>
 									<ul>
 										{entry.localeEmulator.map(({ name, link, url, notes }) => <>
 											<li>{name} <a href={url} target="_blank">{link}</a></li>
@@ -219,7 +238,7 @@ const customTransition = {
 						</div>
 						{entry.orderGuide &&
 							<div class="guide">
-								<h3>Order guide</h3>
+								<h3>Orden para ver</h3>
 								<div class="section">
 									{entry.orderGuide.map(paragraph => <p>{paragraph}</p>)}
 								</div>
@@ -227,7 +246,7 @@ const customTransition = {
 						}
 						{entry.guide !== undefined && typeof entry.guide === 'object' ?
 							<div class="guide">
-								<h3>Guide {entry.guide.optional ? '(optional)' : '(mandatory)'}</h3>
+								<h3>Guía {entry.guide.optional ? '(opcional)' : '(obligatoria)'}</h3>
 								<div class="section">
 									<ul>
 										<li><a href={entry.guide.url} target="_blank">{entry.guide.name}</a></li>
@@ -236,15 +255,15 @@ const customTransition = {
 							</div>
 						: entry.guide === false &&
 							<div class="guide">
-								<h3>Guide not required</h3>
+								<h3>Guía no requerida</h3>
 							</div>
 						}
 						{entry.sideContent &&
 						<div class="guide">
-							<h3>Side content (important)</h3>
+							<h3>Contenido extra (importante)</h3>
 							<div class="section">
 								<ul>
-									{entry.sideContent.map(({ url, name }) => <li><a href={url}>{name}</a></li>)}
+									{entry.sideContent.map(({ url, name }) => <li><a href={translatePath(url)}>{name}</a></li>)}
 								</ul>
 							</div>
 						</div>
@@ -252,10 +271,10 @@ const customTransition = {
 					</div>
 				</div>
 				<div class="moreInfo">
-					<h2>More information</h2>
+					<h2>Más información</h2>
 					<div class="text">
 						<div class="section">
-							<h3>Description</h3>
+							<h3>Descripción</h3>
 							<div class="description">
 								{typeof entry.description === 'object' ?
 									entry.description.map(paragraph => <p set:html={paragraph}></p>)
@@ -266,12 +285,12 @@ const customTransition = {
 						</div>
 						{entry.screenshots &&
 							<div class="section">
-								<GalleryContainer client:idle gallery={entry.screenshots} title='Screenshots' spoilerText={['(Show spoilers)', '(Hide spoilers)']} />
+								<GalleryContainer client:idle gallery={entry.screenshots} title='Capturas de pantalla' spoilerText={['(Mostrar spoilers)', '(Ocultar spoilers)']} />
 							</div>
 						}
 						{entry.faq &&
 							<div class="section">
-								<h3>FAQ</h3>
+								<h3>Preguntas frecuentes</h3>
 								<div class="questions">
 									{entry.faq.map(({ question, answer }) => (
 										<div class="question">

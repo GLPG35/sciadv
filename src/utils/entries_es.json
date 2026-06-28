@@ -250,14 +250,14 @@
 			"downloads": true
 		},
 		"upcomingPatch": {
-			"name": "Committee of Zero Patch",
+			"name": "Parche del Committee of Zero",
 			"completionURLs": [
 				{
-					"name": "v0.9.X (Polishing)",
+					"name": "v0.9.X (Pulido)",
 					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
 				},
 				{
-					"name": "v0.10.X (Bonus & Common Features)",
+					"name": "v0.10.X (Características comunes y extras)",
 					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
 				},
 				{
@@ -1110,14 +1110,14 @@
 			"downloads": true
 		},
 		"upcomingPatch": {
-			"name": "Committee of Zero Patch",
+			"name": "Parche del Committee of Zero",
 			"completionURLs": [
 				{
-					"name": "v0.9.X (Polishing)",
+					"name": "v0.9.X (Pulido)",
 					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
 				},
 				{
-					"name": "v0.10.X (Bonus & Common Features)",
+					"name": "v0.10.X (Características comunes y extras)",
 					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
 				},
 				{
