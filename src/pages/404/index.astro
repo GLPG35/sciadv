@@ -42,7 +42,11 @@ const t = {
 		<Layout>
 			<div class="notFound">
 				<div class="broken">
-					<img src="/broken_tm.png" alt="">
+					<picture>
+						<source srcset="/broken_tm.avif" type="image/avif" />
+						<source srcset="/broken_tm.webp" type="image/webp" />
+						<img src="/broken_tm.png" alt="">
+					</picture>
 				</div>
 				<h1>{t[currentLang].header}</h1>
 				<p>{t[currentLang].text}</p>
