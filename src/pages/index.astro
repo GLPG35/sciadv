@@ -1,17 +1,73 @@
 ---
-
+import Layout from '../layouts/Layout.astro'
+import entries from '../utils/entries.json'
+import './styles.scss'
 ---
 
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>SciADV Series</title>
+		<meta name="description" content="Is the scenery your eyes perceive truly real?" />
 	</head>
 	<body>
-		<h1>Astro</h1>
+		<Layout>
+			<div class="home">
+				<div class="hero">
+					<div class="logo">
+						<picture>
+							<source srcset="/sciadv_blue_stroke.svg" type="image/png" media="(width < 950px)" />
+							<img src="/sciadv.svg" alt="" />
+						</picture>
+					</div>
+					<div class="banners">
+						<div class="wrapper">
+							{[...entries.filter(x => x.name !== 'sq'), entries[0]].map(({ covers, name, position }) => (
+								<a href={`/entries/${name}`} class="banner">
+									<picture>
+										{covers.map((src, i) => {
+											if (covers.length === i + 1) return <img src={src} alt='' style={{ objectPosition: position }} />
+
+											const type = src.split('.').pop()
+											return <source srcset={src} type={`image/${type}`} />
+										})}
+									</picture>
+								</a>
+							))}
+						</div>
+					</div>
+				</div>
+				<article>
+					<section>
+						<h2>What is the <em>Science Adventure Series</em>?</h2>
+						<p><em>Science Adventure Series</em>, best known as SciADV, is a multimedia story series made by Shikura Chiyomaru that originated and principally exists as visual novels. Each entry follows a distinct subplot with a unique cast, taking place in different years. Nevertheless, every entry shares elements that intertwine to reveal a much larger plot.</p>
+						<br />
+						<p>As the name implies, the stories are scientifically themed, and each entry utilizes different branches of science to build its plot.</p>
+						<p>By introducing fiction into stories with scientific foundations, the series has always aimed to give readers the feeling that what they are experiencing is not entirely impossible.</p>
+						<br />
+						<p>With that said, the series not only uses science to build its plot, but it also integrates conspiracy theories from the time in which the story takes place, as well as mystery elements, to create an immersive and captivating story. All of the stories establish a unique ambience, providing different sensations to the reader.</p>
+						<br />
+						<span class="small">Original text by <a href="https://www.facebook.com/ScienceAdventurePodcast" target="_blank">@ScienceAdventurePodcast</a></span>
+					</section>
+					<section>
+						<h2>Why should I read it?</h2>
+						<p>SciADV is deeply inspired by the <a href="https://infinityseri.es/" target="_blank"><em>Infinity</em> Series</a> and other works by Nakazawa Takumi (I/O & Root Double) and Uchikoshi Koutarou (Zero Escape & AI: The Somnium Files), so if you like any of the previously mentioned titles, or you just like sci-fi elements and good stories, you'll probably like SciADV.</p>
+					</section>
+					<section>
+						<h2>Where do I begin?</h2>
+						<p>Each entry is built on top of its predecessors, meaning that every entry contains elements from the previous ones. Thankfully, the best order to experience each entry is by doing it in release order.</p>
+						<p>You can find the entries ordered by release date in the <a href="/entries">entries section</a>.</p>
+					</section>
+				</article>
+			</div>
+		</Layout>
 	</body>
 </html>

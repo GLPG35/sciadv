@@ -1,0 +1,255 @@
+header {
+	width: 100%;
+	height: 5em;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 1.5em;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	background-color: var(--bg-color);
+
+	@media (width < 950px) {
+		nav {
+			flex: 1;
+		}
+		
+		.languagePicker {
+			margin-left: auto;
+
+			.list {
+				left: initial !important;
+				right: 0;
+				translate: 15% !important;
+			}
+		}
+	}
+
+	@media (width < 600px) {
+		nav, .menu {
+			display: none !important;
+		}
+	}
+
+	.menu {
+		height: 100%;
+		width: auto;
+		cursor: pointer;
+		padding: 1.2em;
+
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+		}
+	}
+
+	.subMenu {
+		width: max-content;
+		height: 100%;
+		position: relative;
+
+		.menuIcon {
+			height: 100%;
+			width: auto;
+			cursor: pointer;
+			padding: 1.2em;
+
+			img {
+				width: 100%;
+				height: 100%;
+				object-fit: contain;
+			}
+		}
+
+		.menuList {
+			position: fixed;
+			top: 0;
+			right: 0;
+			background-color: var(--bg-color);
+			width: calc(100% + 10em);
+			height: 100dvh;
+			z-index: 20;
+
+			.listWrapper {
+				width: 100%;
+				height: 100%;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				padding: 2em;
+				padding-left: 12em;
+				position: relative;
+			}
+
+			.closeIcon {
+				position: absolute;
+				top: 0;
+				left: 12em;
+				padding: 2em;
+				cursor: pointer;
+				border: none;
+				background: none;
+				outline: none;
+				color: var(--fg-color);
+
+				.icon {
+					font-size: 2.5em;
+					display: flex;
+					align-items: center;
+					justify-content: center;
+				}
+			}
+
+			ul {
+				font-size: 1.5em;
+				width: max-content;
+				height: max-content;
+				display: flex;
+				flex-direction: column;
+				gap: 1em;
+				list-style: none;
+
+				li {
+					display: flex;
+					gap: 0.7em;
+					align-items: center;
+					border: none;
+					outline: none;
+					width: 100%;
+					cursor: pointer;
+					transition: 0.2s ease-out;
+					
+					&:hover {
+						a {
+							color: var(--bg-color);
+							background-color: var(--ac-color);
+						}
+					}
+
+					a {
+						cursor: inherit;
+						padding: 0.5em 1.5em;
+						padding-right: 3em;
+						color: var(--bg-color);
+						text-decoration: none;
+						transition: 0.2s ease-out;
+						clip-path: polygon(1em 0, 100% 0, calc(100% - 1em + 2px) 100%, 1px 100%);
+						background-color: var(--fg-color);
+					}
+				}
+			}
+		}
+	}
+
+	nav {
+		display: flex;
+		align-items: center;
+		gap: 1.5em;
+		font-size: 1.2em;
+		font-weight: 400;
+		text-transform: uppercase;
+
+		a {
+			color: var(--fg-color);
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+
+	.languagePicker {
+		position: relative;
+		z-index: 10;
+		font-size: 1.2em;
+		margin-right: 1.5em;
+
+		.language {
+			user-select: none;
+			cursor: pointer;
+			color: var(--fg-color);
+			transition: 0.2s ease-out;
+			text-transform: uppercase;
+			translate: 0 2px;
+			font-size: 1.1em;
+
+			&:hover {
+				color: var(--ac-color);
+			}
+
+			.icon {
+				display: flex;
+				align-items: baseline;
+			}
+		}
+
+		.list {
+			position: absolute;
+			top: 2.5em;
+			left: 0;
+			translate: -25%;
+			width: max-content;
+			display: flex;
+			gap: 0.5em;
+			flex-direction: column;
+			font-size: 1em !important;
+			padding: 0.5em;
+
+			li {
+				display: flex;
+				gap: 0.7em;
+				align-items: center;
+				border: none;
+				outline: none;
+				width: 100%;
+				cursor: pointer;
+				transition: 0.2s ease-out;
+				position: relative;
+
+				&::before {
+					content: '';
+					position: absolute;
+					clip-path: polygon(1em 0, 100% 0, calc(100% - 1em) 100%, 0 100%);
+					inset: -2px;
+					background-color: var(--bg-color);
+					z-index: -2;
+				}
+				
+				&:hover {
+					a {
+						color: var(--bg-color);
+						background-color: var(--ac-color);
+					}
+				}
+
+				&.active {
+					a {
+						color: var(--bg-color);
+						background-color: #2977b8;
+					}
+				}
+
+				&:nth-child(2) {
+					a {
+						clip-path: polygon(1em 0, calc(100% - 1px) 0, calc(100% - 1em) 100%, 1px 100%);
+					}
+				}
+
+				a {
+					cursor: inherit;
+					padding: 0.5em 1.5em;
+					padding-right: 3em;
+					color: var(--bg-color);
+					text-decoration: none;
+					transition: 0.2s ease-out;
+					clip-path: polygon(1em 0, 100% 0, calc(100% - 1em + 2px) 100%, 1px 100%);
+					background-color: var(--fg-color);
+				}
+			}
+		}
+	}
+}

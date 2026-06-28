@@ -1,0 +1,94 @@
+---
+import Layout from '../../../layouts/Layout.astro'
+import entries from '../../../utils/entries.json'
+import './styles.scss'
+import { getLangFromUrl, useTranslatedPath } from '../../../i18n/utils'
+
+const currentLang = getLangFromUrl(Astro.url)
+const translatePath = useTranslatedPath(currentLang)
+
+const anim = {
+	old: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)",
+		direction: "reverse"
+	},
+	new: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)"
+	}
+}
+
+const customTransition = {
+	forwards: anim,
+	backwards: anim
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series - Entries</title>
+		<meta name="description" content="El panorama que tus ojos perciben, ¿es real?" />
+	</head>
+	<body>
+		<Layout>
+			<div class="entries">
+				<div class="timeline">
+					{entries.map(({ title, year, covers, coversHorizontal, name }, i) => {
+						const isDate = year.includes('-')
+						const [fullYear, month, day] = year.split('-')
+						const date = isDate ? Intl.DateTimeFormat('es', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : year
+						
+						return (
+							<div class="entry">
+								<a href={translatePath(`/entries/${name}`)} class="cover" transition:name={`entry-cover-${name}`} transition:animate={customTransition}>
+									<div class="counter">
+										{(`0${i + 1}`).slice(-2)}
+									</div>
+									<div class="coverWrapper">
+										<picture>
+											{covers.map((src, i) => {
+												if (!coversHorizontal && covers.length === i + 1) return <img src={src} alt='' />
+
+												const type = src.split('.').pop()
+												return <source srcset={src} type={`image/${type}`} media='(width >= 950px)' />
+											})}
+
+											{coversHorizontal.map((src, i) => {
+												if (coversHorizontal.length === i + 1) return <img src={src} alt='' />
+
+												const type = src.split('.').pop()
+												return <source srcset={src} type={`image/${type}`} media='(width < 950px)' />
+											})}
+										</picture>
+									</div>
+								</a>
+								<div class="description">
+									<div class="title">
+										<div class="name">
+											{title}
+										</div>
+										<div class="date">
+											{date}
+										</div>
+									</div>
+								</div>
+							</div>
+						)
+					})}
+				</div>
+			</div>
+		</Layout>
+	</body>
+</html>

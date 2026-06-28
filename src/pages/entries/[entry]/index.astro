@@ -1,0 +1,308 @@
+---
+import type { GetStaticPaths } from 'astro'
+import Layout from '../../../layouts/Layout.astro'
+import entries from '../../../utils/entries.json'
+import './styles.scss'
+import ExtDownload from '../../../components/ExtDownload'
+import GalleryContainer from '../../../components/GalleryContainer'
+
+export const getStaticPaths = (() => {
+	return entries.map(({ name }) => ({
+		params: { entry: name }
+	}))
+}) satisfies GetStaticPaths
+
+const entry = entries.find(x => x.name == Astro.params.entry)
+
+if (!entry) return Astro.redirect('/404')
+
+const isDate = entry.year.includes('-')
+const [fullYear, month, day] = entry.year.split('-')
+const date = isDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : entry.year
+
+if (entry.name === 'chlcc' || entry.name === 'cclcc') {
+	if (!entry.faq) return
+	
+	const { answer } = entry.faq[0]
+	const percentage = await fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5').then(res => res.json().then(json => {
+		if (res.ok) {
+			const { open_issues, closed_issues } = json
+			const total = open_issues + closed_issues
+			const percentage = ((closed_issues / total) * 100).toFixed(2)
+
+			return percentage
+		}
+
+		return 87.64
+	}))
+
+	const parseAnswer = answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
+	entry.faq[0].answer = parseAnswer
+}
+
+const anim = {
+	old: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)",
+		direction: "reverse"
+	},
+	new: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)"
+	}
+}
+
+const customTransition = {
+	forwards: anim,
+	backwards: anim
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series - {entry.title}</title>
+		<meta name="description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={`SciADV Series - ${entry.title}`} />
+		<meta property="og:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="og:url" content="https://sciadv-series.vercel.app/" />
+		<meta property="og:image" content={`https://sciadv-series.vercel.app/banners/${entry.name}_horizontal.webp`} />
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://sciadv-series.vercel.app/" />
+		<meta property="twitter:title" content={`SciADV Series - ${entry.title}`} />
+		<meta property="twitter:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="twitter:image" content={`https://sciadv-series.vercel.app/banners/${entry.name}_horizontal.webp`} />
+	</head>
+	<body>
+		<Layout>
+			<div class="entry">
+				<div class="summary">
+					<div class="cover" transition:name={`entry-cover-${entry.name}`} transition:animate={customTransition}>
+						<picture>
+							{entry.covers.map((src, i) => {
+								if (!entry.coversHorizontal && entry.covers.length === i + 1) return <img src={src} alt='' />
+
+								const type = src.split('.').pop()
+								return <source srcset={src} type={`image/${type}`} media='(width >= 950px)' />
+							})}
+							{entry.coversHorizontal.map((src, i) => {
+								if (entry.coversHorizontal.length === i + 1) return <img src={src} alt='' />
+
+								const type = src.split('.').pop()
+								return <source srcset={src} type={`image/${type}`} media='(width < 950px)' />
+							})}
+						</picture>
+					</div>
+					<div class="text">
+						<div class="title">
+							<span class="jpn">{entry.jpn}</span>
+							<h2>{entry.title}</h2>
+							<div class="date">{date}</div>
+						</div>
+						<div class="downloads">
+							<h3>Downloads</h3>
+							<div class="section">
+								<span>Base game{entry.japaneseOnly && entry.japaneseOnly.downloads && ' (Japanese only)'}:</span>
+								<ul>
+									{entry.downloads.length > 0 ?
+										entry.downloads.map((platform, i) => {
+											if ("urls" in platform) {
+												return <li set:html={`${platform.platform} ${i === 0 ? '(Recommended)' : ''} ${platform.urls.map(url => `<a href="${url.url}" target="_blank">${url.name}</a>`).join(' ')}`}>
+												</li>
+											}
+
+											if ("notes" in platform) {
+												return <>
+													<li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recommended)' : ''}</li>
+													{platform.notes?.map((note) => <span>{note}</span>)}
+												</>
+											}
+
+											return <li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recommended)' : ''}</li>
+										})
+									:
+										<span>There are no available versions of this game at the moment.</span>
+									}
+								</ul>
+								{entry.patch &&
+									<span>Patch (mandatory):</span>
+									<ul>
+										<li>Committee of Zero Patch <a href={entry.patch.url} target='_blank'>[GitHub]</a></li>
+										{entry.patch.warning && <span>{entry.patch.warning}</span>}
+									</ul>
+								}
+								{entry.upcomingPatch &&
+									<span>Upcoming patch:</span>
+									<p>{entry.upcomingPatch.name}</p>
+									<ul>
+										{entry.upcomingPatch.completionURLs.map(async version => {
+											const percentage = await fetch(version.url).then(res => res.json().then(json => {
+												if (res.ok) {
+													const { open_issues, closed_issues } = json
+													const total = open_issues + closed_issues
+													const percentage = ((closed_issues / total) * 100).toFixed(2)
+	
+													return percentage
+												}
+
+												const fallback = {
+													"5": 87.64,
+													"4": 70.59,
+													"6": 0.00,
+												}
+	
+												return fallback[version.url.split('/').pop() as keyof typeof fallback]
+											}))
+
+											return <>
+												<li>{version.name}: {`${percentage}%`}</li>
+												{version.notes && <span>{version.notes}</span>}
+											</>
+										})}
+									</ul>
+								}
+								{entry.lightNovel &&
+									<span>Light Novel (source material):</span>
+									<ul>
+										{entry.lightNovel.map(({ name, link, url, link2, url2, external }) => {
+											if (external) {
+												const links = [
+													{
+														link: link,
+														url: url
+													},
+													{
+														link: link2,
+														url: url2
+													}
+												]
+											
+												return <li>{name} <ExtDownload client:idle href={links[external.index].url} name={external.name}>{links[external.index].link}</ExtDownload> <a href={links[(external.index + 1) % links.length].url} target="_blank">{links[(external.index + 1) % links.length].link}</a></li>
+											}
+										
+											return <li>{name} <a href={url} target="_blank">{link}</a> {link2 && url2 && <a href={url2} target="_blank">{link2}</a>}</li>
+										})}
+									</ul>
+								}
+								{entry.anime &&
+									<span>Anime:</span>
+									<ul>
+										{entry.anime.map(({ name, link, url }) => <li>{name} <a href={url} target="_blank">{link}</a></li>)}
+									</ul>
+								}
+								{entry.manga &&
+									<span>Manga (Japanese only):</span>
+									<ul>
+										{entry.manga.map(({ name, link, url, link2, url2, external }) => {
+											if (external) {
+												const links = [
+													{
+														link: link,
+														url: url
+													},
+													{
+														link: link2,
+														url: url2
+													}
+												]
+											
+												return <li>{name} <ExtDownload client:idle href={links[external.index].url} name={external.name}>{links[external.index].link}</ExtDownload> <a href={links[(external.index + 1) % links.length].url} target="_blank">{links[(external.index + 1) % links.length].link}</a></li>
+											}
+										
+											return <li>{name} <a href={url} target="_blank">{link}</a> {link2 && url2 && <a href={url2} target="_blank">{link2}</a>}</li>
+										})}
+									</ul>
+								}
+								{entry.localeEmulator &&
+									<span>Locale Emulator (mandatory on PC):</span>
+									<ul>
+										{entry.localeEmulator.map(({ name, link, url, notes }) => <>
+											<li>{name} <a href={url} target="_blank">{link}</a></li>
+											{notes.map(note => <span>{note}</span>)}
+										</>)}
+									</ul>
+								}
+							</div>
+						</div>
+						{entry.orderGuide &&
+							<div class="guide">
+								<h3>Order guide</h3>
+								<div class="section">
+									{entry.orderGuide.map(paragraph => <p>{paragraph}</p>)}
+								</div>
+							</div>
+						}
+						{entry.guide !== undefined && typeof entry.guide === 'object' ?
+							<div class="guide">
+								<h3>Guide {entry.guide.optional ? '(optional)' : '(mandatory)'}</h3>
+								<div class="section">
+									<ul>
+										<li><a href={entry.guide.url} target="_blank">{entry.guide.name}</a></li>
+									</ul>
+								</div>
+							</div>
+						: entry.guide === false &&
+							<div class="guide">
+								<h3>Guide not required</h3>
+							</div>
+						}
+						{entry.sideContent &&
+						<div class="guide">
+							<h3>Side content (important)</h3>
+							<div class="section">
+								<ul>
+									{entry.sideContent.map(({ url, name }) => <li><a href={url}>{name}</a></li>)}
+								</ul>
+							</div>
+						</div>
+						}
+					</div>
+				</div>
+				<div class="moreInfo">
+					<h2>More information</h2>
+					<div class="text">
+						<div class="section">
+							<h3>Description</h3>
+							<div class="description">
+								{typeof entry.description === 'object' ?
+									entry.description.map(paragraph => <p set:html={paragraph}></p>)
+								:
+									<p set:html={entry.description}></p>
+								}
+							</div>
+						</div>
+						{entry.screenshots &&
+							<div class="section">
+								<GalleryContainer client:idle gallery={entry.screenshots} title='Screenshots' spoilerText={['(Show spoilers)', '(Hide spoilers)']} />
+							</div>
+						}
+						{entry.faq &&
+							<div class="section">
+								<h3>FAQ</h3>
+								<div class="questions">
+									{entry.faq.map(({ question, answer }) => (
+										<div class="question">
+											<h4>{question}</h4>
+											{answer.map(paragraph => <p set:html={paragraph}></p>)}
+										</div>
+									))}
+								</div>
+							</div>
+						}
+					</div>
+				</div>
+			</div>
+		</Layout>
+	</body>
+</html>

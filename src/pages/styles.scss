@@ -1,0 +1,123 @@
+$totalBanners: 14;
+
+@keyframes scroll {
+	@for $i from 0 through $totalBanners {
+		#{$i * calc(100 / $totalBanners)}% {
+			translate: calc(#{$i * -100%});
+		}
+	}
+}
+
+.home {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+
+	@media (width < 950px) {
+		.hero {
+			justify-content: center;
+			position: relative;
+			padding-inline: 0 !important;
+		}
+
+		.logo {
+			width: 80%;
+			height: auto;
+			position: absolute;
+			z-index: 4;
+			pointer-events: none;
+			filter: drop-shadow(0 0 50px #ffffffaa);
+		}
+
+		.banners {
+			clip-path: none !important;
+			width: 100% !important;
+			z-index: 1 !important;
+			height: calc(100dvh - 5em) !important;
+			translate: 0 2.5em;
+			aspect-ratio: initial;
+		}
+
+		article {
+			padding: 2.5em !important;
+		}
+	}
+	
+	.hero {
+		width: 100%;
+		height: 100dvh;
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+		padding-inline: 2em;
+	}
+
+	.logo {
+		height: 80vh;
+		width: auto;
+		
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+		}
+	}
+
+	.banners {
+		height: 100dvh;
+		overflow: hidden;
+		width: auto;
+		aspect-ratio: 2 / 3;
+		clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%);
+		position: relative;
+		z-index: 20;
+
+		.wrapper {
+			height: 100%;
+			display: flex;
+			white-space: nowrap;
+			flex-wrap: nowrap;
+			animation: scroll 50s cubic-bezier(0.46,0.03,0.52,0.96) infinite forwards;
+
+			.banner {
+				flex: 0 0 auto;
+				height: 100%;
+				width: 100%;
+				overflow: hidden;
+				cursor: pointer;
+	
+				img {
+					width: 100%;
+					height: 100%;
+					object-fit: cover;
+					object-position: top;
+				}
+			}
+		}
+	}
+
+	article {
+		padding: 5em;
+		display: flex;
+		flex-direction: column;
+		gap: 2.5em;
+
+		section {	
+			h2 {
+				font-size: 2.2em;
+				margin-bottom: 0.5em;
+				text-wrap: balance;
+			}
+
+			p {
+				font-weight: 380;
+				font-size: 1.4em;
+			}
+
+			.small {
+				font-size: 1em;
+				font-style: italic;
+			}
+		}
+	}
+}

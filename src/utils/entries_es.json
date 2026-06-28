@@ -1,0 +1,1095 @@
+[
+	{
+		"title": "CHAOS;HEAD NoAH",
+		"jpn": "カオスヘッド ノア",
+		"name": "chn",
+		"year": "2009-02-26",
+		"covers": [
+			"/banners/chn_banner1.avif",
+			"/banners/chn_banner1.webp",
+			"/banners/chn_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/chn_horizontal.avif",
+			"/banners/chn_horizontal.webp",
+			"/banners/chn_horizontal.jpg"
+		],
+		"position": "center 45%",
+		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
+		"description": "Nishijou Takumi es un estudiante de segundo año de secundaria al borde de confinarse en su casa. \"No tengo interés en lo 3D\". Vive rodeado de las hermosas figuras de chicas que tiene en su habitación. Vive en Shibuya, donde últimamente han ocurrido una serie de bizarros asesinatos en serie conocidos como la \"Locura de Nueva Generación\" (alias NeoGen). El culpable aún sigue suelto y sigue causando inquietud tanto en el internet como en la televisión. Un día, una imagen grotesca que parecía predecir el próximo asesinato de la NewGen fue enviado por una figura misteriosa llamada \"Shogun\". Al día siguiente, volviendo a su casa después de la escuela, Takumi se encuentra con una horrenda escena del crimen, tal y como estaba predicho. Ante el cuerpo se encuentra una chica bañada en sangre... Sakihata Rimi.",
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/"
+			},
+			{
+				"platform": "GOG [DRM Free]",
+				"url": "https://www.gog.com/en/game/chaos_head_noah"
+			},
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://www.nintendo.com/us/store/products/chaos-head-noah-switch/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/chn-patch/releases",
+			"warning": "Este parche está disponible para Steam, GOG y consolas Nintendo Switch modificadas."
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/chn-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/chn",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/chn-patch.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego (en este caso también sirven las copias de GOG y Nintendo Switch). Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. In el caso de que tengas una copia de GOG, necesitarás descargar un parche diferente con el nombre de \"CHNGOGPatch\" en vez del \"CHNSteamPatch\". Para consolas Nintendo Switch hay dos parches, el de US y el de EU, que funcionan con las copias de US y EU respectivamente. Sólo necesitas extraer los contenidos en la raíz de la tarjeta SD de tu Nintendo Switch (recuerda que este parche sólo funciona con consolas modificadas). Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/chn-patch.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			},
+			{
+				"question": "¿Cuál es la diferencia entre el CHAOS;HEAD original y la versión NoAH?",
+				"answer": [
+					"El CHAOS;HEAD original salió antes de lo esperado, más que nada porque 5pb. (predecesor de MAGES) no tenía el presupuesto suficiente para hacer el juego que originalmente tenían planeado.",
+					"Como resultado, lanzaron una versión con menos contenido para recaudar dinero, para así poder brindar la experiencia completa más adelante. Esa versión completa es CHAOS;HEAD NoAH."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE",
+		"jpn": "シュタインズ・ゲート",
+		"name": "sg",
+		"year": "2009-10-15",
+		"covers": [
+			"/banners/sg_banner1.avif",
+			"/banners/sg_banner1.webp",
+			"/banners/sg_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sg_horizontal.avif",
+			"/banners/sg_horizontal.webp",
+			"/banners/sg_horizontal.jpg"
+		],
+		"position": "center 30%",
+		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
+		"description": [
+			"<b>-Decide el Destino de Toda la Humanidad-</b>",
+			"¿PUEDES CAMBIAR EL DESTINO?",
+			"¿Y SALVAR A AQUELLOS CERCANOS A TI?",
+			"<br />",
+			"Steins;Gate sigue a un peculiar grupo de estudiantes aficionados a la tecnología que descubren la forma de cambiar el pasado por medio de un correo electrónico, utilizando un microondas modificado. Sus experimentos por probar qué tan lejos pueden llegar con su descubrimiento empiezan a salirse de control al verse involucrados en una conspiración alrededor de SERN, la organización detrás del Gran Colisionador de Hadrones, y John Titor, quien dice ser de un futuro distópico."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/412830/STEINSGATE/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sghd-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2025/01/09/steinsgate-100-guide/",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/sg/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg/3.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sghd.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sghd.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			},
+			{
+				"question": "¿Y qué hay de STEINS;GATE ELITE?",
+				"answer": [
+					"Mientras que la versión ELITE de ROBOTICS;NOTES es recomendada por sobre la original (incluso si la original no está traducida), la versión ELITE de STEINS;GATE es simplemente una versión altamente degradada de la original.",
+					"STEINS;GATE ELITE corta alrededor de un 35% del guion original, mientras a su vez se deshace del típico formato de novela visual, reemplazándolo completamente por cinemáticas animadas."
+				]
+			},
+			{
+				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"answer": [
+					"Even though it's ideal to play and watch the entries in order, if you have watched the STEINS;GATE anime, you still need to play the visual novel anyway. It provides crucial information not present in the anime, especially details that connect it with the rest of the <em>Science Adventure Series</em>."
+				]
+			}
+		]
+	},
+	{
+		"title": "CHAOS;HEAD Love Chu☆Chu!",
+		"jpn": "カオスヘッド らぶChu☆Chu!",
+		"name": "chlcc",
+		"year": "2010-03-25",
+		"covers": [
+			"/banners/chlcc_banner1.avif",
+			"/banners/chlcc_banner1.webp",
+			"/banners/chlcc_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/chlcc_horizontal.avif",
+			"/banners/chlcc_horizontal.webp",
+			"/banners/chlcc_horizontal.jpg"
+		],
+		"position": "center 30%",
+		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
+		"description": "El verano al fin ha llegado a Shibuya. Takumi y las seis heroínas del juego anterior se juntan para salir, viviendo la vida escolar cotidiana. Pero en realidad, su voluntad de dejar de ser un otaku inútil y convertirse en un normie ha creado un mundo ilusorio donde las chicas sucumben ante su encanto. La única manera de volver al mundo real es matando a Seira-tan, quien recorre las calles de Shibuya. Mientras tanto, Taku será capaz de disfrutar una vida cursi con chicas 3D (¡aunque sólo en sus delirios!).",
+		"downloads": [],
+		"japaneseOnly": {
+			"downloads": true
+		},
+		"upcomingPatch": {
+			"name": "Committee of Zero Patch",
+			"completionURLs": [
+				{
+					"name": "v0.9.X (Polishing)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
+				},
+				{
+					"name": "v0.10.X (Bonus & Common Features)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
+				},
+				{
+					"name": "v0.10.X (Blocked by)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/6",
+					"notes": [
+						"\"Blocked by\" son issues que están bloqueados por otro issue."
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "¿Cuándo habrá un parche para este juego?",
+				"answer": [
+					"El Committee of Zero está trabajando arduamente en un port y parche para este juego.",
+					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso. Estará disponible para Windows, Mac, Linux, Android, PS Vita y Nintendo Switch."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE: My Darling's Embrace",
+		"jpn": "シュタインズ・ゲート 比翼恋理のだーりん",
+		"name": "sgmde",
+		"year": "2011-06-16",
+		"covers": [
+			"/banners/sgmde_banner1.avif",
+			"/banners/sgmde_banner1.webp",
+			"/banners/sgmde_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sgmde_horizontal.avif",
+			"/banners/sgmde_horizontal.webp",
+			"/banners/sgmde_horizontal.jpg"
+		],
+		"position": "center 70%",
+		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
+		"description": [
+			"Luego de múltiples experimentos con el D-Mail, Okarin se trasnfiere a un mundo donde un ajuste del 3% en la línea de mundo era previsible. Y antes de que se diera cuenta, Kurisu y los demás miembros estaban reunidos en medio de los preparativos para un banquete.",
+			"<br />",
+			"En este mundo, un nuevo gadget ha sido creado, pero el grupo enfrenta ciertos problemas. No pueden pagar la factura de la luz debido a que realizan demasiados experimentos. Veremos qué es lo que este nuevo gadget puede hacer por nosotros...",
+			"<br />",
+			"El concepto para este juego es una comedia amorosa con algunas escenas de dulce romance, donde el 99% del mundo es ciencia pero el 1% se compone de... ¡¿fantasías?!"
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/970560/STEINSGATE_My_Darlings_Embrace/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sgmde-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2020/12/09/steinsgate-my-darlings-embrace-100-guide/",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sgmde-patch.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sgmde.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE: Variant Space Octet",
+		"jpn": "シュタインズ・ゲート 変移空間のオクテット",
+		"name": "sgvso",
+		"year": "2011-10-28",
+		"covers": [
+			"/banners/sgvso_banner1.avif",
+			"/banners/sgvso_banner1.webp",
+			"/banners/sgvso_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sgvso_horizontal.avif",
+			"/banners/sgvso_horizontal.webp",
+			"/banners/sgvso_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
+		"description": "Una extensión del final verdadero del juego original. Al contrario del formato moderno de novela visual de su predecesor, esta entrega retro replica perfectamente el estilo de los juegos de aventura de la era de las PC en 8 bits (por ej., PC-88), donde el jugador ejecuta comandos cortos para interactuar y explorar el mundo virtual. Cuenta con escenarios y personajes dibujados en un estilo pixelado de pocos colores con líneas de escaneo emuladas, música chiptune reproducida a través de un chip FM simulado y carece de actuaciones de voz. La premisa involucra a Okabe, quien recibe un D-Mail de de su yo del 2025 en el que se le indica que debe salvar el futuro reclamando una IBN 5100 en posesión de una persona bajo el alias “Neidhardt”.",
+		"downloads": [
+			{
+				"platform": "Windows PC",
+				"urls": [
+					{
+						"name": "[Directa]",
+						"url": "https://archive.org/download/steins-gate-variant-space-octet-english/Steins%3BGate%20Variant%20Space%20Octet%20%28English%29.zip"
+					},
+					{
+						"name": "[Torrent]",
+						"url": "https://archive.org/download/steins-gate-variant-space-octet-english/steins-gate-variant-space-octet-english_archive.torrent"
+					}
+				]
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sgvso-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2025/12/03/steinsgate-variant-space-octet-guide/",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sgvso-patch.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. En este caso, ya que este juego no está disponible en Steam, necesitas abrir el instalador (ATENCIÓN, tiene música alta) e indicar la ruta hacia tu copia del juego.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sgvso.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			}
+		]
+	},
+	{
+		"title": "ROBOTICS;NOTES ELITE",
+		"jpn": "ロボティクス・ノーツ エリート",
+		"name": "rne",
+		"year": "2012-06-28",
+		"covers": [
+			"/banners/rne_banner1.avif",
+			"/banners/rne_banner1.webp",
+			"/banners/rne_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/rne_horizontal.avif",
+			"/banners/rne_horizontal.webp",
+			"/banners/rne_horizontal.jpg"
+		],
+		"position": "center 20%",
+		"epigraph": "La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma.",
+		"description": [
+			"“La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma”.",
+			"<br />",
+			"Science Adventure Series #3 “Robotics;Notes Elite” Divergencia: 1.048596%.",
+			"<br />",
+			"En el futuro cercano, el PhoneDroid, un dispositivo que cuenta con realidad aumentada, se ha popularizado en Tanegashima.",
+			"En esa isla, el “Club de Investigación de Robótica” de la Secundaria Central de Tanegashima está a punto de ser disuelto.",
+			"A pesar de su difícil situación, a Yashio Kaito, uno de los únicos dos miembros de la agrupación, no podría importarle menos, ya que prefiere jugar a un videojuego de peleas de robots.",
+			"Su contraparte, la imprudente líder del club Senomiya Akiho, lo ignora completamente mientras lucha por evitar el cierre del club construyendo su robot gigante.",
+			"<br />",
+			"Un día, por alguna misteriosa razón, Kaito encuentra una anotación de R.A. (realidad aumentada) titulada “Kimijima Report”.",
+			"Contiene detalles acerca de un plan que involucra al mundo entero, escrito por un hombre llamado Kimijima Kou."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/rne-patch/releases"
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/rne-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/rne",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/rne/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rne/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rne/3.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/rne-steam.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/rne-steam.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			},
+			{
+				"question": "¿Cuál es la diferencia entre el ROBOTICS;NOTES original y la versión ELITE?",
+				"answer": [
+					"Dejando de lado el hecho de que el juego original nunca tuvo una localización oficial, la versión ELITE de ROBOTICS;NOTES fue diseñada para perfeccionar la obra original de muchas maneras.",
+					"La versión ELITE añade nuevas cinemáticas animadas para algunos momentos clave en los que los CGs originales no alcanzaban. También añade nuevas líneas a lo largo del guion y arregla algunas faltas de ortografía, a su vez eliminando otras líneas para mejorar el ritmo. Los modelos 3D fueron mejorados, aunque algunas expresiones faciales no llegaron a la versión definitiva.",
+					"Tristemente, la versión ELITE elimina un poco de contenido importante de la primera y última fase del juego, lo cual afectó el desarrollo de personajes. Probablemente no te des cuenta a menos que alguien te lo indique, aunque hay planes para un futuro parche que restaure ese contenido faltante. En el caso de que quieras leerlo después de terminar el juego, puedes <a href='/entries/rne-missing-content'>hacerlo aquí</a>."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE: Linear Bounded Phenogram",
+		"jpn": "シュタインズ・ゲート 線形拘束のフェノグラム",
+		"name": "sglbp",
+		"year": "2013-04-25",
+		"covers": [
+			"/banners/sglbp_banner1.avif",
+			"/banners/sglbp_banner1.webp",
+			"/banners/sglbp_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sglbp_horizontal.avif",
+			"/banners/sglbp_horizontal.webp",
+			"/banners/sglbp_horizontal.jpg"
+		],
+		"position": "center 80%",
+		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
+		"description": "Seguiste a Okarin a través del laberinto del espacio-tiempo; ahora revive los inesperados giros de Steins;Gate desde la perspectiva de Kurisu, Suzuha, Daru y el resto de los miembros del Laboratorio de Gadgets Futuristas. Observa cómo afrontaron los impactantes eventos del juego; escucha sus pensamientos y experimenta sus batallas de primera mano. Esta increíble novela visual te da el resto de la historia, con nuevas revelaciones que sorprenderán incluso al fan más veterano. El drama de Steins;Gate continúa. No te lo pierdas.",
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/930910/STEINSGATE_Linear_Bounded_Phenogram/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sglbp-patch/releases"
+		},
+		"guide": false,
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sglbp-patch.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sglbp-patch.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			}
+		]
+	},
+	{
+		"title": "CHAOS;CHILD",
+		"jpn": "カオスチャイルド",
+		"name": "cc",
+		"year": "2014-12-18",
+		"covers": [
+			"/banners/cc_banner1.avif",
+			"/banners/cc_banner1.webp",
+			"/banners/cc_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/cc_horizontal.avif",
+			"/banners/cc_horizontal.webp",
+			"/banners/cc_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
+		"description": "Han pasado seis años desde aquel terremoto masivo que arrasó con la ciudad de Shibuya. Ahora, en octubre de 2015, mientras investiga algunos crímenes recientes, Miyashiro Takuru se da cuenta de una horrible verdad: estos asesinatos marcan el regreso de la ola de asesinatos que sumió a Shibuya en el terror hace seis años. Y al mimsmo tiempo, personas llamadas gigalómanas, con el poder de hacer realidad sus delirios, empiezan a despertar.",
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/970570/CHAOSCHILD/"
+			},
+			{
+				"platform": "GOG [DRM Free]",
+				"url": "https://www.gog.com/en/game/chaos_child"
+			},
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://www.nintendo.com/us/store/products/chaos-child-switch/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/cc-patch/releases",
+			"warning": "This patch is available for Steam, GOG and modded Nintendo Switch consoles."
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/cc-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/cc",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/cc/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cc/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cc/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cc/4.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/chaoschild-steam.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego (en este caso también sirven las copias de GOG y Nintendo Switch). Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. In el caso de que tengas una copia de GOG, necesitarás descargar un parche diferente con el nombre de \"CCGOGPatch\" en vez del \"CCSteamPatch\". Para consolas Nintendo Switch hay dos parches, el de US y el de EU, que funcionan con las copias de US y EU respectivamente. Sólo necesitas extraer los contenidos en la raíz de la tarjeta SD de tu Nintendo Switch (recuerda que este parche sólo funciona con consolas modificadas). Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/chaoschild-steam.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE 0",
+		"jpn": "シュタインズ・ゲート・ゼロ",
+		"name": "sg0",
+		"year": "2015-12-10",
+		"covers": [
+			"/banners/sg0_banner1.avif",
+			"/banners/sg0_banner1.webp",
+			"/banners/sg0_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sg0_horizontal.avif",
+			"/banners/sg0_horizontal.webp",
+			"/banners/sg0_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
+		"description": [
+			"“Esta es la historia del 'futuro' que no pudo ser salvado”.",
+			"<br />",
+			"Diciembre, 2010 - Línea de mundo Beta:",
+			"<br />",
+			"Al final de su camino a través de incontables líneas de mundo llenas de un sinfín de sufrimientos y penurias, el protagonista, Okabe Rintarou, se hunde en la desesperanza y abandona todos los esfuerzos por salvarla a “ella”.",
+			"<br />",
+			"Mientras sus amigos se preocupan por su bienestar, Okabe se sumerge en el estilo de vida de un estudiante serio en un intento desesperado de alejarse de su culpa y aflicción.",
+			"<br />",
+			"Asiste a un seminario universitario por créditos extra mientras aún batalla contra el trauma, cuando se topa con dos científicos que pertenecían a la misma escuela y equipo de investigación que “ella”.",
+			"<br />",
+			"Después de defender su trabajo del escepticismo durante una presentación, Okabe es invitado como sujeto de prueba para un proyecto de investigación titulado “Amadeus”, una IA experimental que utiliza memorias digitalizadas para crear réplicas virtuales, con una de ellas conteniendo nada más y nada menos que los recuerdos de “ella”.",
+			"<br />",
+			"Pero lo que él no sabía es que el proyecto lo traerá de vuelta hacia ese mundo tan oscuro de conspiraciones que tanto se esforzó en evitar."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/825630/STEINSGATE_0/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/zero-patch/releases"
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/sg0-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg0",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sg0-steam.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sg0-steam.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			},
+			{
+				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"answer": [
+					"Aunque jugar y ver las entregas en order es lo ideal, si ya viste el anime de STEINS;GATE 0, tienes que jugar la novela visual de todas formas. La misma provee información crucial que no está presente en el anime, especialmente detalles de otras rutas.",
+					"Si ya viste el anime de STEINS;GATE 0 antes de jugar el STEINS;GATE original, puede que estés un poco jodido, pero aún así recomiendo simplemente seguir con el orden de lanzamiento de los juegos."
+				]
+			}
+		]
+	},
+	{
+		"title": "OCCULTIC;NINE",
+		"jpn": "オカルティック・ナイン",
+		"name": "on",
+		"year": "2016-10-08",
+		"covers": [
+			"/banners/on_banner1.avif",
+			"/banners/on_banner1.webp",
+			"/banners/on_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/on_horizontal.avif",
+			"/banners/on_horizontal.webp",
+			"/banners/on_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "No existe tal cosa como lo \"oculto\". Todo puede desmentirse por medio de la ciencia. Sólo aquellos que han aceptado todo... tienen derecho a conocer la verdad.",
+		"description": [
+			"El quinto título de Shikura Chiyomaru, publicado originalmente como una novela ligera con el diseño de personajes de Pako.",
+			"<br />",
+			"La historia sigue a nueve personajes excéntricos cuyas pequeñas incongruencias cotidianas los llevan eventualmente hacia un evento más grande e inimaginable; uno que podría alterar por completo lo que se considera el sentido común de este mundo."
+		],
+		"downloads": [
+			{
+				"platform": "Windows PC (Port) [Torrent]",
+				"url": "magnet:?xt=urn:btih:648b6b903a30135b7a4bbbdb0b99ae33a6eb7a41&dn=Occultic%3BNine%20-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%B3-%20Visual%20Novel%20PC%20Conversion%20%28Japanese%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+				"notes": [
+					"Esta es una conversión de la novela visual original. Un mando es recomendado ya que los teclados no están completamente soportados."
+				]
+			},
+			{
+				"platform": "PlayStation 4",
+				"url": "https://store.playstation.com/ja-jp/product/JP0745-CUSA07375_00-OCCULTICNINEPS40/"
+			}
+		],
+		"japaneseOnly": {
+			"downloads": true
+		},
+		"lightNovel": [
+			{
+				"name": "OCCULTIC;NINE LN Volumes 1 - 3 [EPUB] (ENG) (Recomendado)",
+				"link": "[Directa]",
+				"link2": "[Alternativa]",
+				"url": "https://files.catbox.moe/6x56fl.zip",
+				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20LN%20Volumes%201-3.zip", 
+				"external": {
+					"name": "Occultic;Nine LN (Volumes 1-3).zip",
+					"index": 0
+				}
+			}
+		],
+		"anime": [
+			{
+				"name": "OCCULTIC;NINE Anime [BD 1080p] [ENG Subs] (Recomendado)",
+				"link": "[Torrent]",
+				"url": "magnet:?xt=urn:btih:f5819bad43807e326b4f42b821a6b9d87f87b2f4&dn=%5BChimera%5D%20Occultic%3BNine%20%28BDRip%201080p%20x264%20Hi10P%20FLAC%29%20-%20TV&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+			}
+		],
+		"manga": [
+			{
+				"name": "OCCULTIC;NINE Manga Volumes 1 - 4 [CBZ] (JPN)",
+				"link": "[Directa]",
+				"link2": "[Alternativa]",
+				"url": "https://files.catbox.moe/zsq42q.zip",
+				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20Manga%20Volumes%201%20-%204%20%5BCBZ%5D%20(JPN).zip",
+				"external": {
+					"name": "Occultic;Nine Manga Volumes 1 - 4 [CBZ] (JPN).zip",
+					"index": 0
+				}
+			}
+		],
+		"localeEmulator": [
+			{
+				"name": "Locale Emulator",
+				"link": "[Directa]",
+				"url": "https://github.com/xupefei/Locale-Emulator/releases/download/v2.5.0.1/Locale.Emulator.2.5.0.1.zip",
+				"notes": [
+					"Necesitas hacer click derecho en el ejecutable del juego y seleccionar \"Locale Emulator > Run in Japanese (Admin)\".",
+					"Puedes ignorar el locale emulator si ya tienes una forma de correr juegos en japonés en tu computadora."
+				]
+			}
+		],
+		"orderGuide": [
+			"Si quieres aprovechar al máximo la historia de OCCULTIC;NINE, hay un orden de consumo recomendado, ya que el anime va a un ritmo muy apresurado.",
+			"Deberías leer las novelas ligeras primero (aunque estén incompletas), ya que aportan el contexto suficiente para poder entender y disfrutar del anime.",
+			"Si sabes japonés, también puedes leer el manga y jugar la novela visual, ya que cada versión de OCCULTIC;NINE cuenta con un final diferente."
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/on/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/4.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/5.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/6.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "¿Por qué hay tantas formas de experimentar OCCULTIC;NINE?",
+				"answer": [
+					"Shikura Chiyomaru, el creador de la novela ligera de OCCULTIC;NINE, concebió el proyecto como una serie multimedia. Como se menciona anteriormente en el \"Orden para ver\", OCCULTIC;NINE fue lanzado en cuatro formatos diferentes: novela ligera (2014), manga (2015), anime (2016) y novela visual (2017), cada uno con finales diferentes y variaciones en la historia.",
+					"Consecuentemente, para entender la historia por completo, es recomendable experimentar cada versión, empezando con la novela ligera."
+				]
+			},
+			{
+				"question": "¿Pero por qué no puedo leer OCCULTIC;NINE antes que STEINS;GATE 0?",
+				"answer": [
+					"Aunque el primer volumen de la novela ligera salió antes que STEINS;GATE 0, los volúmenes posteriores se lanzaron en 2017, mientras que el anime se emitió un año antes.",
+					"Probablemente podrías leerlos primero si quieres, pero STEINS;GATE 0 (o al menos su concepto, la Trilogía de Epigraph) existía desde mucho antes de que OCCULTIC;NINE fuese creado."
+				]
+			}
+		]
+	},
+	{
+		"title": "CHAOS;CHILD Love Chu☆Chu!!",
+		"jpn": "カオスチャイルド らぶChu☆Chu!!",
+		"name": "cclcc",
+		"year": "2017-03-30",
+		"covers": [
+			"/banners/cclcc_banner1.avif",
+			"/banners/cclcc_banner1.webp",
+			"/banners/cclcc_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/cclcc_horizontal.avif",
+			"/banners/cclcc_horizontal.webp",
+			"/banners/cclcc_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
+		"description": [
+			"“Ese día... en ese preciso momento... ¡yo... abandoné este maldito juego!”",
+			"<br />",
+			"Chaos;Child Love Chu☆Chu!! se desarrolla en Shibuya, Tokio, y tiene lugar después del final verdadero de Chaos;Child.",
+			"<br />",
+			"Una serie de eventos extraños, conocidos como el “El Regreso de la Locura de Nueva Generación”, comienzan a ocurrir; sin embargo, su interés es algo debatible para el protagonista, Miyashiro Takuru, presidente del Club de Periodismo de la Academia Hekiho. En su lugar, tras buscar una primicia sin éxito, se enfoca en las “actividades de la vida real”, pasando el tiempo con las chicas de la escuela.",
+			"<br />",
+			"En Chaos;Child Love Chu☆Chu!! la trama se ve afectada por las decisiones del jugador: usando regularmente el sistema de “Selección de Sí/No”, en el cual contesta preguntas de sí o no en la revista Cool Cat Press dentro del juego, el argumento se ramifica dependiendo de las respuestas dadas. Por supuesto, el sistema de Selección de Delirios sigue presente y también ofrece una forma de alterar el rumbo de las cosas."
+		],
+		"downloads": [
+			{
+				"platform": "PlayStation 4",
+				"url": "https://store.playstation.com/ja-jp/product/JP0745-CUSA07047_00-CHAOSCHILDLCCPS4"
+			}
+		],
+		"japaneseOnly": {
+			"downloads": true
+		},
+		"upcomingPatch": {
+			"name": "Committee of Zero Patch",
+			"completionURLs": [
+				{
+					"name": "v0.9.X (Polishing)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
+				},
+				{
+					"name": "v0.10.X (Bonus & Common Features)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
+				},
+				{
+					"name": "v0.10.X (Blocked by)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/6",
+					"notes": [
+						"\"Blocked by\" son issues que están bloqueados por otro issue."
+					]
+				}
+			]
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/cc",
+				"name": "Requerido ver después de terminar el juego"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/cclcc/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cclcc/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cclcc/3.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "¿Cuándo habrá un parche para este juego?",
+				"answer": [
+					"El Committee of Zero está trabajando arduamente en un port y parche para este juego.",
+					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso. Estará disponible para Windows, Mac, Linux, Android, PS Vita y Nintendo Switch."
+				]
+			}
+		]
+	},
+	{
+		"title": "ROBOTICS;NOTES DaSH",
+		"jpn": "ロボティクス・ノーツ DaSH",
+		"name": "rnd",
+		"year": "2019-01-31",
+		"covers": [
+			"/banners/rnd_banner1.avif",
+			"/banners/rnd_banner1.webp",
+			"/banners/rnd_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/rnd_horizontal.avif",
+			"/banners/rnd_horizontal.webp",
+			"/banners/rnd_horizontal.jpg"
+		],
+		"position": "center 20%",
+		"epigraph": "La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma.",
+		"description": [
+			"2020. Tasa de divergencia de la línea de mundo: 1.048596%.",
+			"<br />",
+			"Mientras que los robots para uso del consumidor con los beneficios de una sociedad conectada se están popularizando cada vez más, el incidente con la rebelión de robots en febrero mostró la vulnerabilidad de ese tipo de sociedad de la información. Aunque fue una crisis global a través de la red, fue prevenida por estudiantes de secundaria de la isla de Tanegashima, lugar donde se libró la batalla.",
+			"<br />",
+			"Medio año más tarde. La isla está inundada de gente mientras se prepara para su festival de verano. Uno de los estudiantes que salvó al mundo de la crisis, el protagonista Yashio Kaito, ya se graduó y vuelve a su tierra natal, Tanegashima, después de un largo tiempo lejos.",
+			"<br />",
+			"Durante su regreso, conoce a un hombre de mediana edad llamado Hashida Itaru, con quien tiene un amigo en común, y que vino a Tanegashima para hacer turismo. Aún así, no puede evitar notar su extraño comportamiento. A pesar de que este hombre es en realidad un súper hacker con habilidades de clase mundial, Kaito aún no se entera de este hecho. Al poco tiempo, empiezan a ocurrir eventos una y otra vez de forma que perturban la vida cotidiana.",
+			"<br />",
+			"Esa fue la señal de una conspiración que, una vez más, intenta sumir al mundo en el caos."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/1111390/ROBOTICSNOTES_DaSH/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/rnd-patch/releases"
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/rnd-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/rnd",
+				"name": "Requerido ver antes de jugar el juego"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/rnd/1.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/rnd-steam.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/rnd-steam.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			}
+		]
+	},
+	{
+		"title": "ANONYMOUS;CODE",
+		"jpn": "アノニマス・コード",
+		"name": "ac",
+		"year": "2022-07-28",
+		"covers": [
+			"/banners/ac_banner1.avif",
+			"/banners/ac_banner1.webp",
+			"/banners/ac_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/ac_horizontal.avif",
+			"/banners/ac_horizontal.webp",
+			"/banners/ac_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "Sólo podría llamársele milagro al hecho de que hayas llegado hasta aquí, hasta este punto de guardado, en este momento de tu vida. Y me complace en gran manera. Ahora atraviesa el telón del escenario; desenmascara al hechicero que mueve los hilos. Cierra el bucle. Y hackea a Dios.",
+		"description": [
+			"“Sólo podría llamársele milagro al hecho de que hayas llegado hasta aquí, hasta este punto de guardado, en este momento de tu vida. Y me complace en gran manera. Ahora atraviesa el telón del escenario; desenmascara al hechicero que mueve los hilos. Cierra el bucle. Y hackea a Dios”.",
+			"<br />",
+			"—6 de febrero, 2036 - Hora, 15:28:15",
+			"<br />",
+			"Todas las computadoras en la Tierra se desbordaron al superar el límite máximo de los 4.294.967.295 segundos otorgados dentro del Reloj Estándar Digital que había estado en marcha desde 1900, llevando al peor de los escenarios: todas las consolas de Defensa-Ataque a nivel mundial comenzaron a fallar catastróficamente. Satélites militares rugieron como los Martillos de Dios, desatando una devastación instantánea sobre las principales ciudades del mundo. Nueva York, Londres, Shanghái, Moscú y Shinjuku. Este desastre a gran escala fue conocido como el “Sad Morning”. ¿Era esto simplemente el juicio final cayendo sobre la humanidad? Y si así fuera... ¿quién sería el juez? ¿O acaso podría ser esto el prólogo de una calamidad mucho mayor...?",
+			"<br />",
+			"Se levantaba el telón de la historia de Anonymous;Code, durante una inquieta serie de eventos en Nakano, Tokio - Año 2037."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/2291020/ANONYMOUSCODE/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/ac-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2023/09/03/anonymouscode-100-guide/",
+			"optional": true
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/ac",
+				"name": "Requerido ver antes o después de jugar el juego"
+			}
+		],
+		"faq": [
+			{
+				"question": "¿Realmente necesito aplicar el parche?",
+				"answer": [
+					"Sí, necesitas aplicarlo sin dudas.",
+					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
+					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/ac-patch.html' target='_blank'>chequearla aquí</a>."
+				]
+			},
+			{
+				"question": "¿Cómo aplico el parche?",
+				"answer": [
+					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
+					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/ac-patch.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE Re:Boot",
+		"jpn": "シュタインズ・ゲート リ・ブート",
+		"name": "sgrb",
+		"year": "2026-08-20",
+		"covers": [
+			"/banners/sgrb_banner1.avif",
+			"/banners/sgrb_banner1.webp",
+			"/banners/sgrb_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sgrb_horizontal.avif",
+			"/banners/sgrb_horizontal.webp",
+			"/banners/sgrb_horizontal.jpg"
+		],
+		"position": "center 20%",
+		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
+		"description": [
+			"¡STEINS;GATE vuelve! ¡Reiniciado para la era moderna!",
+			"¡Gráficos actualizados, interfaz de usuario refinada y una historia revitalizada!",
+			"<br />",
+			"STEINS;GATE sigue a un peculiar grupo de estudiantes aficionados a la tecnología, liderados por Okabe Rintarou, cuya última invención adquiere accidentalmente la capacidad de enviar mensajes al pasado, desatando el poder de alterar la historia misma.",
+			"Mientras las conspiraciones globales se desatan y las líneas temporales comienzan a torcerse, el telón se levanta ante un futuro sumergido en el caos."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/4012810/STEINSGATE_REBOOT/"
+			}
+		]
+	},
+	{
+		"title": "STEINS;???",
+		"jpn": "シュタインズ○○",
+		"name": "sq",
+		"year": "Próximamente",
+		"covers": [
+			"/banners/s_banner1.avif",
+			"/banners/s_banner1.webp",
+			"/banners/s_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sq_horizontal.avif",
+			"/banners/sq_horizontal.webp",
+			"/banners/sq_horizontal.jpg"
+		],
+		"position": "center",
+		"description": "Steins;??? (título tentativo) es un próximo videojuego desarrollado por Chiyomaru Studio y MAGES, empresa que también se encargará de su publicación. Es una secuela temática de STEINS;GATE (2009). El juego está siendo planeado por el director ejecutivo de MAGES, Shikura Chiyomaru, y su título provisional de desarrollo era “Steins;God”.",
+		"downloads": []
+	}
+]

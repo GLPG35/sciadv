@@ -1,0 +1,24 @@
+---
+import './styles.scss'
+import LanguagePicker from '../LanguagePicker'
+import { getLangFromUrl, useTranslatedPath, useTranslations } from '../../i18n/utils'
+import Menu from '../Menu'
+
+const currentLang = getLangFromUrl(Astro.url)
+const t = useTranslations(currentLang)
+const translatePath = useTranslatedPath(currentLang)
+---
+
+<header>
+	<Menu url={Astro.url} client:load />
+	<a href='/' class='menu'>
+		<img src="/sciadv_logo.svg" alt="Science Adventure Series Logo" />
+	</a>
+	<nav>
+		<a href={translatePath('/')}>{t('nav.home')}</a>
+		<a href={translatePath('/entries')}>{t('nav.entries')}</a>
+		<a href={translatePath('/sidecontent')}>{t('nav.sideContent')}</a>
+		<a href={translatePath('/music')}>{t('nav.music')}</a>
+	</nav>
+	<LanguagePicker {...{currentLang, location: Astro.url.pathname}} client:idle />
+</header>

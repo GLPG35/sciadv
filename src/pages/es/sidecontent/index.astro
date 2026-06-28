@@ -1,0 +1,84 @@
+---
+import Layout from "../../../layouts/Layout.astro"
+import EntryPercent from '../../../components/EntryPercent'
+import './styles.scss'
+import sideContent from '../../../utils/sidecontent.json'
+import { type Title } from '../../../store/entryStore'
+
+import { getLangFromUrl, useTranslatedPath } from '../../../i18n/utils'
+
+const currentLang = getLangFromUrl(Astro.url)
+const translatePath = useTranslatedPath(currentLang)
+
+const anim = {
+	old: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)",
+		direction: "reverse"
+	},
+	new: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)"
+	}
+}
+
+const customTransition = {
+	forwards: anim,
+	backwards: anim
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series - Contenido Extra</title>
+		<meta name="description" content="El panorama que tus ojos perciben, ¿es real?" />
+	</head>
+	<body>
+		<Layout>
+			<div class="sideContent">
+				<h2>Contenido Extra</h2>
+				<p>La <em>Science Adventure Series</em> incluye un contenido extra muy extenso, el cual es vital para la trama principal. Esta sección compila todo el contenido extra traducido de la SciADV, desde lore esencial hasta extras opcionales.</p>
+				<p>Asegúrate de chequear esta sección antes y después de empezar una entrega para saber cómo proceder.</p>
+				<br />
+				<p>Esta sección también incluye una lista de verificación para que puedas rastrear tu progreso con facilidad, incluso si cierras la pestaña.</p>
+				<br />
+				<span class="small">Mil gracias a <a href="https://x.com/JuanD20208" target="_blank">@JuanD20208</a> por proveer la lista completa del contenido extra traducido.</span>
+				<div class="entries">
+					{sideContent.map(({ title, name, logo, list }) => (
+						<div class="entry">
+							<a class="logo" href={translatePath(`/sidecontent/${name}`)} transition:name={`side-cover-${name}`} transition:animate={customTransition}>
+								<picture>
+									{logo.map((src, i) => {
+										if (logo.length === i + 1) return <img src={src} alt='' />
+
+										const type = src.split('.').pop()
+										return <source srcset={src} type={`image/${type}`} />
+									})}
+								</picture>
+							</a>
+							<div class="description">
+								<div class="title">
+									<div class="name">
+										{title}
+									</div>
+									<EntryPercent title={name as Title} length={list.length} client:load />
+								</div>
+							</div>
+						</div>
+					))}
+				</div>
+			</div>
+		</Layout>
+	<body/>
+</html>

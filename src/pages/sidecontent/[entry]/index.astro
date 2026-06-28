@@ -1,0 +1,105 @@
+---
+import type { GetStaticPaths } from "astro";
+import Layout from "../../../layouts/Layout.astro"
+import sideContent from '../../../utils/sidecontent.json'
+import './styles.scss'
+import EntryPercent from "../../../components/EntryPercent"
+import SideContentList from "../../../components/SideContentList"
+import type { Title } from "../../../store/entryStore"
+
+export const getStaticPaths = (() => {
+	return sideContent.map(({ name }) => ({
+		params: { entry: name }
+	}))
+}) satisfies GetStaticPaths
+
+const entry = sideContent.find(x => x.name == Astro.params.entry)
+
+if (!entry) return Astro.redirect('/404')
+
+const anim = {
+	old: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)",
+		direction: "reverse"
+	},
+	new: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)"
+	}
+}
+
+const customTransition = {
+	forwards: anim,
+	backwards: anim
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series - {entry.title} Side Content</title>
+		<meta name="description" content="Is the scenery your eyes perceive truly real?" />
+	</head>
+	<body>
+		<Layout>
+			<div class="entry">
+				<div class="summary">
+					<div class="coverWrapper">
+						<div class="cover" transition:name={`side-cover-${entry.name}`} transition:animate={customTransition}>
+							<picture>
+								{entry.logo.map((src, i) => {
+									if (entry.logo.length === i + 1) return <img src={src} alt='' />
+
+									const type = src.split('.').pop()
+									return <source srcset={src} type={`image/${type}`} />
+								})}
+							</picture>
+						</div>
+						<EntryPercent title={entry.name as Title} length={entry.list.length} client:load />
+					</div>
+					<div class="text">
+						<div class="title">
+							<h2>{entry.title}</h2>
+							<span>Side Content</span>
+						</div>
+						<div class="list">
+							<SideContentList title={entry.name as Title} list={entry.list} client:idle />
+						</div>
+					</div>
+				</div>
+				{entry.faq &&
+					<div class="section">
+						<h3>FAQ</h3>
+						<div class="questions">
+							{entry.faq.map(({ question, answer }) => (
+								<div class="question">
+									<h4>{question}</h4>
+									{answer.map(paragraph => {
+										if (typeof paragraph === 'object') {
+											return <ul>
+												{paragraph.map(li => <li>{li}</li>)}
+											</ul>
+										}
+									
+										return <p set:html={paragraph}></p>
+									})}
+								</div>
+							))}
+						</div>
+					</div>
+				}
+			</div>
+		</Layout>
+	</body>
+</html>

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+:root {
+	--bg-color: #002D5C;
+	--fg-color: white;
+	--ac-color: #99cbff;
+}
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	min-height: 100dvh;
+	font-family: 'Oswald', sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	background-color: var(--bg-color);
+	background-image: url('/sciadv_pattern.png');
+	background-size: 210px;
+	color: var(--fg-color);
+
+	.jpn {
+		font-family: "Noto Sans JP", sans-serif;
+		  font-optical-sizing: auto;
+		  font-style: normal;
+	}
+}
+
+::-webkit-scrollbar {
+	width: 5px;
+	background-color: var(--bg-color);
+
+	&-thumb {
+		background-color: var(--fg-color);
+	}
+}
+
+a {
+	color: var(--ac-color);
+}
+
+button {
+	font-family: 'Oswald', sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+}

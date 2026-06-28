@@ -1,0 +1,73 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import entries from '../../utils/entries.json'
+import './styles.scss'
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series</title>
+		<meta name="description" content="El panorama que tus ojos perciben, ¿es real?" />
+	</head>
+	<body>
+		<Layout>
+			<div class="home">
+				<div class="hero">
+					<div class="logo">
+						<picture>
+							<source srcset="/sciadv_blue_stroke.svg" type="image/png" media="(width < 950px)" />
+							<img src="/sciadv.svg" alt="" />
+						</picture>
+					</div>
+					<div class="banners">
+						<div class="wrapper">
+							{[...entries.filter(x => x.name !== 'sq'), entries[0]].map(({ covers, name, position }) => (
+								<a href={`/entries/${name}`} class="banner">
+									<picture>
+										{covers.map((src, i) => {
+											if (covers.length === i + 1) return <img src={src} alt='' style={{ objectPosition: position }} />
+
+											const type = src.split('.').pop()
+											return <source srcset={src} type={`image/${type}`} />
+										})}
+									</picture>
+								</a>
+							))}
+						</div>
+					</div>
+				</div>
+				<article>
+					<section>
+						<h2>¿Qué es la <em>Science Adventure Series</em>?</h2>
+						<p><em>Science Adventure Series</em>, en ocasiones acortado como SciADV, se trata de una serie de historias relatadas a través de diversos medios de entretenimiento, que original y principalmente son novelas visuales. Cada una de las entregas de la serie sigue una subtrama diferente, a la vez que posee un elenco de personajes distinto, con cada historia tomando lugar en años diferentes. No obstante, todas las entregas poseen elementos en común que las conectan, dejando ver una trama general mucho más grande.</p>
+						<br />
+						<p>Como el nombre lo indica, las historias tienen temática científica, y cada entrega usa ciencias diferentes para construir su trama.</p>
+						<p>La idea de la serie siempre ha sido la de, al introducir toques de ficción en historias con fundamentos científicos, darle al lector la sensación de que lo que está viendo no es algo imposible.</p>
+						<br />
+						<p>Dicho esto, la serie no sólo usa la ciencia para crear sus tramas, sino que también hace uso de teorías conspiranóicas del tiempo en el que se desarrolla la historia, así como elementos de misterio, para armar una historia atrapante y envolvente. Todas las historias crean un ambiente distinto, proporcionando al lector sensaciones diferentes.</p>
+						<br />
+						<span class="small">Texto original por <a href="https://www.facebook.com/ScienceAdventurePodcast" target="_blank">@ScienceAdventurePodcast</a></span>
+					</section>
+					<section>
+						<h2>¿Por qué debería leerla?</h2>
+						<p>SciADV está profundamente inspirada por la <a href="https://infinityseri.es/es/" target="_blank">Serie <em>Infinity</em></a> y otras obras de Nakazawa Takumi (I/O y Root Double) y Uchikoshi Koutarou (Zero Escape y AI: The Somnium Files), así que si te gustan algunos de los títulos antes mencionados, o incluso si simplemente te gustan los elementos de ciencia ficción y las buenas historias, probablemente SciADV sea de tu agrado.</p>
+					</section>
+					<section>
+						<h2>¿Por dónde empiezo?</h2>
+						<p>Cada entrega está construida sobre sus predecesoras, lo que significa que contiene elementos de las anteriores. Por suerte, el mejor orden para experimentarlas es hacerlo en orden de lanzamiento.</p>
+						<p>Puedes encontrar las entregas ordenadas por su fecha de lanzamiento en la <a href="/entries">sección de entregas</a>.</p>
+					</section>
+				</article>
+			</div>
+		</Layout>
+	</body>
+</html>

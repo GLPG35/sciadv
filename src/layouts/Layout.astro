@@ -1,0 +1,13 @@
+---
+import { ClientRouter } from 'astro:transitions'
+import Header from '../components/Header/index.astro'
+import '../global.scss'
+import './styles.scss'
+---
+
+<Header />
+<main>
+	<slot />
+</main>
+
+<ClientRouter />

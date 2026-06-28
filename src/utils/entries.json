@@ -1,0 +1,1095 @@
+[
+	{
+		"title": "CHAOS;HEAD NoAH",
+		"jpn": "カオスヘッド ノア",
+		"name": "chn",
+		"year": "2009-02-26",
+		"covers": [
+			"/banners/chn_banner1.avif",
+			"/banners/chn_banner1.webp",
+			"/banners/chn_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/chn_horizontal.avif",
+			"/banners/chn_horizontal.webp",
+			"/banners/chn_horizontal.jpg"
+		],
+		"position": "center 45%",
+		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
+		"description": "Nishijou Takumi is a second-year high school student on the verge of becoming a shut-in. \"I have no interest in 3D\". He lives surrounded by his beautiful girl figures in his room. He lives in Shibuya, where there has been a series of bizarre serial murders known as \"New Generation Madness\" (aka NewGen). The culprit has yet to be caught and has been causing unrest on the internet and television. One day, a gruesome image that seemed to predict the next NewGen killing was sent by a mysterious figure called \"Shogun\". The next day, on his way home from school, Takumi encounters a horrific crime scene, exactly as predicted. Before the corpse is a blood-soaked girl—Sakihata Rimi.",
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/"
+			},
+			{
+				"platform": "GOG [DRM Free]",
+				"url": "https://www.gog.com/en/game/chaos_head_noah"
+			},
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://www.nintendo.com/us/store/products/chaos-head-noah-switch/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/chn-patch/releases",
+			"warning": "This patch is available for Steam, GOG and modded Nintendo Switch consoles."
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/chn-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/chn",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/chn-patch.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game (in this case with GOG copies and Nintendo Switch as well). You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. In case you have a GOG copy, you'll need to download a different patch named \"CHNGOGPatch\" instead of the \"CHNSteamPatch\". For Nintendo Switch consoles there are two patches, the US and EU patches, that work for US and EU copies respectively. You just need to extract the contents into the root of your Nintendo Switch SD card (remember that this patch only works with modded consoles). These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/chn-patch.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			},
+			{
+				"question": "What's the difference between the original CHAOS;HEAD and the NoAH version?",
+				"answer": [
+					"The original CHAOS;HEAD came out earlier than expected, mostly because 5pb. (MAGES' predecessor) lacked the funds to make the game they originally planned.",
+					"As a result, they released a scaled-down version to raise money so they could deliver the full experience later. That complete version is CHAOS;HEAD NoAH."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE",
+		"jpn": "シュタインズ・ゲート",
+		"name": "sg",
+		"year": "2009-10-15",
+		"covers": [
+			"/banners/sg_banner1.avif",
+			"/banners/sg_banner1.webp",
+			"/banners/sg_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sg_horizontal.avif",
+			"/banners/sg_horizontal.webp",
+			"/banners/sg_horizontal.jpg"
+		],
+		"position": "center 30%",
+		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+		"description": [
+			"<b>-Decide The Fate Of All Mankind-</b>",
+			"CAN YOU CHANGE THE COURSE OF FATE?",
+			"AND SAVE THE ONES CLOSEST TO YOU?",
+			"<br />",
+			"Steins;Gate follows a rag-tag band of tech-savvy young students who discover the means of changing the past via mail, using a modified microwave. Their experiments into how far they can go with their discovery begin to spiral out of control as they become entangled in a conspiracy surrounding SERN, the organisation behind the Large Hadron Collider, and John Titor who claims to be from a dystopian future."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/412830/STEINSGATE/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sghd-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2025/01/09/steinsgate-100-guide/",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/sg/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/sg/3.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sghd.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sghd.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			},
+			{
+				"question": "And what about STEINS;GATE ELITE?",
+				"answer": [
+					"While the ELITE version of ROBOTICS;NOTES is recommended over the original (even if the original isn't translated), the ELITE version of STEINS;GATE is a straight up downgrade of the original version.",
+					"STEINS;GATE ELITE cuts around 35% of the original script, while also getting rid of the usual VN format and replacing it with full anime cinematics."
+				]
+			},
+			{
+				"question": "I watched the anime first, how screwed am I?",
+				"answer": [
+					"Even though it's ideal to play and watch the entries in order, if you have watched the STEINS;GATE anime, you still need to play the visual novel anyway. It provides crucial information not present in the anime, especially details that connect it with the rest of the <em>Science Adventure Series</em>."
+				]
+			}
+		]
+	},
+	{
+		"title": "CHAOS;HEAD Love Chu☆Chu!",
+		"jpn": "カオスヘッド らぶChu☆Chu!",
+		"name": "chlcc",
+		"year": "2010-03-25",
+		"covers": [
+			"/banners/chlcc_banner1.avif",
+			"/banners/chlcc_banner1.webp",
+			"/banners/chlcc_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/chlcc_horizontal.avif",
+			"/banners/chlcc_horizontal.webp",
+			"/banners/chlcc_horizontal.jpg"
+		],
+		"position": "center 30%",
+		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
+		"description": "Summer has finally come to Shibuya. Takumi and the six heroines from the previous game get to hang out, living the everyday high school life. But in truth, his will to stop being a useless otaku and become a normie has created an image world where the girls succumb to his charm. The only way to return to the real world is to kill Seira-tan, who roams the streets of Shibuya. But until then, Taku will be able to enjoy a life of lovey-doveyness with 3D girls (only in his delusions, though!)",
+		"downloads": [],
+		"japaneseOnly": {
+			"downloads": true
+		},
+		"upcomingPatch": {
+			"name": "Committee of Zero Patch",
+			"completionURLs": [
+				{
+					"name": "v0.9.X (Polishing)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
+				},
+				{
+					"name": "v0.10.X (Bonus & Common Features)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
+				},
+				{
+					"name": "v0.10.X (Blocked by)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/6",
+					"notes": [
+						"\"Blocked by\" are issues blocked by another issue."
+					]
+				}
+			]
+		},
+		"faq": [
+			{
+				"question": "When will there be a patch for this game?",
+				"answer": [
+					"The Committee of Zero is working hard on a patch and port of this game.",
+					"The game is fully translated and the port is currently at {percentage}. It will be available for Windows, Mac, Linux, Android, PS Vita and Nintendo Switch."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE: My Darling's Embrace",
+		"jpn": "シュタインズ・ゲート 比翼恋理のだーりん",
+		"name": "sgmde",
+		"year": "2011-06-16",
+		"covers": [
+			"/banners/sgmde_banner1.avif",
+			"/banners/sgmde_banner1.webp",
+			"/banners/sgmde_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sgmde_horizontal.avif",
+			"/banners/sgmde_horizontal.webp",
+			"/banners/sgmde_horizontal.jpg"
+		],
+		"position": "center 70%",
+		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+		"description": [
+			"After repeated D-Mail experiments, Okarin jumps to a world where 3% shift in world line was to be expected. And before he knew it, Kurisu as well as the rest of the members have been gathered and amidst preparations for a banquet.",
+			"<br />",
+			"In this world, a new gadget had been created but the group is facing some troubles. They can't afford to pay the electricity bill due to running too many experiments. Let's see what this new gadget can do for us...",
+			"<br />",
+			"The concept for this game is a love comedy with some sweet romance scenes and where 99% of the world is science but 1% is composed of... fantasies?!"
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/970560/STEINSGATE_My_Darlings_Embrace/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sgmde-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2020/12/09/steinsgate-my-darlings-embrace-100-guide/",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sgmde-patch.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sgmde.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE: Variant Space Octet",
+		"jpn": "シュタインズ・ゲート 変移空間のオクテット",
+		"name": "sgvso",
+		"year": "2011-10-28",
+		"covers": [
+			"/banners/sgvso_banner1.avif",
+			"/banners/sgvso_banner1.webp",
+			"/banners/sgvso_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sgvso_horizontal.avif",
+			"/banners/sgvso_horizontal.webp",
+			"/banners/sgvso_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+		"description": "An extension of the True End of the original game. Unlike the modern visual novel format of the original game, this retro game perfectly mimics the style of graphical text adventure games from the 8-bit PC era (e.g. PC-88), with the player typing short commands to interact with and explore the game world. It features all backgrounds and characters drawn in a low-color pixelated style with emulated scanlines, chiptune music played through an emulated FM chip, and no voice acting. The premise of the game features Okabe receiving a D-Mail from himself in 2025 that states that he must save the future by reclaiming an IBN 5100 from a person under of the alias “Neidhardt”.",
+		"downloads": [
+			{
+				"platform": "Windows PC",
+				"urls": [
+					{
+						"name": "[Direct]",
+						"url": "https://archive.org/download/steins-gate-variant-space-octet-english/Steins%3BGate%20Variant%20Space%20Octet%20%28English%29.zip"
+					},
+					{
+						"name": "[Torrent]",
+						"url": "https://archive.org/download/steins-gate-variant-space-octet-english/steins-gate-variant-space-octet-english_archive.torrent"
+					}
+				]
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sgvso-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2025/12/03/steinsgate-variant-space-octet-guide/",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sgvso-patch.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. In this case, as this game is not available on Steam, you need to open the installer (WARNING, it has loud music) and indicate the path to your game copy.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sgvso.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			}
+		]
+	},
+	{
+		"title": "ROBOTICS;NOTES ELITE",
+		"jpn": "ロボティクス・ノーツ エリート",
+		"name": "rne",
+		"year": "2012-06-28",
+		"covers": [
+			"/banners/rne_banner1.avif",
+			"/banners/rne_banner1.webp",
+			"/banners/rne_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/rne_horizontal.avif",
+			"/banners/rne_horizontal.webp",
+			"/banners/rne_horizontal.jpg"
+		],
+		"position": "center 20%",
+		"epigraph": "The science itself may prove cynical. However, one mustn't forget that there is a scientific element in all things. The important truth is this: I am the master of my fate, I am the captain of my soul.",
+		"description": [
+			"“The Science itself may prove cynical. However, one mustn't forget that there is a scientific element in all things. The important truth is this: I am the master of my fate, I am the captain of my soul”.",
+			"<br />",
+			"Science Adventure Series #3 “Robotics;Notes Elite” Divergence: 1.048596%.",
+			"<br />",
+			"In the near future, the PhoneDroid—a device which features augmented reality—has risen in popularity in Tanegashima.",
+			"On that island, Central Tanegashima High's “Robotics Research Club” is about to have their club disbanded.",
+			"Despite their predicament, Yashio Kaito, one of only two members in the Robotics Club, couldn't care less and would rather play a robot fighting game.",
+			"His counterpart, the reckless club leader Senomiya Akiho, ignores Kaito as she strives to keep the club from being disbanded by completing their giant robot.",
+			"<br />",
+			"One day, for some odd reason, Kaito finds an A.R. (augmented reality) annotation titled “Kimijima Report”.",
+			"It contains details about a plot involving the entire world written by a man named Kimijima Kou."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/rne-patch/releases"
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/rne-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/rne",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/rne/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rne/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/rne/3.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/rne-steam.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/rne-steam.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			},
+			{
+				"question": "What's the difference between the original ROBOTICS;NOTES and the ELITE version?",
+				"answer": [
+					"Leaving aside the fact that the original game didn't get an official localization, the ELITE version of ROBOTICS;NOTES was designed to improve upon the original in several ways.",
+					"The ELITE version adds new anime cinematics for some key moments where the original CGs fell short. It also adds new lines throughout the script and fixes some typos, while removing other lines to improve pacing. The 3D models were improved, though some facial expressions didn't make the final cut.",
+					"Sadly, the ELITE version cut some important content from the first and last phases of the game, which affected character development. You probably won't notice it unless someone points it out to you, but there are plans for a future patch to restore that missing content. In case you want to read it after finishing the game, you can <a href='/entries/rne-missing-content'>do so here</a>."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE: Linear Bounded Phenogram",
+		"jpn": "シュタインズ・ゲート 線形拘束のフェノグラム",
+		"name": "sglbp",
+		"year": "2013-04-25",
+		"covers": [
+			"/banners/sglbp_banner1.avif",
+			"/banners/sglbp_banner1.webp",
+			"/banners/sglbp_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sglbp_horizontal.avif",
+			"/banners/sglbp_horizontal.webp",
+			"/banners/sglbp_horizontal.jpg"
+		],
+		"position": "center 80%",
+		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+		"description": "You followed Okarin through the labyrinth of time and space; now relive the twists and turns of Steins;Gate through the eyes of Kurisu, Suzuha, Daru, and the rest of the Future Gadget Lab members. See how they faced the startling events of the game; hear their thoughts and experience their battles firsthand. This incredible visual novel gives you the rest of the story, with new revelations that will amaze even the most jaded Steins;Gate fan. The drama of Steins;Gate continues. Don't miss it.",
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/930910/STEINSGATE_Linear_Bounded_Phenogram/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/sglbp-patch/releases"
+		},
+		"guide": false,
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sglbp-patch.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sglbp-patch.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			}
+		]
+	},
+	{
+		"title": "CHAOS;CHILD",
+		"jpn": "カオスチャイルド",
+		"name": "cc",
+		"year": "2014-12-18",
+		"covers": [
+			"/banners/cc_banner1.avif",
+			"/banners/cc_banner1.webp",
+			"/banners/cc_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/cc_horizontal.avif",
+			"/banners/cc_horizontal.webp",
+			"/banners/cc_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
+		"description": "It's been six years since a massive earthquake leveled the city of Shibuya. Now, in October 2015, while researching a number of recent murders, Miyashiro Takuru realizes a horrible truth. These murders are the return of a series of killings that plunged Shibuya into terror six years ago. And at the same time, people called gigalomaniacs, with the powers to make their delusions real, are beginning to awaken.",
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/970570/CHAOSCHILD/"
+			},
+			{
+				"platform": "GOG [DRM Free]",
+				"url": "https://www.gog.com/en/game/chaos_child"
+			},
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://www.nintendo.com/us/store/products/chaos-child-switch/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/cc-patch/releases",
+			"warning": "This patch is available for Steam, GOG and modded Nintendo Switch consoles."
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/cc-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/cc",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/cc/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cc/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cc/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cc/4.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/chaoschild-steam.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game (in this case with GOG copies and Nintendo Switch as well). You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. In case you have a GOG copy, you'll need to download a different patch named \"CCGOGPatch\" instead of the \"CCSteamPatch\". For Nintendo Switch consoles there are two patches, the US and EU patches, that work for US and EU copies respectively. You just need to extract the contents into the root of your Nintendo Switch SD card (remember that this patch only works with modded consoles). These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/chaoschild-steam.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE 0",
+		"jpn": "シュタインズ・ゲート・ゼロ",
+		"name": "sg0",
+		"year": "2015-12-10",
+		"covers": [
+			"/banners/sg0_banner1.avif",
+			"/banners/sg0_banner1.webp",
+			"/banners/sg0_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sg0_horizontal.avif",
+			"/banners/sg0_horizontal.webp",
+			"/banners/sg0_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+		"description": [
+			"“This is the story of the 'future' that could not be saved”.",
+			"<br />",
+			"December, 2010 - Beta Worldline:",
+			"<br />",
+			"At the end of his journey through countless worldlines filled with untold sorrows and hardship, the protagonist, Okabe Rintarou, sinks into despair and abandons all efforts of saving “her”.",
+			"<br />",
+			"As his friends grow concerned for his well-being, Okabe immerses himself in the lifestyle of a serious student in a desperate attempt to push past his guilt and grief.",
+			"<br />",
+			"He attends a college seminar for extra credit while still struggling with trauma, where he comes across two scientists that belonged to the same school and research team as “her”.",
+			"<br />",
+			"After he publicly defends their work against skepticism during a presentation, Okabe is invited to be a test subject for a research project titled “Amadeus”— an experimental AI which uses digitized memories as artificial intelligence avatars, one containing none other than “her” memories.",
+			"<br />",
+			"But little did he know that the project would soon draw him back into that very world of dark conspiracies he had strived to avoid."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/825630/STEINSGATE_0/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/zero-patch/releases"
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/sg0-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/sg0",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sg0-steam.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches don't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sg0-steam.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			},
+			{
+				"question": "I watched the anime first, how screwed am I?",
+				"answer": [
+					"Even though it's ideal to play and watch the entries in order, if you have watched the STEINS;GATE 0 anime, you still need to play the visual novel anyway. It provides crucial information not present in the anime, especially details from other routes.",
+					"If you watched the STEINS;GATE 0 anime before playing the original STEINS;GATE, you might be kinda screwed, but I still recommend just following the release order for the games."
+				]
+			}
+		]
+	},
+	{
+		"title": "OCCULTIC;NINE",
+		"jpn": "オカルティック・ナイン",
+		"name": "on",
+		"year": "2016-10-08",
+		"covers": [
+			"/banners/on_banner1.avif",
+			"/banners/on_banner1.webp",
+			"/banners/on_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/on_horizontal.avif",
+			"/banners/on_horizontal.webp",
+			"/banners/on_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "There are no such things as \"occult\". It can be disproved all by science. Only the ones who have accepted everything, can get the right to know the truth.",
+		"description": [
+			"Shikura Chiyomaru's fifth title that was first published as a light novel with Pako as character designer.",
+			"<br />",
+			"The story follows nine idiosyncratic individuals. Little incongruities that occur around these nine eventually lead to a larger, unimaginable event that may alter what is considered common sense in this world."
+		],
+		"downloads": [
+			{
+				"platform": "Windows PC (Port) [Torrent]",
+				"url": "magnet:?xt=urn:btih:648b6b903a30135b7a4bbbdb0b99ae33a6eb7a41&dn=Occultic%3BNine%20-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%B3-%20Visual%20Novel%20PC%20Conversion%20%28Japanese%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+				"notes": [
+					"This is a conversion of the original visual novel. A controller is recommended since keyboards aren't fully supported."
+				]
+			},
+			{
+				"platform": "PlayStation 4",
+				"url": "https://store.playstation.com/ja-jp/product/JP0745-CUSA07375_00-OCCULTICNINEPS40/"
+			}
+		],
+		"japaneseOnly": {
+			"downloads": true
+		},
+		"lightNovel": [
+			{
+				"name": "OCCULTIC;NINE LN Volumes 1 - 3 [EPUB] (ENG) (Recommended)",
+				"link": "[Direct]",
+				"link2": "[Mirror]",
+				"url": "https://files.catbox.moe/6x56fl.zip",
+				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20LN%20Volumes%201-3.zip", 
+				"external": {
+					"name": "Occultic;Nine LN (Volumes 1-3).zip",
+					"index": 0
+				}
+			}
+		],
+		"anime": [
+			{
+				"name": "OCCULTIC;NINE Anime [BD 1080p] [ENG Subs] (Recommended)",
+				"link": "[Torrent]",
+				"url": "magnet:?xt=urn:btih:f5819bad43807e326b4f42b821a6b9d87f87b2f4&dn=%5BChimera%5D%20Occultic%3BNine%20%28BDRip%201080p%20x264%20Hi10P%20FLAC%29%20-%20TV&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+			}
+		],
+		"manga": [
+			{
+				"name": "OCCULTIC;NINE Manga Volumes 1 - 4 [CBZ] (JPN)",
+				"link": "[Direct]",
+				"link2": "[Mirror]",
+				"url": "https://files.catbox.moe/zsq42q.zip",
+				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20Manga%20Volumes%201%20-%204%20%5BCBZ%5D%20(JPN).zip",
+				"external": {
+					"name": "Occultic;Nine Manga Volumes 1 - 4 [CBZ] (JPN).zip",
+					"index": 0
+				}
+			}
+		],
+		"localeEmulator": [
+			{
+				"name": "Locale Emulator",
+				"link": "[Direct]",
+				"url": "https://github.com/xupefei/Locale-Emulator/releases/download/v2.5.0.1/Locale.Emulator.2.5.0.1.zip",
+				"notes": [
+					"You need to right click on the game executable and select \"Locale Emulator > Run in Japanese (Admin)\".",
+					"You can skip the locale emulator if you already have a way to run Japanese games on your computer."
+				]
+			}
+		],
+		"orderGuide": [
+			"If you want to understand OCCULTIC;NINE's story to the fullest, there's a recommended consumption order, as the anime is very fast-paced.",
+			"You should read the light novels first (even though they are incomplete), as they provide enough context to understand and enjoy the anime.",
+			"If you know Japanese, you can also read the manga and play the visual novel, since every version of OCCULTIC;NINE features a different ending."
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/on/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/3.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/4.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/5.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/on/6.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "Why are there so many ways to experience OCCULTIC;NINE?",
+				"answer": [
+					"Shikura Chiyomaru, the creator of the OCCULTIC;NINE light novel, conceived the project as a multimedia series. As mentioned previously in the \"Order Guide\", OCCULTIC;NINE was released in four different formats: light novel (2014), manga (2015), anime (2016) and visual novel (2017), with each one featuring different endings and story variations.",
+					"Consequently, to understand the story to the fullest, it is recommended to experience every version, starting with the light novel."
+				]
+			},
+			{
+				"question": "But why can't I read OCCULTIC;NINE before STEINS;GATE 0?",
+				"answer": [
+					"Even though the first volume of the light novel came out before STEINS;GATE 0, the subsequent volumes were released in 2017, while the anime aired a year prior.",
+					"You could probably read it first if you want, but STEINS;GATE 0 (or at least its concept, the Epigraphy Trilogy) existed way before OCCULTIC;NINE was even created."
+				]
+			}
+		]
+	},
+	{
+		"title": "CHAOS;CHILD Love Chu☆Chu!!",
+		"jpn": "カオスチャイルド らぶChu☆Chu!!",
+		"name": "cclcc",
+		"year": "2017-03-30",
+		"covers": [
+			"/banners/cclcc_banner1.avif",
+			"/banners/cclcc_banner1.webp",
+			"/banners/cclcc_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/cclcc_horizontal.avif",
+			"/banners/cclcc_horizontal.webp",
+			"/banners/cclcc_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
+		"description": [
+			"“On that day... at that very moment... I... quit this goddamn game!”",
+			"<br />",
+			"Chaos;Child Love Chu☆Chu!! is set in Shibuya, Tokyo, and takes place after Chaos;Child's true ending.",
+			"<br />",
+			"Bizarre events referred to as the “Return of the New Generation Madness” take place, but their interest is quite debatable for the protagonist Miyashiro Takuru, the president of Hekiho Academy's Newspaper Club; instead, after failing to find a real scoop, he focuses on “real-life activities” and goes on to spend time with the rest of the cast.",
+			"<br />",
+			"In Chaos;Child Love Chu☆Chu!! the story is affected by player choices: by regularly using the “Yes/No Trigger” system—in which they fill in “yes/no” questionnaires in the in-game magazine Cool Cat Press—the story branches depending on the player's answers. Of course, the Delusion Trigger system is still present and also provides a way to branch the story."
+		],
+		"downloads": [
+			{
+				"platform": "PlayStation 4",
+				"url": "https://store.playstation.com/ja-jp/product/JP0745-CUSA07047_00-CHAOSCHILDLCCPS4"
+			}
+		],
+		"japaneseOnly": {
+			"downloads": true
+		},
+		"upcomingPatch": {
+			"name": "Committee of Zero Patch",
+			"completionURLs": [
+				{
+					"name": "v0.9.X (Polishing)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
+				},
+				{
+					"name": "v0.10.X (Bonus & Common Features)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
+				},
+				{
+					"name": "v0.10.X (Blocked by)",
+					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/6",
+					"notes": [
+						"\"Blocked by\" are issues blocked by another issue."
+					]
+				}
+			]
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/cc",
+				"name": "Must watch after finishing the game"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/cclcc/1.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cclcc/2.jpg"
+				],
+				"visible"
+			],
+			[
+				[
+					"/screenshots/cclcc/3.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "When will there be a patch for this game?",
+				"answer": [
+					"The Committee of Zero is working hard on a patch and port of this game.",
+					"The game is fully translated and the port is currently at {percentage}. It will be available for Windows, Mac, Linux, Android, PS Vita and Nintendo Switch."
+				]
+			}
+		]
+	},
+	{
+		"title": "ROBOTICS;NOTES DaSH",
+		"jpn": "ロボティクス・ノーツ DaSH",
+		"name": "rnd",
+		"year": "2019-01-31",
+		"covers": [
+			"/banners/rnd_banner1.avif",
+			"/banners/rnd_banner1.webp",
+			"/banners/rnd_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/rnd_horizontal.avif",
+			"/banners/rnd_horizontal.webp",
+			"/banners/rnd_horizontal.jpg"
+		],
+		"position": "center 20%",
+		"epigraph": "The science itself may prove cynical. However, one mustn't forget that there is a scientific element in all things. The important truth is this: I am the master of my fate, I am the captain of my soul",
+		"description": [
+			"2020. World line divergence rate: 1.048596%.",
+			"<br />",
+			"While consumer-use robots receiving the benefits of a networked society are becoming more widespread, the robot rebellion incident in February showed the vulnerability of that sort of information society. While it was a global crisis through the network, it was prevented by high school students of Tanegashima island, where the battle took place.",
+			"<br />",
+			"Half a year later. Tanegashima is flooded with people as it prepares for its summer festival. One of the high school students that saved the world from crisis, the protagonist Yashio Kaito, has since graduated and returns to his hometown of Tanegashima after a long time away.",
+			"<br />",
+			"During his return, he meets a middle-aged man named Hashida Itaru, who has a mutual friend and came to Tanegashima to see the sights. However, he cannot help but find his behavior strange. Although this man is actually a super hacker with world-class skills, Kaito has yet to learn this fact. Before long, events that disrupt everyday life start to repeatedly occur.",
+			"<br />",
+			"That was the sign of a conspiracy that is once again trying to throw the world into chaos."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/1111390/ROBOTICSNOTES_DaSH/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/rnd-patch/releases"
+		},
+		"guide": {
+			"name": "Committee of Zero 100% Spoiler-free Guide",
+			"url": "https://sonome.dareno.me/projects/rnd-walkthrough.html",
+			"optional": false
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/rnd",
+				"name": "Must watch before playing the game"
+			}
+		],
+		"screenshots": [
+			[
+				[
+					"/screenshots/rnd/1.jpg"
+				],
+				"visible"
+			]
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/rnd-steam.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/rnd-steam.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			}
+		]
+	},
+	{
+		"title": "ANONYMOUS;CODE",
+		"jpn": "アノニマス・コード",
+		"name": "ac",
+		"year": "2022-07-28",
+		"covers": [
+			"/banners/ac_banner1.avif",
+			"/banners/ac_banner1.webp",
+			"/banners/ac_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/ac_horizontal.avif",
+			"/banners/ac_horizontal.webp",
+			"/banners/ac_horizontal.jpg"
+		],
+		"position": "center",
+		"epigraph": "The fact that you've arrived here-rather, to this save point- at this moment in your life is nothing short of a miracle. It delights me to no end. Step through the stage's curtain; rip off the mask of the wizard who pulls the strings. Close the loop. Hack into God.",
+		"description": [
+			"“The fact that you've arrived here―rather, to this save point―at this moment in your life is nothing short of a miracle. It delights me to no end. Step through the stage's curtain; rip off the mask of the wizard who pulls the strings. Close the loop. Hack into God”.",
+			"<br />",
+			"——February 6, 2036 - Time, 15:28:15",
+			"<br />",
+			"Every computer on Earth overflowed past the maximum limit of the 4,294,967,295 seconds granted within the Digital Standard Clock that had been ticking away since 1900, leading to the worst-case scenario: all Defense-Attack consoles throughout the world majorly malfunctioning. Military satellites roared like Hammers of God as they showered instant devastation upon the world's major cities. New York, London, Shanghai, Moscow, and Shinjuku. This large-scale disaster came to be known as “Sad Morning”. Was this simply judgment being handed down onto mankind? If so, then who could that judge be? Or instead, could this merely be the preface to a far greater calamity...?",
+			"<br />",
+			"The curtains to the story of Anonymous;Code rise during an unsettling series of events set in Nakano, Tokyo - Year 2037."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/2291020/ANONYMOUSCODE/"
+			}
+		],
+		"patch": {
+			"url": "https://github.com/CommitteeOfZero/ac-patch/releases"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2023/09/03/anonymouscode-100-guide/",
+			"optional": true
+		},
+		"sideContent": [
+			{
+				"url": "/sidecontent/ac",
+				"name": "Must watch before or after playing the game"
+			}
+		],
+		"faq": [
+			{
+				"question": "Do I really need to apply the patch?",
+				"answer": [
+					"Yes, you absolutely need to install the patch.",
+					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
+					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/ac-patch.html' target='_blank'>check it here</a>."
+				]
+			},
+			{
+				"question": "How do I apply the patch?",
+				"answer": [
+					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
+					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/ac-patch.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+				]
+			}
+		]
+	},
+	{
+		"title": "STEINS;GATE Re:Boot",
+		"jpn": "シュタインズ・ゲート リ・ブート",
+		"name": "sgrb",
+		"year": "2026-08-20",
+		"covers": [
+			"/banners/sgrb_banner1.avif",
+			"/banners/sgrb_banner1.webp",
+			"/banners/sgrb_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sgrb_horizontal.avif",
+			"/banners/sgrb_horizontal.webp",
+			"/banners/sgrb_horizontal.jpg"
+		],
+		"position": "center 20%",
+		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+		"description": [
+			"STEINS;GATE Returns! Rebooted for the modern era!",
+			"Updated visuals, refined UI, and a revitalized story!",
+			"<br />",
+			"STEINS;GATE follows a ragtag group of tech-savvy students led by Okabe Rintarou, whose latest invention accidentally gains the ability to send messages to the past, unleashing the power to alter history itself.",
+			"As global conspiracies stir and timelines begin to twist, the curtain rises on a future steeped in chaos."
+		],
+		"downloads": [
+			{
+				"platform": "Steam",
+				"url": "https://store.steampowered.com/app/4012810/STEINSGATE_REBOOT/"
+			}
+		]
+	},
+	{
+		"title": "STEINS;???",
+		"jpn": "シュタインズ○○",
+		"name": "sq",
+		"year": "TBA",
+		"covers": [
+			"/banners/s_banner1.avif",
+			"/banners/s_banner1.webp",
+			"/banners/s_banner1.png"
+		],
+		"coversHorizontal": [
+			"/banners/sq_horizontal.avif",
+			"/banners/sq_horizontal.webp",
+			"/banners/sq_horizontal.jpg"
+		],
+		"position": "center",
+		"description": "Steins;??? (tentative title) is an upcoming video game developed by Chiyomaru Studio and MAGES, the latter of which would publish the game. It is a thematic sequel to STEINS;GATE (2009). The game is being planned by MAGES' representative director Shikura Chiyomaru, and previously went under the working title “Steins;God”.",
+		"downloads": []
+	}
+]

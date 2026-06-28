@@ -1,0 +1,2066 @@
+[
+    {
+        "title": "CHAOS;HEAD NoAH",
+        "name": "chn",
+        "logo": [
+            "/logos/chn.avif",
+            "/logos/chn.webp",
+            "/logos/chn.png"
+        ],
+        "faq": [
+        	{
+       			"question": "¿Por qué no puedo mirar el anime?",
+            	"answer": [
+             		"El anime de CHAOS;HEAD no es en absoluto un reemplazo para la novela visual. Sus 12 episodios no logran captar el concepto de la novela visual original, y mucho menos de la versión NoAH.",
+               		"Si aun así quieres verlo para reírte un poco, hazlo sólo después de terminar CHAOS;HEAD NoAH, ya que el anime por sí mismo no es bueno."
+             	]
+         	}
+        ],
+        "list": [
+            {
+                "uuid": "019ef96c-52a8-7000-9356-2ac6847daada",
+                "title": "CHAOS;HEAD",
+                "date": "2008-10-09",
+                "finishDate": "2008-12-25",
+                "essential": false,
+                "notRecommended": true,
+                "incomplete": false,
+                "type": "anime",
+                "urls": [
+                    {
+                        "name": "[Torrent] (ENG Subs)",
+                        "url": "magnet:?xt=urn:btih:0fef6af4323cd34cf78608800e2ef17e64c73fa0&dn=Chaos%3BHead%20%282008%29%20%5B1080p%20x265%20HEVC%2010bit%20BluRay%20Dual%20Audio%20AAC%5D%20%5BProf%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ],
+                "notes": [
+                    "No mires el anime antes que la novela visual, es una adaptación horrible y arruinará tu experiencia."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7001-b82f-b6c7f602bcfd",
+                "title": "Chaos;Chat",
+                "date": "2008-12-28",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/PTOKFQapmu9Z6MYG.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7002-9668-2b8b873a492f",
+                "title": "CHAOS;HEAD Blue Complex",
+                "date": "2009-02-23",
+                "finishDate": "2009-08-22",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[MangaDex] (Sólo en inglés)",
+                        "url": "https://mangadex.org/title/2d4fdda0-cfb0-4bec-9417-08c6fac229e4/chaos-head-blue-complex"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7003-bc8e-62f7b097d81f",
+                "title": "CHAOS;HEAD",
+                "date": "2009-04-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Novel Cool]",
+                        "url": "https://es.novelcool.com/novel/Chaos-Head.html"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7004-b2ae-465360c0d26f",
+                "title": "Delirio del cero",
+                "date": "2009-08-05",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [],
+                "notes": [
+                    "Un monólogo de una historia corta ambientada 18 meses antes de los eventos de Chaos;Head NoAH. Está disponible dentro del juego como parte del parche de CoZ después de terminar el final verdadero."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7005-9742-88b509472fa4",
+                "title": "CHAOS;HEAD Delusional Voices: Shino Hazuki Chapter",
+                "date": "2009-08-05",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=t03pqYQyF3U"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7006-8a94-bde1d8881283",
+                "title": "Chaos;Gate",
+                "date": "2009-09-30",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[PDF]",
+                        "url": "https://drive.google.com/file/d/1ZRbN95mDPIY76cQ6MNa2w6imE7dzDK9m/view"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7007-8600-8077c4a47fb2",
+                "title": "CHAOS;HEAD Normie Complex",
+                "date": "2010-03-25",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[EPUB] (Sólo en inglés)",
+                        "url": "https://files.catbox.moe/gzff4d.epub",
+                        "external": true,
+                        "externalName": "Chaos;Head Normie Complex.epub"
+                    },
+                    {
+                        "name": "[EPUB] (Mirror) (Sólo en inglés)",
+                        "url": "https://file.garden/afE1MkDycVrE3Bhr/Chaos%3BHead%20Normie%20Complex.epub"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7008-b7f1-2c1e48ce3ac4",
+                "title": "Tríptico de una cadena abrupta: pabellón enigmático",
+                "date": "2013-08-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=Mxikgi5nVNI"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "STEINS;GATE",
+        "name": "sg",
+        "logo": [
+            "/logos/sg.avif",
+            "/logos/sg.webp",
+            "/logos/sg.png"
+        ],
+        "faq": [
+	        {
+		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
+				"answer": [
+					"Absolutamente no. El anime de STEINS;GATE no es un reemplazo de la obra original, aunque sigue siendo una de las mejores adaptaciones de esta serie de juegos.",
+					"Si ya lo viste, aun así debes jugar la novela visual, ya que muchos detalles se perdieron en la adaptación."
+				]
+	        },
+        	{
+      			"question": "¿Cuál es el orden correcto para ver STEINS;GATE?",
+           		"answer": [
+            		"Mientras que muchas guías en línea recomiendan un orden específico para consumir STEINS;GATE, sólo hay una opción correcta.",
+              		"STEINS;GATE debe mirarse en orden de emisión:",
+                	[
+               			"STEINS;GATE Anime (2011)",
+               			"Egoistic Poriomania OVA (2012)",
+                 		"STEINS;GATE Película: Load Region of Déjà Vu (2013)"
+                 	],
+                	"Con todo eso visto, puedes jugar la novela visual de STEINS;GATE 0 y luego mirar el anime también en orden de emisión:",
+                 	[
+                  		"STEINS;GATE Episodio 23β: Open the Missing Link OVA (2015)",
+                    	"STEINS;GATE 0 Anime (2018)",
+                     	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
+                  	],
+                 	"No hay otro orden. No te dejes engañar por gente en línea; de lo contrario, podrías arruinar tu experiencia."
+            	]
+        	}
+        ],
+        "list": [
+            {
+                "uuid": "019ef96c-52a8-7009-b45b-7717c83d58c0",
+                "title": "Future Gadget Radio Show Comiket 77",
+                "date": "2009-12-29",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=pH73zQy3Opg"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-700a-ac75-317a32f60093",
+                "title": "STEINS;GATE Año Nuevo",
+                "date": "2009-12-29",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTA8YB4ZCXmJNt11oBTqzE2z"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-700b-a55f-fcf66b1440c3",
+                "title": "Babel de un laberinto de penurias",
+                "date": "2010-03-31",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=Uq4RL-PhQLo"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-700c-b7cd-cb3dcddea6b7",
+                "title": "Magi-Cue 4Koma: World Line Divergence x.091015%",
+                "date": "2010-04-24",
+                "finishDate": "2011-04-25",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[MangaDex] (Sólo en inglés)",
+                        "url": "https://mangadex.org/title/6d16184b-c951-4370-968f-ef6befc29377/magi-cue-4koma-steins-gate-world-line-fluctuation-rate-x-091015"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-700d-bb55-a5466ad6b3e0",
+                "title": "Arco de luz del punto de infinidad",
+                "date": "2010-04-28",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=TZk9Y1EiNP4"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-700e-b441-075386188743",
+                "title": "Hyde de la dimensión oscura",
+                "date": "2010-06-02",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=1Qdkx446ZE0"
+                    }
+                ],
+                "notes": [
+                    "Un Drama CD que tiene lugar en el campo de atracción Gamma, reutilizado el contenido de lo que originalmente era una ruta de Moeka que fue eliminada de la novela visual."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-700f-801d-9797f8857593",
+                "title": "STEINS;GATE",
+                "date": "2010-06-19",
+                "finishDate": "2013-07-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Barnes & Noble] (Sólo en inglés)",
+                        "url": "https://www.barnesandnoble.com/w/steins-gate-5pb/1147230522?ean=9781772942095"
+                    },
+                    {
+                    	"name": "[VisorManga] (Incompleto)",
+                    	"url": "https://visormanga.com/manga/steins-gate"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7010-b4cc-fb1fdd14078e",
+                "title": "Rebellion of the Missing Ring",
+                "date": "2010-08-10",
+                "finishDate": "2011-10-08",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[VisorManga]",
+                        "url": "https://visormanga.com/manga/steins-gate-boukan-no-rebellion"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7011-9c23-15686880d9eb",
+                "title": "Future Gadget Radio Show Comiket 78",
+                "date": "2010-08-13",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=yw0rwf5UXoE"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7012-b467-a7390a7c99ab",
+                "title": "Laboratory Member Round Table Meetings",
+                "date": "2010-08-13",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTASh8_DF0oEyRE62UO5hp7j"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7013-a010-b5b2cd9fe2fe",
+                "title": "El Valhalla distante",
+                "date": "2010-08-13",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "lightnovel",
+                "urls": [
+                    {
+                        "name": "[PDF]",
+                        "url": "https://drive.google.com/file/d/1gAYcllGP4ym4zGoH_6pLeCz9mKtA85li/view"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7014-b519-bfbec0a08ced",
+                "title": "Uroboros de eslabones encadenados",
+                "date": "2010-08-20",
+                "finishDate": "2011-03-19",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "lightnovel",
+                "urls": [
+                	{
+               			"name": "YouTube",
+                		"url": "https://www.youtube.com/watch?v=B5Z-vwLavY4"
+                 	}
+                ],
+                "notes": [
+                	"Un fragmento de la novela ligera en formato audiovisual, realizado por el Science Adventure Podcast. En él se presentan conceptos que ayudan a comprender lo que realmente pasó para que la operación Skuld fuera posible."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7015-acc1-c3c475e122a8",
+                "title": "STEINS;GATE Audio Series: Laboratory Members",
+                "date": "2010-08-25",
+                "finishDate": "2010-11-24",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTDrvH1Pn4CJQtd2qjODIqil"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7016-ab47-86f93dae1969",
+                "title": "Natividad del desastre",
+                "date": "2010-12-17",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/SDBApPBOBD6xkWOk.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7017-b75a-02bff536f5ae",
+                "title": "STEINS;GATE",
+                "date": "2011-04-06",
+                "finishDate": "2011-09-14",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "anime",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ],
+                "notes": [
+                    "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
+                    "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden para ver el anime está en la sección de preguntas y respuestas."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7018-8790-5899612ac3ed",
+                "title": "Movimiento brauniano de amor y odio",
+                "date": "2011-05-14",
+                "finishDate": "2012-07-14",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[VisorManga]",
+                        "url": "https://visormanga.com/manga/steins-gate-onshuu-no-brownian-motion"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7019-8433-176ffa413f08",
+                "title": "Steins;Gate Comptiq, julio de 2011",
+                "date": "2011-06-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLX4h9Ic72mHWWLKMfDcF21thdjCEEMUOE"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-701a-ae47-e82de845cac2",
+                "title": "Hohoemi Douga no Metafiction Disc 1",
+                "date": "2011-06-22",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTA3u-8w5JMuXuQK8FiYjXcl"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-701b-9eca-82024e502433",
+                "title": "Hot Springs of the Royal Road Balance",
+                "date": "2011-06-22",
+                "finishDate": "2011-10-26",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube Parte 1] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=vqovjYmBT10"
+                    },
+                    {
+                        "name": "[YouTube Parte 2] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=crQcrr5LAb4"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-701c-8f61-704cd9a090aa",
+                "title": "History's Strongest Light Fever",
+                "date": "2011-06-25",
+                "finishDate": "2012-09-26",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[MangaDex] (Sólo en inglés)",
+                        "url": "https://mangadex.org/title/529c7348-fa11-4a8e-8361-3c0d7c7f5e56/steins-gate-the-strongest-slight-fever-in-history?tab=chapters"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-701d-956c-94c2ed412c3b",
+                "title": "Steins;Gate!",
+                "date": "2011-08-23",
+                "finishDate": "2012-05-23",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[MangaDex] (Sólo en inglés)",
+                        "url": "https://mangadex.org/title/fc597cc3-2e23-40bd-b0d8-992f91891cab/steins-gate"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-701e-8485-e152b45ce313",
+                "title": "Steins;Gate Comptiq, octubre de 2011",
+                "date": "2011-09-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLX4h9Ic72mHWX1KkhgIvOIDdos2grs5OT"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-701f-875e-f7263edca255",
+                "title": "Steins;Gate Comptiq Ace, noviembre de 2011",
+                "date": "2011-09-26",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLX4h9Ic72mHX3i5tds8UJ7SzPFpc-JWvx"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a8-7020-82d0-661b95321cd8",
+                "title": "La desaparición de Hououin Kyouma",
+                "date": "2011-10-26",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=w-dQmP0xarQ"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7000-b267-b3e5e25dbd80",
+                "title": "Antología de Steins;Gate: La reunión del espacio alucinado",
+                "date": "2011-12-29",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=FEC2cm8cojk"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7001-8617-479a46dc5f2b",
+                "title": "Egoistic Poriomania",
+                "date": "2012-02-22",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "animeova",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7002-bb65-8ff33fe74894",
+                "title": "Steins;Gate: Votos de un futuro amor",
+                "date": "2012-04-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[ChapterCodex]",
+                        "url": "https://chaptercodex.com/es/manga/steins-gate-votos-de-un-futuro-amor"
+                    }
+                ],
+                "notes": [
+                    "Este manga es una adaptación de la ruta de Suzuha de STEINS;GATE: My Darling's Embrace."
+                ],
+                "must": {
+                	"name": "STEINS;GATE: My Darling's Embrace",
+                 	"link": "/entries/sgmde",
+                  	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-7003-8da9-1586c7b8daa7",
+                "title": "Steins;Gate: Votos de un dulce amor",
+                "date": "2012-04-10",
+                "finishDate": "2013-07-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[MangaDex] (Sólo en inglés)",
+                        "url": "https://mangadex.org/title/64897926-3836-4307-a89d-86fb4d4ae4af/steins-gate-hiyoku-renri-no-sweets-honey"
+                    },
+                    {
+                        "name": "[VisorManga] (Incompleto)",
+                        "url": "https://visormanga.com/manga/steins-gate-hiyoku-renri-no-sweets-honey"
+                    }
+                ],
+                "notes": [
+                    "Este manga es una adaptación de la ruta de Kurisu de STEINS;GATE: My Darling's Embrace."
+                ],
+                "must": {
+                	"name": "STEINS;GATE: My Darling's Embrace",
+                 	"link": "/entries/sgmde",
+                  	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-7005-8b5e-271db0a27eac",
+                "title": "Antología de Steins;Gate: Vacaciones de una silueta efímera",
+                "date": "2012-09-26",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTD3C5Lrsq8qVTCRGOu1sCNz"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7006-9dd0-86eb1f1e7353",
+                "title": "Epitaxia de la superficie curva proyectada",
+                "date": "2012-11-09",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=5Wfyz2Yoo5E"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7007-9e48-7d97543b15ac",
+                "title": "Babel de un laberinto de penurias",
+                "date": "2012-12-19",
+                "finishDate": "2014-02-19",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Novel Cool]",
+                        "url": "https://es.novelcool.com/novel/Steins-Gate-Aishin-Meizin-No-Babel.html"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7008-87c1-62852f6805a4",
+                "title": "Pandemia de maquinaria artificial",
+                "date": "2013-01-25",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=_ezYmslHSaY"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7009-a06e-c927546b546f",
+                "title": "Steins;Gate Película: El chisme del rubor secreto",
+                "date": "2013-04-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=HVDl_BIPNZc"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-700a-8159-76093872138c",
+                "title": "Steins;Gate: Votos de un amor + crisis Nyan²☆",
+                "date": "2013-04-13",
+                "finishDate": "2013-07-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[MangaDex] (Sólo en inglés)",
+                        "url": "https://mangadex.org/title/04ce410f-d9a4-4bc2-baec-b3a78fb3601e/steins-gate-hiyoku-renri-nyan-crisis"
+                    }
+                ],
+                "notes": [
+                	"Este manga es una adaptación de la ruta de Faris de STEINS;GATE: My Darling's Embrace."
+                ],
+                "must": {
+                	"name": "STEINS;GATE: My Darling's Embrace",
+                 	"link": "/entries/sgmde",
+                 	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-700b-aed0-3b3b76a20677",
+                "title": "Steins;Gate: Variant Space Octet",
+                "date": "2013-04-13",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[VisorManga]",
+                        "url": "https://visormanga.com/manga/steins-gate-octet-of-spatial-mutation"
+                    }
+                ],
+                "must": {
+                	"name": "CHAOS;HEAD NoAH",
+                 	"link": "/entries/chn",
+                 	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-700c-8de2-5d50bbf63e9a",
+                "title": "Steins;Gate: Load Region of Déjà Vu",
+                "date": "2013-04-20",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "animemovie",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-700d-b8ff-2c15406a6f86",
+                "title": "Arpeggio of Time's Rotation",
+                "date": "2013-06-28",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=zKFiqymnTUU"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-700e-b1e4-aa8a1efc38a0",
+                "title": "Steins;Gate: Epígrafe de la curva temporal cerrada",
+                "date": "2013-07-13",
+                "finishDate": "2014-05-15",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[VisorManga]",
+                        "url": "https://visormanga.com/manga/steins-gate-heiji-kyokusen-no-epigraph"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-700f-920b-7e80c557f23f",
+                "title": "Tríptico de una cadena abrupta: el escenario de ensueño de una idol",
+                "date": "2013-08-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=1KI4zbdiBJY"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7010-bc3e-99c6b3292823",
+                "title": "Steins;Gate Stage Play - Living ADV",
+                "date": "2013-10-12",
+                "finishDate": "2013-10-20",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "stageplay",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAg-3-dsjVe7w9ytoCjVzrH"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7011-8a2f-9e1bac8db254",
+                "title": "Steins;Gate Película: Una existencia a posteriori",
+                "date": "2013-12-13",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAMfKf2mj_-EjBYMbn9uSIL"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7012-9268-5dc57e2ffc8a",
+                "title": "Steins;Gate Movie: Sinfonía de los meandros ocultos en la ambigüedad",
+                "date": "2013-12-13",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=qKDhQVVLbEg"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7013-a3eb-a3c2c63951f1",
+                "title": "Steins;Gate: Wisdom of Cognitive Computing",
+                "date": "2014-10-14",
+                "finishDate": "2014-11-11",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "animeona",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7014-8775-d09a9d311362",
+                "title": "Steins;Gate: Epigraph de la curva cerrada Extract Scenes",
+                "date": "2014-12-28",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLX4h9Ic72mHUeu5QG2ohA1ildTHolbbPQ"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7015-b4c7-4a9e20bcf704",
+                "title": "Steins;Gate: Pandora del retorno eterno",
+                "date": "2015-02-14",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Zona TMO]",
+                        "url": "https://zonatmo.com/library/manga/29850/steinsgateeigoukaikinopandora"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7016-95e4-4916ea4770ff",
+                "title": "Steins;Gate: Arco de luz del punto de infinidad",
+                "date": "2015-02-14",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[VisorManga]",
+                        "url": "https://visormanga.com/manga/steins-gate-mugen-enten-no-arc-light"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7017-afe0-533fed2de5b0",
+                "title": "Steins;Gate: Inductancia de Rotación de Mundo",
+                "date": "2015",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "anime",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=Aex65Go2QC0"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7018-92bf-ba283b26793e",
+                "title": "Steins;Gate: Okabe Rintarou Birthday Special ",
+                "date": "2017-12-05",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/Fm0mTJMX8CPvGL5T.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-701a-860c-ee4bbabd4920",
+                "title": "STEINS;GATE ELITE",
+                "date": "2018-09-20",
+                "essential": false,
+                "notRecommended": true,
+                "incomplete": false,
+                "type": "visualnovel",
+                "urls": [
+                    {
+                        "name": "[Steam]",
+                        "url": "https://store.steampowered.com/app/819030/STEINSGATE_ELITE/"
+                    },
+                    {
+                        "name": "[Committee of Zero Patch]",
+                        "url": "https://github.com/CommitteeOfZero/sge-patch/releases"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-701b-904b-f9b65f20f615",
+                "title": "8-bit ADV STEINS;GATE",
+                "date": "2018-09-20",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "visualnovel",
+                "urls": [
+                    {
+                        "name": "NES ROM [Directa]",
+                        "url": "https://archive.org/download/8bit-adv-steinsgate/steinsgate.nes"
+                    }
+                ],
+                "notes": [
+                    "Este juego es exclusivo de la versión de Nintendo Switch de STEINS;GATE ELITE."
+                ],
+                "must": {
+                	"name": "STEINS;GATE: Linear Bounded Phenogram",
+                 	"link": "/entries/sglbp",
+                 	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-701c-80d9-e9651afbdab5",
+                "title": "Steins;Gate x Hello Kitty: Chance Encounter of Goldig Party",
+                "date": "2020-01-23",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "visualnovel",
+                "urls": [
+                    {
+                        "name": "[GitHub] (Sólo en inglés)",
+                        "url": "https://github.com/NS2C/ns2c.github.io/releases/tag/1.0.0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "ROBOTICS;NOTES ELITE",
+        "name": "rne",
+        "logo": [
+            "/logos/rne.avif",
+            "/logos/rne.webp",
+            "/logos/rne.png"
+        ],
+        "faq": [
+        	{
+       			"question": "¿Por qué no puedo mirar el anime?",
+            	"answer": [
+             		"El anime de ROBOTICS;NOTES no es un reemplazo para la novela visual. A pesar de tener 22 episodios, no es una adaptación fiel.",
+               		"Si aun así quieres verlo, hazlo sólo después de terminar la novela visual de ROBOTICS;NOTES."
+             	]
+         	}
+        ],
+        "list": [
+            {
+                "uuid": "019ef96c-52a9-701d-8aeb-c14dbaf4484f",
+                "title": "ROBOTICS;NOTES",
+                "date": "2012-07-10",
+                "finishDate": "2014-09-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Barnes & Noble Volumen 1] (Sólo en inglés)",
+                        "url": "https://www.barnesandnoble.com/w/robotics-notes-volume-1-5pb/1143703929?ean=9781772942873"
+                    },
+                    {
+                        "name": "[Barnes & Noble Volumen 2] (Sólo en inglés)",
+                        "url": "https://www.barnesandnoble.com/w/robotics-notes-volume-2-5pb/1143703928?ean=9781772942880"
+                    },
+                    {
+                        "name": "[Barnes & Noble Volumen 3] (Sólo en inglés)",
+                        "url": "https://www.barnesandnoble.com/w/robotics-notes-volume-3-5pb/1143703930?ean=9781772942897"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-701e-ab44-dfe8d64e53e8",
+                "title": "Winter Sky Rocket",
+                "date": "2012-09-26",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=xEst-wTZGMU"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-701f-9a40-9a775f3063ec",
+                "title": "ROBOTICS;NOTES Fase secundaria: Un mapa, la lluvia y los macarrones.",
+                "date": "2012-09-29",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/W3WBOPcjW7QFx4kM.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7020-a00b-b1f10a068e00",
+                "title": "ROBOTICS;NOTES",
+                "date": "2012-10-12",
+                "finishDate": "2013-03-22",
+                "essential": false,
+                "notRecommended": true,
+                "incomplete": false,
+                "type": "anime",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:901c363c97eeaf79d8fe105554564596b464fbc3&dn=%5BDB%5D%20Robotics%3BNotes%20%5BDual%20Audio%2010bit%20BD1080p%5D%5BHEVC-x265%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7021-bb08-878257ff0d74",
+                "title": "Robotics;Notes: Revival Legacy",
+                "date": "2012-12-19",
+                "finishDate": "2014-01-17",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Novel Cool]",
+                        "url": "https://es.novelcool.com/novel/Robotics-Notes-Revival-Legacy.html"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7022-9047-f50818e24a8a",
+                "title": "Un día en la tienda general de Irei",
+                "date": "2013-01-23",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=VinXCbB_Iv0"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7023-b681-a4d3f795d698",
+                "title": "Un día en la vida de Koujiro Frau",
+                "date": "2013-04-08",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=-wfsLasxy18"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7024-afcc-1cc841027e3f",
+                "title": "Nuestro Año Nuevo",
+                "date": "2013-07-24",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=Atj7R-O8DjY"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7025-b29b-2221a1e42896",
+                "title": "Las Memorias Inéditas de Senomiya Misaki",
+                "date": "2013-08-27",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[MangaDex]",
+                        "url": "https://mangadex.org/title/9f8b295d-06fd-4be7-bcc6-62c3bf0fe4a0/robotics-notes-senomiya-misaki-no-mihappyou-shuki"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7026-a93e-2a7f741badbe",
+                "title": "Al final de nuestro sueño",
+                "date": "2013-09-25",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=FVoSXe0vBwk"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7028-823f-594f3d2aa229",
+                "title": "Tomorrow in the Box",
+                "date": "2014-01-24",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/5u7PlpkKy19J9T2E.pdf"
+                    }
+                ],
+                "notes": [
+                    "Una historia crossover interconectada con los protagonistas de los 3 juegos principales anteriores. Puede leerse una vez que hayas terminado CHAOS;HEAD NoAH, STEINS;GATE y ROBOTICS;NOTES ELITE."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7029-abcf-6a0284831fd9",
+                "title": "Merry Christmas",
+                "date": "2014-01-24",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/GIJfKTV1yJcm0mUX.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-702a-b70d-245ee51f6f1b",
+                "title": "El hogar de nuestros sueños",
+                "date": "2019-01-31",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=lMd1NxIYtxU"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "CHAOS;CHILD",
+        "name": "cc",
+        "logo": [
+            "/logos/cc.avif",
+            "/logos/cc.webp",
+            "/logos/cc.png"
+        ],
+        "faq": [
+        	{
+       			"question": "¿Por qué no puedo mirar el anime?",
+            	"answer": [
+             		"El anime de CHAOS;CHILD no es un reemplazo para la novela visual. Sus 13 episodios no logran captar el concepto de la novela visual original, más que nada porque la producción fue apresurada debido a problemas de presupuesto.",
+               		"Si aun así quieres verlo, hazlo sólo después de terminar la novela visual de CHAOS;CHILD, ya que el anime no es una buena adaptación."
+             	]
+         	}
+        ],
+        "list": [
+            {
+                "uuid": "019ef96c-52a9-702b-91e8-700b5d47f051",
+                "title": "Chaos;Child: Comic Trailer",
+                "date": "2014-01-24",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Arc Relight] (Sólo en inglés)",
+                        "url": "https://arc-relight.com/reader/comic-trailer/"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-702c-8c13-6ae1946e5041",
+                "title": "Chaos;Child Prólogo: El día en que todo comenzó",
+                "date": "2014-11-26",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[Guión] (Sólo en inglés)",
+                        "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=1623103648#gid=1623103648"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-702d-86f2-843edb785f2e",
+                "title": "Demasiado tarde: necios dormidos",
+                "date": "2015-06-25",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PLy_Bwyf7LCb5c73MCP0JRgVd2uovEYRoN"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-702e-87f6-d550b0429878",
+                "title": "Chaos;Child: Las memorias de un doctoinconsciente",
+                "date": "2015-12-10",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "lightnovel",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/mZ9iOBaahXHXFsjG.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-702f-9413-e88cab6a3891",
+                "title": "CHAOS;CHILD",
+                "date": "2016-08-27",
+                "finishDate": "2018-02-28",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": true,
+                "type": "manga",
+                "urls": [
+                	{
+               			"name": "[Novel Cool]",
+                		"url": "https://es.novelcool.com/novel/Cha-s-Child.html"
+                 	}
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7030-8e24-dd7a25f3601e",
+                "title": "El estrecho sendero de los caminos trillados",
+                "date": "2016-12-29",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PL1no7IlUs7O94KEKGSdPUQekV6X1ByOky"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7031-85a0-49a0df4b994c",
+                "title": "CHAOS;CHILD",
+                "date": "2017-01-11",
+                "finishDate": "2017-03-29",
+                "essential": false,
+                "notRecommended": true,
+                "incomplete": false,
+                "type": "anime",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:12c5a025406fda4011c18a55b5e8e2adc6fcf914&dn=%5Bkmplx%5D%20ChaoS%3BChild%20%28BD%201080p%20x265%2010-Bit%20Opus%29%20%5BDual-Audio%5D%20%7C%20Ch%C3%A4oS%3BChild%2C%20Silent%20Sky&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ],
+                "notes": [
+                    "No mires el anime antes que la novela visual, es una adaptación horrible y arruinará tu experiencia.",
+                    "El torrent incluye el anime y la película."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7032-941a-9e3d40f01442",
+                "title": "El día a día de los Chaos Children",
+                "date": "2017-01-11",
+                "finishDate": "2013-03-29",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[Tumblr] (Sólo en inglés)",
+                        "url": "https://nishijoutakumi.tumblr.com/search/Chaos;Child%20Anime%20Side%20Story"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7033-b0f5-47585d83ea13",
+                "title": "El doctoconsciente conecta los casos",
+                "date": "2017-01-25",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=581fR6Da64o"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7034-99e7-377387a9b8b3",
+                "title": "Children's Collapse",
+                "date": "2017-01-27",
+                "finishDate": "2019-01-09",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                   		"name": "[Capibara Traductor]",
+                    	"url": "https://capibaratraductor.com/bakaguya/manga/chaoschild-childrens-collapse"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7035-85e2-c0c7b6b1897c",
+                "title": "First Time Going Out",
+                "date": "2017-01-27",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[MangaDex] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/IX4VVKFnUf4GMskw.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7036-9e1a-1eade40dda03",
+                "title": "¿Sueñan Takuru y Serika con stickers de sumo?",
+                "date": "2017-03-24",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PL1no7IlUs7O8ploVbOM-xP16Ctsd1HEIe"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7037-a53c-0a4e5d20be86",
+                "title": "El doctoconsciente y un cierto día libre",
+                "date": "2017-03-24",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[Guión] (Sólo en inglés)",
+                        "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=1389499898#gid=1389499898"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7038-916b-2a720c5046f9",
+                "title": "Una melodía inocente que induce al sueño",
+                "date": "2017-03-29",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[Guión] (Sólo en inglés)",
+                        "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=1740638505#gid=1740638505"
+                    }
+                ],
+                "must": {
+                	"name": "CHAOS;CHILD Love Chu☆Chu!!",
+                 	"link": "/entries/cclcc",
+                 	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-7039-b6a7-3d74b51ed07b",
+                "title": "Chaos;Child: Children's Revive",
+                "date": "2017-03-31",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "lightnovel",
+                "urls": [
+                    {
+                        "name": "[EPUB] (Sólo en inglés)",
+                        "url": "https://files.catbox.moe/zssot8.epub",
+                        "external": true,
+                        "externalName": "Chaos;Child： Children's Revive.epub"
+                    },
+                    {
+                        "name": "[EPUB] (Mirror) (Sólo en inglés)",
+                        "url": "https://file.garden/afE1MkDycVrE3Bhr/Chaos%3BChild%EF%BC%9A%20Children's%20Revive.epub"
+                    }
+                ],
+                "must": {
+                	"name": "CHAOS;CHILD Love Chu☆Chu!!",
+                 	"link": "/entries/cclcc",
+                 	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-703a-a5fd-4b74930f085a",
+                "title": "La melodía de la paz que induce al sueño",
+                "date": "2017-04-19",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[Guión] (Sólo en inglés)",
+                        "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=428550070#gid=428550070"
+                    }
+                ],
+                "must": {
+                	"name": "CHAOS;CHILD Love Chu☆Chu!!",
+                 	"link": "/entries/cclcc",
+                 	"type": "play"
+                }
+            },
+            {
+                "uuid": "019ef96c-52a9-703b-8997-636ba28eaead",
+                "title": "Investigando las misteriosas \"Siete Maravillas de Shibuya\"",
+                "date": "2017-04-28",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=k5E649JsnI4"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-703c-a674-11d3f4c11cae",
+                "title": "No es un cuaderno de cuero negro",
+                "date": "2017-05-26",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PL1no7IlUs7O-Y-WvM1mZc6wbsws1q2wRp"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-703d-8292-52f6e99f1a02",
+                "title": "Chaos;Child: Silent Sky",
+                "date": "2017-06-17",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "animemovie",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:12c5a025406fda4011c18a55b5e8e2adc6fcf914&dn=%5Bkmplx%5D%20ChaoS%3BChild%20%28BD%201080p%20x265%2010-Bit%20Opus%29%20%5BDual-Audio%5D%20%7C%20Ch%C3%A4oS%3BChild%2C%20Silent%20Sky&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-703e-b0db-9442488d0e00",
+                "title": "Gigalomanía contagiosa",
+                "date": "2017-06-30",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PL1no7IlUs7O-cweI2jL6EWKkVYJ79o3tM"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-703f-bbbf-00bf55c6846d",
+                "title": "La expiación del ángel",
+                "date": "2017-07-28",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PL1no7IlUs7O8jZEx4yy5tvJUV4p_151tx"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7040-a06e-685b26df3d8d",
+                "title": "Deseo",
+                "date": "2017-08-25",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PL1no7IlUs7O8ejQMH-yIdRedAdl_8F-BW"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7041-a37d-745f1a1ff4b3",
+                "title": "Sueño",
+                "date": "2017-09-29",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=hqvnm1XmhvI"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7042-b08b-51297198bb6e",
+                "title": "Maid in Uki",
+                "date": "2019-01-23",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/OJnZM1T6kyrXoXYz.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7043-957a-a9f7dee93af9",
+                "title": "Chaos;Sister",
+                "date": "2019-01-23",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/R1epG16UxyroIegg.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "STEINS;GATE 0",
+        "name": "sg0",
+        "logo": [
+            "/logos/sg0.avif",
+            "/logos/sg0.webp",
+            "/logos/sg0.png"
+        ],
+        "faq": [
+	        {
+		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
+				"answer": [
+					"Absolutamente no. El anime de STEINS;GATE 0 no es un reemplazo de la obra original. De hecho, es una continuación de la novela visual que, esencialmente, sirve como otra ruta.",
+					"Si ya lo viste, aun así debes jugar la novela visual, ya que las otras rutas son esenciales para tener la historia completa."
+				]
+	        },
+        	{
+      			"question": "¿Cuál es el orden correcto para ver STEINS;GATE?",
+	       		"answer": [
+	        		"Mientras que muchas guías en línea recomiendan un orden específico para consumir STEINS;GATE, sólo hay una opción correcta.",
+	          		"STEINS;GATE debe mirarse en orden de emisión:",
+	            	[
+	           			"STEINS;GATE Anime (2011)",
+	           			"Egoistic Poriomania OVA (2012)",
+	             		"STEINS;GATE Película: Load Region of Déjà Vu (2013)"
+	             	],
+	            	"Con todo eso visto, puedes jugar la novela visual de STEINS;GATE 0 y luego mirar el anime también en orden de emisión:",
+	             	[
+	              		"STEINS;GATE Episodio 23β: Open the Missing Link OVA (2015)",
+	                	"STEINS;GATE 0 Anime (2018)",
+	                 	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
+	              	],
+	             	"No hay otro orden. No te dejes engañar por gente en línea; de lo contrario, podrías arruinar tu experiencia."
+	        	]
+        	}
+        ],
+        "list": [
+            {
+                "uuid": "019ef96c-52a9-7044-8c0d-617fec62d120",
+                "title": "Mucho tiempo atrás",
+                "date": "2014-01-24",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/oENJ5iEioM7aYFT3.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7045-ade8-927abd939ecb",
+                "title": "Lyra del amanecer",
+                "date": "2015-11-25",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=VFk28EffpHQ"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7046-991b-964e750b0e75",
+                "title": "Amadeus de una melodía de lamentos",
+                "date": "2015-11-25",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=RUsNt1tcfk0"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7047-b7c0-bb2d93b2ffef",
+                "title": "Steins;Gate Episodio 23β: Open the Missing Link",
+                "date": "2015-12-03",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "animeova",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7048-ba1c-1b735b66b0ac",
+                "title": "El paraíso perdido de la radiación adaptable",
+                "date": "2016-03-02",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=5iyIYNV79Tg"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7049-8d6f-f23e221b03d1",
+                "title": "El amor y afecto de la familia Hashida",
+                "date": "2017-12-29",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAi9KHRjoHWscQyV2wvffgE"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-704a-9da0-dda461b9cab7",
+                "title": "STEINS;GATE 0",
+                "date": "2018-04-03",
+                "finishDate": "2021-02-04",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[Barnes & Noble Volumen 1] (Sólo en inglés)",
+                        "url": "https://www.barnesandnoble.com/w/steins-gate-0-volume-1-nitroplus/1139115390?ean=9781772942101"
+                    },
+                    {
+                        "name": "[Barnes & Noble Volumen 2] (Sólo en inglés)",
+                        "url": "https://www.barnesandnoble.com/w/steins-gate-0-volume-2-nitroplus/1139371660?ean=9781772942262"
+                    },
+                    {
+                        "name": "[Barnes & Noble Volumen 3] (Sólo en inglés)",
+                        "url": "https://www.barnesandnoble.com/w/steins-gate-0-volume-3-nitroplus/1139772422?ean=9781772942286"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-704b-a519-f8d97daf4265",
+                "title": "STEINS;GATE 0",
+                "date": "2018-04-12",
+                "finishDate": "2021-09-27",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "anime",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ],
+                "notes": [
+                    "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
+                    "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden para ver el anime está en la sección de preguntas y respuestas."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-704c-a18a-40061a3b131f",
+                "title": "El concierto eterno de los Hashida",
+                "date": "2018-04-30",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAUV1dEv37A73qrJ_lH5p0L"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-704d-aae0-695118e31ba8",
+                "title": "Encuentro en torno a un café de mezcla",
+                "date": "2018-06-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=TVuQQ1H0WVQ"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-704e-a573-5e69fbee1b27",
+                "title": "La familia Hashida en plena canícula",
+                "date": "2018-08-10",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTCtfeiMACB9iPMx_m5jhxnO"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-704f-a014-565cbe6eb3e1",
+                "title": "La fuga de las partículas libres",
+                "date": "2018-08-24",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=6uebThLrS9c"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7050-9513-804a78ad1af7",
+                "title": "Aria de luz de estrellas",
+                "date": "2018-08-29",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=nYI58hWOsJU"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7051-8be5-41bf8d92250f",
+                "title": "Charco de una lluvia de lágrimas",
+                "date": "2018-09-19",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=a35AfMuA068"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7052-9500-49df37afe505",
+                "title": "Festín de las valquirias",
+                "date": "2018-11-28",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=E8ficBa9Ax0"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7053-90d3-ea6c85533104",
+                "title": "Valentine's of Crystal Polymorphism: Bittersweet Intermedio",
+                "date": "2018-12-21",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "animeova",
+                "urls": [
+                    {
+                        "name": "[Torrent] (Sólo en inglés)",
+                        "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "ROBOTICS;NOTES DaSH",
+        "name": "rnd",
+        "logo": [
+            "/logos/rnd.png",
+            "/logos/rnd.png",
+            "/logos/rnd.png"
+        ],
+        "list": [
+            {
+                "uuid": "019ef96c-52a9-7054-aab3-12968aa3e047",
+                "title": "La siguiente batuta",
+                "date": "2018-12-26",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=FY5JaPFLz44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "ANONYMOUS;CODE",
+        "name": "ac",
+        "logo": [
+            "/logos/ac.avif",
+            "/logos/ac.webp",
+            "/logos/ac.png"
+        ],
+        "list": [
+            {
+                "uuid": "019ef96c-52a9-7055-ba10-de1d9ac9a90d",
+                "title": "A Beginner's Guide to Earth Simulator",
+                "date": "2022-07-28",
+                "essential": true,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "book",
+                "urls": [
+                    {
+                        "name": "[Steam]",
+                        "url": "https://store.steampowered.com/app/2459570/ANONYMOUSCODE__A_BEGINNERS_GUIDE_TO_EARTH_SIMULATOR/"
+                    }
+                ],
+                "notes": [
+                	"Un libro interactivo que viene incluido con muchas ediciones de Anonymous;Code. Este incluye comentarios de los desarrolladores, así como datos exclusivos e historia que no puede encontrarse dentro del juego. Esto puede leerse antes de empezar la novela visual o después de terminarla.",
+                 	"Si quieres evitar spoilers lo máximo posible, te recomiendo leerlo después de terminar la novela visual, aunque hay algo de información importante que el juego espera que sepas para conseguir los finales correctos. Lo que sea que decidas estará bien."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7056-968f-3951a7d96616",
+                "title": "Hackers' Crosstalk ",
+                "date": "2023-01-29",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "shortstory",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/GoVTexvNbeo5KiFP.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+]

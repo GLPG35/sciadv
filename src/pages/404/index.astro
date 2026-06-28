@@ -1,0 +1,55 @@
+---
+import { getLangFromUrl, useTranslatedPath } from '../../i18n/utils'
+import Layout from '../../layouts/Layout.astro'
+import './styles.scss'
+
+const currentLang = getLangFromUrl(Astro.url)
+const translatePath = useTranslatedPath(currentLang)
+
+const t = {
+	en: {
+		description: 'Is the scenery your eyes perceive truly real?',
+		title: 'Not Found',
+		header: 'The page you are trying to observe does not exist...',
+		text: 'Is the scenery your eyes perceive... truly real?',
+		button: 'Back to home'
+	},
+	es: {
+		description: 'El panorama que tus ojos perciben, ¿es real?',
+		title: 'No Encontrado',
+		header: 'La página que intentas observar no existe...',
+		text: 'El panorama que tus ojos perciben... ¿es real?',
+		button: 'Volver al inicio'
+	}
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series - {t[currentLang].title}</title>
+		<meta name="description" content={t[currentLang].description} />
+	</head>
+	<body>
+		<Layout>
+			<div class="notFound">
+				<div class="broken">
+					<img src="/broken_tm.png" alt="">
+				</div>
+				<h1>{t[currentLang].header}</h1>
+				<p>{t[currentLang].text}</p>
+				<a href={translatePath('/')}>
+					{t[currentLang].button}
+				</a>
+			</div>
+		</Layout>
+	</body>
+</html>
