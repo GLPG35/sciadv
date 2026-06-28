@@ -27,11 +27,15 @@
 	h1 {
 		font-size: 2.5em;
 		line-height: 1.2em;
+		text-wrap: balance;
+		text-wrap: pretty;
 	}
 
 	p {
 		font-size: 1.2em;
 		margin-top: 0.5em;
+		text-wrap: balance;
+		text-wrap: pretty;
 	}
 
 	a {
