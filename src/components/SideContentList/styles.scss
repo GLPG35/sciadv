@@ -161,9 +161,10 @@
 			display: flex;
 			gap: 0.5em;
 			align-items: center;
+			flex-wrap: wrap;
 
 			a {
-				text-wrap: nowrap;
+				text-wrap: wrap;
 				translate: 0 -0.1em;
 			}
 		}

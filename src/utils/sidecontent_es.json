@@ -7,6 +7,7 @@
             "/logos/chn.webp",
             "/logos/chn.png"
         ],
+        "card": "/cards/chn_side_card.png",
         "faq": [
         	{
        			"question": "¿Por qué no puedo mirar el anime?",
@@ -171,6 +172,7 @@
             "/logos/sg.webp",
             "/logos/sg.png"
         ],
+        "card": "/cards/sg_side_card.png",
         "faq": [
 	        {
 		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
@@ -1054,6 +1056,7 @@
             "/logos/rne.webp",
             "/logos/rne.png"
         ],
+        "card": "/cards/rne_side_card.png",
         "faq": [
         	{
        			"question": "¿Por qué no puedo mirar el anime?",
@@ -1283,6 +1286,7 @@
             "/logos/cc.webp",
             "/logos/cc.png"
         ],
+        "card": "/cards/cc_side_card.png",
         "faq": [
         	{
        			"question": "¿Por qué no puedo mirar el anime?",
@@ -1707,6 +1711,7 @@
             "/logos/sg0.webp",
             "/logos/sg0.png"
         ],
+        "card": "/cards/sg0_side_card.png",
         "faq": [
 	        {
 		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
@@ -2026,6 +2031,7 @@
             "/logos/ac.webp",
             "/logos/ac.png"
         ],
+        "card": "/cards/ac_side_card.png",
         "list": [
             {
                 "uuid": "019ef96c-52a9-7055-ba10-de1d9ac9a90d",

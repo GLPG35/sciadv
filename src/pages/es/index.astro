@@ -31,7 +31,7 @@ import './styles.scss'
 					<div class="banners">
 						<div class="wrapper">
 							{[...entries.filter(x => x.name !== 'sq'), entries[0]].map(({ covers, name, position }) => (
-								<a href={`/entries/${name}`} class="banner">
+								<a href={`/es/entries/${name}`} class="banner">
 									<picture>
 										{covers.map((src, i) => {
 											if (covers.length === i + 1) return <img src={src} alt='' style={{ objectPosition: position }} />
@@ -64,7 +64,7 @@ import './styles.scss'
 					<section>
 						<h2>¿Por dónde empiezo?</h2>
 						<p>Cada entrega está construida sobre sus predecesoras, lo que significa que contiene elementos de las anteriores. Por suerte, el mejor orden para experimentarlas es hacerlo en orden de lanzamiento.</p>
-						<p>Puedes encontrar las entregas ordenadas por su fecha de lanzamiento en la <a href="/entries">sección de entregas</a>.</p>
+						<p>Puedes encontrar las entregas ordenadas por su fecha de lanzamiento en la <a href="/es/entries">sección de entregas</a>.</p>
 					</section>
 				</article>
 			</div>

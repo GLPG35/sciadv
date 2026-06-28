@@ -77,12 +77,12 @@ const customTransition = {
 		<meta property="og:title" content={`SciADV Series - ${entry.title}`} />
 		<meta property="og:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
 		<meta property="og:url" content="https://sciadv-series.vercel.app/" />
-		<meta property="og:image" content={`https://sciadv-series.vercel.app/banners/${entry.name}_horizontal.webp`} />
+		<meta property="og:image" content={entry.card} />
 		<meta property="twitter:card" content="summary_large_image" />
 		<meta property="twitter:url" content="https://sciadv-series.vercel.app/" />
 		<meta property="twitter:title" content={`SciADV Series - ${entry.title}`} />
 		<meta property="twitter:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
-		<meta property="twitter:image" content={`https://sciadv-series.vercel.app/banners/${entry.name}_horizontal.webp`} />
+		<meta property="twitter:image" content={entry.card} />
 	</head>
 	<body>
 		<Layout>

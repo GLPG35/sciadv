@@ -50,6 +50,16 @@ const customTransition = {
 		<meta name="generator" content={Astro.generator} />
 		<title>SciADV Series - {entry.title} Contenido Extra</title>
 		<meta name="description" content="El panorama que tus ojos perciben, ¿es real?" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={`SciADV Series - ${entry.title}`} />
+		<meta property="og:description" content={"El panorama que tus ojos perciben, ¿es real?"} />
+		<meta property="og:url" content="https://sciadv-series.vercel.app/" />
+		<meta property="og:image" content={entry.card} />
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://sciadv-series.vercel.app/" />
+		<meta property="twitter:title" content={`SciADV Series - ${entry.title}`} />
+		<meta property="twitter:description" content={"El panorama que tus ojos perciben, ¿es real?"} />
+		<meta property="twitter:image" content={entry.card} />
 	</head>
 	<body>
 		<Layout>

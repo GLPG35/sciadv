@@ -14,9 +14,10 @@
 			"/banners/chn_horizontal.webp",
 			"/banners/chn_horizontal.jpg"
 		],
+		"card": "/cards/chn_card.png",
 		"position": "center 45%",
 		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
-		"description": "Nishijou Takumi es un estudiante de segundo año de secundaria al borde de confinarse en su casa. \"No tengo interés en lo 3D\". Vive rodeado de las hermosas figuras de chicas que tiene en su habitación. Vive en Shibuya, donde últimamente han ocurrido una serie de bizarros asesinatos en serie conocidos como la \"Locura de Nueva Generación\" (alias NeoGen). El culpable aún sigue suelto y sigue causando inquietud tanto en el internet como en la televisión. Un día, una imagen grotesca que parecía predecir el próximo asesinato de la NewGen fue enviado por una figura misteriosa llamada \"Shogun\". Al día siguiente, volviendo a su casa después de la escuela, Takumi se encuentra con una horrenda escena del crimen, tal y como estaba predicho. Ante el cuerpo se encuentra una chica bañada en sangre... Sakihata Rimi.",
+		"description": "Nishijou Takumi es un estudiante de segundo año de secundaria al borde de confinarse en su casa. \"No tengo interés en lo 3D\". Vive rodeado de las hermosas figuras de chicas que tiene en su habitación. Vive en Shibuya, donde últimamente han ocurrido una serie de bizarros asesinatos en serie conocidos como la \"Locura de Nueva Generación\" (alias NeoGen). El culpable aún sigue suelto y sigue causando inquietud tanto en el internet como en la televisión. Un día, una imagen grotesca que parecía predecir el próximo asesinato de la NeoGen fue enviado por una figura misteriosa llamada \"Shogun\". Al día siguiente, volviendo a su casa después de la escuela, Takumi se encuentra con una horrenda escena del crimen, tal y como estaba predicho. Ante el cuerpo se encuentra una chica bañada en sangre... Sakihata Rimi.",
 		"downloads": [
 			{
 				"platform": "Steam",
@@ -87,6 +88,7 @@
 			"/banners/sg_horizontal.webp",
 			"/banners/sg_horizontal.jpg"
 		],
+		"card": "/cards/sg_card.png",
 		"position": "center 30%",
 		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
 		"description": [
@@ -163,7 +165,7 @@
 			{
 				"question": "Miré el anime primero, ¿qué tan mal estoy?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, if you have watched the STEINS;GATE anime, you still need to play the visual novel anyway. It provides crucial information not present in the anime, especially details that connect it with the rest of the <em>Science Adventure Series</em>."
+					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE, tienes que jugar la novela visual de todas formas. La misma provee información crucial que no está presente en el anime, especialmente detalles que la conectan con el resto de la <em>Science Adventure Series</em>."
 				]
 			}
 		]
@@ -183,6 +185,7 @@
 			"/banners/chlcc_horizontal.webp",
 			"/banners/chlcc_horizontal.jpg"
 		],
+		"card": "/cards/chlcc_card.png",
 		"position": "center 30%",
 		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
 		"description": "El verano al fin ha llegado a Shibuya. Takumi y las seis heroínas del juego anterior se juntan para salir, viviendo la vida escolar cotidiana. Pero en realidad, su voluntad de dejar de ser un otaku inútil y convertirse en un normie ha creado un mundo ilusorio donde las chicas sucumben ante su encanto. La única manera de volver al mundo real es matando a Seira-tan, quien recorre las calles de Shibuya. Mientras tanto, Taku será capaz de disfrutar una vida cursi con chicas 3D (¡aunque sólo en sus delirios!).",
@@ -235,6 +238,7 @@
 			"/banners/sgmde_horizontal.webp",
 			"/banners/sgmde_horizontal.jpg"
 		],
+		"card": "/cards/sgmde_card.png",
 		"position": "center 70%",
 		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
 		"description": [
@@ -298,6 +302,7 @@
 			"/banners/sgvso_horizontal.webp",
 			"/banners/sgvso_horizontal.jpg"
 		],
+		"card": "/cards/sgvso_card.png",
 		"position": "center",
 		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
 		"description": "Una extensión del final verdadero del juego original. Al contrario del formato moderno de novela visual de su predecesor, esta entrega retro replica perfectamente el estilo de los juegos de aventura de la era de las PC en 8 bits (por ej., PC-88), donde el jugador ejecuta comandos cortos para interactuar y explorar el mundo virtual. Cuenta con escenarios y personajes dibujados en un estilo pixelado de pocos colores con líneas de escaneo emuladas, música chiptune reproducida a través de un chip FM simulado y carece de actuaciones de voz. La premisa involucra a Okabe, quien recibe un D-Mail de de su yo del 2025 en el que se le indica que debe salvar el futuro reclamando una IBN 5100 en posesión de una persona bajo el alias “Neidhardt”.",
@@ -364,6 +369,7 @@
 			"/banners/rne_horizontal.webp",
 			"/banners/rne_horizontal.jpg"
 		],
+		"card": "/cards/rne_card.png",
 		"position": "center 20%",
 		"epigraph": "La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma.",
 		"description": [
@@ -461,6 +467,7 @@
 			"/banners/sglbp_horizontal.webp",
 			"/banners/sglbp_horizontal.jpg"
 		],
+		"card": "/cards/sglbp_card.png",
 		"position": "center 80%",
 		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
 		"description": "Seguiste a Okarin a través del laberinto del espacio-tiempo; ahora revive los inesperados giros de Steins;Gate desde la perspectiva de Kurisu, Suzuha, Daru y el resto de los miembros del Laboratorio de Gadgets Futuristas. Observa cómo afrontaron los impactantes eventos del juego; escucha sus pensamientos y experimenta sus batallas de primera mano. Esta increíble novela visual te da el resto de la historia, con nuevas revelaciones que sorprenderán incluso al fan más veterano. El drama de Steins;Gate continúa. No te lo pierdas.",
@@ -514,9 +521,10 @@
 			"/banners/cc_horizontal.webp",
 			"/banners/cc_horizontal.jpg"
 		],
+		"card": "/cards/cc_card.png",
 		"position": "center",
 		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
-		"description": "Han pasado seis años desde aquel terremoto masivo que arrasó con la ciudad de Shibuya. Ahora, en octubre de 2015, mientras investiga algunos crímenes recientes, Miyashiro Takuru se da cuenta de una horrible verdad: estos asesinatos marcan el regreso de la ola de asesinatos que sumió a Shibuya en el terror hace seis años. Y al mimsmo tiempo, personas llamadas gigalómanas, con el poder de hacer realidad sus delirios, empiezan a despertar.",
+		"description": "Han pasado seis años desde aquel terremoto masivo que arrasó con la ciudad de Shibuya. Ahora, en octubre de 2015, mientras investiga algunos crímenes recientes, Miyashiro Takuru se da cuenta de una horrible verdad: estos asesinatos marcan el regreso de la ola de asesinatos que sumió a Shibuya en el terror hace seis años. Y al mismo tiempo, personas llamadas gigalómanas, con el poder de hacer realidad sus delirios, empiezan a despertar.",
 		"downloads": [
 			{
 				"platform": "Steam",
@@ -606,6 +614,7 @@
 			"/banners/sg0_horizontal.webp",
 			"/banners/sg0_horizontal.jpg"
 		],
+		"card": "/cards/sg0_card.png",
 		"position": "center",
 		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
 		"description": [
@@ -663,7 +672,7 @@
 			{
 				"question": "Miré el anime primero, ¿qué tan mal estoy?",
 				"answer": [
-					"Aunque jugar y ver las entregas en order es lo ideal, si ya viste el anime de STEINS;GATE 0, tienes que jugar la novela visual de todas formas. La misma provee información crucial que no está presente en el anime, especialmente detalles de otras rutas.",
+					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE 0, tienes que jugar la novela visual de todas formas. La misma provee información crucial que no está presente en el anime, especialmente detalles de otras rutas.",
 					"Si ya viste el anime de STEINS;GATE 0 antes de jugar el STEINS;GATE original, puede que estés un poco jodido, pero aún así recomiendo simplemente seguir con el orden de lanzamiento de los juegos."
 				]
 			}
@@ -684,6 +693,7 @@
 			"/banners/on_horizontal.webp",
 			"/banners/on_horizontal.jpg"
 		],
+		"card": "/cards/on_card.png",
 		"position": "center",
 		"epigraph": "No existe tal cosa como lo \"oculto\". Todo puede desmentirse por medio de la ciencia. Sólo aquellos que han aceptado todo... tienen derecho a conocer la verdad.",
 		"description": [
@@ -826,6 +836,7 @@
 			"/banners/cclcc_horizontal.webp",
 			"/banners/cclcc_horizontal.jpg"
 		],
+		"card": "/cards/cclcc_card.png",
 		"position": "center",
 		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
 		"description": [
@@ -917,6 +928,7 @@
 			"/banners/rnd_horizontal.webp",
 			"/banners/rnd_horizontal.jpg"
 		],
+		"card": "/cards/rnd_card.png",
 		"position": "center 20%",
 		"epigraph": "La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma.",
 		"description": [
@@ -992,6 +1004,7 @@
 			"/banners/ac_horizontal.webp",
 			"/banners/ac_horizontal.jpg"
 		],
+		"card": "/cards/ac_card.png",
 		"position": "center",
 		"epigraph": "Sólo podría llamársele milagro al hecho de que hayas llegado hasta aquí, hasta este punto de guardado, en este momento de tu vida. Y me complace en gran manera. Ahora atraviesa el telón del escenario; desenmascara al hechicero que mueve los hilos. Cierra el bucle. Y hackea a Dios.",
 		"description": [
@@ -1057,6 +1070,7 @@
 			"/banners/sgrb_horizontal.webp",
 			"/banners/sgrb_horizontal.jpg"
 		],
+		"card": "/cards/sgrb_card.png",
 		"position": "center 20%",
 		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
 		"description": [
@@ -1088,6 +1102,7 @@
 			"/banners/sq_horizontal.webp",
 			"/banners/sq_horizontal.jpg"
 		],
+		"card": "/cards/sq_card.png",
 		"position": "center",
 		"description": "Steins;??? (título tentativo) es un próximo videojuego desarrollado por Chiyomaru Studio y MAGES, empresa que también se encargará de su publicación. Es una secuela temática de STEINS;GATE (2009). El juego está siendo planeado por el director ejecutivo de MAGES, Shikura Chiyomaru, y su título provisional de desarrollo era “Steins;God”.",
 		"downloads": []
