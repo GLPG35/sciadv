@@ -282,7 +282,7 @@
 				"answer": [
 					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. Sólo necesitas abrir el instalador (ATENCIÓN, tiene música alta) y detectará tu copia de Steam automáticamente. Estos parches no funcionarán con copias pirata, y el Committee of Zero no proveerá soporte para las mismas.",
 					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
-					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sgmde.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sgmde-patch.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
 				]
 			}
 		]
@@ -349,7 +349,7 @@
 				"answer": [
 					"La mayoría de los parches no tienen complicación alguna, ya que sólo funcionan con las versiones de Steam del juego. En este caso, ya que este juego no está disponible en Steam, necesitas abrir el instalador (ATENCIÓN, tiene música alta) e indicar la ruta hacia tu copia del juego.",
 					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
-					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sgvso.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
+					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/sgvso-patch.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
 				]
 			}
 		]
@@ -541,7 +541,7 @@
 		],
 		"patch": {
 			"url": "https://github.com/CommitteeOfZero/cc-patch/releases",
-			"warning": "This patch is available for Steam, GOG and modded Nintendo Switch consoles."
+			"warning": "Este parche está disponible para Steam, GOG y consolas Nintendo Switch modificadas."
 		},
 		"guide": {
 			"name": "Committee of Zero 100% Spoiler-free Guide",
@@ -620,7 +620,7 @@
 		"description": [
 			"“Esta es la historia del 'futuro' que no pudo ser salvado”.",
 			"<br />",
-			"Diciembre, 2010 - Línea de mundo Beta:",
+			"Diciembre, 2010 - Línea de mundo en Beta:",
 			"<br />",
 			"Al final de su camino a través de incontables líneas de mundo llenas de un sinfín de sufrimientos y penurias, el protagonista, Okabe Rintarou, se hunde en la desesperanza y abandona todos los esfuerzos por salvarla a “ella”.",
 			"<br />",

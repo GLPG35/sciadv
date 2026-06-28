@@ -1,0 +1,12 @@
+{
+	"rewrites": [
+		{
+			"source": "/es/:path*",
+			"destination": "/es/404.html"
+		},
+		{
+			"source": "/(:path*)",
+			"destination": "/404.html"
+		}
+	]
+}

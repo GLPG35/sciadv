@@ -282,7 +282,7 @@
 				"answer": [
 					"Most patches are straightforward, as they only work with the Steam versions of the game. You just need to open the installer (WARNING, it has loud music) and it will detect your Steam copy. These patches won't work with pirated copies, and the Committee of Zero won't provide support for those copies as well.",
 					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
-					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sgmde.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sgmde-patch.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
 				]
 			}
 		]
@@ -349,7 +349,7 @@
 				"answer": [
 					"Most patches are straightforward, as they only work with the Steam versions of the game. In this case, as this game is not available on Steam, you need to open the installer (WARNING, it has loud music) and indicate the path to your game copy.",
 					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
-					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sgvso.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
+					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/sgvso-patch.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
 				]
 			}
 		]
