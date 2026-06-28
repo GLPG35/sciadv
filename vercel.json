@@ -2,8 +2,8 @@
 	"cleanUrls": true,
 	"rewrites": [
 		{
-			"source": "/:path*",
-			"destination": "/notfound"
+			"source": "/((?!_astro|assets|favicon.ico).*)",
+			"destination": "/[...catchall]"
 		}
 	]
 }

@@ -5,6 +5,8 @@ import { getLangFromUrl, useTranslatedPath } from '../../i18n/utils'
 import Layout from '../../layouts/Layout.astro'
 import './styles.scss'
 
+Astro.response.status = 404
+
 const currentLang = getLangFromUrl(Astro.url)
 const translatePath = useTranslatedPath(currentLang)
 
