@@ -56,4 +56,22 @@ const t = {
 			</div>
 		</Layout>
 	</body>
+	<script is:inline define:vars={{ t }}>
+		const path = window.location.pathname
+
+		if (!path.startsWith('/es/')) return
+
+		const h1 = document.querySelector('h1')
+		const p = document.querySelector('h1')
+		const a = document.querySelector('h1')
+		const description = document.querySelector('meta[name="description"]')
+		
+		h1.textContent = t['es'].title
+		p.textContent = t['es'].text
+		a.textContent = t['es'].button
+		description.setAttribute('content', t['es'].description)
+	
+		document.title = 'SciADV Series - No Encontrado'
+		document.documentElement.lang = 'es'
+	</script>
 </html>
