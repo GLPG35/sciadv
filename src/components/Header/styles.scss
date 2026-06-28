@@ -31,6 +31,10 @@ header {
 		nav, .menu {
 			display: none !important;
 		}
+
+		.subMenu {
+			display: initial !important;
+		}
 	}
 
 	.menu {
@@ -50,6 +54,7 @@ header {
 		width: max-content;
 		height: 100%;
 		position: relative;
+		display: none;
 
 		.menuIcon {
 			height: 100%;
