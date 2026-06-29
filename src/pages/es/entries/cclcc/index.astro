@@ -1,6 +1,8 @@
 ---
 export const prerender = false
 
+Astro.response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate')
+
 import Layout from '../../../../layouts/Layout.astro'
 import entries from '../../../../utils/entries_es.json'
 import './styles.scss'
@@ -35,7 +37,7 @@ if (entry.name === 'chlcc' || entry.name === 'cclcc') {
 		}
 
 		return 87.64
-	}))
+	})).catch(() => 87.64)
 
 	const parseAnswer = answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
 	faq[0].answer = parseAnswer

@@ -11,6 +11,8 @@ const entry = entries.find(x => x.name == 'cclcc')
 
 if (!entry) return Astro.redirect('/404')
 
+Astro.response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate')
+
 const isDate = entry.year.includes('-')
 const [fullYear, month, day] = entry.year.split('-')
 const date = isDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : entry.year
@@ -31,7 +33,7 @@ if (entry.name === 'chlcc' || entry.name === 'cclcc') {
 		}
 
 		return 87.64
-	}))
+	})).catch(() => 87.64)
 
 	const parseAnswer = answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
 	faq[0].answer = parseAnswer
