@@ -1,4 +1,4 @@
-import { useState, type KeyboardEvent } from "react"
+import { useEffect, useRef, useState, type KeyboardEvent } from "react"
 import { motion, AnimatePresence } from 'motion/react'
 import { LuCheck, LuKeyRound, LuX } from "react-icons/lu"
 import { usePasswordStore } from "../../store/entryStore"
@@ -12,6 +12,21 @@ const Password = ({ url }: { url: URL }) => {
 	const unlocked = usePasswordStore(state => state.unlocked)
 	const currentLang = getLangFromUrl(url)
 	const t = useTranslations(currentLang)
+	const ref = useRef<HTMLDivElement>(null)
+	
+	const handleClickOutside = (e: MouseEvent) => {
+		if (ref.current && !ref.current.contains(e.target as Node)) {
+			setViewInput(false)
+		}
+	}
+
+	useEffect(() => {
+		document.addEventListener('click', handleClickOutside)
+
+		return () => {
+			document.removeEventListener('click', handleClickOutside)
+		}
+	}, [])
 
 	if (unlocked || unlocked === undefined) return null
 
@@ -40,7 +55,7 @@ const Password = ({ url }: { url: URL }) => {
 		
 	return <AnimatePresence mode="wait">
 		{!unlocked ?
-			<div className="passwordWrapper">
+			<div className="passwordWrapper" ref={ref}>
 				<motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="password" onClick={() => setViewInput(!viewInput)}>
 					<div className="icon">
 						<LuKeyRound />

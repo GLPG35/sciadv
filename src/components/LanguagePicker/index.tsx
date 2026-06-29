@@ -1,4 +1,4 @@
-import { useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import { motion, AnimatePresence } from 'motion/react'
 import { trimLocation, useTranslatedPath } from "../../i18n/utils"
 import { languages } from "../../i18n/ui"
@@ -33,8 +33,23 @@ const LanguagePicker = ({ currentLang, location }: { currentLang: keyof typeof l
 	const [viewLanguage, setViewLanguage] = useState(false)
 	const translatePath = useTranslatedPath(currentLang)
 	const trimmed = trimLocation(location, currentLang)
+	const ref = useRef<HTMLDivElement>(null)
+	
+	const handleClickOutside = (e: MouseEvent) => {
+		if (ref.current && !ref.current.contains(e.target as Node)) {
+			setViewLanguage(false)
+		}
+	}
+
+	useEffect(() => {
+		document.addEventListener('click', handleClickOutside)
+
+		return () => {
+			document.removeEventListener('click', handleClickOutside)
+		}
+	}, [])
 		
-	return <div className="languagePicker">
+	return <div className="languagePicker" ref={ref}>
 		<div className="language" onClick={() => setViewLanguage(!viewLanguage)}>
 			<div className="icon">
 				<LuGlobe />
