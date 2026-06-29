@@ -163,6 +163,15 @@
 			align-items: center;
 			flex-wrap: wrap;
 
+			.anchor, .loader, .percentage {
+				text-wrap: wrap;
+				translate: 0 -0.1em;
+			}
+
+			.percentage {
+				font-style: italic;
+			}
+
 			a {
 				text-wrap: wrap;
 				translate: 0 -0.1em;

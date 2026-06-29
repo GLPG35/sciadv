@@ -2,6 +2,7 @@ import { useEntryStore, usePasswordStore, type Title } from '../../store/entrySt
 import { memo, useState } from 'react'
 import './styles.scss'
 import { LuCheck, LuArrowRight } from 'react-icons/lu'
+import ExtDownload from '../ExtDownload'
 
 type SideContentType = typeof import('../../utils/sidecontent.json')
 type List = SideContentType[number]['list']
@@ -61,6 +62,10 @@ const SideContent = memo(({ entryTitle, content: { uuid, title, date, finishDate
 								<>
 									<LuArrowRight strokeWidth={3} style={{ cursor: 'initial' }} />
 									{urls.map((url, i) => {
+										if ('external' in url) {
+											return <ExtDownload href={url.url} name={url.externalName as string}>{url.name}</ExtDownload>
+										}
+										
 										return <a key={`${i}`} href={url.url} target='_blank'>{url.name}</a>
 									})}
 								</>
@@ -68,6 +73,10 @@ const SideContent = memo(({ entryTitle, content: { uuid, title, date, finishDate
 								<>
 									<LuArrowRight strokeWidth={3} style={{ cursor: 'initial' }} />
 									{urls.map((url, i) => {
+										if ('external' in url) {
+											return <ExtDownload href={url.url} name={url.externalName as string}>{url.name}</ExtDownload>
+										}
+										
 										return <a key={`${i}`} href={url.url} target='_blank'>{url.name}</a>
 									})}
 								</>
