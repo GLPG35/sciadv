@@ -15,11 +15,11 @@ const isDate = entry.year.includes('-')
 const [fullYear, month, day] = entry.year.split('-')
 const date = isDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : entry.year
 
-const faq = entry.faq
+let faq = entry.faq ? structuredClone(entry.faq) : undefined
 
 if (entry.name === 'chlcc' || entry.name === 'cclcc') {
 	if (!faq) return
-	
+
 	const { answer } = faq[0]
 	const percentage = await fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5').then(res => res.json().then(json => {
 		if (res.ok) {
