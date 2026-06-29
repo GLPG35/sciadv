@@ -9,8 +9,11 @@ type Entry = {
 
 interface State {
 	sideChecklist: Entry[],
+	addToChecklist: (title: Title, uuid: string) => void
+}
+
+interface PassState {
 	unlocked?: boolean,
-	addToChecklist: (title: Title, uuid: string) => void,
 	unlock: (pass: string) => boolean
 }
 
@@ -18,7 +21,6 @@ const PASS = import.meta.env.PUBLIC_PASS
 
 export const useEntryStore = create<State>()(persist((set, get) => ({
 	sideChecklist: [],
-	unlocked: undefined,
 	addToChecklist: (title, uuid) => {
 		const { sideChecklist } = get()
 
@@ -46,10 +48,14 @@ export const useEntryStore = create<State>()(persist((set, get) => ({
 		newList[findTitleIndex].list.push(uuid)
 		
 		set({ sideChecklist: [ ...newList ] })
-	},
+	}
+}), { name: 'sideChecklist' }))
+
+export const usePasswordStore = create<PassState>()(persist((set, get) => ({
+	unlocked: undefined,
 	unlock: (pass) => {
 		if (pass === PASS) set({ unlocked: true })
 
 		return pass === PASS
 	}
-}), { name: 'sideChecklist' }))
+}), { name: 'sciadvContent' }))

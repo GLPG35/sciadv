@@ -1,11 +1,11 @@
 import { Fragment } from 'react'
-import { useEntryStore } from '../../store/entryStore'
+import { usePasswordStore } from '../../store/entryStore'
 import ExtDownload from '../ExtDownload'
 
 type EntryType = typeof import('../../utils/entries.json')
 
 export const Downloads = ({ downloads }: { downloads: EntryType[number]['downloads'] }) => {
-	const unlocked = useEntryStore(state => state.unlocked)
+	const unlocked = usePasswordStore(state => state.unlocked)
 	
 	return downloads.map((platform, i) => {
 		if (!unlocked && "hidden" in platform) {
@@ -37,7 +37,7 @@ export const Downloads = ({ downloads }: { downloads: EntryType[number]['downloa
 }
 
 export const DownloadsEs = ({ downloads }: { downloads: EntryType[number]['downloads'] }) => {
-	const unlocked = useEntryStore(state => state.unlocked)
+	const unlocked = usePasswordStore(state => state.unlocked)
 	
 	return downloads.map((platform, i) => {
 		if (!unlocked && "hidden" in platform) {
@@ -69,7 +69,7 @@ export const DownloadsEs = ({ downloads }: { downloads: EntryType[number]['downl
 }
 
 export const LightNovel = ({ lightNovel }: { lightNovel: NonNullable<EntryType[number]['lightNovel']> }) => {
-	const unlocked = useEntryStore(state => state.unlocked)
+	const unlocked = usePasswordStore(state => state.unlocked)
 	
 	return lightNovel.map(({ name, link, url, link2, url2, external, hidden }, i) => {
 		if (!unlocked && hidden) {
@@ -96,7 +96,7 @@ export const LightNovel = ({ lightNovel }: { lightNovel: NonNullable<EntryType[n
 }
 
 export const Anime = ({ anime }: { anime: NonNullable<EntryType[number]['anime']> }) => {
-	const unlocked = useEntryStore(state => state.unlocked)
+	const unlocked = usePasswordStore(state => state.unlocked)
 	
 	return anime.map(({ name, link, url, hidden, hiddenUrl, hiddenNotes }, i) => {
 		if (hidden && !unlocked) {
@@ -111,7 +111,7 @@ export const Anime = ({ anime }: { anime: NonNullable<EntryType[number]['anime']
 }
 
 export const Manga = ({ manga }: { manga: NonNullable<EntryType[number]['manga']> }) => {
-	const unlocked = useEntryStore(state => state.unlocked)
+	const unlocked = usePasswordStore(state => state.unlocked)
 	
 	return manga.map(({ name, link, url, urls, link2, url2, external, hidden }) => {
 		if (hidden && !unlocked) {

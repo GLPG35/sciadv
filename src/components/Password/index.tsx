@@ -1,15 +1,15 @@
 import { useState, type KeyboardEvent } from "react"
 import { motion, AnimatePresence } from 'motion/react'
 import { LuCheck, LuKeyRound, LuX } from "react-icons/lu"
-import { useEntryStore } from "../../store/entryStore"
+import { usePasswordStore } from "../../store/entryStore"
 import { getLangFromUrl, useTranslations } from "../../i18n/utils"
 
 const Password = ({ url }: { url: URL }) => {
 	const [viewInput, setViewInput] = useState(false)
 	const [pass, setPass] = useState('')
 	const [wrong, setWrong] = useState(false)
-	const unlock = useEntryStore(state => state.unlock)
-	const unlocked = useEntryStore(state => state.unlocked)
+	const unlock = usePasswordStore(state => state.unlock)
+	const unlocked = usePasswordStore(state => state.unlocked)
 	const currentLang = getLangFromUrl(url)
 	const t = useTranslations(currentLang)
 
