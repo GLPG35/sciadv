@@ -402,17 +402,6 @@
                 ]
             },
             {
-                "uuid": "019ef96c-52a8-7014-b519-bfbec0a08ced",
-                "title": "Annularly-Chained Ouroboros",
-                "date": "2010-08-20",
-                "finishDate": "2011-03-19",
-                "essential": true,
-                "notRecommended": false,
-                "incomplete": true,
-                "type": "lightnovel",
-                "urls": []
-            },
-            {
                 "uuid": "019ef96c-52a8-7015-acc1-c3c475e122a8",
                 "title": "STEINS;GATE Audio Series: Laboratory Members",
                 "date": "2010-08-25",
@@ -1789,6 +1778,17 @@
         	}
         ],
         "list": [
+	        {
+	            "uuid": "019ef96c-52a8-7014-b519-bfbec0a08ced",
+	            "title": "Annularly-Chained Ouroboros",
+	            "date": "2010-08-20",
+	            "finishDate": "2011-03-19",
+	            "essential": true,
+	            "notRecommended": false,
+	            "incomplete": true,
+	            "type": "lightnovel",
+	            "urls": []
+	        },
             {
                 "uuid": "019ef96c-52a9-7044-8c0d-617fec62d120",
                 "title": "Time Long Ago",
