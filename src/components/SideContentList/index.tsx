@@ -1,4 +1,4 @@
-import { useEntryStore, type Title } from '../../store/entryStore'
+import { useEntryStore, usePasswordStore, type Title } from '../../store/entryStore'
 import { memo, useState } from 'react'
 import './styles.scss'
 import { LuCheck, LuArrowRight } from 'react-icons/lu'
@@ -22,7 +22,7 @@ const typeDict = {
 
 const SideContent = memo(({ entryTitle, content: { uuid, title, date, finishDate, essential, notRecommended, incomplete, type, urls, hidden, notes, hiddenNotes, must }, isChecked }: { entryTitle: Title, content: List[number], isChecked: boolean }) => {
 	const addToChecklist = useEntryStore(state => state.addToChecklist)
-	const unlocked = useEntryStore(state => state.unlocked)
+	const unlocked = usePasswordStore(state => state.unlocked)
 	const isDate = date.includes('-')
 	const [fullYear, month, day] = date.split('-')
 	const parseDate = isDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : date
