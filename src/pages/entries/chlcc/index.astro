@@ -1,8 +1,6 @@
 ---
 export const prerender = false
 
-Astro.response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate')
-
 import Layout from '../../../layouts/Layout.astro'
 import entries from '../../../utils/entries.json'
 import './styles.scss'
@@ -22,7 +20,6 @@ let faq = entry.faq ? structuredClone(entry.faq) : undefined
 if (entry.name === 'chlcc' || entry.name === 'cclcc') {
 	if (!faq) return
 
-	const { answer } = faq[0]
 	const percentage = await fetch('https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5').then(res => res.json().then(json => {
 		if (res.ok) {
 			const { open_issues, closed_issues } = json
@@ -35,8 +32,14 @@ if (entry.name === 'chlcc' || entry.name === 'cclcc') {
 		return 87.64
 	})).catch(() => 87.64)
 
-	const parseAnswer = answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
-	faq[0].answer = parseAnswer
+	faq = faq.map((x, i) => {
+		if (i !== 0) return x
+	
+		return {
+			...x,
+			answer: x.answer.map(a => a.replace(/{percentage}/gi, `${percentage}%`))
+		}
+	})
 }
 
 const anim = {

@@ -10,7 +10,7 @@ import { getLangFromUrl, useTranslatedPath } from '../../../../i18n/utils'
 export const getStaticPaths = (() => {
 	return entries.map(({ name }) => ({
 		params: { entry: name }
-	}))
+	})).filter(x => !['chlcc', 'cclcc'].includes(x.params.entry))
 }) satisfies GetStaticPaths
 
 const entry = entries.find(x => x.name == Astro.params.entry)
