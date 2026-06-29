@@ -76,7 +76,7 @@ const customTransition = {
 								})}
 							</picture>
 						</div>
-						<EntryPercent title={entry.name as Title} length={entry.list.length} client:load />
+						<EntryPercent title={entry.name as Title} list={entry.list} client:load />
 					</div>
 					<div class="text">
 						<div class="title">

@@ -3,6 +3,9 @@ import { useEntryStore, type Title } from "../../store/entryStore"
 import './styles.scss'
 import { animate, useMotionValue, useTransform, motion } from "motion/react"
 
+type SideContentType = typeof import('../../utils/sidecontent.json')
+type List = SideContentType[number]['list']
+
 const formatNumber = (num: number) => {
 	if (num >= 100) return '100'
 	if (num >= 10) return num.toFixed(1)
@@ -10,11 +13,17 @@ const formatNumber = (num: number) => {
 	return num.toFixed(2)
 }
 
-const EntryPercent = ({ title, length }: { title: Title, length: number }) => {
+const EntryPercent = ({ title, list }: { title: Title, list: List }) => {
 	const totalChecked = useEntryStore(state => {
 		const entry = state.sideChecklist.find(x => x.title === title)
 
-		return entry ? (entry.list.length / length) * 100 : 0
+		const reduceList = entry ? (entry.list.reduce((prev, curr) => {
+			if (!list.some(x => x.uuid === curr)) return prev
+			
+			return prev + 1 
+		}, 0) / list.length) * 100 : 0
+		
+		return reduceList
 	})
 
 	const [displayPercent, setDisplayPercent] = useState(() => formatNumber(totalChecked))
