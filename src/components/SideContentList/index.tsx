@@ -20,8 +20,9 @@ const typeDict = {
 	'book': 'Book'
 }
 
-const SideContent = memo(({ entryTitle, content: { uuid, title, date, finishDate, essential, notRecommended, incomplete, type, urls, notes, must }, isChecked }: { entryTitle: Title, content: List[number], isChecked: boolean }) => {
+const SideContent = memo(({ entryTitle, content: { uuid, title, date, finishDate, essential, notRecommended, incomplete, type, urls, hidden, notes, hiddenNotes, must }, isChecked }: { entryTitle: Title, content: List[number], isChecked: boolean }) => {
 	const addToChecklist = useEntryStore(state => state.addToChecklist)
+	const unlocked = useEntryStore(state => state.unlocked)
 	const isDate = date.includes('-')
 	const [fullYear, month, day] = date.split('-')
 	const parseDate = isDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : date
@@ -56,16 +57,27 @@ const SideContent = memo(({ entryTitle, content: { uuid, title, date, finishDate
 					<div className='type'>{typeDict[type as keyof typeof typeDict]}</div>
 					{urls.length > 0 &&
 						<div className="links" onClick={e => e.stopPropagation()}>
-							<LuArrowRight strokeWidth={3} style={{ cursor: 'initial' }} />
-							{urls.map((url, i) => {
-								return <a key={`${i}`} href={url.url} target='_blank'>{url.name}</a>
-							})}
+							{!unlocked && !hidden ?
+								<>
+									<LuArrowRight strokeWidth={3} style={{ cursor: 'initial' }} />
+									{urls.map((url, i) => {
+										return <a key={`${i}`} href={url.url} target='_blank'>{url.name}</a>
+									})}
+								</>
+							: unlocked &&
+								<>
+									<LuArrowRight strokeWidth={3} style={{ cursor: 'initial' }} />
+									{urls.map((url, i) => {
+										return <a key={`${i}`} href={url.url} target='_blank'>{url.name}</a>
+									})}
+								</>
+							}
 						</div>
 					}
 				</div>
 			</div>
 			{notes && <div className="notes">
-				{notes.map((note, i) => <p key={`${i}`}>{note}</p>)}
+				{(unlocked ? notes : hiddenNotes as string[] || notes).map((note, i) => <p key={`${i}`}>{note}</p>)}
 			</div>}
 		</div>
 	</div>

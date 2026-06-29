@@ -12,12 +12,16 @@ export const ui = {
 		'nav.home': 'Home',
 		'nav.entries': 'Entries',
 		'nav.sideContent': 'Side Content',
-		'nav.music': 'Music'
+		'nav.music': 'Music',
+		'nav.password': 'Insert formula',
+		'nav.passwordError': 'Wrong formula'
 	},
 	es: {
 		'nav.home': 'Inicio',
 		'nav.entries': 'Entregas',
 		'nav.sideContent': 'Contenido Extra',
-		'nav.music': 'Música'
+		'nav.music': 'Música',
+		'nav.password': 'Insertar fórmula',
+		'nav.passwordError': 'Fórmula incorrecta'
 	}
 } as const

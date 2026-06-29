@@ -33,6 +33,7 @@
                         "url": "magnet:?xt=urn:btih:0fef6af4323cd34cf78608800e2ef17e64c73fa0&dn=Chaos%3BHead%20%282008%29%20%5B1080p%20x265%20HEVC%2010bit%20BluRay%20Dual%20Audio%20AAC%5D%20%5BProf%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
+                "hidden": true,
                 "notes": [
                     "Do not watch the anime before the visual novel, it's a horrible adaptation and it will ruin your experience."
                 ]
@@ -455,9 +456,14 @@
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
+                "hidden": true,
                 "notes": [
                     "This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
                     "The torrent includes the anime, OVA, movie, ONA, Episode 23β and STEINS;GATE 0. The order to watch the anime is in the FAQ section."
+                ],
+                "hiddenNotes": [
+	                "This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
+	                "The order to watch the anime is in the FAQ section."
                 ]
             },
             {
@@ -631,7 +637,8 @@
                         "name": "[Torrent]",
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
-                ]
+                ],
+                "hidden": true
             },
             {
                 "uuid": "019ef96c-52a9-7002-bb65-8ff33fe74894",
@@ -836,7 +843,8 @@
                         "name": "[Torrent]",
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
-                ]
+                ],
+                "hidden": true
             },
             {
                 "uuid": "019ef96c-52a9-700d-b8ff-2c15406a6f86",
@@ -944,7 +952,8 @@
                         "name": "[Torrent]",
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
-                ]
+                ],
+                "hidden": true
             },
             {
                 "uuid": "019ef96c-52a9-7014-8775-d09a9d311362",
@@ -1054,6 +1063,7 @@
                         "url": "https://archive.org/download/8bit-adv-steinsgate/steinsgate.nes"
                     }
                 ],
+                "hidden": true,
                 "notes": [
                     "The game is exclusive to the Nintendo Switch version of STEINS;GATE ELITE."
                 ],
@@ -1167,7 +1177,8 @@
                         "name": "[Torrent]",
                         "url": "magnet:?xt=urn:btih:901c363c97eeaf79d8fe105554564596b464fbc3&dn=%5BDB%5D%20Robotics%3BNotes%20%5BDual%20Audio%2010bit%20BD1080p%5D%5BHEVC-x265%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
-                ]
+                ],
+                "hidden": true
             },
             {
                 "uuid": "019ef96c-52a9-7021-bb08-878257ff0d74",
@@ -1430,9 +1441,13 @@
                         "url": "magnet:?xt=urn:btih:12c5a025406fda4011c18a55b5e8e2adc6fcf914&dn=%5Bkmplx%5D%20ChaoS%3BChild%20%28BD%201080p%20x265%2010-Bit%20Opus%29%20%5BDual-Audio%5D%20%7C%20Ch%C3%A4oS%3BChild%2C%20Silent%20Sky&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
+                "hidden": true,
                 "notes": [
                     "Do not watch the anime before the visual novel, it's a horrible adaptation and it will ruin your experience.",
                     "The torrent includes the anime and the movie."
+                ],
+                "hiddenNotes": [
+                	"Do not watch the anime before the visual novel, it's a horrible adaptation and it will ruin your experience."
                 ]
             },
             {
@@ -1636,7 +1651,8 @@
                         "name": "[Torrent]",
                         "url": "magnet:?xt=urn:btih:12c5a025406fda4011c18a55b5e8e2adc6fcf914&dn=%5Bkmplx%5D%20ChaoS%3BChild%20%28BD%201080p%20x265%2010-Bit%20Opus%29%20%5BDual-Audio%5D%20%7C%20Ch%C3%A4oS%3BChild%2C%20Silent%20Sky&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
-                ]
+                ],
+                "hidden": true
             },
             {
                 "uuid": "019ef96c-52a9-703e-b0db-9442488d0e00",
@@ -1826,7 +1842,8 @@
                         "name": "[Torrent]",
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
-                ]
+                ],
+                "hidden": true
             },
             {
                 "uuid": "019ef96c-52a9-7048-ba1c-1b735b66b0ac",
@@ -1897,9 +1914,14 @@
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
+                "hidden": true,
                 "notes": [
                     "This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
                     "The torrent includes the anime, OVA, movie, ONA, Episode 23β and STEINS;GATE 0. The order to watch the anime is in the FAQ section."
+                ],
+                "hiddenNotes": [
+	               	"This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
+	                "The order to watch the anime is in the FAQ section."
                 ]
             },
             {
@@ -2020,7 +2042,8 @@
                         "name": "[Torrent]",
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
-                ]
+                ],
+                "hidden": true
             }
         ]
     },

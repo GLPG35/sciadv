@@ -27,6 +27,7 @@
                 "notRecommended": true,
                 "incomplete": false,
                 "type": "anime",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (ENG Subs)",
@@ -451,6 +452,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "anime",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -460,6 +462,10 @@
                 "notes": [
                     "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
                     "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden para ver el anime está en la sección de preguntas y respuestas."
+                ],
+                "hiddenNotes": [
+	              	"El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
+	                "El orden para ver el anime está en la sección de preguntas y respuestas."
                 ]
             },
             {
@@ -628,6 +634,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "animeova",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -837,6 +844,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "animemovie",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -945,6 +953,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "animeona",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -1054,6 +1063,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "visualnovel",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "NES ROM [Directa]",
@@ -1168,6 +1178,7 @@
                 "notRecommended": true,
                 "incomplete": false,
                 "type": "anime",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -1435,6 +1446,7 @@
                 "notRecommended": true,
                 "incomplete": false,
                 "type": "anime",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -1444,6 +1456,9 @@
                 "notes": [
                     "No mires el anime antes que la novela visual, es una adaptación horrible y arruinará tu experiencia.",
                     "El torrent incluye el anime y la película."
+                ],
+                "hiddenNotes": [
+                	"No mires el anime antes que la novela visual, es una adaptación horrible y arruinará tu experiencia."
                 ]
             },
             {
@@ -1642,6 +1657,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "animemovie",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -1832,6 +1848,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "animeova",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -1902,6 +1919,7 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "anime",
+                "hidden": true,
                 "urls": [
                     {
                         "name": "[Torrent] (Sólo en inglés)",
@@ -1911,6 +1929,10 @@
                 "notes": [
                     "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
                     "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden para ver el anime está en la sección de preguntas y respuestas."
+                ],
+                "hiddenNotes": [
+	                "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
+	                "El orden para ver el anime está en la sección de preguntas y respuestas."
                 ]
             },
             {

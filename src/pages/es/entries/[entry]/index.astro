@@ -3,9 +3,9 @@ import type { GetStaticPaths } from 'astro'
 import Layout from '../../../../layouts/Layout.astro'
 import entries from '../../../../utils/entries_es.json'
 import './styles.scss'
-import ExtDownload from '../../../../components/ExtDownload'
 import GalleryContainer from '../../../../components/GalleryContainer'
 import { getLangFromUrl, useTranslatedPath } from '../../../../i18n/utils'
+import { DownloadsEs, Anime, Manga, LightNovel } from '../../../../components/EntrySections'
 
 export const getStaticPaths = (() => {
 	return entries.map(({ name }) => ({
@@ -102,21 +102,7 @@ const customTransition = {
 								<span>Juego base{entry.japaneseOnly && entry.japaneseOnly.downloads && ' (sólo en japonés)'}:</span>
 								<ul>
 									{entry.downloads.length > 0 ?
-										entry.downloads.map((platform, i) => {
-											if ("urls" in platform) {
-												return <li set:html={`${platform.platform} ${i === 0 ? '(Recomendado)' : ''} ${platform.urls.map(url => `<a href="${url.url}" target="_blank">${url.name}</a>`).join(' ')}`}>
-												</li>
-											}
-
-											if ("notes" in platform) {
-												return <>
-													<li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recomendado)' : ''}</li>
-													{platform.notes?.map((note) => <span>{note}</span>)}
-												</>
-											}
-
-											return <li><a href={platform.url} target='_blank'>{platform.platform}</a> {i === 0 ? '(Recomendado)' : ''}</li>
-										})
+										<DownloadsEs downloads={entry.downloads} client:idle />
 									:
 										<span>No hay versiones disponibles de este juego por el momento.</span>
 									}
@@ -161,53 +147,19 @@ const customTransition = {
 								{entry.lightNovel &&
 									<span>Novela ligera (material de origen):</span>
 									<ul>
-										{entry.lightNovel.map(({ name, link, url, link2, url2, external }) => {
-											if (external) {
-												const links = [
-													{
-														link: link,
-														url: url
-													},
-													{
-														link: link2,
-														url: url2
-													}
-												]
-											
-												return <li>{name} <ExtDownload client:idle href={links[external.index].url} name={external.name}>{links[external.index].link}</ExtDownload> <a href={links[(external.index + 1) % links.length].url} target="_blank">{links[(external.index + 1) % links.length].link}</a></li>
-											}
-										
-											return <li>{name} <a href={url} target="_blank">{link}</a> {link2 && url2 && <a href={url2} target="_blank">{link2}</a>}</li>
-										})}
+										<LightNovel lightNovel={entry.lightNovel} client:idle />
 									</ul>
 								}
 								{entry.anime &&
 									<span>Anime:</span>
 									<ul>
-										{entry.anime.map(({ name, link, url }) => <li>{name} <a href={url} target="_blank">{link}</a></li>)}
+										<Anime anime={entry.anime} client:idle />
 									</ul>
 								}
 								{entry.manga &&
 									<span>Manga (sólo en japonés):</span>
 									<ul>
-										{entry.manga.map(({ name, link, url, link2, url2, external }) => {
-											if (external) {
-												const links = [
-													{
-														link: link,
-														url: url
-													},
-													{
-														link: link2,
-														url: url2
-													}
-												]
-											
-												return <li>{name} <ExtDownload client:idle href={links[external.index].url} name={external.name}>{links[external.index].link}</ExtDownload> <a href={links[(external.index + 1) % links.length].url} target="_blank">{links[(external.index + 1) % links.length].link}</a></li>
-											}
-										
-											return <li>{name} <a href={url} target="_blank">{link}</a> {link2 && url2 && <a href={url2} target="_blank">{link2}</a>}</li>
-										})}
+										<Manga manga={entry.manga} client:idle />
 									</ul>
 								}
 								{entry.localeEmulator &&

@@ -426,6 +426,11 @@
 						"name": "[Torrent]",
 						"url": "https://archive.org/download/steins-gate-variant-space-octet-english/steins-gate-variant-space-octet-english_archive.torrent"
 					}
+				],
+				"hidden": true,
+				"hiddenUrl": "Windows PC",
+				"hiddenNotes": [
+					"Puedes encontrar este juego fácilmente buscando en línea."
 				]
 			}
 		],
@@ -947,7 +952,8 @@
 				"url": "magnet:?xt=urn:btih:648b6b903a30135b7a4bbbdb0b99ae33a6eb7a41&dn=Occultic%3BNine%20-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%B3-%20Visual%20Novel%20PC%20Conversion%20%28Japanese%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
 				"notes": [
 					"Esta es una conversión de la novela visual original. Un mando es recomendado ya que los teclados no están completamente soportados."
-				]
+				],
+				"hidden": true
 			},
 			{
 				"platform": "PlayStation 4",
@@ -959,35 +965,73 @@
 		},
 		"lightNovel": [
 			{
-				"name": "OCCULTIC;NINE LN Volumes 1 - 3 [EPUB] (ENG) (Recomendado)",
+				"name": "OCCULTIC;NINE LN Volúmenes 1 - 3 [EPUB] (ENG) (Recomendado)",
+				"link": "[Comprar en J-Novel Club]",
+				"url": "https://j-novel.club/series/occultic-nine"
+			},
+			{
+				"name": "OCCULTIC;NINE LN Volúmenes 1 - 3 [EPUB] (ENG)",
 				"link": "[Directa]",
-				"link2": "[Alternativa]",
+				"link2": "[Mirror]",
 				"url": "https://files.catbox.moe/6x56fl.zip",
 				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20LN%20Volumes%201-3.zip", 
 				"external": {
 					"name": "Occultic;Nine LN (Volumes 1-3).zip",
 					"index": 0
-				}
+				},
+				"hidden": true
 			}
 		],
 		"anime": [
 			{
 				"name": "OCCULTIC;NINE Anime [BD 1080p] [ENG Subs] (Recomendado)",
 				"link": "[Torrent]",
-				"url": "magnet:?xt=urn:btih:f5819bad43807e326b4f42b821a6b9d87f87b2f4&dn=%5BChimera%5D%20Occultic%3BNine%20%28BDRip%201080p%20x264%20Hi10P%20FLAC%29%20-%20TV&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
+				"url": "magnet:?xt=urn:btih:f5819bad43807e326b4f42b821a6b9d87f87b2f4&dn=%5BChimera%5D%20Occultic%3BNine%20%28BDRip%201080p%20x264%20Hi10P%20FLAC%29%20-%20TV&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+				"hidden": true,
+				"hiddenUrl": {
+					"name": "OCCULTIC;NINE Anime",
+					"link": "[Ver en Crunchyroll]",
+					"url": "https://www.crunchyroll.com/series/GY75279J6/occulticnine"
+				},
+				"hiddenNotes": [
+					"No recomiendo demasiado Crunchyroll ya que sus subs son bastante malos."
+				]
 			}
 		],
 		"manga": [
 			{
+				"name": "OCCULTIC;NINE Manga en Amazon (JPN)",
+				"urls": [
+					{
+						"name": "[Volumen 1]",
+						"url": "https://amzn.asia/d/05MiKaXL"
+					},
+					{
+						"name": "[Volumen 2]",
+						"url": "https://amzn.asia/d/00r60m5T"
+					},
+					{
+						"name": "[Volumen 3]",
+						"url": "https://amzn.asia/d/012HS7nh"
+					},
+					{
+						"name": "[Volumen 4]",
+						"url": "https://amzn.asia/d/0e47bdaG"
+					}
+				]
+				
+			},
+			{
 				"name": "OCCULTIC;NINE Manga Volumes 1 - 4 [CBZ] (JPN)",
 				"link": "[Directa]",
-				"link2": "[Alternativa]",
+				"link2": "[Mirror]",
 				"url": "https://files.catbox.moe/zsq42q.zip",
 				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20Manga%20Volumes%201%20-%204%20%5BCBZ%5D%20(JPN).zip",
 				"external": {
 					"name": "Occultic;Nine Manga Volumes 1 - 4 [CBZ] (JPN).zip",
 					"index": 0
-				}
+				},
+				"hidden": true
 			}
 		],
 		"localeEmulator": [

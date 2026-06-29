@@ -15,11 +15,21 @@ header {
 		nav {
 			flex: 1;
 		}
+
+		&:has(.passwordWrapper) {
+			.passwordWrapper {
+				margin-left: auto;
+			}
+
+			.languagePicker {
+				margin-left: 0;
+			}
+		}
 		
-		.languagePicker {
+		.languagePicker, .passwordWrapper {
 			margin-left: auto;
 
-			.list {
+			.list, .inputWrapper {
 				left: initial !important;
 				right: 0;
 				translate: 15% !important;
@@ -169,12 +179,15 @@ header {
 	}
 
 	.languagePicker {
+		margin-right: 1.5em;
+	}
+
+	.languagePicker, .passwordWrapper {
 		position: relative;
 		z-index: 10;
 		font-size: 1.2em;
-		margin-right: 1.5em;
 
-		.language {
+		.language, .password {
 			user-select: none;
 			cursor: pointer;
 			color: var(--fg-color);
@@ -193,7 +206,7 @@ header {
 			}
 		}
 
-		.list {
+		.list, .inputWrapper {
 			position: absolute;
 			top: 2.5em;
 			left: 0;
@@ -254,6 +267,62 @@ header {
 					transition: 0.2s ease-out;
 					clip-path: polygon(1em 0, 100% 0, calc(100% - 1em + 2px) 100%, 1px 100%);
 					background-color: var(--fg-color);
+				}
+			}
+		}
+
+		.inputWrapper {
+			width: 15em;
+			max-width: 90vw;
+
+			.input {
+				width: 100%;
+				position: relative;
+				display: flex;
+
+				&::before {
+					content: '';
+					position: absolute;
+					clip-path: polygon(calc(1em - 4px) 0, calc(100% - 1px) 0, calc(100% - 1em + 5px) 100%, 0 100%);
+					background-color: var(--bg-color);
+					z-index: -2;
+					inset: -2px;
+				}
+				
+				input {
+					width: 100%;
+					padding: 0.5em 1.5em;
+					border: none;
+					outline: none;
+					background-color: var(--fg-color);
+					clip-path: polygon(calc(1em + 2px) 0, 100% 0, calc(100% - 1em - 0.5px) 100%, 2px 100%);
+					color: var(--bg-color);
+
+					&:has(+ button:disabled) {
+						cursor: not-allowed;
+					}
+				}
+
+				button {
+					border: none;
+					outline: none;
+					background-color: var(--fg-color);
+					color: var(--bg-color);
+					padding: 0.5em 1.5em;
+					height: 100%;
+					clip-path: polygon(calc(1em + 2px) 0, calc(100% - 2px) 0, calc(100% - 1em - 0.5px) 100%, 2px 100%);
+					cursor: pointer;
+
+					&:disabled {
+						cursor: not-allowed;
+					}
+
+					.icon {
+						display: flex;
+						align-items: center;
+						justify-content: center;
+						font-size: 1.5em;
+					}
 				}
 			}
 		}

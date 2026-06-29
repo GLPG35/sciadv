@@ -9,11 +9,16 @@ type Entry = {
 
 interface State {
 	sideChecklist: Entry[],
-	addToChecklist: (title: Title, uuid: string) => void
+	unlocked?: boolean,
+	addToChecklist: (title: Title, uuid: string) => void,
+	unlock: (pass: string) => boolean
 }
+
+const PASS = import.meta.env.PUBLIC_PASS
 
 export const useEntryStore = create<State>()(persist((set, get) => ({
 	sideChecklist: [],
+	unlocked: undefined,
 	addToChecklist: (title, uuid) => {
 		const { sideChecklist } = get()
 
@@ -41,5 +46,10 @@ export const useEntryStore = create<State>()(persist((set, get) => ({
 		newList[findTitleIndex].list.push(uuid)
 		
 		set({ sideChecklist: [ ...newList ] })
+	},
+	unlock: (pass) => {
+		if (pass === PASS) set({ unlocked: true })
+
+		return pass === PASS
 	}
 }), { name: 'sideChecklist' }))
