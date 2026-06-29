@@ -1252,7 +1252,7 @@
                 "uuid": "019ef96c-52a9-7026-a93e-2a7f741badbe",
                 "title": "At Our Dream’s End",
                 "date": "2013-09-25",
-                "essential": false,
+                "essential": true,
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "dramacd",
