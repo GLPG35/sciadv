@@ -8,6 +8,7 @@
             "/logos/chn.png"
         ],
         "card": "/cards/chn_side_card.png",
+        "cardOg": "/cards/chn_side_card.jpg",
         "faq": [
         	{
        			"question": "Why can't I watch the anime?",
@@ -189,6 +190,7 @@
             "/logos/sg.png"
         ],
         "card": "/cards/sg_side_card.png",
+        "cardOg": "/cards/sg_side_card.jpg",
         "faq": [
 	        {
 		        "question": "Can I skip the visual novel and watch the anime?",
@@ -1099,6 +1101,7 @@
             "/logos/rne.png"
         ],
         "card": "/cards/rne_side_card.png",
+        "cardOg": "/cards/rne_side_card.jpg",
         "faq": [
         	{
        			"question": "Why can't I watch the anime?",
@@ -1330,6 +1333,7 @@
             "/logos/cc.png"
         ],
         "card": "/cards/cc_side_card.png",
+        "cardOg": "/cards/cc_side_card.jpg",
         "faq": [
         	{
        			"question": "Why can't I watch the anime?",
@@ -1755,6 +1759,7 @@
             "/logos/sg0.png"
         ],
         "card": "/cards/sg0_side_card.png",
+        "cardOg": "/cards/sg0_side_card.jpg",
         "faq": [
 	        {
 		        "question": "Can I skip the visual novel and watch the anime?",
@@ -2056,6 +2061,7 @@
             "/logos/rnd.png"
         ],
         "card": "/cards/rnd_side_card.png",
+        "cardOg": "/cards/rnd_side_card.jpg",
         "list": [
             {
                 "uuid": "019ef96c-52a9-7054-aab3-12968aa3e047",
@@ -2083,6 +2089,7 @@
             "/logos/ac.png"
         ],
         "card": "/cards/ac_side_card.png",
+        "cardOg": "/cards/ac_side_card.jpg",
         "list": [
             {
                 "uuid": "019ef96c-52a9-7055-ba10-de1d9ac9a90d",

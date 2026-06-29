@@ -15,6 +15,7 @@
 			"/banners/chn_horizontal.jpg"
 		],
 		"card": "/cards/chn_card.png",
+		"cardOg": "/cards/chn_card.jpg",
 		"position": "center 45%",
 		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
 		"description": "Nishijou Takumi is a second-year high school student on the verge of becoming a shut-in. \"I have no interest in 3D\". He lives surrounded by his beautiful girl figures in his room. He lives in Shibuya, where there has been a series of bizarre serial murders known as \"New Generation Madness\" (aka NewGen). The culprit has yet to be caught and has been causing unrest on the internet and television. One day, a gruesome image that seemed to predict the next NewGen killing was sent by a mysterious figure called \"Shogun\". The next day, on his way home from school, Takumi encounters a horrific crime scene, exactly as predicted. Before the corpse is a blood-soaked girl—Sakihata Rimi.",
@@ -123,6 +124,7 @@
 			"/banners/sg_horizontal.jpg"
 		],
 		"card": "/cards/sg_card.png",
+		"cardOg": "/cards/sg_card.jpg",
 		"position": "center 30%",
 		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
 		"description": [
@@ -242,6 +244,7 @@
 			"/banners/chlcc_horizontal.jpg"
 		],
 		"card": "/cards/chlcc_card.png",
+		"cardOg": "/cards/chlcc_card.jpg",
 		"position": "center 30%",
 		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
 		"description": "Summer has finally come to Shibuya. Takumi and the six heroines from the previous game get to hang out, living the everyday high school life. But in truth, his will to stop being a useless otaku and become a normie has created an image world where the girls succumb to his charm. The only way to return to the real world is to kill Seira-tan, who roams the streets of Shibuya. But until then, Taku will be able to enjoy a life of lovey-doveyness with 3D girls (only in his delusions, though!)",
@@ -313,6 +316,7 @@
 			"/banners/sgmde_horizontal.jpg"
 		],
 		"card": "/cards/sgmde_card.png",
+		"cardOg": "/cards/sgmde_card.jpg",
 		"position": "center 70%",
 		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
 		"description": [
@@ -411,6 +415,7 @@
 			"/banners/sgvso_horizontal.jpg"
 		],
 		"card": "/cards/sgvso_card.png",
+		"cardOg": "/cards/sgvso_card.jpg",
 		"position": "center",
 		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
 		"description": "An extension of the True End of the original game. Unlike the modern visual novel format of the original game, this retro game perfectly mimics the style of graphical text adventure games from the 8-bit PC era (e.g. PC-88), with the player typing short commands to interact with and explore the game world. It features all backgrounds and characters drawn in a low-color pixelated style with emulated scanlines, chiptune music played through an emulated FM chip, and no voice acting. The premise of the game features Okabe receiving a D-Mail from himself in 2025 that states that he must save the future by reclaiming an IBN 5100 from a person under of the alias “Neidhardt”.",
@@ -517,6 +522,7 @@
 			"/banners/rne_horizontal.jpg"
 		],
 		"card": "/cards/rne_card.png",
+		"cardOg": "/cards/rne_card.jpg",
 		"position": "center 20%",
 		"epigraph": "The science itself may prove cynical. However, one mustn't forget that there is a scientific element in all things. The important truth is this: I am the master of my fate, I am the captain of my soul.",
 		"description": [
@@ -637,6 +643,7 @@
 			"/banners/sglbp_horizontal.jpg"
 		],
 		"card": "/cards/sglbp_card.png",
+		"cardOg": "/cards/sglbp_card.jpg",
 		"position": "center 80%",
 		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
 		"description": "You followed Okarin through the labyrinth of time and space; now relive the twists and turns of Steins;Gate through the eyes of Kurisu, Suzuha, Daru, and the rest of the Future Gadget Lab members. See how they faced the startling events of the game; hear their thoughts and experience their battles firsthand. This incredible visual novel gives you the rest of the story, with new revelations that will amaze even the most jaded Steins;Gate fan. The drama of Steins;Gate continues. Don't miss it.",
@@ -725,6 +732,7 @@
 			"/banners/cc_horizontal.jpg"
 		],
 		"card": "/cards/cc_card.png",
+		"cardOg": "/cards/cc_card.jpg",
 		"position": "center",
 		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
 		"description": "It's been six years since a massive earthquake leveled the city of Shibuya. Now, in October 2015, while researching a number of recent murders, Miyashiro Takuru realizes a horrible truth. These murders are the return of a series of killings that plunged Shibuya into terror six years ago. And at the same time, people called gigalomaniacs, with the powers to make their delusions real, are beginning to awaken.",
@@ -826,6 +834,7 @@
 			"/banners/sg0_horizontal.jpg"
 		],
 		"card": "/cards/sg0_card.png",
+		"cardOg": "/cards/sg0_card.jpg",
 		"position": "center",
 		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
 		"description": [
@@ -939,6 +948,7 @@
 			"/banners/on_horizontal.jpg"
 		],
 		"card": "/cards/on_card.png",
+		"cardOg": "/cards/on_card.jpg",
 		"position": "center",
 		"epigraph": "There are no such things as \"occult\". It can be disproved all by science. Only the ones who have accepted everything, can get the right to know the truth.",
 		"description": [
@@ -1133,6 +1143,7 @@
 			"/banners/cclcc_horizontal.jpg"
 		],
 		"card": "/cards/cclcc_card.png",
+		"cardOg": "/cards/cclcc_card.jpg",
 		"position": "center",
 		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
 		"description": [
@@ -1223,6 +1234,7 @@
 			"/banners/rnd_horizontal.jpg"
 		],
 		"card": "/cards/rnd_card.png",
+		"cardOg": "/cards/rnd_card.jpg",
 		"position": "center 20%",
 		"epigraph": "The science itself may prove cynical. However, one mustn't forget that there is a scientific element in all things. The important truth is this: I am the master of my fate, I am the captain of my soul",
 		"description": [
@@ -1325,6 +1337,7 @@
 			"/banners/ac_horizontal.jpg"
 		],
 		"card": "/cards/ac_card.png",
+		"cardOg": "/cards/ac_card.jpg",
 		"position": "center",
 		"epigraph": "The fact that you've arrived here-rather, to this save point- at this moment in your life is nothing short of a miracle. It delights me to no end. Step through the stage's curtain; rip off the mask of the wizard who pulls the strings. Close the loop. Hack into God.",
 		"description": [
@@ -1425,6 +1438,7 @@
 			"/banners/sgrb_horizontal.jpg"
 		],
 		"card": "/cards/sgrb_card.png",
+		"cardOg": "/cards/sgrb_card.jpg",
 		"position": "center 20%",
 		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
 		"description": [
@@ -1491,6 +1505,7 @@
 			"/banners/sq_horizontal.jpg"
 		],
 		"card": "/cards/sq_card.png",
+		"cardOg": "/cards/sq_card.jpg",
 		"position": "center",
 		"description": "Steins;??? (tentative title) is an upcoming video game developed by Chiyomaru Studio and MAGES, the latter of which would publish the game. It is a thematic sequel to STEINS;GATE (2009). The game is being planned by MAGES' representative director Shikura Chiyomaru, and previously went under the working title “Steins;God”.",
 		"downloads": []

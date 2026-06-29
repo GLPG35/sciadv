@@ -8,6 +8,7 @@
             "/logos/chn.png"
         ],
         "card": "/cards/chn_side_card.png",
+        "cardOg": "/cards/chn_side_card.jpg",
         "faq": [
         	{
        			"question": "¿Por qué no puedo mirar el anime?",
@@ -189,6 +190,7 @@
             "/logos/sg.png"
         ],
         "card": "/cards/sg_side_card.png",
+        "cardOg": "/cards/sg_side_card.jpg",
         "faq": [
 	        {
 		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
@@ -281,7 +283,7 @@
             },
             {
                 "uuid": "019ef96c-52a8-700d-bb55-a5466ad6b3e0",
-                "title": "Arco de luz del punto de infinidad",
+                "title": "Lámpara de arco del punto en el infinito",
                 "date": "2010-04-28",
                 "essential": true,
                 "notRecommended": false,
@@ -309,7 +311,7 @@
                     }
                 ],
                 "notes": [
-                    "Un Drama CD que tiene lugar en el campo de atracción Gamma, reutilizado el contenido de lo que originalmente era una ruta de Moeka que fue eliminada de la novela visual."
+                    "Un Drama CD que tiene lugar en el campo de atracción Gamma, reutilizando el contenido de lo que originalmente era una ruta de Moeka que fue eliminada de la novela visual."
                 ]
             },
             {
@@ -993,7 +995,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7016-95e4-4916ea4770ff",
-                "title": "Steins;Gate: Arco de luz del punto de infinidad",
+                "title": "Steins;Gate: Lámpara de arco del punto en el infinito",
                 "date": "2015-02-14",
                 "essential": false,
                 "notRecommended": false,
@@ -1105,6 +1107,7 @@
             "/logos/rne.png"
         ],
         "card": "/cards/rne_side_card.png",
+        "cardOg": "/cards/rne_side_card.jpg",
         "faq": [
         	{
        			"question": "¿Por qué no puedo mirar el anime?",
@@ -1336,6 +1339,7 @@
             "/logos/cc.png"
         ],
         "card": "/cards/cc_side_card.png",
+        "cardOg": "/cards/cc_side_card.jpg",
         "faq": [
         	{
        			"question": "¿Por qué no puedo mirar el anime?",
@@ -1766,6 +1770,7 @@
             "/logos/sg0.png"
         ],
         "card": "/cards/sg0_side_card.png",
+        "cardOg": "/cards/sg0_side_card.jpg",
         "faq": [
 	        {
 		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
@@ -2065,6 +2070,8 @@
             "/logos/rnd.png",
             "/logos/rnd.png"
         ],
+        "card": "/cards/rnd_side_card.png",
+        "cardOg": "/cards/rnd_side_card.jpg",
         "list": [
             {
                 "uuid": "019ef96c-52a9-7054-aab3-12968aa3e047",
@@ -2092,6 +2099,7 @@
             "/logos/ac.png"
         ],
         "card": "/cards/ac_side_card.png",
+        "cardOg": "/cards/ac_side_card.jpg",
         "list": [
             {
                 "uuid": "019ef96c-52a9-7055-ba10-de1d9ac9a90d",
