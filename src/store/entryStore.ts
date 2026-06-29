@@ -14,7 +14,8 @@ interface State {
 
 interface PassState {
 	unlocked?: boolean,
-	unlock: (pass: string) => boolean
+	unlock: (pass: string) => boolean,
+	setUnlocked: (value: boolean) => void
 }
 
 const PASS = import.meta.env.PUBLIC_PASS
@@ -57,5 +58,21 @@ export const usePasswordStore = create<PassState>()(persist((set, get) => ({
 		if (pass === PASS) set({ unlocked: true })
 
 		return pass === PASS
+	},
+	setUnlocked: (unlocked) => {
+		set({ unlocked })
 	}
-}), { name: 'sciadvContent' }))
+}), {
+	name: 'sciadvContent',
+	onRehydrateStorage: () => {
+		return (state, err) => {
+			if (err || !state) return
+
+			const hasKey = localStorage.getItem('sciadvContent') !== null
+
+			if (!hasKey) {
+				state.setUnlocked(false)
+			}
+		}
+	}
+}))
