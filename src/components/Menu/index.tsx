@@ -38,7 +38,7 @@ const Menu = ({ url }: { url: URL }) => {
 	return (
 		<div className="subMenu">
 			<div className='menuIcon' onClick={() => setMenu(true)}>
-				<img src="/sciadv_logo.svg" alt="Science Adventure Series Logo" />
+				<img src="/sciadv_logo.svg" alt="" />
 			</div>
 			<AnimatePresence>
 				{menu &&
