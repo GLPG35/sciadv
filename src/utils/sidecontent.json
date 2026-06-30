@@ -1,6 +1,6 @@
 [
     {
-        "title": "CHAOS;HEAD NoAH",
+        "title": "CHAOS;HEAD NOAH",
         "name": "chn",
         "logo": [
             "/logos/chn.avif",
@@ -13,8 +13,8 @@
         	{
        			"question": "Why can't I watch the anime?",
             	"answer": [
-             		"The CHAOS;HEAD anime is by no means a replacement for the visual novel. Its 12 episodes fail to grasp the concept of the original visual novel, let alone the NoAH version.",
-               		"If you still want to watch it for a few laughs, do so only after finishing CHAOS;HEAD NoAH, as the anime itself is not good."
+             		"The CHAOS;HEAD anime is by no means a replacement for the visual novel. Its 12 episodes fail to grasp the concept of the original visual novel, let alone the NOAH version.",
+               		"If you still want to watch it for a few laughs, do so only after finishing CHAOS;HEAD NOAH, as the anime itself is not good."
              	]
          	}
         ],
@@ -110,7 +110,7 @@
                 "type": "shortstory",
                 "urls": [],
                 "notes": [
-                    "A short story monologue set 18 months before the events of Chaos;Head NoAH. This is available in-game as part of the CoZ Overhaul Patch after finishing the true ending."
+                    "A short story monologue set 18 months before the events of CHAOS;HEAD NOAH. This is available in-game as part of the CoZ Overhaul Patch after finishing the true ending."
                 ]
             },
             {
@@ -816,7 +816,7 @@
                     }
                 ],
                 "must": {
-                	"name": "CHAOS;HEAD NoAH",
+                	"name": "CHAOS;HEAD NOAH",
                  	"link": "/entries/chn",
                  	"type": "play"
                 }
@@ -1278,7 +1278,7 @@
                     }
                 ],
                 "notes": [
-                    "An interlinked crossover story featuring the protagonists of all 3 previous mainline games. Can be read at any time once CHAOS;HEAD NoAH, STEINS;GATE and ROBOTICS;NOTES ELITE have all been finished."
+                    "An interlinked crossover story featuring the protagonists of all 3 previous mainline games. Can be read at any time once CHAOS;HEAD NOAH, STEINS;GATE and ROBOTICS;NOTES ELITE have all been finished."
                 ]
             },
             {

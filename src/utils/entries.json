@@ -1,6 +1,6 @@
 [
 	{
-		"title": "CHAOS;HEAD NoAH",
+		"title": "CHAOS;HEAD NOAH",
 		"jpn": "カオスヘッド ノア",
 		"name": "chn",
 		"year": "2009-02-26",
@@ -100,10 +100,10 @@
 				]
 			},
 			{
-				"question": "What's the difference between the original CHAOS;HEAD and the NoAH version?",
+				"question": "What's the difference between the original CHAOS;HEAD and the NOAH version?",
 				"answer": [
 					"The original CHAOS;HEAD came out earlier than expected, mostly because 5pb. (MAGES' predecessor) lacked the funds to make the game they originally planned.",
-					"As a result, they released a scaled-down version to raise money so they could deliver the full experience later. That complete version is CHAOS;HEAD NoAH."
+					"As a result, they released a scaled-down version to raise money so they could deliver the full experience later. That complete version is CHAOS;HEAD NOAH."
 				]
 			}
 		]
@@ -1423,7 +1423,7 @@
 		]
 	},
 	{
-		"title": "STEINS;GATE Re:Boot",
+		"title": "STEINS;GATE RE:BOOT",
 		"jpn": "シュタインズ・ゲート リ・ブート",
 		"name": "sgrb",
 		"year": "2026-08-20",

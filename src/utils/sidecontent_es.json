@@ -1,6 +1,6 @@
 [
     {
-        "title": "CHAOS;HEAD NoAH",
+        "title": "CHAOS;HEAD NOAH",
         "name": "chn",
         "logo": [
             "/logos/chn.avif",
@@ -13,8 +13,8 @@
         	{
        			"question": "¿Por qué no puedo mirar el anime?",
             	"answer": [
-             		"El anime de CHAOS;HEAD no es en absoluto un reemplazo para la novela visual. Sus 12 episodios no logran captar el concepto de la novela visual original, y mucho menos de la versión NoAH.",
-               		"Si aun así quieres verlo para reírte un poco, hazlo sólo después de terminar CHAOS;HEAD NoAH, ya que el anime por sí mismo no es bueno."
+             		"El anime de CHAOS;HEAD no es en absoluto un reemplazo para la novela visual. Sus 12 episodios no logran captar el concepto de la novela visual original, y mucho menos de la versión NOAH.",
+               		"Si aun así quieres verlo para reírte un poco, hazlo sólo después de terminar CHAOS;HEAD NOAH, ya que el anime por sí mismo no es bueno."
              	]
          	}
         ],
@@ -110,7 +110,7 @@
                 "type": "shortstory",
                 "urls": [],
                 "notes": [
-                    "Un monólogo de una historia corta ambientada 18 meses antes de los eventos de Chaos;Head NoAH. Está disponible dentro del juego como parte del parche de CoZ después de terminar el final verdadero."
+                    "Un monólogo de una historia corta ambientada 18 meses antes de los eventos de CHAOS;HEAD NOAH. Está disponible dentro del juego como parte del parche de CoZ después de terminar el final verdadero."
                 ]
             },
             {
@@ -814,7 +814,7 @@
                     }
                 ],
                 "must": {
-                	"name": "CHAOS;HEAD NoAH",
+                	"name": "CHAOS;HEAD NOAH",
                  	"link": "/entries/chn",
                  	"type": "play"
                 }
@@ -1276,7 +1276,7 @@
                     }
                 ],
                 "notes": [
-                    "Una historia crossover interconectada con los protagonistas de los 3 juegos principales anteriores. Puede leerse una vez que hayas terminado CHAOS;HEAD NoAH, STEINS;GATE y ROBOTICS;NOTES ELITE."
+                    "Una historia crossover interconectada con los protagonistas de los 3 juegos principales anteriores. Puede leerse una vez que hayas terminado CHAOS;HEAD NOAH, STEINS;GATE y ROBOTICS;NOTES ELITE."
                 ]
             },
             {
