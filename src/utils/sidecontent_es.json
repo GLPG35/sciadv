@@ -663,8 +663,12 @@
                         "url": "https://mangadex.org/title/64897926-3836-4307-a89d-86fb4d4ae4af/steins-gate-hiyoku-renri-no-sweets-honey"
                     },
                     {
-                        "name": "[VisorManga] (Incompleto)",
-                        "url": "https://visormanga.com/manga/steins-gate-hiyoku-renri-no-sweets-honey"
+                        "name": "[Zona TMO Volumen 1]",
+                        "url": "https://zonatmo.net/manga/steinsgate-hiyoku-renri-no-sweets-honey/"
+                    },
+                    {
+                    	"name": "[Novel Cool] (Incompleto)",
+                     	"url": "https://es.novelcool.com/novel/Steins-Gate-Hiyoku-Renri-No-Sweets-Honey-Vol-2.html"
                     }
                 ],
                 "notes": [
@@ -779,7 +783,6 @@
                 "uuid": "019ef96c-52a9-700a-8159-76093872138c",
                 "title": "Steins;Gate: Votos de un amor + crisis Nyan²☆",
                 "date": "2013-04-13",
-                "finishDate": "2013-07-10",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": true,
