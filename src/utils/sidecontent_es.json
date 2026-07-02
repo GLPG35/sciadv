@@ -269,7 +269,7 @@
                 "uuid": "019ef96c-52a8-700c-b7cd-cb3dcddea6b7",
                 "title": "Magi-Cue 4Koma: World Line Divergence x.091015%",
                 "date": "2010-04-24",
-                "finishDate": "2011-04-25",
+                "finishDate": "2012-11-24",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": true,
@@ -891,7 +891,7 @@
                 "finishDate": "2013-10-20",
                 "essential": false,
                 "notRecommended": false,
-                "incomplete": false,
+                "incomplete": true,
                 "type": "stageplay",
                 "urls": [
                     {
@@ -917,7 +917,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7012-9268-5dc57e2ffc8a",
-                "title": "Steins;Gate Movie: Sinfonía de los meandros ocultos en la ambigüedad",
+                "title": "Steins;Gate Película: Sinfonía de los meandros ocultos en la ambigüedad",
                 "date": "2013-12-13",
                 "essential": false,
                 "notRecommended": false,
@@ -949,7 +949,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7014-8775-d09a9d311362",
-                "title": "Steins;Gate: Epigraph de la curva cerrada Extract Scenes",
+                "title": "Steins;Gate: Epígrafe de la curva temporal cerrada Extract Scenes",
                 "date": "2014-12-28",
                 "essential": false,
                 "notRecommended": false,
@@ -994,7 +994,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7017-afe0-533fed2de5b0",
-                "title": "Steins;Gate: Inductancia de Rotación de Mundo",
+                "title": "Steins;Gate: Inductancia de rotación de mundo",
                 "date": "2015",
                 "essential": false,
                 "notRecommended": false,
@@ -1052,8 +1052,8 @@
                 "hidden": true,
                 "urls": [
                     {
-                        "name": "NES ROM [Directa]",
-                        "url": "https://archive.org/download/8bit-adv-steinsgate/steinsgate.nes"
+                        "name": "NES ROM [Directa] (Sólo en inglés)",
+                        "url": "https://archive.org/download/8-bit-adv-steins-gate-nes/steinsgate.nes"
                     }
                 ],
                 "notes": [
