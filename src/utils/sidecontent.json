@@ -514,12 +514,8 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[YouTube Part 1]",
-                        "url": "https://www.youtube.com/watch?v=vqovjYmBT10"
-                    },
-                    {
-                        "name": "[YouTube Part 2]",
-                        "url": "https://www.youtube.com/watch?v=crQcrr5LAb4"
+                        "name": "[YouTube]",
+                        "url": "https://youtube.com/playlist?list=PLPRyxHiNY5lU&si=83Gh36maFQX9tLMi"
                     }
                 ]
             },

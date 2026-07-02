@@ -508,12 +508,8 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[YouTube Parte 1] (Sólo en inglés)",
-                        "url": "https://www.youtube.com/watch?v=vqovjYmBT10"
-                    },
-                    {
-                        "name": "[YouTube Parte 2] (Sólo en inglés)",
-                        "url": "https://www.youtube.com/watch?v=crQcrr5LAb4"
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://youtube.com/playlist?list=PLPRyxHiNY5lU&si=83Gh36maFQX9tLMi"
                     }
                 ]
             },
