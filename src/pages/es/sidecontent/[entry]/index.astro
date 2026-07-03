@@ -84,7 +84,7 @@ const customTransition = {
 							<span>Contenido Extra</span>
 						</div>
 						<div class="list">
-							<SideContentList title={entry.name as Title} list={entry.list} client:idle />
+							<SideContentList title={entry.name as Title} list={entry.list} url={Astro.url} client:idle />
 						</div>
 					</div>
 				</div>
