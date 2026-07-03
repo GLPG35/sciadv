@@ -1179,8 +1179,12 @@
                 "incomplete": false,
                 "type": "manga",
                 "urls": [
+	                {
+	                    "name": "[MangaDex]",
+	                    "url": "https://mangadex.org/title/26fe1eff-4a85-4cb0-bee9-139a9c8982cc/robotics-notes-revival-legacy"
+	                },
                     {
-                        "name": "[Novel Cool]",
+                        "name": "[Novel Cool] (Incompleto)",
                         "url": "https://es.novelcool.com/novel/Robotics-Notes-Revival-Legacy.html"
                     }
                 ]
@@ -1377,13 +1381,23 @@
             },
             {
                 "uuid": "019ef96c-52a9-702e-87f6-d550b0429878",
-                "title": "Chaos;Child: Las memorias de un doctoinconsciente",
+                "title": "CHAOS;CHILD: Los registros de cierta doctoinconsciente",
                 "date": "2015-12-10",
                 "essential": true,
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "lightnovel",
                 "urls": [
+	                {
+		                "name": "[EPUB] (Sólo en inglés)",
+						"url": "https://files.catbox.moe/3oig2z.epub",
+						"external": true,
+                        "externalName": "CHAOS;CHILD： The Wrong-Sider Memoirs.epub"
+	                },
+					{
+						"name": "[EPUB] (Mirror) (Sólo en inglés)",
+						"url": "https://file.garden/afE1MkDycVrE3Bhr/CHAOS%3BCHILD%EF%BC%9A%20The%20Wrong-Sider%20Memoirs.epub"
+					},
                     {
                         "name": "[PDF] (Sólo en inglés)",
                         "url": "https://ns2c.github.io/assets/mZ9iOBaahXHXFsjG.pdf"
@@ -1559,7 +1573,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7039-b6a7-3d74b51ed07b",
-                "title": "Chaos;Child: Children's Revive",
+                "title": "CHAOS;CHILD: Children's Revive",
                 "date": "2017-03-31",
                 "essential": true,
                 "notRecommended": false,
@@ -1570,7 +1584,7 @@
                         "name": "[EPUB] (Sólo en inglés)",
                         "url": "https://files.catbox.moe/zssot8.epub",
                         "external": true,
-                        "externalName": "Chaos;Child： Children's Revive.epub"
+                        "externalName": "CHAOS;CHILD： Children's Revive.epub"
                     },
                     {
                         "name": "[EPUB] (Mirror) (Sólo en inglés)",
