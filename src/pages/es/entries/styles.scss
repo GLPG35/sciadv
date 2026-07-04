@@ -51,6 +51,15 @@
 					aspect-ratio: 3 / 2 !important;
 				}
 
+				&::before {
+					content: '';
+					inset: -2px;
+					clip-path: polygon(4em 0, 100% 0, 100% calc(100% - 4em), calc(100% - 4em) 100%, 0 100%, 0 4em);
+					position: absolute;
+					z-index: -1;
+					background-color: var(--fg-color);
+				}
+
 				.counter {
 					position: absolute;
 					left: 0;

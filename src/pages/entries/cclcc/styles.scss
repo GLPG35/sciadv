@@ -33,12 +33,22 @@
 			max-height: calc(100dvh - 8em);
 			width: auto;
 			aspect-ratio: 2 / 3;
-			clip-path: polygon(4em 0, 100% 0, 100% calc(100% - 4em), calc(100% - 4em) 100%, 0 100%, 0 4em);
+			position: relative;
+			
+			&::before {
+				content: '';
+				inset: -2px;
+				clip-path: polygon(4em 0, 100% 0, 100% calc(100% - 4em), calc(100% - 4em) 100%, 0 100%, 0 4em);
+				position: absolute;
+				z-index: -1;
+				background-color: var(--fg-color);
+			}
 
 			picture img {
 				width: 100%;
 				height: 100%;
 				object-fit: cover;
+				clip-path: polygon(4em 0, 100% 0, 100% calc(100% - 4em), calc(100% - 4em) 100%, 0 100%, 0 4em);
 			}
 		}
 
