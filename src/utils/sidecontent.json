@@ -1505,7 +1505,7 @@
                 "type": "shortstory",
                 "urls": [
                     {
-                        "name": "[MangaDex]",
+                        "name": "[PDF]",
                         "url": "https://ns2c.github.io/assets/IX4VVKFnUf4GMskw.pdf"
                     }
                 ]
@@ -1562,7 +1562,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7039-b6a7-3d74b51ed07b",
-                "title": "Chaos;Child: Children's Revive",
+                "title": "CHAOS;CHILD: Children's Revive",
                 "date": "2017-03-31",
                 "essential": true,
                 "notRecommended": false,
@@ -1573,11 +1573,11 @@
                         "name": "[EPUB]",
                         "url": "https://files.catbox.moe/zssot8.epub",
                         "external": true,
-                        "externalName": "Chaos;Child： Children's Revive.epub"
+                        "externalName": "CHAOS;CHILD： Children's Revive.epub"
                     },
                     {
                         "name": "[EPUB] (Mirror)",
-                        "url": "https://file.garden/afE1MkDycVrE3Bhr/Chaos%3BChild%EF%BC%9A%20Children's%20Revive.epub"
+                        "url": "https://file.garden/afE1MkDycVrE3Bhr/CHAOS%3BCHILD%EF%BC%9A%20Children's%20Revive.epub"
                     }
                 ],
                 "must": {
