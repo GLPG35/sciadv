@@ -1408,7 +1408,7 @@
                 "uuid": "019ef96c-52a9-702f-9413-e88cab6a3891",
                 "title": "CHAOS;CHILD",
                 "date": "2016-08-27",
-                "finishDate": "2018-02-28",
+                "finishDate": "2018-03-27",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": true,
@@ -1909,7 +1909,7 @@
                 "uuid": "019ef96c-52a9-704a-9da0-dda461b9cab7",
                 "title": "STEINS;GATE 0",
                 "date": "2018-04-03",
-                "finishDate": "2021-02-04",
+                "finishDate": "2020-04-03",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1933,7 +1933,7 @@
                 "uuid": "019ef96c-52a9-704b-a519-f8d97daf4265",
                 "title": "STEINS;GATE 0",
                 "date": "2018-04-12",
-                "finishDate": "2021-09-27",
+                "finishDate": "2018-09-27",
                 "essential": true,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1964,8 +1964,8 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[YouTube] (Sólo en inglés)",
-                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAUV1dEv37A73qrJ_lH5p0L"
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAXOA92K6Y4FKL5h6rlpnVs"
                     }
                 ]
             },
@@ -1994,8 +1994,8 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[YouTube] (Sólo en inglés)",
-                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTCtfeiMACB9iPMx_m5jhxnO"
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTC3LKEMqWqVxl0ZYm_Ifro6"
                     }
                 ]
             },
@@ -2125,7 +2125,7 @@
                 "type": "book",
                 "urls": [
                     {
-                        "name": "[Steam]",
+                        "name": "[Steam] (Sólo en inglés)",
                         "url": "https://store.steampowered.com/app/2459570/ANONYMOUSCODE__A_BEGINNERS_GUIDE_TO_EARTH_SIMULATOR/"
                     }
                 ],
@@ -2136,7 +2136,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7056-968f-3951a7d96616",
-                "title": "Hackers' Crosstalk ",
+                "title": "Hackers' Crosstalk",
                 "date": "2023-01-29",
                 "essential": false,
                 "notRecommended": false,
