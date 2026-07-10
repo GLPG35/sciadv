@@ -18,6 +18,7 @@
              	]
          	}
         ],
+        "epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
         "list": [
             {
                 "uuid": "019ef96c-52a8-7000-9356-2ac6847daada",
@@ -219,6 +220,7 @@
             	]
         	}
         ],
+        "epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
         "list": [
             {
                 "uuid": "019ef96c-52a8-7009-b45b-7717c83d58c0",
@@ -1097,6 +1099,7 @@
              	]
          	}
         ],
+        "epigraph": "La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma.",
         "list": [
             {
                 "uuid": "019ef96c-52a9-701d-8aeb-c14dbaf4484f",
@@ -1333,6 +1336,7 @@
              	]
          	}
         ],
+        "epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
         "list": [
             {
                 "uuid": "019ef96c-52a9-702b-91e8-700b5d47f051",
@@ -1793,6 +1797,7 @@
 	        	]
         	}
         ],
+        "epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
         "list": [
 	        {
 	            "uuid": "019ef96c-52a8-7014-b519-bfbec0a08ced",
@@ -2086,6 +2091,7 @@
         ],
         "card": "/cards/rnd_side_card.png",
         "cardOg": "/cards/rnd_side_card.jpg",
+        "epigraph": "La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma.",
         "list": [
             {
                 "uuid": "019ef96c-52a9-7054-aab3-12968aa3e047",
@@ -2114,6 +2120,7 @@
         ],
         "card": "/cards/ac_side_card.png",
         "cardOg": "/cards/ac_side_card.jpg",
+        "epigraph": "Sólo podría llamársele milagro al hecho de que hayas llegado hasta aquí, hasta este punto de guardado, en este momento de tu vida. Y me complace en gran manera. Ahora atraviesa el telón del escenario; desenmascara al hechicero que mueve los hilos. Cierra el bucle. Y hackea a Dios.",
         "list": [
             {
                 "uuid": "019ef96c-52a9-7055-ba10-de1d9ac9a90d",

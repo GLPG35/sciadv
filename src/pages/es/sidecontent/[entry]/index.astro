@@ -49,16 +49,16 @@ const customTransition = {
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>SciADV Series - {entry.title} Contenido Extra</title>
-		<meta name="description" content="El panorama que tus ojos perciben, ¿es real?" />
+		<meta name="description" content={entry.epigraph} />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content={`SciADV Series - ${entry.title}`} />
-		<meta property="og:description" content={"El panorama que tus ojos perciben, ¿es real?"} />
+		<meta property="og:description" content={entry.epigraph} />
 		<meta property="og:url" content="https://sciadvseri.es/" />
 		<meta property="og:image" content={`https://sciadvseri.es${entry.cardOg}`} />
 		<meta property="twitter:card" content="summary_large_image" />
 		<meta property="twitter:url" content="https://sciadvseri.es/" />
 		<meta property="twitter:title" content={`SciADV Series - ${entry.title}`} />
-		<meta property="twitter:description" content={"El panorama que tus ojos perciben, ¿es real?"} />
+		<meta property="twitter:description" content={entry.epigraph} />
 		<meta property="twitter:image" content={`https://sciadvseri.es${entry.card}`} />
 	</head>
 	<body>
