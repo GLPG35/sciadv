@@ -240,18 +240,24 @@
 					}
 				}
 
-				@media (width < 500px) {
+				@media (width < 600px) {
 					flex-shrink: 0;
 					border-left: none;
 				}
 
-				@media (width < 400px) {
+				@media (width < 450px) {
+					overflow-y: auto;
+					
 					.top {
 						flex-direction: column;
 
 						.cover {
 							max-width: 100% !important;
 						}
+					}
+
+					.sublist {
+						overflow-y: visible !important;
 					}
 				}
 
