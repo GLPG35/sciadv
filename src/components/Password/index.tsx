@@ -65,7 +65,7 @@ const Password = ({ url }: { url: URL }) => {
 					{viewInput &&
 						<motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="inputWrapper">
 							<motion.div initial={{ x: -100 }} animate={{ x: 0 }} exit={{ x: 100 }} className="input">
-								<input placeholder={t('nav.password')} type={wrong ? 'text' : "password"} onKeyDown={handleKeyDown} onChange={e => setPass(e.currentTarget.value)} value={wrong ? t('nav.passwordError') : pass} readOnly={wrong} />
+								<input placeholder={t('nav.password')} type={wrong ? 'text' : "password"} onKeyDown={handleKeyDown} onChange={e => setPass(e.currentTarget.value)} value={wrong ? t('nav.passwordError') : pass} readOnly={wrong} autoFocus />
 								<button onClick={handleUnlock} disabled={wrong}>
 									<div className="icon">
 										{wrong ?

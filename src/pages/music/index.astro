@@ -1,0 +1,87 @@
+---
+import Layout from "../../layouts/Layout.astro"
+import './styles.scss'
+import music from '../../utils/music.json'
+import { getLangFromUrl, useTranslatedPath } from '../../i18n/utils'
+
+const currentLang = getLangFromUrl(Astro.url)
+const translatePath = useTranslatedPath(currentLang)
+
+const anim = {
+	old: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)",
+		direction: "reverse"
+	},
+	new: {
+		name: "bezier",
+		duration: "0.4s",
+		easing: "cubic-bezier(0.65,0.05,0.36,1)"
+	}
+}
+
+const customTransition = {
+	forwards: anim,
+	backwards: anim
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series - Music</title>
+		<meta name="description" content="Is the scenery your eyes perceive truly real?" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={`SciADV Series - Music`} />
+		<meta property="og:description" content="Is the scenery your eyes perceive truly real?" />
+		<meta property="og:url" content="https://sciadvseri.es/" />
+		<meta property="og:image" content={`https://sciadvseri.es/banners/sciadv_banner.jpg`} />
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://sciadvseri.es/" />
+		<meta property="twitter:title" content={`SciADV Series - Music`} />
+		<meta property="twitter:description" content="Is the scenery your eyes perceive truly real?" />
+		<meta property="twitter:image" content={`https://sciadvseri.es/banners/sciadv_banner.png`} />
+	</head>
+	<body>
+		<Layout>
+			<div class="music">
+				<h2>Music</h2>
+				<p>In this section you'll find most of the SciADV music albums. I'll try to include albums that include the most amount of tracks of each game, mostly to keep your collection tidy.</p>
+				<div class="entries">
+					{music.map(({ title, name, logo }) => (
+						<div class="entry">
+							<a class="logo" href={translatePath(`/music/${name}`)} transition:name={`music-cover-${name}`} transition:animate={customTransition}>
+								<picture>
+									{logo.map((src, i) => {
+										if (logo.length === i + 1) return <img src={src} alt='' />
+		
+										const type = src.split('.').pop()
+										return <source srcset={src} type={`image/${type}`} />
+									})}
+								</picture>
+							</a>
+							<div class="description">
+								<div class="title">
+									<div class="name">
+										{title}
+									</div>
+								</div>
+							</div>
+						</div>
+					))}
+				</div>
+			</div>
+		</Layout>
+	</body>
+</html>

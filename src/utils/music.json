@@ -1,0 +1,7973 @@
+[
+	{
+		"title": "CHAOS;HEAD NOAH",
+        "name": "chn",
+        "color": "#e34646",
+        "period": "2008 - 2014",
+        "logo": [
+        	"/cards/chn_music_card.png"
+        ],
+        "card": "/cards/chn_music_card.png",
+        "cardOg": "/cards/chn_music_card.jpg",
+        "list": [
+        	{
+       			"name": "CHAOS;HEAD｜BOX 01 ・ Vocal Disc",
+          		"cover": "/covers/chn/chac_1.jpg",
+          		"date": "2009-08-05",
+           		"description": "Game Soundtrack",
+            	"urls": [
+             		{
+            			"name": "Spotify",
+            			"url": "https://open.spotify.com/album/78flyf1V4VagPK8tjAulC5",
+            			"hidden": false
+               		},
+                 	{
+                		"name": "Apple Music",
+                		"url": "https://music.apple.com/es/album/chaos-head-original-soundtrack/1646367003",
+                		"hidden": false
+                 	},
+             		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/0wIQwBAC#8CVSTaIM05ywQoMkfu5n9w",
+	              		"hidden": true
+             		}
+              	],
+             	"trackList": [
+              		{
+              			"name": "Find the blue",
+               			"duration": "05:13",
+                		"foundIn": ""
+                	},
+                 	{
+                		"name": "Desire Blue Sky",
+                		"duration": "05:14",
+                		"foundIn": ""
+                  	},
+                   	{
+                   		"name": "クライ",
+                    	"duration": "04:54",
+                    	"foundIn": ""
+                    },
+                    {
+                   		"name": "グラジオール",
+                     	"duration": "04:20",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "罪過に契約の血を",
+                    	"duration": "05:33",
+                    	"foundIn": ""
+                    },
+                    {
+                   		"name": "F.D.D.",
+                    	"duration": "04:16",
+                    	"foundIn": ""
+                    },
+                    {
+                   		"name": "Super Special",
+                    	"duration": "01:33",
+                    	"foundIn": ""
+                    },
+                    {
+                   		"name": "磔のミサ〜グラジオール記黙示録詩編より〜",
+                    	"duration": "03:49",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "遥かなるイディヨナ",
+                     	"duration": "04:24",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "fake me",
+                    	"duration": "04:25",
+                    	"foundIn": ""
+                    },
+                    {
+                    	"name": "A Will",
+                    	"duration": "05:25",
+                    	"foundIn": ""
+                    },
+                    {
+                    	"name": "アレルイヤの福音〜使徒からの手紙第二編より〜",
+                    	"duration": "05:46",
+                    	"foundIn": ""
+                    },
+                    {
+                    	"name": "密教の首飾り〜グラジオール列王記邪心編より〜",
+                    	"duration": "04:37",
+                    	"foundIn": ""
+                    }
+              	]
+         	},
+          	{
+           		"name": "CHAOS;HEAD｜BOX 02 ・ Character Disc",
+           		"cover": "/covers/chn/chac_2.jpg",
+           		"date": "2009-08-05",
+           		"description": "Character Songs",
+             	"urls": [
+              		{
+            			"name": "MEGA",
+	             		"url": "https://mega.nz/folder/A0AEjApa#qSS76TB5slJERPdob1eeOw",
+	               		"hidden": true
+               		}
+              	],
+              	"trackList": [
+               		{
+               			"name": "Love Power",
+                			"duration": "03:41",
+                 		"foundIn": ""
+                 	},
+                  	{
+                 		"name": "Trust in me",
+                 		"duration": "04:05",
+                 		"foundIn": ""
+                   	},
+                    {
+                  		"name": "心の闇を切り裂いて",
+                     	"duration": "04:03",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "ちいさな声に気づいて",
+                      	"duration": "04:27",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "WHITE LILY",
+                     	"duration": "04:45",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Calling",
+                     	"duration": "05:48",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "フォーチュン☆LOVEナイト",
+                     	"duration": "04:51",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "妄想ボイス (西條七海 編)",
+                     	"duration": "04:28",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "妄想ボイス (咲畑梨深 編)",
+                      	"duration": "04:28",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "妄想ボイス (岸本あやせ 編)",
+                     	"duration": "05:48",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "妄想ボイス (折原 梢 編)",
+                     	"duration": "04:23",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "妄想ボイス (楠 優愛 編)",
+                     	"duration": "04:28",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "妄想ボイス (蒼井セナ 編)",
+                     	"duration": "04:28",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "妄想ボイス (星来オルジェル 編)",
+                     	"duration": "04:28",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "妄想ボイス (葉月志乃 編)",
+                     	"duration": "04:10",
+                     	"foundIn": ""
+                    }
+               	]
+          	},
+          	{
+           		"name": "CHAOS;HEAD｜BOX 03 ・ Syncro Disc -BGM-",
+           		"cover": "/covers/chn/chac_3.jpg",
+           		"date": "2009-08-05",
+           		"description": "Game Soundtrack",
+             	"urls": [
+              		{
+	           			"name": "Spotify",
+	           			"url": "https://open.spotify.com/album/78flyf1V4VagPK8tjAulC5",
+	           			"hidden": false
+              		},
+                	{
+	               		"name": "Apple Music",
+	               		"url": "https://music.apple.com/es/album/chaos-head-original-soundtrack/1646367003",
+	               		"hidden": false
+                	},
+              		{
+            			"name": "MEGA",
+	             		"url": "https://mega.nz/folder/s5RB1RrK#mAdv4_IlMHpcMRn9B5HGjA",
+	               		"hidden": true
+               		}
+              	],
+              	"trackList": [
+               		{
+               			"name": "M.I.L.",
+                  		"duration": "02:19",
+                 		"foundIn": ""
+                 	},
+                  	{
+                 		"name": "Adventure",
+                 		"duration": "01:32",
+                 		"foundIn": ""
+                   	},
+                    {
+                  		"name": "Soliloquy",
+                     	"duration": "03:29",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "SHIBUYA",
+                      	"duration": "02:43",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Girls",
+                     	"duration": "03:44",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Tender hearts",
+                     	"duration": "01:32",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Virtual reality",
+                     	"duration": "03:06",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "I'm rounder",
+                     	"duration": "03:21",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "In the ward",
+                      	"duration": "03:22",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Pity",
+                     	"duration": "02:00",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Detective",
+                     	"duration": "01:58",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Distorted theory",
+                     	"duration": "03:33",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Truth and false",
+                     	"duration": "01:29",
+                    	"foundIn": ""
+                    },
+                    {
+                     	"name": "Prologue [未使用曲]",
+                     	"duration": "00:52",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "SHIBUYA -original- [未使用曲]",
+                     	"duration": "03:11",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "ダース・スパイダーのテーマ",
+                     	"duration": "00:49",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "七海・着メロ",
+                     	"duration": "00:51",
+                     	"foundIn": ""
+                    }
+               	]
+          	},
+           	{
+           		"name": "CHAOS;HEAD｜BOX 04 ・ Trigger Disc -BGM-",
+           		"cover": "/covers/chn/chac_4.jpg",
+           		"date": "2009-08-05",
+           		"description": "Game Soundtrack",
+             	"urls": [
+              		{
+            			"name": "MEGA",
+	             		"url": "https://mega.nz/folder/09wynQDT#rlIbnZN8WAxR4181_44Wfw",
+	               		"hidden": true
+               		}
+              	],
+              	"trackList": [
+               		{
+               			"name": "Silence",
+                  		"duration": "02:22",
+                 		"foundIn": ""
+                 	},
+                  	{
+                 		"name": "Delusion",
+                 		"duration": "01:48",
+                 		"foundIn": ""
+                   	},
+                    {
+                  		"name": "Fear",
+                     	"duration": "02:22",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "SEIRA",
+                      	"duration": "02:18",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Gradually panic",
+                     	"duration": "01:58",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Doubt",
+                     	"duration": "02:42",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Mysterious",
+                     	"duration": "02:22",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Town Vanguard",
+                     	"duration": "02:36",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "White out",
+                      	"duration": "02:55",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Shogun",
+                     	"duration": "02:33",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Last Battle",
+                     	"duration": "02:17",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Fear flow",
+                     	"duration": "03:37",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Can see it",
+                     	"duration": "03:22",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "The essence",
+                     	"duration": "03:34",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Convert",
+                     	"duration": "03:35",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Final chapter",
+                     	"duration": "02:54",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Colors",
+                     	"duration": "03:00",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Real link",
+                     	"duration": "03:00",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Silent sky",
+                     	"duration": "03:16",
+                     	"foundIn": ""
+                    }
+               	]
+          	},
+           	{
+           		"name": "sound track of CHAOS;HEAD the animation",
+           		"cover": "/covers/chn/chta.jpeg",
+           		"date": "2009-04-22",
+           		"description": "Anime Soundtrack",
+             	"urls": [
+              		{
+            			"name": "MEGA",
+	             		"url": "https://mega.nz/folder/V5oxHZgD#QAG8gWohAVCshbqKtOvf6Q",
+	               		"hidden": true
+               		}
+              	],
+              	"trackList": [
+               		{
+               			"name": "Electromagnetic Induction",
+                  		"duration": "01:46",
+                 		"foundIn": ""
+                 	},
+                  	{
+                 		"name": "F.D.D. (TV-size)",
+                 		"duration": "01:31",
+                 		"foundIn": ""
+                   	},
+                    {
+                  		"name": "They Raid!",
+                     	"duration": "01:43",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "ブラチュー",
+                      	"duration": "01:42",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Uneven Dance ~Synth version~",
+                     	"duration": "01:47",
+                     	"foundIn": ""
+                    },
+                    {
+                		"name": "エンスー",
+                     	"duration": "01:35",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Whose Eyes?",
+                     	"duration": "02:00",
+                     	"foundIn": ""
+                    },
+                    {
+                    	"name": "Heavy Acid #1",
+                     	"duration": "02:02",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "The Beginning of Attachment ~E.Piano version~",
+                      	"duration": "01:55",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Sleazy Delusion ~Piano (4hands) version~",
+                     	"duration": "01:22",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Flow ~Solo Piano version~",
+                     	"duration": "02:07",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Negative Chase",
+                     	"duration": "02:19",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Atom／Molecule #1",
+                     	"duration": "02:43",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Endearing",
+                     	"duration": "01:43",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Flow ~Ondes Martenot version~",
+                     	"duration": "02:05",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Unconsciousness #1",
+                     	"duration": "01:42",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Acceleration",
+                     	"duration": "02:11",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Incertitude",
+                     	"duration": "02:23",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Sleazy Delusion ~E.Guitar version~",
+                     	"duration": "01:17",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Revulsion",
+                     	"duration": "01:56",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Atom／Molecule #2",
+                     	"duration": "01:53",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "磔のミサ ～Instrumental～",
+                     	"duration": "02:14",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Warfare",
+                     	"duration": "01:56",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Inquietude",
+                     	"duration": "01:34",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Contact Bounce",
+                     	"duration": "01:22",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "The Beginning of Attachment ~Ondes Martenot version~",
+                     	"duration": "02:22",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Heavy Acid #2",
+                     	"duration": "01:46",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Remembrance #1",
+                     	"duration": "01:10",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Uneven Dance ~Strings version~",
+                     	"duration": "01:46",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Remembrance #2",
+                     	"duration": "01:18",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Random Walk",
+                     	"duration": "01:34",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Di-Sword",
+                     	"duration": "01:44",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Sleazy Delusion ~Solo Piano version~",
+                     	"duration": "01:28",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Forward, Slowly, But Forward",
+                     	"duration": "01:52",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Manifestation",
+                     	"duration": "02:11",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Qualm",
+                     	"duration": "01:54",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Flow ~Strings version~",
+                     	"duration": "01:59",
+                     	"foundIn": ""
+                    },
+                    {
+                     	"name": "Super Special (TV-size)",
+                     	"duration": "01:32",
+                     	"foundIn": ""
+                    }
+               	]
+          	},
+           	{
+    			"name": "End Prophecy / PHANTASM (FES cv.榊原ゆい)",
+         		"cover": "/covers/chn/fes_ep.jpg",
+         		"date": "2009-05-06",
+         		"description": "Game Songs",
+             	"urls": [
+              		{
+              			"name": "Apple Music",
+               			"url": "https://music.apple.com/jp/album/phantasm-end-prophecy/379251911",
+                		"hidden": false
+                	},
+              		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/NhRVnAjT#iZLtb7CdHUg-l43YS46fWw",
+	              		"hidden": true
+              		}
+               	],
+              	"trackList": [
+               		{	
+            			"name": "密教の首飾り (Black Mass Ver.)",
+            			"duration": "04:54",
+               			"foundIn": ""
+                 	},
+                  	{
+                 		"name": "贖罪のエロティカ",
+                 		"duration": "05:53",
+                 		"foundIn": ""
+                   	},
+                   	{
+                   		"name": "罪過に契約の血を",
+                     	"duration": "05:31",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "闇に光を灯す者",
+                     	"duration": "04:20",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "磔のミサ (To the distance Ver.)",
+                     	"duration": "04:14",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "遙かなるイディヨナ (Heavy Generation Ver.)",
+                     	"duration": "04:22",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "アレルイヤの福音 (Extra Solo Ver.)",
+                     	"duration": "05:30",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "グラジオール",
+                     	"duration": "04:15",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "嘆きのアラベスク",
+                     	"duration": "04:35",
+                     	"foundIn": ""
+                    }
+               	]
+          	},
+           	{
+    			"name": "CHAOS;HEAD らぶChu☆Chu!｜シンクロしようよ",
+         		"cover": "/covers/chn/chlcc_x360_op.jpg",
+         		"date": "2010-03-31",
+         		"description": "Xbox 360 Opening",
+             	"urls": [
+              		{
+              			"name": "Apple Music",
+               			"url": "https://music.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%81%97%E3%82%88%E3%81%86%E3%82%88/414448725",
+                		"hidden": false
+                	},
+              		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/k44CGazT#zGMLX1eySDlzXcHg384YZg",
+	              		"hidden": true
+              		}
+               	],
+              	"trackList": [
+               		{
+	         			"name": "シンクロしようよ",
+	         			"duration": "04:18",
+	               		"foundIn": ""
+                 	},
+                  	{
+                 		"name": "君へのトビキリ☆応援歌。",
+                 		"duration": "04:11",
+                 		"foundIn": ""
+                   	},
+                    {
+                   		"name": "シンクロしようよ (Off Vocal)",
+                     	"duration": "04:18",
+                     	"foundIn": ""
+                    },
+                    {
+                   		"name": "君へのトビキリ☆応援歌。 (Off Vocal)",
+                     	"duration": "04:11",
+                     	"foundIn": ""
+                    }
+               	]
+          	},
+           	{
+     			"name": "祈りのヴィオレット",
+          		"cover": "/covers/chn/chlcc_ed.png",
+          		"date": "2010-04-28",
+          		"description": "Xbox 360 Ending",
+              	"urls": [
+	               	{
+	             		"name": "Spotify",
+	              		"url": "https://open.spotify.com/album/748ycaG73LucENFmiiTVgX",
+	                	"hidden": false
+	               	},
+					{
+                 		"name": "Apple Music",
+                 		"url": "https://music.apple.com/jp/album/chaos-head-vocal-collection/467996303",
+                 		"hidden": false
+                   	},
+               		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/BspFXYIa#VmprDaAvBN5_E0zhwNlHcQ",
+	              		"hidden": true
+               		}
+                ],
+               	"trackList": [
+                	{
+             			"name": "祈りのヴィオレット",
+             			"duration": "06:04",
+                		"foundIn": ""
+                  	},
+                   	{
+                  		"name": "イノセンス〜殺戮の創世記詩編 最終章より〜",
+                  		"duration": "04:43",
+                  		"foundIn": ""
+                    },
+                    {
+                    	"name": "罪過に契約の血を 〜シングルLimitedバージョン〜",
+                      	"duration": "05:40",
+                      	"foundIn": ""
+                    }
+                ]
+           	},
+            {
+     			"name": "CHAOS;HEAD らぶChu☆Chu!｜Original Soundtrack",
+          		"cover": "/covers/chn/chlcc_ost.jpg",
+          		"date": "2010-08-13",
+          		"description": "Game Soundtrack",
+              	"urls": [
+               		{
+               			"name": "Apple Music",
+                		"url": "https://music.apple.com/jp/album/chaos-child-%E3%82%89%E3%81%B6chu-chu-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%CE%B1/6772871212",
+                		"hidden": false
+                 	},
+               		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/lgJwgYCZ#boLyBQH6MPbjAm5qsS28Jw",
+	              		"hidden": true
+               		}
+                ],
+               	"trackList": [
+                	{
+             			"name": "シンクロしようよ-LCCmix-",
+             			"duration": "01:09",
+                		"foundIn": ""
+                  	},
+                   	{
+                  		"name": "Image world",
+                  		"duration": "02:49",
+                  		"foundIn": ""
+                    },
+                    {
+                    	"name": "Erin-fray Orgel",
+                      	"duration": "02:21",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "An enchanting",
+                      	"duration": "03:19",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Pure",
+                      	"duration": "03:11",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Pure -pop-",
+                      	"duration": "02:13",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "For ghost",
+                      	"duration": "03:09",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "The uniting with limit",
+                      	"duration": "05:10",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Wake up",
+                      	"duration": "03:15",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Into dream again",
+                      	"duration": "02:26",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Into dream again -Piano-",
+                      	"duration": "02:30",
+                      	"foundIn": ""
+                    }
+                ]
+           	},
+            {
+     			"name": "PSP「CHAOS;HEAD らぶChu☆Chu!」主題歌シングル!",
+          		"cover": "/covers/chn/chlcc_psp_op.jpg",
+          		"date": "2011-01-16",
+          		"description": "PSP Opening",
+              	"urls": [
+               		{
+               			"name": "Spotify",
+                		"url": "https://open.spotify.com/album/748ycaG73LucENFmiiTVgX",
+                		"hidden": false
+                 	},
+               		{
+               			"name": "Apple Music",
+                		"url": "https://music.apple.com/jp/album/%E3%83%95%E3%83%A9%E3%82%B0%E7%AB%8B%E3%81%A6%E3%82%88%E3%81%86%E3%82%88/467996303",
+                		"hidden": false
+                 	},
+               		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/MtgDGarQ#Zm721pMD_Y3HHcyVH4zmOw",
+	              		"hidden": true
+               		}
+                ],
+               	"trackList": [
+                	{
+             			"name": "フラグ立てようよ",
+             			"duration": "04:09",
+                		"foundIn": ""
+                  	},
+                   	{
+                  		"name": "果てしない蒼空へ",
+                  		"duration": "04:00",
+                  		"foundIn": ""
+                    },
+                    {
+                    	"name": "翡翠のカヴィリエーレ",
+                      	"duration": "05:43",
+                      	"foundIn": ""
+                    }
+                ]
+           	},
+            {
+     			"name": "CHAOS;HEAD VOCAL COLLECTION",
+          		"cover": "/covers/chn/chvc.jpg",
+          		"date": "2011-08-24",
+          		"description": "Game Songs",
+              	"urls": [
+               		{
+               			"name": "Spotify",
+                		"url": "https://open.spotify.com/album/748ycaG73LucENFmiiTVgX",
+                  		"hidden": false
+                 	},
+                  	{
+                 		"name": "Apple Music",
+                 		"url": "https://music.apple.com/jp/album/chaos-head-vocal-collection/467996303",
+                 		"hidden": false
+                   	},
+               		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/A4InxbhT#0tRoYAiRDV0MuUp6e8F7Tg",
+	              		"hidden": true
+               		}
+                ],
+               	"trackList": [
+                	{
+             			"name": "Find the blue",
+             			"duration": "05:09",
+                		"foundIn": ""
+                  	},
+                   	{
+                  		"name": "Desire Blue sky",
+                  		"duration": "05:12",
+                  		"foundIn": ""
+                    },
+                    {
+                    	"name": "クライ",
+                      	"duration": "04:52",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "罪過に契約の血を",
+                      	"duration": "05:30",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "グラジオール",
+                      	"duration": "04:18",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "F.D.D.",
+                      	"duration": "04:14",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Super Special",
+                      	"duration": "05:43",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "磔のミサ",
+                      	"duration": "03:46",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "遙かなるイディヨナ",
+                      	"duration": "04:22",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "fake me",
+                      	"duration": "04:22",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "A Will",
+                      	"duration": "05:21",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "アレルイヤの福音",
+                      	"duration": "05:44",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "密教の首飾り",
+                      	"duration": "04:37",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Fetishism Ark",
+                      	"duration": "04:38",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "イノセンス～殺戮の創世記詩編 最終章より～",
+                      	"duration": "04:41",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "シンクロしようよ",
+                      	"duration": "04:15",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "君へのトビキリ☆応援歌。",
+                      	"duration": "04:07",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "祈りのヴィオレット",
+                      	"duration": "06:00",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "この空の彼方に",
+                      	"duration": "05:25",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "フラグ立てようよ",
+                      	"duration": "04:06",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "果てしない蒼空へ",
+                      	"duration": "03:59",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "翡翠のカヴィリエーレ",
+                      	"duration": "05:41",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Trust in me",
+                      	"duration": "04:02",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Love Power",
+                      	"duration": "03:38",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "心の闇を切り裂いて",
+                      	"duration": "04:01",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "ちいさな声に気づいて",
+                      	"duration": "04:24",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "WHITE LILY",
+                      	"duration": "04:42",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Calling",
+                      	"duration": "05:46",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "フォーチュン☆LOVEナイト",
+                      	"duration": "04:47",
+                      	"foundIn": ""
+                    }
+                ]
+           	},
+            {
+     			"name": "Revival Prophecy / PHANTASM (FES cv.榊原ゆい)",
+          		"cover": "/covers/chn/fes_rp.jpg",
+          		"date": "2011-12-21",
+          		"description": "Game Songs",
+              	"urls": [
+               		{
+               			"name": "Spotify",
+                		"url": "https://open.spotify.com/album/2MJ2d2C5CJPK4t9UlPrhV2",
+                  		"hidden": false
+                 	},
+                  	{
+                 		"name": "Apple Music",
+                 		"url": "https://music.apple.com/es/album/revival-prophecy/6771707911",
+                 		"hidden": false
+                   	},
+               		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/Rh5WDBRY#mSqWePtb7oHmQhaiHSiiGA",
+	              		"hidden": true
+               		}
+                ],
+               	"trackList": [
+                	{
+             			"name": "刻司ル十二ノ盟約",
+             			"duration": "05:02",
+                		"foundIn": ""
+                  	},
+                   	{
+                  		"name": "空と地上のクレアシオン",
+                  		"duration": "05:10",
+                  		"foundIn": ""
+                    },
+                    {
+                    	"name": "プレギエーラの月夜に",
+                      	"duration": "04:16",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "マスカレード ～ノア第三章列王新世紀編より～",
+                      	"duration": "04:53",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "イノセンス ～殺戮の創世記詩編 最終章より～",
+                      	"duration": "04:39",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "祈りのヴィオレット",
+                      	"duration": "06:00",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "EUPHORIA ～償いのレクイエム～",
+                      	"duration": "05:51",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "麗しきセデュース",
+                      	"duration": "05:08",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "深淵のルミエラ",
+                      	"duration": "04:49",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "翡翠のカヴィリエーレ",
+                      	"duration": "05:42",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "罪過に契約の血を ～アルバムLimitedバージョン～",
+                      	"duration": "05:36",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "Prophecy ～Gate of Steiner～",
+                      	"duration": "01:42",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "運命のファルファッラ",
+                      	"duration": "05:12",
+                      	"foundIn": ""
+                    }
+                ]
+           	},
+            {
+     			"name": "ゲーム「神次元ゲイム ネプテューヌV」OPテーマ 「神次元!ふぉーちゅん・まてりある」",
+          		"cover": "/covers/chn/chlcc_ps3_op.jpg",
+          		"date": "2012-10-24",
+          		"description": "PS3 Opening",
+              	"urls": [
+               		{
+               			"name": "Spotify",
+                		"url": "https://open.spotify.com/album/36xGoNOsvUzsOctFF8pDAK",
+                		"hidden": false
+                 	},
+               		{
+               			"name": "Apple Music",
+                		"url": "https://music.apple.com/jp/album/prismatic-infinity-carat-ii/6775778666",
+                		"hidden": false
+                 	},
+               		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/5wZRiDKD#eBktNJb9ugdsd1OCy6uzpw",
+	              		"hidden": true
+               		}
+                ],
+               	"trackList": [
+                	{
+             			"name": "神次元!ふぉーちゅん・まてりある",
+             			"duration": "04:08",
+                		"foundIn": ""
+                  	},
+                   	{
+                  		"name": "極上HEAVEN",
+                  		"duration": "04:28",
+                  		"foundIn": ""
+                    },
+                    {
+                    	"name": "神次元!ふぉーちゅん・まてりある (Off Vocal)",
+                      	"duration": "04:08",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "極上HEAVEN (Off Vocal)",
+                      	"duration": "04:28",
+                      	"foundIn": ""
+                    }
+                ]
+           	},
+            {
+     			"name": "PS3「CHAOS;HEAD NOAH」カオスロジック",
+          		"cover": "/covers/chn/chn_ps3_op.jpg",
+          		"date": "2012-11-28",
+          		"description": "PS3 Opening",
+              	"urls": [
+               		{
+               			"name": "Spotify",
+                		"url": "https://open.spotify.com/album/0T1lxIY3DUHDUz6aNJncQI",
+                		"hidden": false
+                 	},
+               		{
+               			"name": "Apple Music",
+                		"url": "https://music.apple.com/jp/album/raster/839323957",
+                		"hidden": false
+                 	},
+               		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/09pwWBaZ#DIEV_17pzw4t5oETJ-yffw",
+	              		"hidden": true
+               		}
+                ],
+               	"trackList": [
+                	{
+             			"name": "カオスロジック",
+             			"duration": "04:33",
+                		"foundIn": ""
+                  	},
+                   	{
+                  		"name": "D.P.",
+                  		"duration": "04:37",
+                  		"foundIn": ""
+                    },
+                    {
+                    	"name": "カオスロジック (off Vocal)",
+                      	"duration": "04:32",
+                      	"foundIn": ""
+                    },
+                    {
+                    	"name": "D.P. (off Vocal)",
+                      	"duration": "04:35",
+                      	"foundIn": ""
+                    }
+                ]
+           	}
+        ]
+	},
+	{
+		"title": "STEINS;GATE",
+        "name": "sg",
+        "color": "#ebebeb",
+        "period": "2009-2020",
+        "logo": [
+        	"/cards/sg_music_card.png"
+        ],
+        "card": "/cards/sg_music_card.png",
+        "cardOg": "/cards/sg_music_card.jpg",
+        "list": [
+	       	{
+	 			"name": "STARGATE",
+	      		"cover": "/covers/sg/sg.jpg",
+	      		"date": "2009-08-26",
+				"description": "Game Songs",
+	          	"urls": [
+	           		{
+	           			"name": "Apple Music",
+	            		"url": "https://music.apple.com/album/stargate/333670233",
+	            		"hidden": false
+	             	},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/4gBw1RCJ#Zn2_UBTBowFGmNAtQnlrww",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "Open The STARGATE",
+						"duration": "00:38",
+						"foundIn": ""
+					},
+					{
+						"name": "Liberty",
+						"duration": "04:46",
+						"foundIn": ""
+					},
+					{
+						"name": "Sunday Sunshine",
+						"duration": "04:30",
+						"foundIn": ""
+					},
+					{
+						"name": "Dear my stars",
+						"duration": "04:14",
+						"foundIn": ""
+					},
+					{
+						"name": "eureka",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "technovision",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "ルイラン",
+						"duration": "04:18",
+						"foundIn": ""
+					},
+					{
+						"name": "雨の日のサヨナラ",
+						"duration": "04:20",
+						"foundIn": ""
+					},
+					{
+						"name": "幻",
+						"duration": "04:33",
+						"foundIn": ""
+					},
+					{
+						"name": "星屑",
+						"duration": "05:32",
+						"foundIn": ""
+					},
+					{
+						"name": "déjà vu",
+						"duration": "05:03",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "スカイクラッドの観測者",
+	      		"cover": "/covers/sg/sg_x360_op.jpg",
+	      		"date": "2009-10-28",
+				"description": "Xbox 360 Opening",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/6ELyhqz3HiWbZFjvVQQaS0",
+						"hidden": false
+					},
+	           		{
+	           			"name": "Apple Music",
+	            		"url": "https://music.apple.com/jp/album/スカイクラッドの観測者-single/380276649",
+	            		"hidden": false
+	             	},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/9lByhbYa#WX4-0pgBPp3XXmwGPaxp0A",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "スカイクラッドの観測者",
+						"duration": "04:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Another Heaven",
+						"duration": "04:30",
+						"foundIn": ""
+					},
+					{
+						"name": "スカイクラッドの観測者 [instrumental]",
+						"duration": "04:35",
+						"foundIn": ""
+					},
+					{
+						"name": "Another Heaven [instrumental]",
+						"duration": "04:27",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "運命のファルファッラ",
+	      		"cover": "/covers/sg/sg_x360_ed.jpg",
+	      		"date": "2009-11-25",
+				"description": "Xbox 360 Ending",
+	          	"urls": [
+	           		{
+	           			"name": "Apple Music",
+	            		"url": "https://music.apple.com/jp/album/運命のファルファッラ-ep/380282625",
+	            		"hidden": false
+	             	},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/k4JUTCCZ#NF2enRLK2iL40FeZ83UMfw",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "運命のファルファッラ",
+						"duration": "05:15",
+						"foundIn": ""
+					},
+					{
+						"name": "マスカレード ～ノア第三章列王新世紀編より～",
+						"duration": "04:57",
+						"foundIn": ""
+					},
+					{
+						"name": "嘆きのアラベスク～シングルLimitedバージョン～",
+						"duration": "04:38",
+						"foundIn": ""
+					},
+					{
+						"name": "運命のファルファッラ [instrumental]",
+						"duration": "05:15",
+						"foundIn": ""
+					},
+					{
+						"name": "マスカレード ～ノア第三章列王新世紀編より～ [instrumental]",
+						"duration": "04:54",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "STEINS;GATE｜Original Soundtrack",
+	      		"cover": "/covers/sg/sg_ost.jpg",
+	      		"date": "2010-02-03",
+				"description": "Game Soundtrack",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C",
+						"hidden": false
+					},
+	           		{
+	           			"name": "Apple Music",
+	            		"url": "https://music.apple.com/gb/album/steins-gate-originalsoundtrack/380285403",
+	            		"hidden": false
+	             	},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/IoIkjJLR#6gtkP-wnCD0LOzMIbk8iiQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "スカイクラッドの観測者 ~short version~",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "technovision ~short version~",
+						"duration": "01:38",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -Main theme-",
+						"duration": "03:47",
+						"foundIn": ""
+					},
+					{
+						"name": "The universe",
+						"duration": "00:57",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory",
+						"duration": "02:20",
+						"foundIn": ""
+					},
+					{
+						"name": "Suspicious Eyes",
+						"duration": "02:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times",
+						"duration": "02:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation",
+						"duration": "03:39",
+						"foundIn": ""
+					},
+					{
+						"name": "Quiet air",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Yanagibayashi",
+						"duration": "02:28",
+						"foundIn": ""
+					},
+					{
+						"name": "Walking on sleeping",
+						"duration": "03:05",
+						"foundIn": ""
+					},
+					{
+						"name": "Cycle",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "Hack -beta vision-",
+						"duration": "03:01",
+						"foundIn": ""
+					},
+					{
+						"name": "SERN",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Assailant",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "The Limit",
+						"duration": "02:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Select of sorrow",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Chaos mind",
+						"duration": "02:51",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "Self affirmation",
+						"duration": "03:06",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me",
+						"duration": "02:04",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -piano-",
+						"duration": "03:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Hack -alpha vision-",
+						"duration": "03:13",
+						"foundIn": ""
+					},
+					{
+						"name": "Human community",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Network battle",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "hesitative consideration",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Urd",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "Fake Verthandi",
+						"duration": "02:19",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD",
+						"duration": "04:29",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Beginning of fight-",
+						"duration": "00:37",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Village-",
+						"duration": "01:02",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Easygoingness-",
+						"duration": "00:43",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Precaution-",
+						"duration": "01:09",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Over the sky-",
+						"duration": "00:44",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Reunion-",
+						"duration": "00:35",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -GATE OF STEINER-",
+						"duration": "00:37",
+						"foundIn": ""
+					},
+					{
+						"name": "Hack -short vision-",
+						"duration": "01:59",
+						"foundIn": ""
+					},
+					{
+						"name": "マスカレード ～ノア第三章列王新世紀編より～ ~short version~",
+						"duration": "03:30",
+						"foundIn": ""
+					},
+					{
+						"name": "運命のファルファッラ ~short version~",
+						"duration": "03:23",
+						"foundIn": ""
+					},
+					{
+						"name": "Another Heaven ~short version~",
+						"duration": "02:57",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "A.R. ~insert song~",
+	      		"cover": "/covers/sg/sg_pc_op.jpg",
+	      		"date": "2010-07-28",
+				"description": "PC Opening",
+	          	"urls": [
+	           		{
+	           			"name": "Spotify",
+	            		"url": "https://open.spotify.com/album/3bV2nFAHavEKP0PCZGrpb6",
+	            		"hidden": false
+	             	},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/Up50AIhQ#8cKiqxMTaCHfvcSu047EDQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "A.R.",
+						"duration": "04:31",
+						"foundIn": ""
+					},
+					{
+						"name": "Star-Crossed",
+						"duration": "05:17",
+						"foundIn": ""
+					},
+					{
+						"name": "A.R. [instrumental]",
+						"duration": "04:30",
+						"foundIn": ""
+					},
+					{
+						"name": "Star-Crossed [instrumental]",
+						"duration": "05:15",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー001☆岡部倫太郎",
+	      		"cover": "/covers/sg/cs1.jpg",
+	      		"date": "2010-08-25",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/ok40TLKD#r2g1OHKiQM8rBNTSr_NBNg",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日11時21分]岡部倫太郎編",
+						"duration": "11:42",
+						"foundIn": ""
+					},
+					{
+						"name": "難攻不落のnew gate",
+						"duration": "06:43",
+						"foundIn": ""
+					},
+					{
+						"name": "難攻不落のnew gate [instrumental]",
+						"duration": "06:44",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (宮野真守)",
+						"duration": "02:18",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー002☆椎名まゆり",
+	      		"cover": "/covers/sg/cs2.jpg",
+	      		"date": "2010-08-25",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/g1JwAIzb#twPREjGKGaM-5bgRmUsJBg",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日11時33分]椎名まゆり編",
+						"duration": "13:18",
+						"foundIn": ""
+					},
+					{
+						"name": "優しい夕暮れ",
+						"duration": "05:22",
+						"foundIn": ""
+					},
+					{
+						"name": "優しい夕暮れ [instrumental]",
+						"duration": "05:23",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (花澤香菜)",
+						"duration": "01:45",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー003☆橋田至",
+	      		"cover": "/covers/sg/cs3.jpg",
+	      		"date": "2010-09-22",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/tox0BT5K#q1AXwIHVGwO8J19sz0SRJA",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日11時55分]橋田 至編",
+						"duration": "12:09",
+						"foundIn": ""
+					},
+					{
+						"name": "萌える世界の幻想譚",
+						"duration": "04:38",
+						"foundIn": ""
+					},
+					{
+						"name": "萌える世界の幻想譚 [instrumental]",
+						"duration": "04:39",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (関智一)",
+						"duration": "01:10",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー004☆牧瀬紅莉栖",
+	      		"cover": "/covers/sg/cs4.jpg",
+	      		"date": "2010-09-22",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/xoo2AYwJ#65-qAjDB310aaUrr-MQBfA",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日12時10分]牧瀬紅莉栖編",
+						"duration": "14:19",
+						"foundIn": ""
+					},
+					{
+						"name": "約束のパラダイム",
+						"duration": "04:37",
+						"foundIn": ""
+					},
+					{
+						"name": "約束のパラダイム [instrumental]",
+						"duration": "04:38",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (今井麻美)",
+						"duration": "01:34",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー005☆桐生萌郁",
+	      		"cover": "/covers/sg/cs5.jpg",
+	      		"date": "2010-10-20",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/Y8wV2CZT#s5SdwfjTUoMFEgRDnNOw_Q",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日11時27分]桐生萌郁編",
+						"duration": "12:23",
+						"foundIn": ""
+					},
+					{
+						"name": "To Be Loved",
+						"duration": "04:48",
+						"foundIn": ""
+					},
+					{
+						"name": "To Be Loved [instrumental]",
+						"duration": "04:49",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (後藤沙緒里)",
+						"duration": "02:18",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー006☆漆原るか",
+	      		"cover": "/covers/sg/cs6.jpg",
+	      		"date": "2010-10-20",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/05QyRRKK#D-3hbgZDRC_Yd-bhFxt4OQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日12時48分]漆原るか編",
+						"duration": "11:35",
+						"foundIn": ""
+					},
+					{
+						"name": "儚い記憶のかけら",
+						"duration": "04:22",
+						"foundIn": ""
+					},
+					{
+						"name": "儚い記憶のかけら [instrumental]",
+						"duration": "04:23",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (小林ゆう)",
+						"duration": "03:06",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー007☆フェイリス・ニャンニャン",
+	      		"cover": "/covers/sg/cs7.jpg",
+	      		"date": "2010-11-24",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/N0xlUYDK#r-hb5hm-bNQGMQbj6n9DSQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日11時26分]フェイリス・ニャンニャン編",
+						"duration": "11:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Nyan☆Nyan☆Galaxy!",
+						"duration": "04:33",
+						"foundIn": ""
+					},
+					{
+						"name": "Nyan☆Nyan☆Galaxy! [instrumental]",
+						"duration": "04:34",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (桃井はるこ)",
+						"duration": "01:44",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "オーディオシリーズ ☆ラボメンナンバー008☆阿万音鈴羽",
+	      		"cover": "/covers/sg/cs8.jpg",
+	      		"date": "2010-11-24",
+				"description": "Character Song",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/B0hSHZ6C#ZYv3bo7_V3p2lfeoW_sOUA",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ミニドラマ[7月28日11時21分]阿万音鈴羽編",
+						"duration": "16:55",
+						"foundIn": ""
+					},
+					{
+						"name": "虹色の光りの中で",
+						"duration": "04:02",
+						"foundIn": ""
+					},
+					{
+						"name": "虹色の光りの中で [instrumental]",
+						"duration": "04:02",
+						"foundIn": ""
+					},
+					{
+						"name": "キャストコメント (田村ゆかり)",
+						"duration": "00:50",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "Hacking to the Gate",
+	      		"cover": "/covers/sg/sga_op.jpg",
+	      		"date": "2011-04-27",
+				"description": "Anime Opening",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/3dQ3C0NOeMqQT3mwWVivM2",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/tvアニメ-シュタインズ-ゲート-opテーママキシシングル-hacking-to-the-gate-ep/1843786356",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/5wZUAQZR#SGJpYZ3Pe3QK09yDH8OdkA",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "Hacking to the Gate",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "リライアンス",
+						"duration": "05:14",
+						"foundIn": ""
+					},
+					{
+						"name": "Hacking to the Gate [instrumental]",
+						"duration": "04:15",
+						"foundIn": ""
+					},
+					{
+						"name": "リライアンス [instrumental]",
+						"duration": "05:11",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "刻司ル十二ノ盟約",
+	      		"cover": "/covers/sg/sga_ed.jpg",
+	      		"date": "2011-05-25",
+				"description": "Anime Ending",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/6gn3U8bM6lIo3pHbNERMB6",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/tvアニメ-シュタインズ-ゲート-edテーママキシシングル-刻司ル十二ノ盟約-ep/1843796091",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/V4ZlnYwY#DYHOB0MgbTgPChnZ8S2l1w",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "刻司ル十二ノ盟約",
+						"duration": "05:03",
+						"foundIn": ""
+					},
+					{
+						"name": "麗しきセデュース",
+						"duration": "05:09",
+						"foundIn": ""
+					},
+					{
+						"name": "刻司ル十二ノ盟約 [instrumental]",
+						"duration": "05:02",
+						"foundIn": ""
+					},
+					{
+						"name": "麗しきセデュース [instrumental]",
+						"duration": "05:07",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "Micro Wave Master Mix",
+	      		"cover": "/covers/sg/sg_mwmm.jpg",
+	      		"date": "2011-06-16",
+				"description": "Game Soundtrack Mix",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/91oCWKqL#cxHTeyWTUqQy6XcYx73kYA",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "Micro Wave Master Mix",
+						"duration": "43:44",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "宇宙エンジニア",
+	      		"cover": "/covers/sg/sg_psp_op.jpg",
+	      		"date": "2011-06-22",
+				"description": "PSP Opening",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/UwJjHaRL#maW8mPeCnWCQ0RBns2toQQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "宇宙エンジニア",
+						"duration": "03:45",
+						"foundIn": ""
+					},
+					{
+						"name": "永遠のベクトル",
+						"duration": "04:50",
+						"foundIn": ""
+					},
+					{
+						"name": "スカイクラッドの観測者 -Remix-",
+						"duration": "03:55",
+						"foundIn": ""
+					},
+					{
+						"name": "宇宙エンジニア [instrumental]",
+						"duration": "03:45",
+						"foundIn": ""
+					},
+					{
+						"name": "永遠のベクトル [instrumental]",
+						"duration": "04:49",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "プレギエーラの月夜に",
+	      		"cover": "/covers/sg/sg_psp_ed.jpg",
+	      		"date": "2011-06-22",
+				"description": "PSP Ending",
+	          	"urls": [
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/フ-レキ-エーラの月夜に-single/447295726",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/FkBjwBLR#hcf8cBakTojPPJCWI-0R_Q",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "プレギエーラの月夜に",
+						"duration": "04:14",
+						"foundIn": ""
+					},
+					{
+						"name": "EUPHORIA ～償いのレクイエム～",
+						"duration": "06:10",
+						"foundIn": ""
+					},
+					{
+						"name": "プレギエーラの月夜に [instrumental]",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "EUPHORIA ～償いのレクイエム～ [instrumental]",
+						"duration": "06:08",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-",
+	      		"cover": "/covers/sg/sga_ost.jpg",
+	      		"date": "2011-07-27",
+				"description": "Anime Soundtrack",
+	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/6gn3U8bM6lIo3pHbNERMB6",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/tvアニメ-シュタインズ-ゲート-edテーママキシシングル-刻司ル十二ノ盟約-ep/1843796091",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/Akg1RbiQ#1GGYTmok6dH-flRUtGI5mA",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "Promise -piano-",
+						"duration": "02:04",
+						"foundIn": ""
+					},
+					{
+						"name": "Confrontation with fear",
+						"duration": "01:51",
+						"foundIn": ""
+					},
+					{
+						"name": "秋葉原",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Experiment",
+						"duration": "01:57",
+						"foundIn": ""
+					},
+					{
+						"name": "Tajitaji",
+						"duration": "01:21",
+						"foundIn": ""
+					},
+					{
+						"name": "Adrenaline",
+						"duration": "01:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Science of the Strings",
+						"duration": "01:29",
+						"foundIn": ""
+					},
+					{
+						"name": "未来ガジェット研究所",
+						"duration": "01:51",
+						"foundIn": ""
+					},
+					{
+						"name": "かえり道",
+						"duration": "01:22",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -piano-",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "鈴羽",
+						"duration": "01:20",
+						"foundIn": ""
+					},
+					{
+						"name": "Dメール",
+						"duration": "01:23",
+						"foundIn": ""
+					},
+					{
+						"name": "Disquiet",
+						"duration": "02:07",
+						"foundIn": ""
+					},
+					{
+						"name": "厨二病のタンゴ",
+						"duration": "01:30",
+						"foundIn": ""
+					},
+					{
+						"name": "Tender affection",
+						"duration": "01:57",
+						"foundIn": ""
+					},
+					{
+						"name": "冷めた視線",
+						"duration": "01:39",
+						"foundIn": ""
+					},
+					{
+						"name": "ジョン・タイター",
+						"duration": "01:26",
+						"foundIn": ""
+					},
+					{
+						"name": "Silence eyes",
+						"duration": "01:23",
+						"foundIn": ""
+					},
+					{
+						"name": "No joke!",
+						"duration": "01:16",
+						"foundIn": ""
+					},
+					{
+						"name": "@Channel",
+						"duration": "01:29",
+						"foundIn": ""
+					},
+					{
+						"name": "オカリンのサスペンス",
+						"duration": "01:11",
+						"foundIn": ""
+					},
+					{
+						"name": "事件",
+						"duration": "01:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Operation G-BACK",
+						"duration": "01:23",
+						"foundIn": ""
+					},
+					{
+						"name": "Lab-members",
+						"duration": "01:55",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "STEINS;GATE 比翼恋理のだーりん｜La＊La＊La ラボリューション",
+	      		"cover": "/covers/sg/sgmde_x360_op.jpg",
+	      		"date": "2011-07-27",
+				"description": "Xbox 360 Opening",
+	          	"urls": [
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/xbox360ゲーム-steins-gate-比翼恋理のだーりん-オープニング-la-la-laラボリューション/458049953",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/NggCFJhA#mdcPIRWB3zjxQcuVOA85DQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "La＊La＊La ラボリューション",
+						"duration": "05:09",
+						"foundIn": ""
+					},
+					{
+						"name": "TANTEI☆ラプソディ",
+						"duration": "04:00",
+						"foundIn": ""
+					},
+					{
+						"name": "La＊La＊La ラボリューション feat.カレン、マホ、ミィナ、アリア",
+						"duration": "05:09",
+						"foundIn": ""
+					},
+					{
+						"name": "Dearセンパイ♡～メンバー自己紹介ソング～",
+						"duration": "05:47",
+						"foundIn": ""
+					},
+					{
+						"name": "La＊La＊La ラボリューション [instrumental]",
+						"duration": "05:09",
+						"foundIn": ""
+					},
+					{
+						"name": "TANTEI☆ラプソディ [instrumental]",
+						"duration": "03:58",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "ワタシ☆LOVEな☆オトメ！~insert song~",
+	      		"cover": "/covers/sg/sga_is.png",
+	      		"date": "2011-07-27",
+				"description": "Anime Song",
+	          	"urls": [
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/xbox360ゲーム-steins-gate-比翼恋理のだーりん-オープニング-la-la-laラボリューション/458049953",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/hhJDSCAQ#WN-YgcIFLKJ5u9rwM8socw",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ワタシ☆LOVEな☆オトメ！",
+						"duration": "04:06",
+						"foundIn": ""
+					},
+					{
+						"name": "聖ナル wktk ノ星",
+						"duration": "05:03",
+						"foundIn": ""
+					},
+					{
+						"name": "ワタシ☆LOVEな☆オトメ！ [instrumental]",
+						"duration": "04:05",
+						"foundIn": ""
+					},
+					{
+						"name": "聖ナル wktk ノ星 [instrumental]",
+						"duration": "05:02",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "ルミナスの泉 ~insert song~",
+	      		"cover": "/covers/sg/sga_is2.png",
+	      		"date": "2011-08-09",
+				"description": "Anime Song",
+	          	"urls": [
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/album/xbox360ゲーム-steins-gate-比翼恋理のだーりん-オープニング-la-la-laラボリューション/458049953",
+						"hidden": false
+					},
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/Y8AyhaTY#ygW0MaV3qRineoNf_E2RBA",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ルミナスの泉",
+						"duration": "05:09",
+						"foundIn": ""
+					},
+					{
+						"name": "My White Ribbon",
+						"duration": "05:20",
+						"foundIn": ""
+					},
+					{
+						"name": "ルミナスの泉 [instrumental]",
+						"duration": "05:09",
+						"foundIn": ""
+					},
+					{
+						"name": "My White Ribbon [instrumental]",
+						"duration": "05:17",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "STEINS;GATE 8BIT Original Soundtrack",
+	      		"cover": "/covers/sg/sgvso_ost.jpg",
+	      		"date": "2011-10-28",
+				"description": "Game Soundtrack",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/Z0g3BJoa#sKNctqQhkNIghyiWgiDv2Q",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "スカイクラッドの観測者 [MEC PC-8081mk2SR版]",
+						"duration": "02:01",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER [MEC PC-8081mk2SR版]",
+						"duration": "01:28",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory [MEC PC-8081mk2SR版]",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times [MEC PC-8081mk2SR版]",
+						"duration": "01:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation [MEC PC-8081mk2SR版]",
+						"duration": "01:43",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude [MEC PC-8081mk2SR版]",
+						"duration": "01:49",
+						"foundIn": ""
+					},
+					{
+						"name": "Beginning of fight [MEC PC-8081mk2SR版]",
+						"duration": "01:02",
+						"foundIn": ""
+					},
+					{
+						"name": "The Limit [MEC PC-8081mk2SR版]",
+						"duration": "01:37",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads [MEC PC-8081mk2SR版]",
+						"duration": "01:20",
+						"foundIn": ""
+					},
+					{
+						"name": "Walking on sleeping [MEC PC-8081mk2SR版]",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Village [MEC PC-8081mk2SR版]",
+						"duration": "01:25",
+						"foundIn": ""
+					},
+					{
+						"name": "Precaution [MEC PC-8081mk2SR版]",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Over the sky [MEC PC-8081mk2SR版]",
+						"duration": "01:11",
+						"foundIn": ""
+					},
+					{
+						"name": "Reunion [MEC PC-8081mk2SR版]",
+						"duration": "00:45",
+						"foundIn": ""
+					},
+					{
+						"name": "Easygoingness [MEC PC-8081mk2SR版]",
+						"duration": "01:03",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD [MEC PC-8081mk2SR版]",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER Ringing [MEC PC-8081mk2SR版]",
+						"duration": "00:56",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER 2nd Edition ver1.02 [MEC PC-8081mk2SR版]",
+						"duration": "01:30",
+						"foundIn": ""
+					},
+					{
+						"name": "スカイクラッドの観測者 [MEC PC-6010mk2版]",
+						"duration": "02:00",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER [MEC PC-6010mk2版]",
+						"duration": "01:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory [MEC PC-6010mk2版]",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times [MEC PC-6010mk2版]",
+						"duration": "01:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation [MEC PC-6010mk2版]",
+						"duration": "01:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude [MEC PC-6010mk2版]",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Beginning of fight [MEC PC-6010mk2版]",
+						"duration": "01:01",
+						"foundIn": ""
+					},
+					{
+						"name": "The Limit [MEC PC-6010mk2版]",
+						"duration": "01:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads [MEC PC-6010mk2版]",
+						"duration": "01:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Walking on sleeping [MEC PC-6010mk2版]",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Village [MEC PC-6010mk2版]",
+						"duration": "01:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Precaution [MEC PC-6010mk2版]",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "Over the sky [MEC PC-6010mk2版]",
+						"duration": "01:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Reunion [MEC PC-6010mk2版]",
+						"duration": "00:44",
+						"foundIn": ""
+					},
+					{
+						"name": "Easygoingness [MEC PC-6010mk2版]",
+						"duration": "01:01",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD [MEC PC-6010mk2版]",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER Ringing [MEC PC-6010mk2版]",
+						"duration": "00:58",
+						"foundIn": ""
+					},
+					{
+						"name": "スカイクラッドの観測者 [MEC PC-8081mk2MH版]",
+						"duration": "02:01",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER [MEC PC-8081mk2MH版]",
+						"duration": "01:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory [MEC PC-8081mk2MH版]",
+						"duration": "02:01",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times [MEC PC-8081mk2MH版]",
+						"duration": "01:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation [MEC PC-8081mk2MH版]",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude [MEC PC-8081mk2MH版]",
+						"duration": "01:49",
+						"foundIn": ""
+					},
+					{
+						"name": "Beginning of fight [MEC PC-8081mk2MH版]",
+						"duration": "00:59",
+						"foundIn": ""
+					},
+					{
+						"name": "The Limit [MEC PC-8081mk2MH版]",
+						"duration": "01:37",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads [MEC PC-8081mk2MH版]",
+						"duration": "01:23",
+						"foundIn": ""
+					},
+					{
+						"name": "Walking on sleeping [MEC PC-8081mk2MH版]",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Village [MEC PC-8081mk2MH版]",
+						"duration": "01:24",
+						"foundIn": ""
+					},
+					{
+						"name": "Precaution [MEC PC-8081mk2MH版]",
+						"duration": "01:49",
+						"foundIn": ""
+					},
+					{
+						"name": "Over the sky [MEC PC-8081mk2MH版]",
+						"duration": "01:06",
+						"foundIn": ""
+					},
+					{
+						"name": "Reunion [MEC PC-8081mk2MH版]",
+						"duration": "00:43",
+						"foundIn": ""
+					},
+					{
+						"name": "Easygoingness [MEC PC-8081mk2MH版]",
+						"duration": "01:04",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD [MEC PC-8081mk2MH版]",
+						"duration": "02:00",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER Ringing [MEC PC-8081mk2MH版]",
+						"duration": "00:56",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER 2nd Edition ver1.02 [MEC PC-8081mk2MH版]",
+						"duration": "01:27",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "未来ガジェット CD３号 キャラソン☆メイクイーンの午後3時",
+	      		"cover": "/covers/sg/sg_fgcd.jpg",
+	      		"date": "2011-10-28",
+				"description": "Character Songs",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/U4wB3Soa#tYIvCfmdLbbkNcvpfYRGsg",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "メイクイーンの午後3時",
+						"duration": "04:04",
+						"foundIn": ""
+					},
+					{
+						"name": "メイクイーンの午後3時 [instrumental]",
+						"duration": "04:03",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "未来ガジェット CD６号 キャラソン☆迷宮のイデア",
+	      		"cover": "/covers/sg/sg_fgcd2.jpg",
+	      		"date": "2011-11-25",
+				"description": "Character Songs",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/NhYg1BBT#tEIhk1yYbTFJl1pss3-7vg",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "迷宮のイデア",
+						"duration": "04:55",
+						"foundIn": ""
+					},
+					{
+						"name": "迷宮のイデア [instrumental]",
+						"duration": "04:52",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "STEINS;GATE｜TV Animation Original Soundtrack II -Event Horizon-",
+	      		"cover": "/covers/sg/sga_ost.jpg",
+	      		"date": "2012-01-25",
+				"description": "Anime Soundtrack",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/ppJklDqK#H9nHV60N0HHSFJrKO25eXg",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "Promise",
+						"duration": "01:52",
+						"foundIn": ""
+					},
+					{
+						"name": "August 13 -Explanation-",
+						"duration": "03:49",
+						"foundIn": ""
+					},
+					{
+						"name": "ラボの日常",
+						"duration": "01:21",
+						"foundIn": ""
+					},
+					{
+						"name": "Warmth of days -Promise-",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "Butterfly effect",
+						"duration": "02:38",
+						"foundIn": ""
+					},
+					{
+						"name": "Timeleap",
+						"duration": "01:31",
+						"foundIn": ""
+					},
+					{
+						"name": "脅威",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "対峙",
+						"duration": "01:45",
+						"foundIn": ""
+					},
+					{
+						"name": "One of selection -Gate of Steiner-",
+						"duration": "01:31",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER",
+						"duration": "03:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe Me",
+						"duration": "02:09",
+						"foundIn": ""
+					},
+					{
+						"name": "Christina I",
+						"duration": "02:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Christina II",
+						"duration": "02:29",
+						"foundIn": ""
+					},
+					{
+						"name": "別れ",
+						"duration": "02:33",
+						"foundIn": ""
+					},
+					{
+						"name": "Tubes",
+						"duration": "01:39",
+						"foundIn": ""
+					},
+					{
+						"name": "依存",
+						"duration": "02:10",
+						"foundIn": ""
+					},
+					{
+						"name": "観測者",
+						"duration": "04:10",
+						"foundIn": ""
+					},
+					{
+						"name": "My alley",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Run away!",
+						"duration": "01:26",
+						"foundIn": ""
+					},
+					{
+						"name": "男の娘",
+						"duration": "01:26",
+						"foundIn": ""
+					},
+					{
+						"name": "最終ミッション",
+						"duration": "01:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Another Heaven ~orchestra~",
+						"duration": "02:14",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "未来ガジェット CD９号 キャラソン☆ラボメン☆スピリッツ",
+	      		"cover": "/covers/sg/sg_fgcd3.jpg",
+	      		"date": "2012-02-22",
+				"description": "Character Songs",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/kxwWDS5B#9edJo4H8aswr9uTH7XYS8A",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "ラボメン☆スピリッツ",
+						"duration": "04:57",
+						"foundIn": ""
+					},
+					{
+						"name": "ラボメン☆スピリッツ [instrumental]",
+						"duration": "04:53",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "STEINS;GATE｜Symphonic Material",
+	      		"cover": "/covers/sg/sgsm.jpg",
+	      		"date": "2012-05-24",
+				"description": "Orchestral Soundtrack",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/JwBBmIQS#_ByD7utKrRorcMuVm1IyqQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "スカイクラッドの観測者",
+						"duration": "05:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation",
+						"duration": "03:37",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory",
+						"duration": "02:13",
+						"foundIn": ""
+					},
+					{
+						"name": "プレギエーラの月夜に",
+						"duration": "05:33",
+						"foundIn": ""
+					},
+					{
+						"name": "hesitative consideration",
+						"duration": "02:57",
+						"foundIn": ""
+					},
+					{
+						"name": "宇宙エンジニア",
+						"duration": "04:09",
+						"foundIn": ""
+					},
+					{
+						"name": "Assailant",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD",
+						"duration": "03:56",
+						"foundIn": ""
+					},
+					{
+						"name": "非線形ジェニアック",
+						"duration": "04:19",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER",
+						"duration": "04:48",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "STEINS;GATE 比翼恋理のだーりん｜禁断無敵のだーりん",
+	      		"cover": "/covers/sg/sgmde_psp_op.jpg",
+	      		"date": "2012-06-13",
+				"description": "PSP Opening",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/0xwSXLYB#29D-l2FknyMG5gNzjVKZuw",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "禁断無敵のだーりん",
+						"duration": "04:19",
+						"foundIn": ""
+					},
+					{
+						"name": "エシカル～ありがとうを伝えたい～",
+						"duration": "05:13",
+						"foundIn": ""
+					},
+					{
+						"name": "禁断無敵のだーりん [instrumental]",
+						"duration": "04:19",
+						"foundIn": ""
+					},
+					{
+						"name": "エシカル～ありがとうを伝えたい～ [instrumental]",
+						"duration": "05:12",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+	 			"name": "非線形ジェニアック",
+	      		"cover": "/covers/sg/sg_ps3_op.jpg",
+	      		"date": "2012-06-23",
+				"description": "PS3 Opening",
+	          	"urls": [
+	           		{
+	           			"name": "MEGA",
+	            		"url": "https://mega.nz/folder/4xwyASAA#JI5C4RhtKCuZRANCk-rEHQ",
+	              		"hidden": true
+	           		}
+	            ],
+	           	"trackList": [
+					{
+						"name": "非線形ジェニアック",
+						"duration": "04:08",
+						"foundIn": ""
+					},
+					{
+						"name": "Geometric space",
+						"duration": "04:33",
+						"foundIn": ""
+					},
+					{
+						"name": "Another Heaven -2012 Remix-",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "非線形ジェニアック [instrumental]",
+						"duration": "04:08",
+						"foundIn": ""
+					},
+					{
+						"name": "Geometric space [instrumental]",
+						"duration": "04:31",
+						"foundIn": ""
+					}
+	            ]
+	        },
+			{
+				"name": "あなたの選んだこの時を",
+				"cover": "/covers/sg/sgm_op.jpg",
+				"date": "2013-04-24",
+				"description": "Movie Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/pow2DbSK#AAT3NDF9_bcPGEJV2IJ70A",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "あなたの選んだこの時を",
+						"duration": "05:08",
+						"foundIn": ""
+					},
+					{
+						"name": "resolution",
+						"duration": "04:39",
+						"foundIn": ""
+					},
+					{
+						"name": "あなたの選んだこの時を [instrumental]",
+						"duration": "05:07",
+						"foundIn": ""
+					},
+					{
+						"name": "resolution [instrumental]",
+						"duration": "04:37",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "いつもこの場所で",
+				"cover": "/covers/sg/sgm_ed.jpg",
+				"date": "2013-04-24",
+				"description": "Movie Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/IpJDATga#Ya0H3supXn8RokxtqhBNbQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "いつもこの場所で",
+						"duration": "05:20",
+						"foundIn": ""
+					},
+					{
+						"name": "Foresight Oscillator",
+						"duration": "04:54",
+						"foundIn": ""
+					},
+					{
+						"name": "いつもこの場所で [instrumental]",
+						"duration": "05:20",
+						"foundIn": ""
+					},
+					{
+						"name": "Foresight Oscillator [instrumental]",
+						"duration": "04:51",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "フェノグラム",
+				"cover": "/covers/sg/sglbp_op.jpg",
+				"date": "2013-05-29",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/cgZTALqC#_NiqG2VvfJlWsy9-UDpdeg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "フェノグラム",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "かけがえのない想い　ずっと一緒に",
+						"duration": "04:18",
+						"foundIn": ""
+					},
+					{
+						"name": "フェノグラム [instrumental]",
+						"duration": "04:57",
+						"foundIn": ""
+					},
+					{
+						"name": "かけがえのない想い　ずっと一緒に [instrumental]",
+						"duration": "04:18",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "楽園のホログラム",
+				"cover": "/covers/sg/sglbp_ed.png",
+				"date": "2013-05-29",
+				"description": "Game Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/d1pD3DLB#i8cSmRbL0-x5lDK6tMjqtg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "楽園のホログラム",
+						"duration": "06:05",
+						"foundIn": ""
+					},
+					{
+						"name": "掟つしらつゆ",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "楽園のホログラム [instrumental]",
+						"duration": "06:04",
+						"foundIn": ""
+					},
+					{
+						"name": "掟つしらつゆ [instrumental]",
+						"duration": "04:57",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE｜VOCAL BEST",
+				"cover": "/covers/sg/sgvb.jpg",
+				"date": "2013-06-26",
+				"description": "Game/Anime Songs",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/d9Y0WQTL#1D7UecrPGJEdkOmhi54XCA",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "スカイクラッドの観測者",
+						"duration": "04:35",
+						"foundIn": ""
+					},
+					{
+						"name": "命のファルファッラ",
+						"duration": "05:14",
+						"foundIn": ""
+					},
+					{
+						"name": "マスカレード ～ノア第三章列王新世紀編より～",
+						"duration": "04:55",
+						"foundIn": ""
+					},
+					{
+						"name": "technovision",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "A.R.",
+						"duration": "04:30",
+						"foundIn": ""
+					},
+					{
+						"name": "Another Heaven",
+						"duration": "04:28",
+						"foundIn": ""
+					},
+					{
+						"name": "Hacking to the Gate",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "刻司ル十二ノ盟約",
+						"duration": "05:02",
+						"foundIn": ""
+					},
+					{
+						"name": "宇宙エンジニア",
+						"duration": "03:44",
+						"foundIn": ""
+					},
+					{
+						"name": "非線形ジェニアック",
+						"duration": "04:09",
+						"foundIn": ""
+					},
+					{
+						"name": "プレギエーラの月夜に",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "La＊La＊La ラボリューション",
+						"duration": "05:10",
+						"foundIn": ""
+					},
+					{
+						"name": "禁断無敵のだーりん",
+						"duration": "04:18",
+						"foundIn": ""
+					},
+					{
+						"name": "永遠のベクトル",
+						"duration": "04:47",
+						"foundIn": ""
+					},
+					{
+						"name": "EUPHORIA ～償いのレクイエム～",
+						"duration": "06:11",
+						"foundIn": ""
+					},
+					{
+						"name": "難攻不落のnew gate",
+						"duration": "06:44",
+						"foundIn": ""
+					},
+					{
+						"name": "優しい夕暮れ",
+						"duration": "05:22",
+						"foundIn": ""
+					},
+					{
+						"name": "萌える世界の幻想譚",
+						"duration": "04:38",
+						"foundIn": ""
+					},
+					{
+						"name": "約束のパラダイム",
+						"duration": "04:38",
+						"foundIn": ""
+					},
+					{
+						"name": "To Be Loved",
+						"duration": "04:47",
+						"foundIn": ""
+					},
+					{
+						"name": "儚い記憶のかけら",
+						"duration": "04:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Nyan☆Nyan☆Galaxy!",
+						"duration": "04:33",
+						"foundIn": ""
+					},
+					{
+						"name": "虹色の光の中で",
+						"duration": "04:01",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE｜SYMPHONIC REUNION",
+				"cover": "/covers/sg/sgsr.jpg",
+				"date": "2013-09-25",
+				"description": "Orchestral Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/Bp4WjD5A#tvA_A3HpDJTqrxzu3aU8MA",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "GATE OF STEINER",
+						"duration": "04:51",
+						"foundIn": ""
+					},
+					{
+						"name": "Cycle",
+						"duration": "02:53",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation",
+						"duration": "03:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times",
+						"duration": "02:09",
+						"foundIn": ""
+					},
+					{
+						"name": "Assailant",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing Medley (Village ~ Easygoingness ~ Reunion ~ Precaution ~ Over the sky ~ Beginning of fight)",
+						"duration": "05:14",
+						"foundIn": ""
+					},
+					{
+						"name": "Human community",
+						"duration": "03:02",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads",
+						"duration": "02:00",
+						"foundIn": ""
+					},
+					{
+						"name": "hesitative consideration",
+						"duration": "02:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Chaos mind",
+						"duration": "03:18",
+						"foundIn": ""
+					},
+					{
+						"name": "Quiet air",
+						"duration": "02:52",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD",
+						"duration": "03:57",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF PHENOGRAM",
+						"duration": "03:06",
+						"foundIn": ""
+					},
+					{
+						"name": "Hacking to the Gate",
+						"duration": "04:18",
+						"foundIn": ""
+					},
+					{
+						"name": "プレギエーラの月夜に",
+						"duration": "05:32",
+						"foundIn": ""
+					},
+					{
+						"name": "宇宙エンジニア",
+						"duration": "04:09",
+						"foundIn": ""
+					},
+					{
+						"name": "いつもこの場所で",
+						"duration": "06:24",
+						"foundIn": ""
+					},
+					{
+						"name": "非線形ジェニアック",
+						"duration": "04:17",
+						"foundIn": ""
+					},
+					{
+						"name": "スカイクラッドの観測者",
+						"duration": "05:38",
+						"foundIn": ""
+					},
+					{
+						"name": "Hacking to the Gate [instrumental]",
+						"duration": "04:17",
+						"foundIn": ""
+					},
+					{
+						"name": "プレギエーラの月夜に [instrumental]",
+						"duration": "05:32",
+						"foundIn": ""
+					},
+					{
+						"name": "宇宙エンジニア [instrumental]",
+						"duration": "04:09",
+						"foundIn": ""
+					},
+					{
+						"name": "いつもこの場所で [instrumental]",
+						"duration": "06:25",
+						"foundIn": ""
+					},
+					{
+						"name": "非線形ジェニアック [instrumental]",
+						"duration": "04:17",
+						"foundIn": ""
+					},
+					{
+						"name": "スカイクラッドの観測者 [instrumental]",
+						"duration": "05:40",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE 劇場版・負荷領域のデジャヴ｜Original Soundtrack",
+				"cover": "/covers/sg/sgm_ost.jpg",
+				"date": "2013-12-13",
+				"description": "Movie Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/1gh32aJD#0JkhvnfAFXkN8ypU1wtRVA",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "あなたの選んだこの時を (Movie Size)",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "約束された平和",
+						"duration": "00:47",
+						"foundIn": ""
+					},
+					{
+						"name": "おかえり",
+						"duration": "02:37",
+						"foundIn": ""
+					},
+					{
+						"name": "拡散する視線",
+						"duration": "01:32",
+						"foundIn": ""
+					},
+					{
+						"name": "デジャヴ",
+						"duration": "01:32",
+						"foundIn": ""
+					},
+					{
+						"name": "かつての記憶",
+						"duration": "01:12",
+						"foundIn": ""
+					},
+					{
+						"name": "気配",
+						"duration": "01:35",
+						"foundIn": ""
+					},
+					{
+						"name": "ソーイングセット",
+						"duration": "00:50",
+						"foundIn": ""
+					},
+					{
+						"name": "消失する観測者",
+						"duration": "03:19",
+						"foundIn": ""
+					},
+					{
+						"name": "混乱する記憶 -GATE OF STEINER-",
+						"duration": "00:42",
+						"foundIn": ""
+					},
+					{
+						"name": "過ぎ行く時の中で",
+						"duration": "01:03",
+						"foundIn": ""
+					},
+					{
+						"name": "転機",
+						"duration": "01:12",
+						"foundIn": ""
+					},
+					{
+						"name": "タイムリープマシン",
+						"duration": "03:02",
+						"foundIn": ""
+					},
+					{
+						"name": "再生 -Explanation-",
+						"duration": "01:34",
+						"foundIn": ""
+					},
+					{
+						"name": "R 世界線",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "葛藤",
+						"duration": "01:36",
+						"foundIn": ""
+					},
+					{
+						"name": "不撓不屈の岡部",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "別れの予感",
+						"duration": "01:02",
+						"foundIn": ""
+					},
+					{
+						"name": "溢れる想い -GATE OF STEINER-",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "ずっとあなたを知っている",
+						"duration": "01:35",
+						"foundIn": ""
+					},
+					{
+						"name": "紅莉栖の涙",
+						"duration": "01:01",
+						"foundIn": ""
+					},
+					{
+						"name": "過去への決意",
+						"duration": "03:01",
+						"foundIn": ""
+					},
+					{
+						"name": "追想",
+						"duration": "00:29",
+						"foundIn": ""
+					},
+					{
+						"name": "彼の名は",
+						"duration": "03:08",
+						"foundIn": ""
+					},
+					{
+						"name": "紅莉栖の最終ミッション [未使用曲]",
+						"duration": "02:31",
+						"foundIn": ""
+					},
+					{
+						"name": "大切な人の為に",
+						"duration": "03:08",
+						"foundIn": ""
+					},
+					{
+						"name": "いつもこの場所で (Movie Size)",
+						"duration": "04:52",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE 線形拘束のフェノグラム｜サウンドトラック＋6",
+				"cover": "/covers/sg/sglbp_ost.jpg",
+				"date": "2015-09-30",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/I5xDHaiC#CJxMz03HeGXP7MAIRMcNcA",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Ringing -Take a walk-",
+						"duration": "00:55",
+						"foundIn": ""
+					},
+					{
+						"name": "フェノグラム ~short version~",
+						"duration": "02:04",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF PHENOGRAM",
+						"duration": "04:26",
+						"foundIn": ""
+					},
+					{
+						"name": "Whisper of gaia",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "ALPACAMAN",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Nervous",
+						"duration": "03:24",
+						"foundIn": ""
+					},
+					{
+						"name": "Distress for you",
+						"duration": "02:46",
+						"foundIn": ""
+					},
+					{
+						"name": "Distress for you -piano-",
+						"duration": "02:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Hack -gamma vision-",
+						"duration": "03:45",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF PHENOGRAM -piano-",
+						"duration": "03:30",
+						"foundIn": ""
+					},
+					{
+						"name": "Twinkles of star",
+						"duration": "02:53",
+						"foundIn": ""
+					},
+					{
+						"name": "Jumping conversation",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "I'M MAD SCIENTIST",
+						"duration": "05:15",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Over the field-",
+						"duration": "00:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Logic-",
+						"duration": "01:18",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Cat's eye-",
+						"duration": "00:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Radio wave-",
+						"duration": "01:07",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Sweet candy-",
+						"duration": "01:31",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -1st stage-",
+						"duration": "02:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Pleasure-",
+						"duration": "01:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -恋はKIRAKIRA☆-",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Dystopia-",
+						"duration": "03:19",
+						"foundIn": ""
+					},
+					{
+						"name": "楽園のホログラム ~short version~",
+						"duration": "02:44",
+						"foundIn": ""
+					},
+					{
+						"name": "あの夏の日の想い出 ~short version~",
+						"duration": "03:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Darling BGM 001 Popping Steiner [Bonus Track]",
+						"duration": "02:50",
+						"foundIn": ""
+					},
+					{
+						"name": "Darling BGM 002 The eight members [Bonus Track]",
+						"duration": "02:23",
+						"foundIn": ""
+					},
+					{
+						"name": "Darling BGM 003 Serenade -piano- [Bonus Track]",
+						"duration": "02:13",
+						"foundIn": ""
+					},
+					{
+						"name": "Darling BGM 004 Serenade [Bonus Track]",
+						"duration": "02:16",
+						"foundIn": ""
+					},
+					{
+						"name": "Darling BGM 005 To new world line [Bonus Track]",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "Darling BGM 006 To new world line -piano- [Bonus Track]",
+						"duration": "03:03",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "COSMIC LOOPER",
+				"cover": "/covers/sg/sge_op.jpg",
+				"date": "2018-09-19",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/Z9x1yaTZ#SMgWJAjcbGR3E_QB7GRCsg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "COSMIC LOOPER",
+						"duration": "05:27",
+						"foundIn": ""
+					},
+					{
+						"name": "スターダスト",
+						"duration": "05:20",
+						"foundIn": ""
+					},
+					{
+						"name": "COSMIC LOOPER [instrumental]",
+						"duration": "05:27",
+						"foundIn": ""
+					},
+					{
+						"name": "スターダスト [instrumental]",
+						"duration": "05:20",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "アニーの指輪",
+				"cover": "/covers/sg/sge_ed.jpg",
+				"date": "2018-09-19",
+				"description": "Game Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/t5Ix1Y6b#atuzX6iqLIfX7gDlS2jnVQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "アニーの指輪",
+						"duration": "05:41",
+						"foundIn": ""
+					},
+					{
+						"name": "運命のファルファッラ",
+						"duration": "05:14",
+						"foundIn": ""
+					},
+					{
+						"name": "プレギエーラの月夜に",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "刻司ル十二ノ盟約",
+						"duration": "05:03",
+						"foundIn": ""
+					},
+					{
+						"name": "アニーの指輪 [instrumental]",
+						"duration": "05:40",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE ELITE｜Original Soundtrack",
+				"cover": "/covers/sg/sge_ost.jpg",
+				"date": "2020-03-18",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/QoQSlIAZ#lmkEcHTJ_YG1BmGw-NV6xg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Select of sorrow (ELITE)",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -Main theme- (ELITE)",
+						"duration": "03:48",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory (ELITE)",
+						"duration": "02:18",
+						"foundIn": ""
+					},
+					{
+						"name": "Suspicious eyes (ELITE)",
+						"duration": "02:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times (ELITE)",
+						"duration": "02:09",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation (ELITE)",
+						"duration": "03:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Quiet air (ELITE)",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Yanagibayashi (ELITE)",
+						"duration": "02:28",
+						"foundIn": ""
+					},
+					{
+						"name": "Walking on sleeping (ELITE)",
+						"duration": "03:01",
+						"foundIn": ""
+					},
+					{
+						"name": "Cycle (ELITE)",
+						"duration": "02:32",
+						"foundIn": ""
+					},
+					{
+						"name": "Hack -beta vision- (ELITE)",
+						"duration": "02:59",
+						"foundIn": ""
+					},
+					{
+						"name": "SERN (ELITE)",
+						"duration": "03:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Assailant (ELITE)",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "The Limit (ELITE)",
+						"duration": "02:53",
+						"foundIn": ""
+					},
+					{
+						"name": "Chaos mind (ELITE)",
+						"duration": "02:51",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads (ELITE)",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "Self affirmation (ELITE)",
+						"duration": "03:04",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me (ELITE)",
+						"duration": "02:03",
+						"foundIn": ""
+					},
+					{
+						"name": "Hack -alpha vision- (ELITE)",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Human community (ELITE)",
+						"duration": "02:52",
+						"foundIn": ""
+					},
+					{
+						"name": "Network battle (ELITE)",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "hesitative consideration (ELITE)",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Urd (ELITE)",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "Fake Verthandi (ELITE)",
+						"duration": "02:19",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD (ELITE)",
+						"duration": "04:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude (ELITE)",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -piano- (ELITE)",
+						"duration": "04:11",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation 2019 - 10th anniversary (ELITE)",
+						"duration": "03:58",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE｜GATE OF STEINER -10th Anniversary-",
+				"cover": "/covers/sg/sggos.jpg",
+				"date": "2020-03-18",
+				"description": "Orchestral Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/k4hWiSCS#Aex9eBcuxYw1AdIZk0XLkw",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "GATE OF STEINER",
+						"duration": "03:47",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -piano-",
+						"duration": "03:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Suspicious eyes",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Assailant",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me",
+						"duration": "02:04",
+						"foundIn": ""
+					},
+					{
+						"name": "Cycle",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "Select of sorrow",
+						"duration": "01:42",
+						"foundIn": ""
+					},
+					{
+						"name": "hesitative consideration",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude",
+						"duration": "01:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Fake Verthandi",
+						"duration": "02:20",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -GATE OF STEINER-",
+						"duration": "00:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Popping Steiner",
+						"duration": "02:38",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF PHENOGRAM",
+						"duration": "04:29",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF PHENOGRAM -piano-",
+						"duration": "03:32",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger -main theme-",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger -piano-",
+						"duration": "06:06",
+						"foundIn": ""
+					},
+					{
+						"name": "Re-awake",
+						"duration": "04:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me -zero-",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "The end of messenger",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "世界線を越えて -GATE OF STEINER-",
+						"duration": "02:57",
+						"foundIn": ""
+					},
+					{
+						"name": "せかいせんをこえて (PSG)",
+						"duration": "01:59",
+						"foundIn": ""
+					},
+					{
+						"name": "せかいせんをこえて (FM)",
+						"duration": "01:57",
+						"foundIn": ""
+					},
+					{
+						"name": "運命石",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -piano- (ELITE)",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "hesitative consideration (ELITE)",
+						"duration": "02:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude (ELITE)",
+						"duration": "01:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Fake Verthandi (ELITE)",
+						"duration": "02:18",
+						"foundIn": ""
+					},
+					{
+						"name": "Cycle ~symphonic version~",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER (アニメ)",
+						"duration": "03:49",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -piano- (アニメ)",
+						"duration": "04:15",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me (アニメ)",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "One of selection -Gate of Steiner- (アニメ)",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "溢れる想い -GATE OF STEINER- (劇場版)",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "B-Messenger (アニメ)",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "B-Messenger -piano- (アニメ)",
+						"duration": "06:08",
+						"foundIn": ""
+					},
+					{
+						"name": "いつの日か -Believe me- (アニメ)",
+						"duration": "02:14",
+						"foundIn": ""
+					},
+					{
+						"name": "0からの使者 (アニメ)",
+						"duration": "01:50",
+						"foundIn": ""
+					},
+					{
+						"name": "収束 (アニメ)",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "B-Messenger -strings quartet- (アニメ)",
+						"duration": "01:52",
+						"foundIn": ""
+					},
+					{
+						"name": "覚醒 're-awake' (アニメ)",
+						"duration": "04:55",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER ~symphonic version~",
+						"duration": "04:52",
+						"foundIn": ""
+					},
+					{
+						"name": "hesitative consideration ~symphonic version~",
+						"duration": "02:57",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF PHENOGRAM ~symphonic version~",
+						"duration": "03:05",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER ~acoustic version~",
+						"duration": "05:37",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER (OPN)",
+						"duration": "01:29",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude (OPN)",
+						"duration": "01:50",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -Ringing- (OPN)",
+						"duration": "00:58",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER 2nd Edition ver1.02 (OPN)",
+						"duration": "01:29",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER (ファミコレADV)",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER 2A03",
+						"duration": "01:09",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER PRO-68k",
+						"duration": "02:13",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -10th anniversary-",
+						"duration": "04:19",
+						"foundIn": ""
+					}
+				]
+			}
+        ]
+	},
+	{
+		"title": "ROBOTICS;NOTES ELITE & DaSH",
+        "name": "rned",
+        "color": "#6cc6f0",
+        "period": "2012-2019",
+        "logo": [
+        	"/cards/rned_music_card.png"
+        ],
+        "card": "/cards/rned_music_card.png",
+        "cardOg": "/cards/rned_music_card.jpg",
+        "list": [
+       		{
+				"name": "拡張プレイス",
+				"cover": "/covers/rned/rn_x360_op.jpg",
+				"date": "2012-06-27",
+				"description": "Xbox 360/PS3 Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/M1wyzY5S#hT9TqRnpTb5oVZLYJsFhGw",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "拡張プレイス",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "MONSTER",
+						"duration": "04:26",
+						"foundIn": ""
+					},
+					{
+						"name": "拡張プレイス (off Vocal)",
+						"duration": "04:40",
+						"foundIn": ""
+					},
+					{
+						"name": "MONSTER (off Vocal)",
+						"duration": "04:24",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "空の下の相関図",
+				"cover": "/covers/rned/rn_x360_ed.jpg",
+				"date": "2012-07-25",
+				"description": "Xbox 360/PS3 Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/N1ZQEJpY#sNUgfD8PDrAlkMAFicD7ig",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "拡張プレイス",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "MONSTER",
+						"duration": "04:26",
+						"foundIn": ""
+					},
+					{
+						"name": "拡張プレイス (off Vocal)",
+						"duration": "04:40",
+						"foundIn": ""
+					},
+					{
+						"name": "MONSTER (off Vocal)",
+						"duration": "04:24",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "鋼の鎧纏う、三百の大司祭",
+				"cover": "/covers/rned/rn_ed.png",
+				"date": "2012-08-01",
+				"description": "Game Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/8tImUCbL#lUGmYSuT2uG63YwXWUmPag",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "鋼の鎧纏う、三百の大司祭",
+						"duration": "05:51",
+						"foundIn": ""
+					},
+					{
+						"name": "群青ヴァレンシア",
+						"duration": "05:50",
+						"foundIn": ""
+					},
+					{
+						"name": "鋼の鎧纏う、三百の大司祭 (off Vocal)",
+						"duration": "05:51",
+						"foundIn": ""
+					},
+					{
+						"name": "群青ヴァレンシア (off Vocal)",
+						"duration": "05:49",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "海風のブレイブ",
+				"cover": "/covers/rned/rna_ed.jpg",
+				"date": "2012-11-12",
+				"description": "Anime Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/kwgBUBpC#6xYEWR852bEaKf86ZtTozA",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "海風のブレイブ",
+						"duration": "04:00",
+						"foundIn": ""
+					},
+					{
+						"name": "時を越えて",
+						"duration": "05:55",
+						"foundIn": ""
+					},
+					{
+						"name": "海風のブレイブ (TVアニメエンディングサイズ)",
+						"duration": "01:35",
+						"foundIn": ""
+					},
+					{
+						"name": "海風のブレイブ (off vocal)",
+						"duration": "03:58",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "純情スペクトラ",
+				"cover": "/covers/rned/rna_op.png",
+				"date": "2012-11-21",
+				"description": "Anime Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/w0RGjQTC#OOTzyE1KawcNaJFLXOs9yg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "純情スペクトラ",
+						"duration": "04:14",
+						"foundIn": ""
+					},
+					{
+						"name": "純情スペクトラ (Moonbug remix)",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "拡張プレイス (PandaBoY remix)",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "純情スペクトラ (アニメver.)",
+						"duration": "01:34",
+						"foundIn": ""
+					},
+					{
+						"name": "純情スペクトラ (カラオケver.)",
+						"duration": "04:10",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "トポロジー",
+				"cover": "/covers/rned/rna_ed2.jpg",
+				"date": "2013-03-06",
+				"description": "Anime Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/pkpUyTbT#_ajQQqvKDU49GYaCqr2NiQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "トポロジー",
+						"duration": "04:30",
+						"foundIn": ""
+					},
+					{
+						"name": "キズナの結晶",
+						"duration": "04:18",
+						"foundIn": ""
+					},
+					{
+						"name": "トポロジー (アニメver.)",
+						"duration": "01:34",
+						"foundIn": ""
+					},
+					{
+						"name": "トポロジー (off Vocal)",
+						"duration": "04:30",
+						"foundIn": ""
+					},
+					{
+						"name": "キズナの結晶 (off Vocal)",
+						"duration": "04:16",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "咆筺のメシア",
+				"cover": "/covers/rned/rna_op2.jpg",
+				"date": "2013-03-13",
+				"description": "Anime Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/UlIWyYCS#RD4h3Oeg5hYKsvu8xfQOLg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "咆筺のメシア",
+						"duration": "04:10",
+						"foundIn": ""
+					},
+					{
+						"name": "咆筺のメシア(アニメサイズ)",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "咆筺のメシア(Chinese Version)",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "咆筺のメシア(Instrumental)",
+						"duration": "04:06",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "ROBOTICS;NOTES｜TV Animation Original Soundtrack",
+				"cover": "/covers/rned/rna_ost.jpg",
+				"date": "2013-04-24",
+				"description": "Anime Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/EpBDSBRK#Hm0PVfTHm4dsPtITZmn1_w",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "ROBOTICS;NOTES",
+						"duration": "03:59",
+						"foundIn": ""
+					},
+					{
+						"name": "ROBO ONE-BATTLE-",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "すれ違い",
+						"duration": "02:49",
+						"foundIn": ""
+					},
+					{
+						"name": "上手く行かない",
+						"duration": "02:28",
+						"foundIn": ""
+					},
+					{
+						"name": "思い出",
+						"duration": "02:14",
+						"foundIn": ""
+					},
+					{
+						"name": "心配",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "ドクのテーマ",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "ロボクリニック",
+						"duration": "03:28",
+						"foundIn": ""
+					},
+					{
+						"name": "駆け引き",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "空回り",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "デュフフ..",
+						"duration": "02:01",
+						"foundIn": ""
+					},
+					{
+						"name": "起動!-YukiHayashi-ReMix feat.AYASA",
+						"duration": "04:21",
+						"foundIn": ""
+					},
+					{
+						"name": "謎",
+						"duration": "02:48",
+						"foundIn": ""
+					},
+					{
+						"name": "始まる崩壊",
+						"duration": "04:55",
+						"foundIn": ""
+					},
+					{
+						"name": "catastrophe",
+						"duration": "03:11",
+						"foundIn": ""
+					},
+					{
+						"name": "縋る想い",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "あき穂と海翔",
+						"duration": "03:50",
+						"foundIn": ""
+					},
+					{
+						"name": "後援者たち",
+						"duration": "02:03",
+						"foundIn": ""
+					},
+					{
+						"name": "ROBOTICS_NOTES -EvMix",
+						"duration": "03:21",
+						"foundIn": ""
+					},
+					{
+						"name": "純情スペクトラ (アニメver.)",
+						"duration": "01:31",
+						"foundIn": ""
+					},
+					{
+						"name": "海風のブレイブ (アニメver.)",
+						"duration": "01:34",
+						"foundIn": ""
+					},
+					{
+						"name": "咆筺のメシア (アニメver.)",
+						"duration": "01:32",
+						"foundIn": ""
+					},
+					{
+						"name": "おじゃり申せ種子島",
+						"duration": "02:57",
+						"foundIn": ""
+					},
+					{
+						"name": "トポロジー (アニメver.)",
+						"duration": "01:29",
+						"foundIn": ""
+					},
+					{
+						"name": "ロボット研究所-AsamiTachibana-ReArrange",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "あき穂のテーマ",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "淳和のテーマ",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "ガンヴァレル",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "ENERGETIC FORCE-YukiHayashi-ReMix feat.AYASA",
+						"duration": "01:43",
+						"foundIn": ""
+					},
+					{
+						"name": "ROBO ONE",
+						"duration": "02:19",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "約束のオーグメント",
+				"cover": "/covers/rned/rne_op.jpg",
+				"date": "2014-06-25",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/o9JWEQCL#Gh31BguEOBXoM02J3yMCmQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "約束のオーグメント",
+						"duration": "04:19",
+						"foundIn": ""
+					},
+					{
+						"name": "未知なる私",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "約束のオーグメント (off Vocal)",
+						"duration": "04:18",
+						"foundIn": ""
+					},
+					{
+						"name": "未知なる私 (off Vocal)",
+						"duration": "04:11",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "ROBOTICS;NOTES ORIGINAL SOUNDTRACK + 6",
+				"cover": "/covers/rned/rn_ost.png",
+				"date": "2015-10-30",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/F0gymA7L#a1PzSise6-PBdbCMVrngXw",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "PRESAGE -amb-",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "HURRY UP!",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "RESONATING WARNING",
+						"duration": "01:57",
+						"foundIn": ""
+					},
+					{
+						"name": "決戦に向けて",
+						"duration": "02:26",
+						"foundIn": ""
+					},
+					{
+						"name": "気持ちの河",
+						"duration": "02:39",
+						"foundIn": ""
+					},
+					{
+						"name": "FINAL WAR",
+						"duration": "02:29",
+						"foundIn": ""
+					},
+					{
+						"name": "TIME-AXIS",
+						"duration": "02:53",
+						"foundIn": ""
+					},
+					{
+						"name": "O-KA-E-RI",
+						"duration": "03:20",
+						"foundIn": ""
+					},
+					{
+						"name": "静寂の時間 -piano-",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "TIMIDITY -piano-",
+						"duration": "02:01",
+						"foundIn": ""
+					},
+					{
+						"name": "AMUSING WORLD -light mix-",
+						"duration": "01:52",
+						"foundIn": ""
+					},
+					{
+						"name": "姉との思い出 -piano-",
+						"duration": "02:58",
+						"foundIn": ""
+					},
+					{
+						"name": "HURRY UP! -light mix-",
+						"duration": "01:18",
+						"foundIn": ""
+					},
+					{
+						"name": "科学が見る夢",
+						"duration": "03:16",
+						"foundIn": ""
+					},
+					{
+						"name": "#3 preview",
+						"duration": "00:29",
+						"foundIn": ""
+					},
+					{
+						"name": "大会",
+						"duration": "02:13",
+						"foundIn": ""
+					},
+					{
+						"name": "謎",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "進むべき道1",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "進むべき道4",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "進むべき道5",
+						"duration": "02:33",
+						"foundIn": ""
+					},
+					{
+						"name": "進むべき道6",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "拡張プレイス -short ver-",
+						"duration": "01:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Robotics Notes -起動!-",
+						"duration": "04:47",
+						"foundIn": ""
+					},
+					{
+						"name": "種子島の風",
+						"duration": "03:00",
+						"foundIn": ""
+					},
+					{
+						"name": "ロボット研究部",
+						"duration": "03:05",
+						"foundIn": ""
+					},
+					{
+						"name": "ENERGETIC FORCE",
+						"duration": "01:56",
+						"foundIn": ""
+					},
+					{
+						"name": "PRESAGE",
+						"duration": "03:33",
+						"foundIn": ""
+					},
+					{
+						"name": "AMUSING WORLD",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "お台場の空",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "JAXA",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "静寂の時間",
+						"duration": "02:31",
+						"foundIn": ""
+					},
+					{
+						"name": "宇宙ヶ丘公園",
+						"duration": "02:23",
+						"foundIn": ""
+					},
+					{
+						"name": "幽霊？",
+						"duration": "02:21",
+						"foundIn": ""
+					},
+					{
+						"name": "ガンヴァレル製作",
+						"duration": "02:29",
+						"foundIn": ""
+					},
+					{
+						"name": "姉との思い出",
+						"duration": "02:50",
+						"foundIn": ""
+					},
+					{
+						"name": "TIMIDITY",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "A REPORT",
+						"duration": "03:08",
+						"foundIn": ""
+					},
+					{
+						"name": "モノポール",
+						"duration": "03:07",
+						"foundIn": ""
+					},
+					{
+						"name": "ロボクリニック",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "エグゾスケルトンへようこそ",
+						"duration": "01:24",
+						"foundIn": ""
+					},
+					{
+						"name": "ROBO-ONE -Full mix-",
+						"duration": "03:20",
+						"foundIn": ""
+					},
+					{
+						"name": "ROBO-ONE -Battle ground-",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "ROBO-ONE -Attacking!-",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Robotics Notes -piano-",
+						"duration": "05:11",
+						"foundIn": ""
+					},
+					{
+						"name": "Robotics Notes -2nd theme-",
+						"duration": "03:58",
+						"foundIn": ""
+					},
+					{
+						"name": "ABSOLUTE REALISM",
+						"duration": "03:41",
+						"foundIn": ""
+					},
+					{
+						"name": "具現化する悪夢",
+						"duration": "02:46",
+						"foundIn": ""
+					},
+					{
+						"name": "ANOTHER TRUTH",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "夢と希望と絆と",
+						"duration": "03:20",
+						"foundIn": ""
+					},
+					{
+						"name": "GLOOMY FACT",
+						"duration": "02:23",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "Avant Story",
+				"cover": "/covers/rned/rnd_op.jpg",
+				"date": "2018-12-26",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/IwoWAJiI#-LWMbWTxZLEJ1-0ryjyeqQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Avant Story",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Shall we?",
+						"duration": "04:02",
+						"foundIn": ""
+					},
+					{
+						"name": "Avant Story (Off Vocal)",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Shall we? (Off Vocal)",
+						"duration": "04:00",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "ROBOTICS;NOTES DaSH ORIGINAL SOUNDTRACK",
+				"cover": "/covers/rned/rnd_ost.jpg",
+				"date": "2019-02-13",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/FkBXkChC#W6L-BCg9QMXaK-RS0Zj3dg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Avant Story (Game Size Ver.)",
+						"duration": "02:32",
+						"foundIn": ""
+					},
+					{
+						"name": "メインテーマ～再始動～",
+						"duration": "03:59",
+						"foundIn": ""
+					},
+					{
+						"name": "個々の選択",
+						"duration": "03:40",
+						"foundIn": ""
+					},
+					{
+						"name": "種子島'わざいか'鉄砲祭り",
+						"duration": "02:07",
+						"foundIn": ""
+					},
+					{
+						"name": "ヘンタイ紳士",
+						"duration": "03:01",
+						"foundIn": ""
+					},
+					{
+						"name": "海翔",
+						"duration": "02:37",
+						"foundIn": ""
+					},
+					{
+						"name": "あき穂",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "たぎる!",
+						"duration": "01:05",
+						"foundIn": ""
+					},
+					{
+						"name": "フラウ",
+						"duration": "02:33",
+						"foundIn": ""
+					},
+					{
+						"name": "特訓",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "ミス・ヒアデス",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "愛理の夢",
+						"duration": "02:38",
+						"foundIn": ""
+					},
+					{
+						"name": "AiLY",
+						"duration": "02:52",
+						"foundIn": ""
+					},
+					{
+						"name": "シンデレラの魔法",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "潮風の絆",
+						"duration": "01:27",
+						"foundIn": ""
+					},
+					{
+						"name": "君島コウ",
+						"duration": "01:58",
+						"foundIn": ""
+					},
+					{
+						"name": "バグ",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "接近戦",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "aNubis",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "Tu Ru Tu Ru Dance",
+						"duration": "04:01",
+						"foundIn": ""
+					},
+					{
+						"name": "Tu Ru Tu Ru Dance (Another Ver.)",
+						"duration": "04:01",
+						"foundIn": ""
+					},
+					{
+						"name": "解放",
+						"duration": "02:23",
+						"foundIn": ""
+					},
+					{
+						"name": "悩み",
+						"duration": "02:17",
+						"foundIn": ""
+					},
+					{
+						"name": "めんこう",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "勃発",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "タネガシマンのテーマ",
+						"duration": "01:45",
+						"foundIn": ""
+					},
+					{
+						"name": "訪れる混乱",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "決意",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "考察",
+						"duration": "03:02",
+						"foundIn": ""
+					},
+					{
+						"name": "停滞",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "運命石",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "SCS",
+						"duration": "03:27",
+						"foundIn": ""
+					},
+					{
+						"name": "それぞれの決意",
+						"duration": "02:48",
+						"foundIn": ""
+					},
+					{
+						"name": "カウントダウン",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "特異体",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "種子島の空",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "こんな僕でも",
+						"duration": "05:34",
+						"foundIn": ""
+					},
+					{
+						"name": "trust",
+						"duration": "06:50",
+						"foundIn": ""
+					}
+				]
+			}
+        ]
+	},
+	{
+		"title": "CHAOS;CHILD",
+        "name": "cc",
+        "color": "#2e2e2e",
+        "period": "2016-2025",
+        "logo": [
+        	"/cards/cc_music_card.png"
+        ],
+        "card": "/cards/cc_music_card.png",
+        "cardOg": "/cards/cc_music_card.jpg",
+        "list": [
+       		{
+				"name": "CHAOS;CHILD｜Original Soundtrack -Real Boot Modulation-",
+				"cover": "/covers/cc/cc_ost.jpg",
+				"date": "2016-04-22",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/Q8wzhBhb#JEKxlzROh0fEYozCJvrR5g",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "非実在青少年",
+						"duration": "04:01",
+						"foundIn": ""
+					},
+					{
+						"name": "シンギュラリティ",
+						"duration": "04:22",
+						"foundIn": ""
+					},
+					{
+						"name": "WORLD -C;C MAIN THEME-",
+						"duration": "05:17",
+						"foundIn": ""
+					},
+					{
+						"name": "THE THIRD MELT",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "VIEWPOINT",
+						"duration": "02:44",
+						"foundIn": ""
+					},
+					{
+						"name": "COUNT DOWN",
+						"duration": "02:30",
+						"foundIn": ""
+					},
+					{
+						"name": "PEAK LEVEL",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "NEUTRALS",
+						"duration": "02:26",
+						"foundIn": ""
+					},
+					{
+						"name": "REVIVED SHIBUYA",
+						"duration": "02:38",
+						"foundIn": ""
+					},
+					{
+						"name": "CAPACITY",
+						"duration": "03:03",
+						"foundIn": ""
+					},
+					{
+						"name": "FAIRY’S DANCE",
+						"duration": "02:53",
+						"foundIn": ""
+					},
+					{
+						"name": "INSPECTION",
+						"duration": "02:07",
+						"foundIn": ""
+					},
+					{
+						"name": "MAPPING MODE",
+						"duration": "01:56",
+						"foundIn": ""
+					},
+					{
+						"name": "AN INTERFERER IN WHITE",
+						"duration": "03:00",
+						"foundIn": ""
+					},
+					{
+						"name": "GIRLISH",
+						"duration": "02:55",
+						"foundIn": ""
+					},
+					{
+						"name": "GAG",
+						"duration": "01:47",
+						"foundIn": ""
+					},
+					{
+						"name": "THEN",
+						"duration": "02:49",
+						"foundIn": ""
+					},
+					{
+						"name": "SUMO SEAL",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "AH TOKYO GENERAL HOSPITAL",
+						"duration": "02:37",
+						"foundIn": ""
+					},
+					{
+						"name": "RORSCHACH TEST",
+						"duration": "02:58",
+						"foundIn": ""
+					},
+					{
+						"name": "NETWORKER",
+						"duration": "02:16",
+						"foundIn": ""
+					},
+					{
+						"name": "HER WORRIES",
+						"duration": "03:18",
+						"foundIn": ""
+					},
+					{
+						"name": "ONLINE NOW",
+						"duration": "01:15",
+						"foundIn": ""
+					},
+					{
+						"name": "THE AIR OF TERROR",
+						"duration": "02:42",
+						"foundIn": ""
+					},
+					{
+						"name": "SHADY AMBIENCE",
+						"duration": "01:37",
+						"foundIn": ""
+					},
+					{
+						"name": "WHAT WAS LOST",
+						"duration": "03:35",
+						"foundIn": ""
+					},
+					{
+						"name": "Spark Wars",
+						"duration": "00:35",
+						"foundIn": ""
+					},
+					{
+						"name": "MORE GRIEF",
+						"duration": "01:48",
+						"foundIn": ""
+					},
+					{
+						"name": "THEN -jingle-",
+						"duration": "00:20",
+						"foundIn": ""
+					},
+					{
+						"name": "THE AIR OF TERROR -jingle-",
+						"duration": "00:15",
+						"foundIn": ""
+					},
+					{
+						"name": "SHADY AMBIENCE -jingle-",
+						"duration": "00:09",
+						"foundIn": ""
+					},
+					{
+						"name": "SILENT WORLD",
+						"duration": "02:46",
+						"foundIn": ""
+					},
+					{
+						"name": "RE-START",
+						"duration": "01:29",
+						"foundIn": ""
+					},
+					{
+						"name": "月蝕のヴァニタス",
+						"duration": "05:38",
+						"foundIn": ""
+					},
+					{
+						"name": "silent wind bell",
+						"duration": "05:31",
+						"foundIn": ""
+					},
+					{
+						"name": "COUNT DOWN -another-",
+						"duration": "02:22",
+						"foundIn": ""
+					},
+					{
+						"name": "NEUTRALS -another-",
+						"duration": "02:26",
+						"foundIn": ""
+					},
+					{
+						"name": "REVIVED SHIBUYA -another-",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "FAIRY’S DANCE -another-",
+						"duration": "02:56",
+						"foundIn": ""
+					},
+					{
+						"name": "INSPECTION -another-",
+						"duration": "02:07",
+						"foundIn": ""
+					},
+					{
+						"name": "MAPPING MODE -another-",
+						"duration": "01:57",
+						"foundIn": ""
+					},
+					{
+						"name": "GIRLISH -another-",
+						"duration": "02:56",
+						"foundIn": ""
+					},
+					{
+						"name": "SUMO SEAL -another-",
+						"duration": "02:38",
+						"foundIn": ""
+					},
+					{
+						"name": "AH TOKYO GENERAL HOSPITAL -another-",
+						"duration": "02:38",
+						"foundIn": ""
+					},
+					{
+						"name": "RORSCHACH TEST -another-",
+						"duration": "03:00",
+						"foundIn": ""
+					},
+					{
+						"name": "THE AIR OF TERROR -another-",
+						"duration": "02:43",
+						"foundIn": ""
+					},
+					{
+						"name": "FLASHBACK",
+						"duration": "02:37",
+						"foundIn": ""
+					},
+					{
+						"name": "DUSK",
+						"duration": "02:10",
+						"foundIn": ""
+					},
+					{
+						"name": "FAR DAYS",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "GIRLISH -PIANO-",
+						"duration": "04:48",
+						"foundIn": ""
+					},
+					{
+						"name": "DID YOU ENJOY",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "VISIBLE ESSENCE",
+						"duration": "03:07",
+						"foundIn": ""
+					},
+					{
+						"name": "HE IS……",
+						"duration": "03:33",
+						"foundIn": ""
+					},
+					{
+						"name": "BREAK FORTH",
+						"duration": "02:21",
+						"foundIn": ""
+					},
+					{
+						"name": "DI-SWORD OF SADNESS",
+						"duration": "02:56",
+						"foundIn": ""
+					},
+					{
+						"name": "LAST LINE -SHIBUYA-",
+						"duration": "03:49",
+						"foundIn": ""
+					},
+					{
+						"name": "RESET",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "VIEWPOINT -jingle-",
+						"duration": "00:39",
+						"foundIn": ""
+					},
+					{
+						"name": "INSPECTION -jingle-",
+						"duration": "00:20",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "Uncontrollable",
+				"cover": "/covers/cc/cca_op.jpg",
+				"date": "2017-01-25",
+				"description": "Anime Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/w0pB1JpS#Hm1ztNIsowenGjFmDcDbFw",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Uncontrollable",
+						"duration": "04:19",
+						"foundIn": ""
+					},
+					{
+						"name": "chaos symphony",
+						"duration": "04:52",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "カオスシンドローム",
+				"cover": "/covers/cc/cca_ed.jpg",
+				"date": "2017-02-22",
+				"description": "Anime Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/spwQTCxS#0gsT6LwrfTAK0SP3z7UA8A",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "カオスシンドローム",
+						"duration": "04:25",
+						"foundIn": ""
+					},
+					{
+						"name": "White Clover",
+						"duration": "03:35",
+						"foundIn": ""
+					},
+					{
+						"name": "カオスシンドローム (instrumental)",
+						"duration": "04:25",
+						"foundIn": ""
+					},
+					{
+						"name": "White Clover (instrumental)",
+						"duration": "03:32",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "CHAOS;CHILD｜TV Animation Original Soundtrack",
+				"cover": "/covers/cc/cca_ost.png",
+				"date": "2017-02-22",
+				"description": "Anime Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/ElhUFTzS#J0FZIMaDRZUd1rvoS62Tow",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "chaotic world",
+						"duration": "02:31",
+						"foundIn": ""
+					},
+					{
+						"name": "sorrowfulness",
+						"duration": "03:49",
+						"foundIn": ""
+					},
+					{
+						"name": "lacrimosa",
+						"duration": "01:47",
+						"foundIn": ""
+					},
+					{
+						"name": "dark hollow",
+						"duration": "01:36",
+						"foundIn": ""
+					},
+					{
+						"name": "vacitita",
+						"duration": "02:00",
+						"foundIn": ""
+					},
+					{
+						"name": "riika",
+						"duration": "02:15",
+						"foundIn": ""
+					},
+					{
+						"name": "keitus",
+						"duration": "02:23",
+						"foundIn": ""
+					},
+					{
+						"name": "a ray of light",
+						"duration": "01:48",
+						"foundIn": ""
+					},
+					{
+						"name": "青葉寮の日常",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "青葉寮の人々",
+						"duration": "02:07",
+						"foundIn": ""
+					},
+					{
+						"name": "buildup in mind",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "points taken",
+						"duration": "02:24",
+						"foundIn": ""
+					},
+					{
+						"name": "case scene",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "hard guessing",
+						"duration": "02:24",
+						"foundIn": ""
+					},
+					{
+						"name": "新聞部の日常",
+						"duration": "02:07",
+						"foundIn": ""
+					},
+					{
+						"name": "新聞部の異変",
+						"duration": "02:20",
+						"foundIn": ""
+					},
+					{
+						"name": "sciencea",
+						"duration": "01:55",
+						"foundIn": ""
+					},
+					{
+						"name": "seventh sence",
+						"duration": "02:13",
+						"foundIn": ""
+					},
+					{
+						"name": "telop back",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "simple strain",
+						"duration": "03:52",
+						"foundIn": ""
+					},
+					{
+						"name": "tension",
+						"duration": "02:48",
+						"foundIn": ""
+					},
+					{
+						"name": "dark corridor",
+						"duration": "03:10",
+						"foundIn": ""
+					},
+					{
+						"name": "pathologica",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "fall to the hole",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "puppeteer",
+						"duration": "01:37",
+						"foundIn": ""
+					},
+					{
+						"name": "力士シール",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "silence in the corner",
+						"duration": "02:14",
+						"foundIn": ""
+					},
+					{
+						"name": "dark corner",
+						"duration": "02:24",
+						"foundIn": ""
+					},
+					{
+						"name": "予兆の夕焼け",
+						"duration": "02:09",
+						"foundIn": ""
+					},
+					{
+						"name": "hard ignition",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "inevitable rush",
+						"duration": "02:16",
+						"foundIn": ""
+					},
+					{
+						"name": "wtf",
+						"duration": "01:39",
+						"foundIn": ""
+					},
+					{
+						"name": "duoedge",
+						"duration": "01:37",
+						"foundIn": ""
+					},
+					{
+						"name": "battle in chaos",
+						"duration": "02:18",
+						"foundIn": ""
+					},
+					{
+						"name": "serical truth",
+						"duration": "02:38",
+						"foundIn": ""
+					},
+					{
+						"name": "シンギュラリティ",
+						"duration": "06:03",
+						"foundIn": ""
+					},
+					{
+						"name": "非実在青少年",
+						"duration": "02:14",
+						"foundIn": ""
+					},
+					{
+						"name": "midnight show",
+						"duration": "00:44",
+						"foundIn": ""
+					},
+					{
+						"name": "cheerios",
+						"duration": "01:44",
+						"foundIn": ""
+					},
+					{
+						"name": "daydream melody",
+						"duration": "03:00",
+						"foundIn": ""
+					},
+					{
+						"name": "渋谷にうず",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "a day in the cafe",
+						"duration": "03:15",
+						"foundIn": ""
+					},
+					{
+						"name": "teaser",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "midnight tea time",
+						"duration": "03:00",
+						"foundIn": ""
+					},
+					{
+						"name": "stille nacht",
+						"duration": "02:13",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "罪証のルシファー",
+				"cover": "/covers/cc/cclcc_ed.png",
+				"date": "2017-03-29",
+				"description": "Game Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/AxBhTLST#6dEF1JuoAQaHrnAnXYKdNg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "罪証のルシファー",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "I will",
+						"duration": "05:44",
+						"foundIn": ""
+					},
+					{
+						"name": "オトメゴコロ",
+						"duration": "04:43",
+						"foundIn": ""
+					},
+					{
+						"name": "罪証のルシファー (off Vocal)",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "I will (off Vocal)",
+						"duration": "05:44",
+						"foundIn": ""
+					},
+					{
+						"name": "オトメゴコロ (off Vocal)",
+						"duration": "04:41",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "CHAOS;CHILD らぶchu☆chu!!｜Original Soundtrack",
+				"cover": "/covers/cc/cclcc_ost.jpg",
+				"date": "2017-03-30",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/9lBhTZ5B#-fIIPMtHj_6EhA6qpKLSAg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "非合理的かつ訂正不能な思い込み Short size",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "The other world",
+						"duration": "03:30",
+						"foundIn": ""
+					},
+					{
+						"name": "OTOBOKE",
+						"duration": "02:45",
+						"foundIn": ""
+					},
+					{
+						"name": "Sexy view",
+						"duration": "01:59",
+						"foundIn": ""
+					},
+					{
+						"name": "It's farce",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Daily step",
+						"duration": "02:43",
+						"foundIn": ""
+					},
+					{
+						"name": "Clear color",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Constant days",
+						"duration": "03:05",
+						"foundIn": ""
+					},
+					{
+						"name": "I'm conscious",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Self-realization",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Real boot modulation",
+						"duration": "03:01",
+						"foundIn": ""
+					},
+					{
+						"name": "Comedy's dance",
+						"duration": "01:49",
+						"foundIn": ""
+					},
+					{
+						"name": "Psyche",
+						"duration": "03:39",
+						"foundIn": ""
+					},
+					{
+						"name": "Insane eros",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "BOYDAKEYO",
+						"duration": "03:10",
+						"foundIn": ""
+					},
+					{
+						"name": "罪証のルシファー -instrumental-",
+						"duration": "03:41",
+						"foundIn": ""
+					},
+					{
+						"name": "罪証のルシファー Short size.",
+						"duration": "02:57",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "非合理的かつ訂正不能な思い込み",
+				"cover": "/covers/cc/cclcc_op.png",
+				"date": "2017-04-19",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/VogClJDL#v7re6CaACTmGp6pfw93Jwg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "非合理的かつ訂正不能な思い込み",
+						"duration": "04:10",
+						"foundIn": ""
+					},
+					{
+						"name": "ミライからきた私",
+						"duration": "04:46",
+						"foundIn": ""
+					},
+					{
+						"name": "SPRInG FAcTiON",
+						"duration": "03:52",
+						"foundIn": ""
+					},
+					{
+						"name": "アフィリアの誓い",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "非合理的かつ訂正不能な思い込み (off Vocal)",
+						"duration": "04:11",
+						"foundIn": ""
+					},
+					{
+						"name": "ミライからきた私 (off Vocal)",
+						"duration": "04:46",
+						"foundIn": ""
+					},
+					{
+						"name": "SPRInG FAcTiON (off Vocal)",
+						"duration": "03:52",
+						"foundIn": ""
+					},
+					{
+						"name": "アフィリアの誓い (off Vocal)",
+						"duration": "04:14",
+						"foundIn": ""
+					}
+				]
+			}
+        ]
+	},
+	{
+		"title": "STEINS;GATE 0",
+        "name": "sg0",
+        "color": "#bf5734",
+        "period": "2015-2018",
+        "logo": [
+        	"/cards/sg0_music_card.png"
+        ],
+        "card": "/cards/sg0_music_card.png",
+        "cardOg": "/cards/sg0_music_card.jpg",
+        "list": [
+       		{
+				"name": "アマデウス",
+				"cover": "/covers/sg0/sg0_op.jpg",
+				"date": "2015-11-25",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/h15nQTTR#00hQtvVk9c4zXL9RZ5c4CQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "哀音悲調のアマデウス～牧瀬紅莉栖",
+						"duration": "05:11",
+						"foundIn": ""
+					},
+					{
+						"name": "アマデウス",
+						"duration": "03:57",
+						"foundIn": ""
+					},
+					{
+						"name": "Ignis",
+						"duration": "05:06",
+						"foundIn": ""
+					},
+					{
+						"name": "アマデウス [instrumental]",
+						"duration": "03:58",
+						"foundIn": ""
+					},
+					{
+						"name": "Ignis [instrumental]",
+						"duration": "05:05",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "ライア",
+				"cover": "/covers/sg0/sg0_ed.jpg",
+				"date": "2015-11-25",
+				"description": "Game Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/gwRygKwZ#LktOMtBDQEu5XY869wPASg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "黎明のライア～岡部倫太郎",
+						"duration": "06:46",
+						"foundIn": ""
+					},
+					{
+						"name": "ライア",
+						"duration": "05:35",
+						"foundIn": ""
+					},
+					{
+						"name": "真っ向",
+						"duration": "04:09",
+						"foundIn": ""
+					},
+					{
+						"name": "ライア [instrumental]",
+						"duration": "05:35",
+						"foundIn": ""
+					},
+					{
+						"name": "真っ向 [instrumental]",
+						"duration": "04:08",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE 0｜Original Soundtrack ～ Gate of Steiner",
+				"cover": "/covers/sg0/sg0_ost.png",
+				"date": "2015-12-29",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/hhpniYbR#WdQ0bcvK-3NI-iT8dUU38Q",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "GATE OF STEINER (Game Size)",
+						"duration": "03:09",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger -main theme-",
+						"duration": "04:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Aug.13,2036",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "First leap",
+						"duration": "02:33",
+						"foundIn": ""
+					},
+					{
+						"name": "Amadeus",
+						"duration": "03:38",
+						"foundIn": ""
+					},
+					{
+						"name": "Newcomer",
+						"duration": "04:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Logical theme",
+						"duration": "03:29",
+						"foundIn": ""
+					},
+					{
+						"name": "Easygoing members",
+						"duration": "02:21",
+						"foundIn": ""
+					},
+					{
+						"name": "Her community",
+						"duration": "03:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Isolation",
+						"duration": "02:52",
+						"foundIn": ""
+					},
+					{
+						"name": "Okey-dokey",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "Future of spirit",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Riskful dialogue",
+						"duration": "02:16",
+						"foundIn": ""
+					},
+					{
+						"name": "Fellowship",
+						"duration": "02:57",
+						"foundIn": ""
+					},
+					{
+						"name": "In a relief time",
+						"duration": "01:51",
+						"foundIn": ""
+					},
+					{
+						"name": "Reading Steiner",
+						"duration": "02:33",
+						"foundIn": ""
+					},
+					{
+						"name": "Shuddery view",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "Tactics in confusion",
+						"duration": "03:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger -piano-",
+						"duration": "06:06",
+						"foundIn": ""
+					},
+					{
+						"name": "Chasers 2nd",
+						"duration": "02:46",
+						"foundIn": ""
+					},
+					{
+						"name": "Berserk",
+						"duration": "03:17",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me -zero-",
+						"duration": "02:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Fellowship -piano-",
+						"duration": "04:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger from zero",
+						"duration": "01:50",
+						"foundIn": ""
+					},
+					{
+						"name": "Preview zero",
+						"duration": "00:40",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE 0｜SOUND TRACKS -完全版-",
+				"cover": "/covers/sg0/sg0_ost2.jpg",
+				"date": "2016-08-24",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/9owXVQqa#3dOVog7nwA_wCIzTylpfiw",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "アマデウス",
+						"duration": "04:00",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger -main theme-",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Aug.13,2036",
+						"duration": "02:56",
+						"foundIn": ""
+					},
+					{
+						"name": "First leap",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "Amadeus",
+						"duration": "03:39",
+						"foundIn": ""
+					},
+					{
+						"name": "Newcomer",
+						"duration": "04:49",
+						"foundIn": ""
+					},
+					{
+						"name": "Logical theme",
+						"duration": "03:29",
+						"foundIn": ""
+					},
+					{
+						"name": "Easygoing members",
+						"duration": "02:24",
+						"foundIn": ""
+					},
+					{
+						"name": "Her community",
+						"duration": "03:29",
+						"foundIn": ""
+					},
+					{
+						"name": "Isolation",
+						"duration": "02:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Okey-dokey",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "Future of spirit",
+						"duration": "02:29",
+						"foundIn": ""
+					},
+					{
+						"name": "Riskful dialogue",
+						"duration": "02:19",
+						"foundIn": ""
+					},
+					{
+						"name": "Fellowship",
+						"duration": "02:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Chasers",
+						"duration": "02:24",
+						"foundIn": ""
+					},
+					{
+						"name": "In a relief time",
+						"duration": "01:54",
+						"foundIn": ""
+					},
+					{
+						"name": "Reading steiner",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "A Song Played by the Stars",
+						"duration": "05:33",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger -piano-",
+						"duration": "06:06",
+						"foundIn": ""
+					},
+					{
+						"name": "ピアノソナタ11番第1楽章",
+						"duration": "07:40",
+						"foundIn": ""
+					},
+					{
+						"name": "ピアノソナタ11番第3楽章",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Shuddery view",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Tactics in confusion",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "Fellowship -piano-",
+						"duration": "04:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Okey-dokey -short-",
+						"duration": "00:44",
+						"foundIn": ""
+					},
+					{
+						"name": "GIRLISH ~amusements version~",
+						"duration": "00:59",
+						"foundIn": ""
+					},
+					{
+						"name": "A Song Played by the Stars -music box-",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Chasers 2nd",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Berserk",
+						"duration": "03:18",
+						"foundIn": ""
+					},
+					{
+						"name": "Re-awake",
+						"duration": "04:56",
+						"foundIn": ""
+					},
+					{
+						"name": "The end of messenger",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger from zero",
+						"duration": "01:51",
+						"foundIn": ""
+					},
+					{
+						"name": "15- Believe me -zero-",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "SG 0 preview",
+						"duration": "00:44",
+						"foundIn": ""
+					},
+					{
+						"name": "アマデウス -instrumental-",
+						"duration": "03:23",
+						"foundIn": ""
+					},
+					{
+						"name": "ライア -instrumental-",
+						"duration": "02:11",
+						"foundIn": ""
+					},
+					{
+						"name": "ライア",
+						"duration": "05:35",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "Messenger -main theme- (OPM arrange)",
+						"duration": "04:38",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "ファティマ",
+				"cover": "/covers/sg0/sg0a_op.jpg",
+				"date": "2018-04-25",
+				"description": "Anime Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/UtgBySTI#6veTHbQVl_U2UA3uwDZgjA",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "ファティマ",
+						"duration": "04:06",
+						"foundIn": ""
+					},
+					{
+						"name": "はじまりの歌",
+						"duration": "04:36",
+						"foundIn": ""
+					},
+					{
+						"name": "宿業ノ剣",
+						"duration": "05:02",
+						"foundIn": ""
+					},
+					{
+						"name": "ファティマ [instrumental]",
+						"duration": "04:05",
+						"foundIn": ""
+					},
+					{
+						"name": "はじまりの歌 [instrumental]",
+						"duration": "05:02",
+						"foundIn": ""
+					},
+					{
+						"name": "宿業ノ剣 [instrumental]",
+						"duration": "04:30",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "LAST GAME",
+				"cover": "/covers/sg0/sg0a_ed.jpg",
+				"date": "2018-04-25",
+				"description": "Anime Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/FwIBBD4C#xhMcjTe2gdNlQizHNej1oQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "LAST GAME",
+						"duration": "04:44",
+						"foundIn": ""
+					},
+					{
+						"name": "Don't Cry!",
+						"duration": "05:16",
+						"foundIn": ""
+					},
+					{
+						"name": "LAST GAME [instrumental]",
+						"duration": "04:44",
+						"foundIn": ""
+					},
+					{
+						"name": "Don't Cry! [instrumental]",
+						"duration": "05:14",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "World-Line",
+				"cover": "/covers/sg0/sg0a_ed2.jpg",
+				"date": "2018-08-29",
+				"description": "Anime Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/N8JTwYiK#ZEB2Hxh__LHAfW3iFOLvvw",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "World-Line",
+						"duration": "04:42",
+						"foundIn": ""
+					},
+					{
+						"name": "アメノアトニ〜Brighter Days Ahead〜",
+						"duration": "05:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Blue Feather",
+						"duration": "05:21",
+						"foundIn": ""
+					},
+					{
+						"name": "World-Line [instrumental]",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "アメノアトニ〜Brighter Days Ahead〜 [instrumental]",
+						"duration": "05:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Blue Feather [instrumental]",
+						"duration": "05:23",
+						"foundIn": ""
+					},
+					{
+						"name": "牧瀬紅莉栖モノローグ『星芒のアリア』",
+						"duration": "05:51",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE 0｜TV Animation Original Soundtrack",
+				"cover": "/covers/sg0/sg0a_ost.jpg",
+				"date": "2018-09-19",
+				"description": "Anime Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/s1QWDJ6K#8ST41mr4UBewiBdYCbb65Q",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "ファティマ (TV Size)",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "アマデウス (TV Size)",
+						"duration": "01:51",
+						"foundIn": ""
+					},
+					{
+						"name": "B-Messenger",
+						"duration": "04:40",
+						"foundIn": ""
+					},
+					{
+						"name": "いつの日か -Believe me-",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "比屋定真帆",
+						"duration": "04:32",
+						"foundIn": ""
+					},
+					{
+						"name": "アマデウスシステム",
+						"duration": "03:35",
+						"foundIn": ""
+					},
+					{
+						"name": "ロジック",
+						"duration": "03:27",
+						"foundIn": ""
+					},
+					{
+						"name": "記憶",
+						"duration": "03:23",
+						"foundIn": ""
+					},
+					{
+						"name": "跳躍",
+						"duration": "02:32",
+						"foundIn": ""
+					},
+					{
+						"name": "孤独",
+						"duration": "02:53",
+						"foundIn": ""
+					},
+					{
+						"name": "ラボメン",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "コミマ",
+						"duration": "02:22",
+						"foundIn": ""
+					},
+					{
+						"name": "お掃除軍曹",
+						"duration": "01:12",
+						"foundIn": ""
+					},
+					{
+						"name": "コミカル",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "特訓",
+						"duration": "01:47",
+						"foundIn": ""
+					},
+					{
+						"name": "デキる男・ダル",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "施設",
+						"duration": "02:26",
+						"foundIn": ""
+					},
+					{
+						"name": "リーディングシュタイナー発動",
+						"duration": "02:32",
+						"foundIn": ""
+					},
+					{
+						"name": "作戦",
+						"duration": "03:21",
+						"foundIn": ""
+					},
+					{
+						"name": "収束",
+						"duration": "02:39",
+						"foundIn": ""
+					},
+					{
+						"name": "ラボメン -piano-",
+						"duration": "04:06",
+						"foundIn": ""
+					},
+					{
+						"name": "星の奏でる歌 ~duet version~",
+						"duration": "05:31",
+						"foundIn": ""
+					},
+					{
+						"name": "ライア (TV Size)",
+						"duration": "02:22",
+						"foundIn": ""
+					},
+					{
+						"name": "LAST GAME (TV Size)",
+						"duration": "01:30",
+						"foundIn": ""
+					},
+					{
+						"name": "まゆりの悲しみ",
+						"duration": "02:49",
+						"foundIn": ""
+					},
+					{
+						"name": "B-Messenger -piano-",
+						"duration": "06:07",
+						"foundIn": ""
+					},
+					{
+						"name": "自問自答",
+						"duration": "01:36",
+						"foundIn": ""
+					},
+					{
+						"name": "モノローグ",
+						"duration": "01:45",
+						"foundIn": ""
+					},
+					{
+						"name": "鈴羽",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "考察",
+						"duration": "01:49",
+						"foundIn": ""
+					},
+					{
+						"name": "鈴羽の焦り",
+						"duration": "02:30",
+						"foundIn": ""
+					},
+					{
+						"name": "父と娘",
+						"duration": "01:47",
+						"foundIn": ""
+					},
+					{
+						"name": "比屋定とサリエリ",
+						"duration": "01:38",
+						"foundIn": ""
+					},
+					{
+						"name": "星の奏でる歌 -piano-",
+						"duration": "01:39",
+						"foundIn": ""
+					},
+					{
+						"name": "星の奏でる歌 -strings quartet-",
+						"duration": "01:48",
+						"foundIn": ""
+					},
+					{
+						"name": "ダルと由季",
+						"duration": "01:41",
+						"foundIn": ""
+					},
+					{
+						"name": "岡部を知らない紅莉栖",
+						"duration": "01:32",
+						"foundIn": ""
+					},
+					{
+						"name": "厨二を捨てた岡部",
+						"duration": "01:49",
+						"foundIn": ""
+					},
+					{
+						"name": "洗脳",
+						"duration": "02:58",
+						"foundIn": ""
+					},
+					{
+						"name": "比屋定の決意",
+						"duration": "01:50",
+						"foundIn": ""
+					},
+					{
+						"name": "鈴羽の願い",
+						"duration": "01:42",
+						"foundIn": ""
+					},
+					{
+						"name": "B-Messenger -strings quartet-",
+						"duration": "01:51",
+						"foundIn": ""
+					},
+					{
+						"name": "まゆりの決意",
+						"duration": "01:45",
+						"foundIn": ""
+					},
+					{
+						"name": "争奪戦",
+						"duration": "01:34",
+						"foundIn": ""
+					},
+					{
+						"name": "再生される魔笛",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "修羅",
+						"duration": "03:16",
+						"foundIn": ""
+					},
+					{
+						"name": "怒り",
+						"duration": "01:45",
+						"foundIn": ""
+					},
+					{
+						"name": "岡部の挑戦",
+						"duration": "02:04",
+						"foundIn": ""
+					},
+					{
+						"name": "オペレーションアークライト",
+						"duration": "01:43",
+						"foundIn": ""
+					},
+					{
+						"name": "ワルキューレ",
+						"duration": "01:51",
+						"foundIn": ""
+					},
+					{
+						"name": "るかの死",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "0からの使者",
+						"duration": "01:50",
+						"foundIn": ""
+					},
+					{
+						"name": "覚醒 ’re-awake’",
+						"duration": "04:54",
+						"foundIn": ""
+					},
+					{
+						"name": "ラストミッション",
+						"duration": "02:23",
+						"foundIn": ""
+					},
+					{
+						"name": "World-Line (TV Size)",
+						"duration": "01:32",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER [Bonus Track]",
+						"duration": "04:14",
+						"foundIn": ""
+					},
+					{
+						"name": "モノローグドラマ「催涙雨のパドル」",
+						"duration": "04:33",
+						"foundIn": ""
+					}
+				]
+			}
+        ]
+	},
+	{
+		"title": "OCCULTIC;NINE",
+        "name": "on",
+        "color": "#f2e44b",
+        "period": "2016-2019",
+        "logo": [
+        	"/cards/on_music_card.png"
+        ],
+        "card": "/cards/on_music_card.png",
+        "cardOg": "/cards/on_music_card.jpg",
+        "list": [
+        	{
+				"name": "聖数3の二乗",
+				"cover": "/covers/on/ona_op.jpg",
+				"date": "2016-10-26",
+				"description": "Anime Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/c5pABSRB#ibT3LHcIikXcoqhfRqYe2A",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "聖数3の二乗",
+						"duration": "05:23",
+						"foundIn": ""
+					},
+					{
+						"name": "侍霊演武",
+						"duration": "05:58",
+						"foundIn": ""
+					},
+					{
+						"name": "G.O.S.",
+						"duration": "05:08",
+						"foundIn": ""
+					},
+					{
+						"name": "聖数3の二乗 (off vocal)_",
+						"duration": "05:23",
+						"foundIn": ""
+					},
+					{
+						"name": "侍霊演武 (off vocal)",
+						"duration": "05:59",
+						"foundIn": ""
+					},
+					{
+						"name": "G.O.S. (off vocal)",
+						"duration": "05:07",
+						"foundIn": ""
+					}
+				]
+			},
+        	{
+				"name": "Open your eyes",
+				"cover": "/covers/on/ona_ed.jpg",
+				"date": "2016-10-26",
+				"description": "Anime Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/xogDVISB#Z-czaRoEn8eTfPahYdUQmg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Open your eyes",
+						"duration": "04:31",
+						"foundIn": ""
+					},
+					{
+						"name": "ILLUMINA",
+						"duration": "04:34",
+						"foundIn": ""
+					},
+					{
+						"name": "Open your eyes - off vocal -",
+						"duration": "04:31",
+						"foundIn": ""
+					},
+					{
+						"name": "ILLUMINA - off vocal -",
+						"duration": "04:36",
+						"foundIn": ""
+					},
+					{
+						"name": "亜咲花からのメッセージ",
+						"duration": "03:23",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "OCCULTIC;NINE｜TV Animation Original Soundtrack",
+				"cover": "/covers/on/ona_ost.jpg",
+				"date": "2017-03-08",
+				"description": "Anime Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/c9gyCRrZ#zSlanvgE8LmD8Q_v4Hjn8A",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "聖数3の二乗",
+						"duration": "05:24",
+						"foundIn": ""
+					},
+					{
+						"name": "2016年2月29日",
+						"duration": "01:57",
+						"foundIn": ""
+					},
+					{
+						"name": "倍ヲRHYTHM",
+						"duration": "01:57",
+						"foundIn": ""
+					},
+					{
+						"name": "未知導",
+						"duration": "02:00",
+						"foundIn": ""
+					},
+					{
+						"name": "世紀末思想",
+						"duration": "01:31",
+						"foundIn": ""
+					},
+					{
+						"name": "熱℃",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "愛恐",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "回避力",
+						"duration": "01:58",
+						"foundIn": ""
+					},
+					{
+						"name": "陰鬱",
+						"duration": "01:44",
+						"foundIn": ""
+					},
+					{
+						"name": "旧",
+						"duration": "01:29",
+						"foundIn": ""
+					},
+					{
+						"name": "非心しみ",
+						"duration": "01:58",
+						"foundIn": ""
+					},
+					{
+						"name": "口木る",
+						"duration": "02:04",
+						"foundIn": ""
+					},
+					{
+						"name": "ホッ懐炉",
+						"duration": "01:43",
+						"foundIn": ""
+					},
+					{
+						"name": "ホッ懐炉 (Acoustic ver.)",
+						"duration": "02:16",
+						"foundIn": ""
+					},
+					{
+						"name": "味気不",
+						"duration": "02:05",
+						"foundIn": ""
+					},
+					{
+						"name": "鬼気危機",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "∞混乱",
+						"duration": "02:31",
+						"foundIn": ""
+					},
+					{
+						"name": "OVERRIDE",
+						"duration": "01:50",
+						"foundIn": ""
+					},
+					{
+						"name": "捜査操作",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "考察交差点",
+						"duration": "01:35",
+						"foundIn": ""
+					},
+					{
+						"name": "829",
+						"duration": "01:32",
+						"foundIn": ""
+					},
+					{
+						"name": "MMG",
+						"duration": "01:45",
+						"foundIn": ""
+					},
+					{
+						"name": "OVERLAP",
+						"duration": "01:52",
+						"foundIn": ""
+					},
+					{
+						"name": "2016年2月29日 (SUI REMIX)",
+						"duration": "03:00",
+						"foundIn": ""
+					},
+					{
+						"name": "我聞悠太のイメージ",
+						"duration": "01:59",
+						"foundIn": ""
+					},
+					{
+						"name": "我聞悠太の周波数",
+						"duration": "01:52",
+						"foundIn": ""
+					},
+					{
+						"name": "りょーたすのりょーたす",
+						"duration": "01:49",
+						"foundIn": ""
+					},
+					{
+						"name": "りょーたすの振動",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "橋上サライの解読",
+						"duration": "01:36",
+						"foundIn": ""
+					},
+					{
+						"name": "橋上サライの確認",
+						"duration": "01:40",
+						"foundIn": ""
+					},
+					{
+						"name": "相川実優羽のビジョン",
+						"duration": "01:56",
+						"foundIn": ""
+					},
+					{
+						"name": "相川実優羽のありがとう",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "紅ノ亞里亞の代わり",
+						"duration": "02:07",
+						"foundIn": ""
+					},
+					{
+						"name": "紅ノ亞里亞の予言",
+						"duration": "02:08",
+						"foundIn": ""
+					},
+					{
+						"name": "日下部吉柳の幻影",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "日下部吉柳の中",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "澄風桐子の存在",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "澄風桐子の仮説",
+						"duration": "02:00",
+						"foundIn": ""
+					},
+					{
+						"name": "西園梨々花の本当",
+						"duration": "02:03",
+						"foundIn": ""
+					},
+					{
+						"name": "西園梨々花の煩悩",
+						"duration": "02:13",
+						"foundIn": ""
+					},
+					{
+						"name": "森塚駿のテクニック",
+						"duration": "01:50",
+						"foundIn": ""
+					},
+					{
+						"name": "森塚駿の探索",
+						"duration": "01:59",
+						"foundIn": ""
+					},
+					{
+						"name": "鬼崎あすなの聞きたいこと",
+						"duration": "02:03",
+						"foundIn": ""
+					},
+					{
+						"name": "鬼崎あすなの始動",
+						"duration": "02:04",
+						"foundIn": ""
+					},
+					{
+						"name": "Open your eyes",
+						"duration": "04:30",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "Play the game",
+				"cover": "/covers/on/on_op.jpg",
+				"date": "2017-11-08",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/d0gT3RSC#_JXwA3Y_scn6v_BtN7ytcA",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Play the game",
+						"duration": "05:02",
+						"foundIn": ""
+					},
+					{
+						"name": "キミと始まる物語",
+						"duration": "04:04",
+						"foundIn": ""
+					},
+					{
+						"name": "Play the game - off vocal -",
+						"duration": "05:02",
+						"foundIn": ""
+					},
+					{
+						"name": "キミと始まる物語 - off vocal -",
+						"duration": "04:01",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "数奇なるファクタ",
+				"cover": "/covers/on/on_ed.jpg",
+				"date": "2017-11-08",
+				"description": "Game Ending",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/9oY0hAhY#WbCrHE0NJceq5ASEYLlc0Q",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "数奇なるファクタ",
+						"duration": "04:52",
+						"foundIn": ""
+					},
+					{
+						"name": "逆転FEVER",
+						"duration": "04:19",
+						"foundIn": ""
+					},
+					{
+						"name": "数奇なるファクタ(Off Vocal)",
+						"duration": "04:52",
+						"foundIn": ""
+					},
+					{
+						"name": "逆転FEVER(Off Vocal)",
+						"duration": "04:16",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "OCCULTIC;NINE｜Original Soundtrack",
+				"cover": "/covers/on/on_ost.jpg",
+				"date": "2019-09-09",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/0lJAjLbK#y5hJBFH4XOWXlIMASsz04Q",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "THE OCCULTISM -MAIN THEME-",
+						"duration": "03:47",
+						"foundIn": ""
+					},
+					{
+						"name": "THE OCCULTISM -PIANO-",
+						"duration": "04:48",
+						"foundIn": ""
+					},
+					{
+						"name": "CAFE BLOOMOON",
+						"duration": "03:51",
+						"foundIn": ""
+					},
+					{
+						"name": "WWW",
+						"duration": "02:30",
+						"foundIn": ""
+					},
+					{
+						"name": "SPECULATION TIME",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "KICHIJOJI",
+						"duration": "03:54",
+						"foundIn": ""
+					},
+					{
+						"name": "BEGINNING",
+						"duration": "02:50",
+						"foundIn": ""
+					},
+					{
+						"name": "OVSS",
+						"duration": "02:23",
+						"foundIn": ""
+					},
+					{
+						"name": "ARCANA",
+						"duration": "02:13",
+						"foundIn": ""
+					},
+					{
+						"name": "ASCENSION",
+						"duration": "03:09",
+						"foundIn": ""
+					},
+					{
+						"name": "KURENAI",
+						"duration": "02:16",
+						"foundIn": ""
+					},
+					{
+						"name": "PSYCHOMETRY",
+						"duration": "03:14",
+						"foundIn": ""
+					},
+					{
+						"name": "INNOCENT FEAR",
+						"duration": "03:28",
+						"foundIn": ""
+					},
+					{
+						"name": "SHOCKING",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "OVERCAST EYES",
+						"duration": "02:26",
+						"foundIn": ""
+					},
+					{
+						"name": "NOSTALGIC DAYS",
+						"duration": "02:18",
+						"foundIn": ""
+					},
+					{
+						"name": "VANISHING",
+						"duration": "02:01",
+						"foundIn": ""
+					},
+					{
+						"name": "ESCAPE",
+						"duration": "02:15",
+						"foundIn": ""
+					},
+					{
+						"name": "RESOLUTION",
+						"duration": "03:35",
+						"foundIn": ""
+					},
+					{
+						"name": "THE MUTUAL FORCE",
+						"duration": "02:43",
+						"foundIn": ""
+					},
+					{
+						"name": "FINAL WITHSTAND",
+						"duration": "03:40",
+						"foundIn": ""
+					},
+					{
+						"name": "GRAY HEARTS",
+						"duration": "02:42",
+						"foundIn": ""
+					},
+					{
+						"name": "SONAR",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "Play the game -MUSIC BOX-",
+						"duration": "03:19",
+						"foundIn": ""
+					},
+					{
+						"name": "TO FEEL REMORSE",
+						"duration": "02:49",
+						"foundIn": ""
+					},
+					{
+						"name": "GIRLS OF THE DEAD",
+						"duration": "01:30",
+						"foundIn": ""
+					},
+					{
+						"name": "MMM BATTLE",
+						"duration": "01:46",
+						"foundIn": ""
+					},
+					{
+						"name": "MMM FRIENDS",
+						"duration": "01:15",
+						"foundIn": ""
+					},
+					{
+						"name": "MMM CHAOS",
+						"duration": "01:15",
+						"foundIn": ""
+					},
+					{
+						"name": "MMM SERIOUS",
+						"duration": "01:18",
+						"foundIn": ""
+					},
+					{
+						"name": "LISTEN",
+						"duration": "02:15",
+						"foundIn": ""
+					},
+					{
+						"name": "Play the game(Game Size)",
+						"duration": "01:56",
+						"foundIn": ""
+					},
+					{
+						"name": "数奇なるファクタ(Game Size)",
+						"duration": "03:06",
+						"foundIn": ""
+					},
+					{
+						"name": "FM-KCZ(Game Size)",
+						"duration": "02:35",
+						"foundIn": ""
+					},
+					{
+						"name": "FM-KCZ",
+						"duration": "06:00",
+						"foundIn": ""
+					}
+				]
+			}
+        ]
+	},
+	{
+		"title": "ANONYMOUS;CODE",
+        "name": "ac",
+        "color": "#94232d",
+        "period": "2022-2023",
+        "logo": [
+        	"/cards/ac_music_card.png"
+        ],
+        "card": "/cards/ac_music_card.png",
+        "cardOg": "/cards/ac_music_card.jpg",
+        "list": [
+       		{
+				"name": "ANONYMOUS;CODE SONGS FILE",
+				"cover": "/covers/ac/ac_sf.jpg",
+				"date": "2022-07-29",
+				"description": "Game Songs",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/c84QgQgZ#T0JRT0DUSM81RSQRYMr8yg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "GAME OVER",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "My Dearest",
+						"duration": "03:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Mob's God's",
+						"duration": "04:39",
+						"foundIn": ""
+					},
+					{
+						"name": "パスワードには大文字小文字と記号を入れよう!",
+						"duration": "03:45",
+						"foundIn": ""
+					},
+					{
+						"name": "GAME OVER -0ff Vocal-",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "My Dearest -0ff Vocal-",
+						"duration": "04:00",
+						"foundIn": ""
+					},
+					{
+						"name": "Mob's God's -0ff Vocal-",
+						"duration": "04:39",
+						"foundIn": ""
+					},
+					{
+						"name": "パスワードには大文字小文字と記号を入れよう!-0ff Vocal-",
+						"duration": "03:47",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "ANONYMOUS;CODE SOUND DATA LOG",
+				"cover": "/covers/ac/ac_ost.jpg",
+				"date": "2023-09-08",
+				"description": "Game Soundtrack",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/twhDGAaA#YaRvQe73V6tV3KYMP2kHiQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "THE WORLD LAYERS -First Theme-",
+						"duration": "04:21",
+						"foundIn": ""
+					},
+					{
+						"name": "LIFE GAME",
+						"duration": "02:57",
+						"foundIn": ""
+					},
+					{
+						"name": "AS PER USUAL",
+						"duration": "03:14",
+						"foundIn": ""
+					},
+					{
+						"name": "NAKANO SYMPHONIES",
+						"duration": "03:20",
+						"foundIn": ""
+					},
+					{
+						"name": "ZERO POINT",
+						"duration": "03:15",
+						"foundIn": ""
+					},
+					{
+						"name": "INSTITUTION",
+						"duration": "02:41",
+						"foundIn": ""
+					},
+					{
+						"name": "MEETING",
+						"duration": "02:21",
+						"foundIn": ""
+					},
+					{
+						"name": "DEEP SHADOW",
+						"duration": "02:15",
+						"foundIn": ""
+					},
+					{
+						"name": "PROGRAM",
+						"duration": "02:12",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATIONS",
+						"duration": "02:22",
+						"foundIn": ""
+					},
+					{
+						"name": "MINUS STREAM",
+						"duration": "03:04",
+						"foundIn": ""
+					},
+					{
+						"name": "ACELERATOR",
+						"duration": "03:25",
+						"foundIn": ""
+					},
+					{
+						"name": "AGENT",
+						"duration": "03:25",
+						"foundIn": ""
+					},
+					{
+						"name": "LOAD",
+						"duration": "02:02",
+						"foundIn": ""
+					},
+					{
+						"name": "CYBER FORCE DOLLS",
+						"duration": "02:30",
+						"foundIn": ""
+					},
+					{
+						"name": "LET'S GOT ON A DATE!",
+						"duration": "02:25",
+						"foundIn": ""
+					},
+					{
+						"name": "CRATER",
+						"duration": "02:34",
+						"foundIn": ""
+					},
+					{
+						"name": "SAD MORNING",
+						"duration": "03:37",
+						"foundIn": ""
+					},
+					{
+						"name": "WHY？",
+						"duration": "02:24",
+						"foundIn": ""
+					},
+					{
+						"name": "LATENCY",
+						"duration": "03:03",
+						"foundIn": ""
+					},
+					{
+						"name": "NUMERICAL EXPRESSION",
+						"duration": "03:28",
+						"foundIn": ""
+					},
+					{
+						"name": "QUEST",
+						"duration": "02:50",
+						"foundIn": ""
+					},
+					{
+						"name": "NEW MATTER",
+						"duration": "03:18",
+						"foundIn": ""
+					},
+					{
+						"name": "JUNO'S MADNESS",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "BREAKTHROUGH",
+						"duration": "04:23",
+						"foundIn": ""
+					},
+					{
+						"name": "THE CODE -Second theme-",
+						"duration": "03:10",
+						"foundIn": ""
+					},
+					{
+						"name": "FRAGMENT",
+						"duration": "03:25",
+						"foundIn": ""
+					},
+					{
+						"name": "NAKANO",
+						"duration": "03:35",
+						"foundIn": ""
+					},
+					{
+						"name": "TRAGEDY",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "PLACE OF RITES",
+						"duration": "02:06",
+						"foundIn": ""
+					},
+					{
+						"name": "CONNECTION",
+						"duration": "04:02",
+						"foundIn": ""
+					},
+					{
+						"name": "DIVERGENCE",
+						"duration": "03:12",
+						"foundIn": ""
+					},
+					{
+						"name": "MIRACLE",
+						"duration": "03:23",
+						"foundIn": ""
+					},
+					{
+						"name": "STOPPED TIME",
+						"duration": "02:39",
+						"foundIn": ""
+					},
+					{
+						"name": "ALARM TYPE A",
+						"duration": "01:36",
+						"foundIn": ""
+					},
+					{
+						"name": "ALARM TYPE B",
+						"duration": "01:36",
+						"foundIn": ""
+					},
+					{
+						"name": "IN THE DARK",
+						"duration": "01:53",
+						"foundIn": ""
+					},
+					{
+						"name": "WAY TO THE END",
+						"duration": "02:36",
+						"foundIn": ""
+					},
+					{
+						"name": "DREAD",
+						"duration": "02:51",
+						"foundIn": ""
+					},
+					{
+						"name": "CRUCIAL MOMENT",
+						"duration": "01:59",
+						"foundIn": ""
+					},
+					{
+						"name": "THAT PHRASE",
+						"duration": "05:26",
+						"foundIn": ""
+					},
+					{
+						"name": "HER MEMORY",
+						"duration": "03:39",
+						"foundIn": ""
+					},
+					{
+						"name": "OUT OF CONTROL",
+						"duration": "02:59",
+						"foundIn": ""
+					},
+					{
+						"name": "ESCHATOLOGY",
+						"duration": "03:16",
+						"foundIn": ""
+					},
+					{
+						"name": "OVERCOMING",
+						"duration": "03:30",
+						"foundIn": ""
+					},
+					{
+						"name": "ANONYMOUS",
+						"duration": "02:23",
+						"foundIn": ""
+					},
+					{
+						"name": "SIGNAL",
+						"duration": "01:33",
+						"foundIn": ""
+					},
+					{
+						"name": "MOMO",
+						"duration": "03:04",
+						"foundIn": ""
+					},
+					{
+						"name": "END THEME",
+						"duration": "03:08",
+						"foundIn": ""
+					},
+					{
+						"name": "LIEBESTRAUME",
+						"duration": "05:45",
+						"foundIn": ""
+					},
+					{
+						"name": "ANONYMOUS;CODE-PV2020",
+						"duration": "01:16",
+						"foundIn": ""
+					},
+					{
+						"name": "ANONYMOUS;CODE-PV2022",
+						"duration": "01:20",
+						"foundIn": ""
+					}
+				]
+			}
+        ]
+	}
+]
