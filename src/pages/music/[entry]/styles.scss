@@ -243,7 +243,9 @@
 				@media (width < 500px) {
 					flex-shrink: 0;
 					border-left: none;
-					
+				}
+
+				@media (width < 400px) {
 					.top {
 						flex-direction: column;
 
@@ -341,6 +343,7 @@
 					flex-direction: column;
 					gap: 1em;
 					overflow-y: auto;
+					overflow-x: visible;
 
 					h4 {
 						font-size: clamp(0.9em, 0.7091rem + 0.8727vw, 1.2em);
