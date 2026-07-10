@@ -18,6 +18,13 @@ interface PassState {
 	setUnlocked: (value: boolean) => void
 }
 
+export type AlbumTitle = 'chn' | 'sg' | 'rned' | 'cc' | 'sg0' | 'on' | 'ac'
+
+interface MusicState {
+	sectionList: AlbumTitle[],
+	addToList: (title: AlbumTitle) => void
+}
+
 const PASS = import.meta.env.PUBLIC_PASS
 
 export const useEntryStore = create<State>()(persist((set, get) => ({
@@ -76,3 +83,17 @@ export const usePasswordStore = create<PassState>()(persist((set, get) => ({
 		}
 	}
 }))
+
+export const useMusicStore = create<MusicState>()(persist((set, get) => ({
+	sectionList: [],
+	addToList: (title) => {
+		const { sectionList } = get()
+		const findTitle = sectionList.find(x => x === title)
+
+		const newSectionList = structuredClone(sectionList)
+
+		if (findTitle) return set({ sectionList: newSectionList.filter(x => x !== title) })
+
+		set({ sectionList: [...newSectionList, title] })
+	}
+}), { name: 'sciadvMusic' }))

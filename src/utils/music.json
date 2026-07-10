@@ -5,9 +5,11 @@
         "color": "#e34646",
         "period": "2008 - 2014",
         "logo": [
+       		"/cards/chn_music_card.avif",
+	       	"/cards/chn_music_card.webp",
         	"/cards/chn_music_card.png"
         ],
-        "card": "/cards/chn_music_card.png",
+        "card": "/cards/chn_music_card_horizontal.png",
         "cardOg": "/cards/chn_music_card.jpg",
         "list": [
         	{
@@ -1233,9 +1235,11 @@
         "color": "#ebebeb",
         "period": "2009-2020",
         "logo": [
+       		"/cards/sg_music_card.avif",
+        	"/cards/sg_music_card.webp",
         	"/cards/sg_music_card.png"
         ],
-        "card": "/cards/sg_music_card.png",
+        "card": "/cards/sg_music_card_horizontal.png",
         "cardOg": "/cards/sg_music_card.jpg",
         "list": [
 	       	{
@@ -1644,6 +1648,11 @@
 	            		"url": "https://open.spotify.com/album/3bV2nFAHavEKP0PCZGrpb6",
 	            		"hidden": false
 	             	},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/a-r-star-crossed-single/413629761",
+						"hidden": false
+					},
 	           		{
 	           			"name": "MEGA",
 	            		"url": "https://mega.nz/folder/Up50AIhQ#8cKiqxMTaCHfvcSu047EDQ",
@@ -2149,6 +2158,16 @@
 	      		"date": "2011-06-22",
 				"description": "PSP Opening",
 	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/4JBB6Z7GsQYVvYmalQ5tXn",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/宇宙エンシ-ニア-single/447295527",
+						"hidden": false
+					},
 	           		{
 	           			"name": "MEGA",
 	            		"url": "https://mega.nz/folder/UwJjHaRL#maW8mPeCnWCQ0RBns2toQQ",
@@ -2229,16 +2248,6 @@
 	      		"date": "2011-07-27",
 				"description": "Anime Soundtrack",
 	          	"urls": [
-					{
-						"name": "Spotify",
-						"url": "https://open.spotify.com/album/6gn3U8bM6lIo3pHbNERMB6",
-						"hidden": false
-					},
-					{
-						"name": "Apple Music",
-						"url": "https://music.apple.com/album/tvアニメ-シュタインズ-ゲート-edテーママキシシングル-刻司ル十二ノ盟約-ep/1843796091",
-						"hidden": false
-					},
 	           		{
 	           			"name": "MEGA",
 	            		"url": "https://mega.nz/folder/Akg1RbiQ#1GGYTmok6dH-flRUtGI5mA",
@@ -2369,11 +2378,16 @@
 	            ]
 	        },
 			{
-	 			"name": "STEINS;GATE 比翼恋理のだーりん｜La＊La＊La ラボリューション",
+	 			"name": "La＊La＊La ラボリューション",
 	      		"cover": "/covers/sg/sgmde_x360_op.jpg",
 	      		"date": "2011-07-27",
 				"description": "Xbox 360 Opening",
 	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/5XFcbKqWqeNyFTqryfUaVG",
+						"hidden": false
+					},
 					{
 						"name": "Apple Music",
 						"url": "https://music.apple.com/album/xbox360ゲーム-steins-gate-比翼恋理のだーりん-オープニング-la-la-laラボリューション/458049953",
@@ -2499,7 +2513,7 @@
 	            ]
 	        },
 			{
-	 			"name": "STEINS;GATE 8BIT Original Soundtrack",
+	 			"name": "STEINS;GATE 8BIT｜Original Soundtrack",
 	      		"cover": "/covers/sg/sgvso_ost.jpg",
 	      		"date": "2011-10-28",
 				"description": "Game Soundtrack",
@@ -3044,11 +3058,21 @@
 	            ]
 	        },
 			{
-	 			"name": "STEINS;GATE 比翼恋理のだーりん｜禁断無敵のだーりん",
+	 			"name": "禁断無敵のだーりん",
 	      		"cover": "/covers/sg/sgmde_psp_op.jpg",
 	      		"date": "2012-06-13",
 				"description": "PSP Opening",
 	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/3LS3eUK4jAAQwWzfqVBicU",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/psp-ps3ゲーム-steins-gate-比翼恋理のだーりん-オープニング-禁断無敵のだーりん-soundtrack/1682463073",
+						"hidden": false
+					},
 	           		{
 	           			"name": "MEGA",
 	            		"url": "https://mega.nz/folder/0xwSXLYB#29D-l2FknyMG5gNzjVKZuw",
@@ -3084,6 +3108,16 @@
 	      		"date": "2012-06-23",
 				"description": "PS3 Opening",
 	          	"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/3Z7dAcA6Qx8dFeJzVyUcLF",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ゲーム-steins-gate-opテーマ-非線形ジェニアック-ep/533770923",
+						"hidden": false
+					},
 	           		{
 	           			"name": "MEGA",
 	            		"url": "https://mega.nz/folder/4xwyASAA#JI5C4RhtKCuZRANCk-rEHQ",
@@ -3125,6 +3159,16 @@
 				"description": "Movie Opening",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/7fyEJVauoIBLv0ctpTsIFl",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/劇場版-steins-gate-負荷領域のデジャヴ-主題歌-あなたの選んだこの時を-ep/1843796472",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/pow2DbSK#AAT3NDF9_bcPGEJV2IJ70A",
 						"hidden": true
@@ -3159,6 +3203,16 @@
 				"date": "2013-04-24",
 				"description": "Movie Ending",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0ikyoA8B5hG5ZF6chgWzZW",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/劇場版-steins-gate-負荷領域のデジャヴ-エンディングテーマ-いつもこの場所で-ep/1843818851",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/IpJDATga#Ya0H3supXn8RokxtqhBNbQ",
@@ -3195,6 +3249,16 @@
 				"description": "Game Opening",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/1FGsLvZ6TXpaUq7bWP2esP",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ps3-xbox-360ソフト-steins-gate-線形拘束のフェノグラム-opテーマ-フェノグラム-ep/660670027",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/cgZTALqC#_NiqG2VvfJlWsy9-UDpdeg",
 						"hidden": true
@@ -3230,6 +3294,16 @@
 				"description": "Game Ending",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/2cZeguIPk6jTSDRUDpX44L",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ps3-xbox-360専用ソフト-steins-gate-線形拘束のフェノグラム-edテーマ-楽園のホログラム/660670070",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/d1pD3DLB#i8cSmRbL0-x5lDK6tMjqtg",
 						"hidden": true
@@ -3264,6 +3338,16 @@
 				"date": "2013-06-26",
 				"description": "Game/Anime Songs",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/steins-gate-vocal-best/672239025",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/d9Y0WQTL#1D7UecrPGJEdkOmhi54XCA",
@@ -3394,6 +3478,16 @@
 				"date": "2013-09-25",
 				"description": "Orchestral Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/steins-gate-symphonic-reunion/722724150",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/Bp4WjD5A#tvA_A3HpDJTqrxzu3aU8MA",
@@ -3529,6 +3623,56 @@
 					{
 						"name": "スカイクラッドの観測者 [instrumental]",
 						"duration": "05:40",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "邂逅のフェタリテート",
+				"cover": "/covers/sg/sglbp_psv_op.jpg",
+				"date": "2013-11-27",
+				"description": "PS Vita Opening",
+				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/4y432oR0tp6aSix2x09u1M",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/邂逅のフェタリテート-ゲーム-steins-gate-線形拘束のフェノグラム-オープングテーマ-ep/757816989",
+						"hidden": false
+					},
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/B8hw2CxC#JEBs1C0mUkVOdyKPEJKOMQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "邂逅のフェタリテート",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "掌の迷宮",
+						"duration": "03:54",
+						"foundIn": ""
+					},
+					{
+						"name": "GO→LOVE&PEACE (Wall5 Remix)",
+						"duration": "05:48",
+						"foundIn": ""
+					},
+					{
+						"name": "邂逅のフェタリテート (off Vocal)",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "掌の迷宮 (off Vocal)",
+						"duration": "03:50",
 						"foundIn": ""
 					}
 				]
@@ -3690,6 +3834,16 @@
 				"description": "Game Soundtrack",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/6Wpq80p30Had7hqf5Gu2Ax",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ゲーム-steins-gate-線形拘束のフェノグラム-original-soundtrack/672237886",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/I5xDHaiC#CJxMz03HeGXP7MAIRMcNcA",
 						"hidden": true
@@ -3849,11 +4003,66 @@
 				]
 			},
 			{
+				"name": "IF",
+				"cover": "/covers/sg/sg_if.jpg",
+				"date": "2015-12-25",
+				"description": "Pachinko Opening",
+				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/76joFXwGG9sO4hFnDxgEws",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/if-想定科学パチスロ-シュタインズゲート-廻転世界のインダクタンス-オリジナルソング-ep/1072712168",
+						"hidden": false
+					},
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/lwAH0ZxZ#cd6v6-zSwGCmEFuNE0Mpsw",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "IF",
+						"duration": "04:23",
+						"foundIn": ""
+					},
+					{
+						"name": "未来へのリゾルブ",
+						"duration": "03:40",
+						"foundIn": ""
+					},
+					{
+						"name": "IF (Off Vocal)",
+						"duration": "45:23",
+						"foundIn": ""
+					},
+					{
+						"name": "未来へのリゾルブ (Off Vocal)",
+						"duration": "03:37",
+						"foundIn": ""
+					}
+				]
+			},
+			{
 				"name": "COSMIC LOOPER",
 				"cover": "/covers/sg/sge_op.jpg",
 				"date": "2018-09-19",
 				"description": "Game Opening",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/1BwPwXgbUrssJgUwBFKMoI",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/cosmic-looper-steins-gate-elite-ep/1435446362",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/Z9x1yaTZ#SMgWJAjcbGR3E_QB7GRCsg",
@@ -3889,6 +4098,16 @@
 				"date": "2018-09-19",
 				"description": "Game Ending",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/1NZeAWaGFnqACkLOGEZE4E",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/アニーの指輪-ゲーム-steins-gate-elite-edテーマ-ep/1435446535",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/t5Ix1Y6b#atuzX6iqLIfX7gDlS2jnVQ",
@@ -3929,6 +4148,16 @@
 				"date": "2020-03-18",
 				"description": "Game Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/5tJqD7ax46OQIFPzhu5GI7",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/steins-gate-elite-オリジナルサウンドトラック/1501651959",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/QoQSlIAZ#lmkEcHTJ_YG1BmGw-NV6xg",
@@ -4366,9 +4595,11 @@
         "color": "#6cc6f0",
         "period": "2012-2019",
         "logo": [
+       		"/cards/rned_music_card.avif",
+        	"/cards/rned_music_card.webp",
         	"/cards/rned_music_card.png"
         ],
-        "card": "/cards/rned_music_card.png",
+        "card": "/cards/rned_music_card_horizontal.png",
         "cardOg": "/cards/rned_music_card.jpg",
         "list": [
        		{
@@ -4377,6 +4608,16 @@
 				"date": "2012-06-27",
 				"description": "Xbox 360/PS3 Opening",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/2pGKbVBpSkQEia81JAmbwF",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ps3-xbox360ゲーム-robotics-notes-主題歌-拡張プレイス-ep/533769861",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/M1wyzY5S#hT9TqRnpTb5oVZLYJsFhGw",
@@ -4413,6 +4654,16 @@
 				"description": "Xbox 360/PS3 Ending",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/1x0HZeUOWdaugzZTkRYKaK",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ゲーム-robotics-notes-エンディング-空の下の相関図/555289207",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/N1ZQEJpY#sNUgfD8PDrAlkMAFicD7ig",
 						"hidden": true
@@ -4447,6 +4698,16 @@
 				"date": "2012-08-01",
 				"description": "Game Ending",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/6GzBbh2kWlw6ZDuWbpFQai",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ゲーム-robotics-notes-エンディング-鋼の鎧纏う-三百の大司祭/555294190",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/8tImUCbL#lUGmYSuT2uG63YwXWUmPag",
@@ -4483,6 +4744,16 @@
 				"description": "Anime Ending",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/06tEP3p4pfUEazxa3v6mcV",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/海風のブレイブ-ep/1535815971",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/kwgBUBpC#6xYEWR852bEaKf86ZtTozA",
 						"hidden": true
@@ -4517,6 +4788,16 @@
 				"date": "2012-11-21",
 				"description": "Anime Opening",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/3IhCyzJEraUEGc8iwrQ5rb",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/純情スペクトラ/1539178982",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/w0RGjQTC#OOTzyE1KawcNaJFLXOs9yg",
@@ -4556,7 +4837,18 @@
 				"cover": "/covers/rned/rna_ed2.jpg",
 				"date": "2013-03-06",
 				"description": "Anime Ending",
+				"spoiler": true,
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/5tHwMNde5idycYDcJLHSBe",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/トポロジー-ep/1537786588",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/pkpUyTbT#_ajQQqvKDU49GYaCqr2NiQ",
@@ -4597,6 +4889,16 @@
 				"date": "2013-03-13",
 				"description": "Anime Opening",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/3D9q2siUJ26YTGiDcOlGGe",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/咆筺のメシア-ep/1536483893",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/UlIWyYCS#RD4h3Oeg5hYKsvu8xfQOLg",
@@ -4797,6 +5099,16 @@
 				"date": "2014-06-25",
 				"description": "Game Opening",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/2k4uU5HGUUTJpILmLnuuif",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/約束のオーグメント-ゲーム-robotics-notes-elite-opテーマ-ep/6773624103",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/o9JWEQCL#Gh31BguEOBXoM02J3yMCmQ",
@@ -5098,6 +5410,16 @@
 				"description": "Game Opening",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/4oinWvIgTNlIpOriqU6M4t",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/avant-story-robotics-notes-dash-opening-theme-ep/1445846050",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/IwoWAJiI#-LWMbWTxZLEJ1-0ryjyeqQ",
 						"hidden": true
@@ -5131,7 +5453,18 @@
 				"cover": "/covers/rned/rnd_ost.jpg",
 				"date": "2019-02-13",
 				"description": "Game Soundtrack",
+				"spoiler": true,
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/39hqj4uBN8l3HRUR2bAspZ",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/robotics-notes-dash-オリジナル-サウンドトラック/1451160556",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/FkBXkChC#W6L-BCg9QMXaK-RS0Zj3dg",
@@ -5339,9 +5672,11 @@
         "color": "#2e2e2e",
         "period": "2016-2025",
         "logo": [
+       		"/cards/cc_music_card.avif",
+        	"/cards/cc_music_card.webp",
         	"/cards/cc_music_card.png"
         ],
-        "card": "/cards/cc_music_card.png",
+        "card": "/cards/cc_music_card_horizontal.png",
         "cardOg": "/cards/cc_music_card.jpg",
         "list": [
        		{
@@ -5350,6 +5685,16 @@
 				"date": "2016-04-22",
 				"description": "Game Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0PAGr5a6MG58awBS9QREij",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/real-boot-modulation-chaos-child-ost/1098152970",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/Q8wzhBhb#JEKxlzROh0fEYozCJvrR5g",
@@ -5659,7 +6004,18 @@
 				"cover": "/covers/cc/cca_op.jpg",
 				"date": "2017-01-25",
 				"description": "Anime Opening",
+				"spoiler": true,
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/47LhZVy9r22nseO2yIMjt3",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/uncontrollable-tvアニメ-chaos-child-オープニングテーマ-ep/1190048564",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/w0pB1JpS#Hm1ztNIsowenGjFmDcDbFw",
@@ -5684,7 +6040,18 @@
 				"cover": "/covers/cc/cca_ed.jpg",
 				"date": "2017-02-22",
 				"description": "Anime Ending",
+				"spoiler": true,
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/01UoUqWPEcQsK1Dz4mA4uE",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/tvアニメ-chaos-child-エンディングテーマ-カオスシンドローム-epp/1201625307",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/spwQTCxS#0gsT6LwrfTAK0SP3z7UA8A",
@@ -5720,6 +6087,15 @@
 				"date": "2017-02-22",
 				"description": "Anime Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/5zMGSqLOnQW775ASpjZknU",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/tvアニメ-chaos-child-オリジナルサウンドトラック/1201615670"
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/ElhUFTzS#J0FZIMaDRZUd1rvoS62Tow",
@@ -5961,6 +6337,16 @@
 				"description": "Game Ending",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/5auzAW93SI2JHJm1oivJjZ",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/罪証のルシファー-ps4-ps-vita用ソフト-chaos-child-らぶchu-chu-edテーマ-ep/1213784203",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/AxBhTLST#6dEF1JuoAQaHrnAnXYKdNg",
 						"hidden": true
@@ -6005,6 +6391,11 @@
 				"date": "2017-03-30",
 				"description": "Game Soundtrack",
 				"urls": [
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/chaos-child-らぶchu-chu-サウンドトラック-α/6772871212",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/9lBhTZ5B#-fIIPMtHj_6EhA6qpKLSAg",
@@ -6106,6 +6497,16 @@
 				"description": "Game Opening",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/4yRDeAQW1jJycwxg9Qme25",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/非合理的かつ訂正不能な思い込み-chaos-childらぶchu-chu-opテーマソング/1221419487",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/VogClJDL#v7re6CaACTmGp6pfw93Jwg",
 						"hidden": true
@@ -6162,9 +6563,11 @@
         "color": "#bf5734",
         "period": "2015-2018",
         "logo": [
+       		"/cards/sg0_music_card.avif",
+        	"/cards/sg0_music_card.webp",
         	"/cards/sg0_music_card.png"
         ],
-        "card": "/cards/sg0_music_card.png",
+        "card": "/cards/sg0_music_card_horizontal.png",
         "cardOg": "/cards/sg0_music_card.jpg",
         "list": [
        		{
@@ -6173,6 +6576,16 @@
 				"date": "2015-11-25",
 				"description": "Game Opening",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/196WEW0vyY0IKJ390wROsY",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/アマデウス-ゲーム-steins-gate-0-opテーマ-ep/1066728639",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/h15nQTTR#00hQtvVk9c4zXL9RZ5c4CQ",
@@ -6213,6 +6626,16 @@
 				"date": "2015-11-25",
 				"description": "Game Ending",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/5wuuwlX3cUMAWMcwKfiZvw",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/ライア-ゲーム-steins-gate-0-edテーマ-ep/1066728544",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/gwRygKwZ#LktOMtBDQEu5XY869wPASg",
@@ -6393,6 +6816,16 @@
 				"date": "2016-08-24",
 				"description": "Game Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/1lYvC9cbUW53FMMJgqECBX",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/steins-gate-0-sound-tracks-%E5%AE%8C%E5%85%A8%E7%89%88/1140879943",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/9owXVQqa#3dOVog7nwA_wCIzTylpfiw",
@@ -6604,6 +7037,16 @@
 				"description": "Anime Opening",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/6mZ8853alvt0kdi2zNvMEV",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/ファティマ-tvアニメ-シュタインズ-ゲート-ゼロ-opテーマ-ep/1371246457",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/UtgBySTI#6veTHbQVl_U2UA3uwDZgjA",
 						"hidden": true
@@ -6649,6 +7092,16 @@
 				"description": "Anime Ending",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0iFTljcxfot9oPRPwp9m2q",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/last-game-tvアニメ-シュタインズ-ゲート-ゼロ-edテーマ-ep/1371245574",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/FwIBBD4C#xhMcjTe2gdNlQizHNej1oQ",
 						"hidden": true
@@ -6683,6 +7136,16 @@
 				"date": "2018-08-29",
 				"description": "Anime Ending",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/1XjNPcUKs1dnBzZjMGBcBR",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/mx/album/world-line-steins-gate-0/1428421271",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/N8JTwYiK#ZEB2Hxh__LHAfW3iFOLvvw",
@@ -6733,6 +7196,16 @@
 				"date": "2018-09-19",
 				"description": "Anime Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/39C4T9TCMg6yjleEADxDq4",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/tv-animation-steins-gate-0-original-soundtrack/1438083868",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/s1QWDJ6K#8ST41mr4UBewiBdYCbb65Q",
@@ -7035,9 +7508,11 @@
         "color": "#f2e44b",
         "period": "2016-2019",
         "logo": [
+       		"/cards/on_music_card.avif",
+        	"/cards/on_music_card.webp",
         	"/cards/on_music_card.png"
         ],
-        "card": "/cards/on_music_card.png",
+        "card": "/cards/on_music_card_horizontal.png",
         "cardOg": "/cards/on_music_card.jpg",
         "list": [
         	{
@@ -7046,6 +7521,16 @@
 				"date": "2016-10-26",
 				"description": "Anime Opening",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/7lAN8gXokAm23ndcWjIOqg",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/聖数3の二乗-tvアニメ-occultic-nine-オカルティック-ナイン-オープニングテーマ/1162138294",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/c5pABSRB#ibT3LHcIikXcoqhfRqYe2A",
@@ -7092,6 +7577,16 @@
 				"description": "Anime Ending",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/3OYT3MncySlPRWG7IUWnbr",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/open-your-eyes-tvアニメ-occultic-nine-オカルティック-ナイン-エンディングテーマ-ep/1162136946",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/xogDVISB#Z-czaRoEn8eTfPahYdUQmg",
 						"hidden": true
@@ -7131,6 +7626,15 @@
 				"date": "2017-03-08",
 				"description": "Anime Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/1kbmqgl73VQmM6nlw5ofqe",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/occultic-nine-original-soundtrack/1697280800"
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/c9gyCRrZ#zSlanvgE8LmD8Q_v4Hjn8A",
@@ -7372,6 +7876,16 @@
 				"description": "Game Opening",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/5rx375UnlapZAvVaC3sP4r",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/play-the-game-ep/1298338268",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/d0gT3RSC#_JXwA3Y_scn6v_BtN7ytcA",
 						"hidden": true
@@ -7407,6 +7921,16 @@
 				"description": "Game Ending",
 				"urls": [
 					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/7er3fuFwTsAQS5LgdMiBRI",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/数奇なるファクタ-ep/1298338265",
+						"hidden": false
+					},
+					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/9oY0hAhY#WbCrHE0NJceq5ASEYLlc0Q",
 						"hidden": true
@@ -7441,6 +7965,16 @@
 				"date": "2019-09-09",
 				"description": "Game Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/2Qu8RkQVl8exT3SL1pNlZC",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/game-occultic-nine-original-soundtracks/1478352576",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/0lJAjLbK#y5hJBFH4XOWXlIMASsz04Q",
@@ -7633,9 +8167,11 @@
         "color": "#94232d",
         "period": "2022-2023",
         "logo": [
+       		"/cards/ac_music_card.avif",
+        	"/cards/ac_music_card.webp",
         	"/cards/ac_music_card.png"
         ],
-        "card": "/cards/ac_music_card.png",
+        "card": "/cards/ac_music_card_horizontal.png",
         "cardOg": "/cards/ac_music_card.jpg",
         "list": [
        		{
@@ -7644,6 +8180,16 @@
 				"date": "2022-07-29",
 				"description": "Game Songs",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/4vBCeYn4A5TVYn1XDcP65S",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/anonymous-code-theme-song-collection/1633956726",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/c84QgQgZ#T0JRT0DUSM81RSQRYMr8yg",
@@ -7699,6 +8245,11 @@
 				"date": "2023-09-08",
 				"description": "Game Soundtrack",
 				"urls": [
+					{
+						"name": "Steam",
+						"url": "https://store.steampowered.com/app/2544850/ANONYMOUSCODE__SOUND_DATA_LOG/",
+						"hidden": false
+					},
 					{
 						"name": "MEGA",
 						"url": "https://mega.nz/folder/twhDGAaA#YaRvQe73V6tV3KYMP2kHiQ",

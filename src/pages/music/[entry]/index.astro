@@ -4,6 +4,7 @@ import music from '../../../utils/music.json'
 import { getLangFromUrl, useTranslatedPath } from '../../../i18n/utils'
 import type { GetStaticPaths } from "astro"
 import MusicAlbum from '../../../components/MusicAlbum'
+import MusicSpoilers from '../../../components/MusicSpoilers'
 import './styles.scss'
 
 export const getStaticPaths = (() => {
@@ -56,14 +57,14 @@ const customTransition = {
 		<meta property="og:title" content={`SciADV Series - ${entry.title} Music`} />
 		<meta property="og:description" content="Is the scenery your eyes perceive truly real?" />
 		<meta property="og:url" content="https://sciadvseri.es/" />
-		<meta property="og:image" content={`https://sciadvseri.es/banners/sciadv_banner.jpg`} />
+		<meta property="og:image" content={entry.cardOg} />
 		<meta property="og:image:width" content="1200">
 		<meta property="og:image:height" content="630">
 		<meta property="twitter:card" content="summary_large_image" />
 		<meta property="twitter:url" content="https://sciadvseri.es/" />
 		<meta property="twitter:title" content={`SciADV Series - ${entry.title} Music`} />
 		<meta property="twitter:description" content="Is the scenery your eyes perceive truly real?" />
-		<meta property="twitter:image" content={`https://sciadvseri.es/banners/sciadv_banner.png`} />
+		<meta property="twitter:image" content={entry.card} />
 	</head>
 	<body>
 		<Layout>
@@ -88,8 +89,11 @@ const customTransition = {
 						</div>
 					</div>
 				</div>
-				<div class="list">
-					{entry.list.map(album => <MusicAlbum album={album} client:idle />)}
+				<div class="listWrapper">
+					{entry.list.some(x => x.spoiler) && <MusicSpoilers client:idle album={entry.name} hide='Hide spoilers' show='Show spoilers' />}
+					<div class="list">
+						{entry.list.map(album => <MusicAlbum album={album} entryName={entry.name} client:idle />)}
+					</div>
 				</div>
 			</div>
 		</Layout>

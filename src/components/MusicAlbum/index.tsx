@@ -1,8 +1,8 @@
 import { AnimatePresence, motion } from 'motion/react'
 import { useState } from 'react'
-import { SiApplemusic, SiMega, SiSpotify } from 'react-icons/si'
+import { SiApplemusic, SiMega, SiSpotify, SiSteam } from 'react-icons/si'
 import { LuX } from 'react-icons/lu'
-import { usePasswordStore } from '../../store/entryStore'
+import { useMusicStore, usePasswordStore, type AlbumTitle } from '../../store/entryStore'
 
 type MusicContentType = typeof import('../../utils/music.json')
 type Album = MusicContentType[number]['list'][number]
@@ -10,11 +10,13 @@ type Album = MusicContentType[number]['list'][number]
 const icons = {
 	'MEGA': <SiMega />,
 	'Spotify': <SiSpotify />,
-	'Apple Music': <SiApplemusic />
+	'Apple Music': <SiApplemusic />,
+	'Steam': <SiSteam />
 }
 
-const MusicAlbum = ({ album: { name, date, description, cover, trackList, urls } }: { album: Album }) => {
+const MusicAlbum = ({ album: { name, date, description, cover, trackList, urls, spoiler }, entryName }: { album: Album, entryName: AlbumTitle }) => {
 	const unlocked = usePasswordStore(state => state.unlocked)
+	const sectionList = useMusicStore(state => state.sectionList)
 	const [modal, setModal] = useState(false)
 	const isDate = date.includes('-')
 	const [fullYear, month, day] = date.split('-')
@@ -31,7 +33,9 @@ const MusicAlbum = ({ album: { name, date, description, cover, trackList, urls }
 						<div className="top">
 							<div className="cover">
 								<picture>
-									<img src={cover} alt="" />
+									<source srcSet={!sectionList.includes(entryName) && spoiler ? '/spoiler.avif' : `${cover.split('.')[0]}.avif`} type='image/avif' />
+									<source srcSet={!sectionList.includes(entryName) && spoiler ? '/spoiler.webp' : `${cover.split('.')[0]}.webp`} type='image/webp' />
+									<img src={!sectionList.includes(entryName) && spoiler ? '/spoiler.jpg' : cover} alt="" />
 								</picture>
 							</div>
 							<div className="title">
@@ -74,7 +78,9 @@ const MusicAlbum = ({ album: { name, date, description, cover, trackList, urls }
 			<div className="top">
 				<div className="cover">
 					<picture>
-						<img src={cover} alt="" />
+						<source srcSet={!sectionList.includes(entryName) && spoiler ? '/spoiler.avif' : `${cover.split('.')[0]}.avif`} type='image/avif' />
+						<source srcSet={!sectionList.includes(entryName) && spoiler ? '/spoiler.webp' : `${cover.split('.')[0]}.webp`} type='image/webp' />
+						<img src={!sectionList.includes(entryName) && spoiler ? '/spoiler.jpg' : cover} alt="" />
 					</picture>
 				</div>
 				<div className="title">
