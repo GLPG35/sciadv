@@ -1,10 +1,10 @@
 ---
-import Layout from "../../../layouts/Layout.astro"
-import music from '../../../utils/music.json'
-import { getLangFromUrl, useTranslatedPath } from '../../../i18n/utils'
+import Layout from "../../../../layouts/Layout.astro"
+import music from '../../../../utils/music_es.json'
+import { getLangFromUrl, useTranslatedPath } from '../../../../i18n/utils'
 import type { GetStaticPaths } from "astro"
-import MusicAlbum from '../../../components/MusicAlbum'
-import MusicSpoilers from '../../../components/MusicSpoilers'
+import MusicAlbum from '../../../../components/MusicAlbum/es'
+import MusicSpoilers from '../../../../components/MusicSpoilers'
 import './styles.scss'
 
 export const getStaticPaths = (() => {
@@ -40,7 +40,7 @@ const customTransition = {
 }
 ---
 
-<html lang="en">
+<html lang="es">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
@@ -51,10 +51,10 @@ const customTransition = {
 		<link rel="manifest" href="/favicon/site.webmanifest" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>SciADV Series - {entry.title} Music</title>
+		<title>SciADV Series - Música de {entry.title}</title>
 		<meta name="description" content={entry.epigraph} />
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content={`SciADV Series - ${entry.title} Music`} />
+		<meta property="og:title" content={`SciADV Series - Música de ${entry.title}`} />
 		<meta property="og:description" content={entry.epigraph} />
 		<meta property="og:url" content="https://sciadvseri.es/" />
 		<meta property="og:image" content={entry.cardOg} />
@@ -62,7 +62,7 @@ const customTransition = {
 		<meta property="og:image:height" content="1200">
 		<meta property="twitter:card" content="summary_large_image" />
 		<meta property="twitter:url" content="https://sciadvseri.es/" />
-		<meta property="twitter:title" content={`SciADV Series - ${entry.title} Music`} />
+		<meta property="twitter:title" content={`SciADV Series - Música de ${entry.title}`} />
 		<meta property="twitter:description" content={entry.epigraph} />
 		<meta property="twitter:image" content={entry.card} />
 	</head>
@@ -85,14 +85,14 @@ const customTransition = {
 					<div class="text">
 						<div class="title">
 							<h2>{entry.title}</h2>
-							<span>Music tracks ({entry.period})</span>
+							<span>Temas musicales ({entry.period})</span>
 						</div>
 					</div>
 				</div>
 				<div class="listWrapper">
-					{entry.list.some(x => x.spoiler) && <MusicSpoilers client:idle album={entry.name} hide='Hide spoilers' show='Show spoilers' />}
+					{entry.list.some(x => x.spoiler) && <MusicSpoilers client:idle album={entry.name} hide='Ocultar spoilers' show='Mostrar spoilers' />}
 					<div class="list">
-						{entry.list.map(album => <MusicAlbum album={album} entryName={entry.name} client:idle />)}
+						{entry.list.map(album => <MusicAlbum album={album} entryName={entry.name} lang='es' client:idle />)}
 					</div>
 				</div>
 			</div>

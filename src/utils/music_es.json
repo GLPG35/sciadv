@@ -11,13 +11,13 @@
         ],
         "card": "/cards/chn_music_card_horizontal.png",
         "cardOg": "/cards/chn_music_card.jpg",
-        "epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
+        "epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
         "list": [
         	{
        			"name": "CHAOS;HEAD｜BOX 01 ・ Vocal Disc",
           		"cover": "/covers/chn/chac_1.jpg",
           		"date": "2009-08-05",
-           		"description": "Game Soundtrack",
+           		"description": "BSO del juego",
             	"urls": [
              		{
             			"name": "Spotify",
@@ -107,7 +107,7 @@
            		"name": "CHAOS;HEAD｜BOX 02 ・ Character Disc",
            		"cover": "/covers/chn/chac_2.jpg",
            		"date": "2009-08-05",
-           		"description": "Character Songs",
+           		"description": "Canciones de personajes",
              	"urls": [
               		{
             			"name": "MEGA",
@@ -197,7 +197,7 @@
            		"name": "CHAOS;HEAD｜BOX 03 ・ Syncro Disc -BGM-",
            		"cover": "/covers/chn/chac_3.jpg",
            		"date": "2009-08-05",
-           		"description": "Game Soundtrack",
+           		"description": "BSO del juego",
              	"urls": [
               		{
 	           			"name": "Spotify",
@@ -307,7 +307,7 @@
            		"name": "CHAOS;HEAD｜BOX 04 ・ Trigger Disc -BGM-",
            		"cover": "/covers/chn/chac_4.jpg",
            		"date": "2009-08-05",
-           		"description": "Game Soundtrack",
+           		"description": "BSO del juego",
              	"urls": [
               		{
             			"name": "MEGA",
@@ -417,7 +417,7 @@
            		"name": "sound track of CHAOS;HEAD the animation",
            		"cover": "/covers/chn/chta.jpeg",
            		"date": "2009-04-22",
-           		"description": "Anime Soundtrack",
+           		"description": "BSO del anime",
              	"urls": [
               		{
             			"name": "MEGA",
@@ -622,7 +622,7 @@
     			"name": "End Prophecy / PHANTASM (FES cv.榊原ゆい)",
          		"cover": "/covers/chn/fes_ep.jpg",
          		"date": "2009-05-06",
-         		"description": "Game Songs",
+         		"description": "Canciones del juego",
              	"urls": [
               		{
               			"name": "Apple Music",
@@ -687,7 +687,7 @@
     			"name": "CHAOS;HEAD らぶChu☆Chu!｜シンクロしようよ",
          		"cover": "/covers/chn/chlcc_x360_op.jpg",
          		"date": "2010-03-31",
-         		"description": "Xbox 360 Opening",
+         		"description": "Opening de Xbox 360",
              	"urls": [
               		{
               			"name": "Apple Music",
@@ -727,7 +727,7 @@
      			"name": "祈りのヴィオレット",
           		"cover": "/covers/chn/chlcc_ed.png",
           		"date": "2010-04-28",
-          		"description": "Xbox 360 Ending",
+          		"description": "Ending de Xbox 360",
               	"urls": [
 	               	{
 	             		"name": "Spotify",
@@ -767,7 +767,7 @@
      			"name": "CHAOS;HEAD らぶChu☆Chu!｜Original Soundtrack",
           		"cover": "/covers/chn/chlcc_ost.jpg",
           		"date": "2010-08-13",
-          		"description": "Game Soundtrack",
+          		"description": "BSO del juego",
               	"urls": [
                		{
                			"name": "Apple Music",
@@ -842,7 +842,7 @@
      			"name": "PSP「CHAOS;HEAD らぶChu☆Chu!」主題歌シングル!",
           		"cover": "/covers/chn/chlcc_psp_op.jpg",
           		"date": "2011-01-16",
-          		"description": "PSP Opening",
+          		"description": "Opening de PSP",
               	"urls": [
                		{
                			"name": "Spotify",
@@ -882,7 +882,7 @@
      			"name": "CHAOS;HEAD VOCAL COLLECTION",
           		"cover": "/covers/chn/chvc.jpg",
           		"date": "2011-08-24",
-          		"description": "Game Songs",
+          		"description": "Canciones del juego",
               	"urls": [
                		{
                			"name": "Spotify",
@@ -1052,7 +1052,7 @@
      			"name": "Revival Prophecy / PHANTASM (FES cv.榊原ゆい)",
           		"cover": "/covers/chn/fes_rp.jpg",
           		"date": "2011-12-21",
-          		"description": "Game Songs",
+          		"description": "Canciones del juego",
               	"urls": [
                		{
                			"name": "Spotify",
@@ -1142,7 +1142,7 @@
      			"name": "ゲーム「神次元ゲイム ネプテューヌV」OPテーマ 「神次元!ふぉーちゅん・まてりある」",
           		"cover": "/covers/chn/chlcc_ps3_op.jpg",
           		"date": "2012-10-24",
-          		"description": "PS3 Opening",
+          		"description": "Opening de PS3",
               	"urls": [
                		{
                			"name": "Spotify",
@@ -1187,7 +1187,7 @@
      			"name": "PS3「CHAOS;HEAD NOAH」カオスロジック",
           		"cover": "/covers/chn/chn_ps3_op.jpg",
           		"date": "2012-11-28",
-          		"description": "PS3 Opening",
+          		"description": "Opening de PS3",
               	"urls": [
                		{
                			"name": "Spotify",
@@ -1242,13 +1242,13 @@
         ],
         "card": "/cards/sg_music_card_horizontal.png",
         "cardOg": "/cards/sg_music_card.jpg",
-        "epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+        "epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
         "list": [
 	       	{
 	 			"name": "STARGATE",
 	      		"cover": "/covers/sg/sg.jpg",
 	      		"date": "2009-08-26",
-				"description": "Game Songs",
+				"description": "Canciones del juego",
 	          	"urls": [
 	           		{
 	           			"name": "Apple Music",
@@ -1323,7 +1323,7 @@
 	 			"name": "スカイクラッドの観測者",
 	      		"cover": "/covers/sg/sg_x360_op.jpg",
 	      		"date": "2009-10-28",
-				"description": "Xbox 360 Opening",
+				"description": "Opening de Xbox 360",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1368,7 +1368,7 @@
 	 			"name": "運命のファルファッラ",
 	      		"cover": "/covers/sg/sg_x360_ed.jpg",
 	      		"date": "2009-11-25",
-				"description": "Xbox 360 Ending",
+				"description": "Ending de Xbox 360",
 	          	"urls": [
 	           		{
 	           			"name": "Apple Music",
@@ -1413,7 +1413,7 @@
 	 			"name": "STEINS;GATE｜Original Soundtrack",
 	      		"cover": "/covers/sg/sg_ost.jpg",
 	      		"date": "2010-02-03",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1643,7 +1643,7 @@
 	 			"name": "A.R. ~insert song~",
 	      		"cover": "/covers/sg/sg_pc_op.jpg",
 	      		"date": "2010-07-28",
-				"description": "PC Opening",
+				"description": "Opening de PC",
 	          	"urls": [
 	           		{
 	           			"name": "Spotify",
@@ -1688,7 +1688,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー001☆岡部倫太郎",
 	      		"cover": "/covers/sg/cs1.jpg",
 	      		"date": "2010-08-25",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1733,7 +1733,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー002☆椎名まゆり",
 	      		"cover": "/covers/sg/cs2.jpg",
 	      		"date": "2010-08-25",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1778,7 +1778,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー003☆橋田至",
 	      		"cover": "/covers/sg/cs3.jpg",
 	      		"date": "2010-09-22",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1823,7 +1823,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー004☆牧瀬紅莉栖",
 	      		"cover": "/covers/sg/cs4.jpg",
 	      		"date": "2010-09-22",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1868,7 +1868,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー005☆桐生萌郁",
 	      		"cover": "/covers/sg/cs5.jpg",
 	      		"date": "2010-10-20",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1913,7 +1913,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー006☆漆原るか",
 	      		"cover": "/covers/sg/cs6.jpg",
 	      		"date": "2010-10-20",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -1958,7 +1958,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー007☆フェイリス・ニャンニャン",
 	      		"cover": "/covers/sg/cs7.jpg",
 	      		"date": "2010-11-24",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -2003,7 +2003,7 @@
 	 			"name": "オーディオシリーズ ☆ラボメンナンバー008☆阿万音鈴羽",
 	      		"cover": "/covers/sg/cs8.jpg",
 	      		"date": "2010-11-24",
-				"description": "Character Song",
+				"description": "Canción de personaje",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -2048,7 +2048,7 @@
 	 			"name": "Hacking to the Gate",
 	      		"cover": "/covers/sg/sga_op.jpg",
 	      		"date": "2011-04-27",
-				"description": "Anime Opening",
+				"description": "Opening del anime",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -2093,7 +2093,7 @@
 	 			"name": "刻司ル十二ノ盟約",
 	      		"cover": "/covers/sg/sga_ed.jpg",
 	      		"date": "2011-05-25",
-				"description": "Anime Ending",
+				"description": "Ending del anime",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -2138,7 +2138,7 @@
 	 			"name": "Micro Wave Master Mix",
 	      		"cover": "/covers/sg/sg_mwmm.jpg",
 	      		"date": "2011-06-16",
-				"description": "Game Soundtrack Mix",
+				"description": "Mix de la BSO del juego",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -2158,7 +2158,7 @@
 	 			"name": "宇宙エンジニア",
 	      		"cover": "/covers/sg/sg_psp_op.jpg",
 	      		"date": "2011-06-22",
-				"description": "PSP Opening",
+				"description": "Opening de PSP",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -2208,7 +2208,7 @@
 	 			"name": "プレギエーラの月夜に",
 	      		"cover": "/covers/sg/sg_psp_ed.jpg",
 	      		"date": "2011-06-22",
-				"description": "PSP Ending",
+				"description": "Ending de PSP",
 	          	"urls": [
 					{
 						"name": "Apple Music",
@@ -2248,7 +2248,7 @@
 	 			"name": "STEINS;GATE｜TV Animation Original Soundtrack I -Butterfly Effect-",
 	      		"cover": "/covers/sg/sga_ost.jpg",
 	      		"date": "2011-07-27",
-				"description": "Anime Soundtrack",
+				"description": "BSO del anime",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -2383,7 +2383,7 @@
 	 			"name": "La＊La＊La ラボリューション",
 	      		"cover": "/covers/sg/sgmde_x360_op.jpg",
 	      		"date": "2011-07-27",
-				"description": "Xbox 360 Opening",
+				"description": "Opening de Xbox 360",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -2438,7 +2438,7 @@
 	 			"name": "ワタシ☆LOVEな☆オトメ！~insert song~",
 	      		"cover": "/covers/sg/sga_is.png",
 	      		"date": "2011-07-27",
-				"description": "Anime Song",
+				"description": "Canción del anime",
 	          	"urls": [
 					{
 						"name": "Apple Music",
@@ -2478,7 +2478,7 @@
 	 			"name": "ルミナスの泉 ~insert song~",
 	      		"cover": "/covers/sg/sga_is2.png",
 	      		"date": "2011-08-09",
-				"description": "Anime Song",
+				"description": "Canción del anime",
 	          	"urls": [
 					{
 						"name": "Apple Music",
@@ -2518,7 +2518,7 @@
 	 			"name": "STEINS;GATE 8BIT｜Original Soundtrack",
 	      		"cover": "/covers/sg/sgvso_ost.jpg",
 	      		"date": "2011-10-28",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -2798,7 +2798,7 @@
 	 			"name": "未来ガジェット CD３号 キャラソン☆メイクイーンの午後3時",
 	      		"cover": "/covers/sg/sg_fgcd.jpg",
 	      		"date": "2011-10-28",
-				"description": "Character Songs",
+				"description": "Canciones de personajes",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -2823,7 +2823,7 @@
 	 			"name": "未来ガジェット CD６号 キャラソン☆迷宮のイデア",
 	      		"cover": "/covers/sg/sg_fgcd2.jpg",
 	      		"date": "2011-11-25",
-				"description": "Character Songs",
+				"description": "Canciones de personajes",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -2848,7 +2848,7 @@
 	 			"name": "STEINS;GATE｜TV Animation Original Soundtrack II -Event Horizon-",
 	      		"cover": "/covers/sg/sga_ost.jpg",
 	      		"date": "2012-01-25",
-				"description": "Anime Soundtrack",
+				"description": "BSO del anime",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -2973,7 +2973,7 @@
 	 			"name": "未来ガジェット CD９号 キャラソン☆ラボメン☆スピリッツ",
 	      		"cover": "/covers/sg/sg_fgcd3.jpg",
 	      		"date": "2012-02-22",
-				"description": "Character Songs",
+				"description": "Canciones de personajes",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -2998,7 +2998,7 @@
 	 			"name": "STEINS;GATE｜Symphonic Material",
 	      		"cover": "/covers/sg/sgsm.jpg",
 	      		"date": "2012-05-24",
-				"description": "Orchestral Soundtrack",
+				"description": "BSO orquestal",
 	          	"urls": [
 	           		{
 	           			"name": "MEGA",
@@ -3063,7 +3063,7 @@
 	 			"name": "禁断無敵のだーりん",
 	      		"cover": "/covers/sg/sgmde_psp_op.jpg",
 	      		"date": "2012-06-13",
-				"description": "PSP Opening",
+				"description": "Opening de PSP",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -3108,7 +3108,7 @@
 	 			"name": "非線形ジェニアック",
 	      		"cover": "/covers/sg/sg_ps3_op.jpg",
 	      		"date": "2012-06-23",
-				"description": "PS3 Opening",
+				"description": "Opening de PS3",
 	          	"urls": [
 					{
 						"name": "Spotify",
@@ -3158,7 +3158,7 @@
 				"name": "あなたの選んだこの時を",
 				"cover": "/covers/sg/sgm_op.jpg",
 				"date": "2013-04-24",
-				"description": "Movie Opening",
+				"description": "Opening de la película",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -3203,7 +3203,7 @@
 				"name": "いつもこの場所で",
 				"cover": "/covers/sg/sgm_ed.jpg",
 				"date": "2013-04-24",
-				"description": "Movie Ending",
+				"description": "Ending de la película",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -3248,7 +3248,7 @@
 				"name": "フェノグラム",
 				"cover": "/covers/sg/sglbp_op.jpg",
 				"date": "2013-05-29",
-				"description": "Game Opening",
+				"description": "Opening del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -3293,7 +3293,7 @@
 				"name": "楽園のホログラム",
 				"cover": "/covers/sg/sglbp_ed.png",
 				"date": "2013-05-29",
-				"description": "Game Ending",
+				"description": "Ending del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -3338,7 +3338,7 @@
 				"name": "STEINS;GATE｜VOCAL BEST",
 				"cover": "/covers/sg/sgvb.jpg",
 				"date": "2013-06-26",
-				"description": "Game/Anime Songs",
+				"description": "Canciones del juego/anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -3478,7 +3478,7 @@
 				"name": "STEINS;GATE｜SYMPHONIC REUNION",
 				"cover": "/covers/sg/sgsr.jpg",
 				"date": "2013-09-25",
-				"description": "Orchestral Soundtrack",
+				"description": "BSO orquestal",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -3633,7 +3633,7 @@
 				"name": "邂逅のフェタリテート",
 				"cover": "/covers/sg/sglbp_psv_op.jpg",
 				"date": "2013-11-27",
-				"description": "PS Vita Opening",
+				"description": "Opening de PS Vita",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -3683,7 +3683,7 @@
 				"name": "STEINS;GATE 劇場版・負荷領域のデジャヴ｜Original Soundtrack",
 				"cover": "/covers/sg/sgm_ost.jpg",
 				"date": "2013-12-13",
-				"description": "Movie Soundtrack",
+				"description": "BSO de la película",
 				"urls": [
 					{
 						"name": "MEGA",
@@ -3833,7 +3833,7 @@
 				"name": "STEINS;GATE 線形拘束のフェノグラム｜サウンドトラック＋6",
 				"cover": "/covers/sg/sglbp_ost.jpg",
 				"date": "2015-09-30",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4008,7 +4008,7 @@
 				"name": "IF",
 				"cover": "/covers/sg/sg_if.jpg",
 				"date": "2015-12-25",
-				"description": "Pachinko Opening",
+				"description": "Opening del Pachinko",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4053,7 +4053,7 @@
 				"name": "COSMIC LOOPER",
 				"cover": "/covers/sg/sge_op.jpg",
 				"date": "2018-09-19",
-				"description": "Game Opening",
+				"description": "Opening del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4098,7 +4098,7 @@
 				"name": "アニーの指輪",
 				"cover": "/covers/sg/sge_ed.jpg",
 				"date": "2018-09-19",
-				"description": "Game Ending",
+				"description": "Ending del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4148,7 +4148,7 @@
 				"name": "STEINS;GATE ELITE｜Original Soundtrack",
 				"cover": "/covers/sg/sge_ost.jpg",
 				"date": "2020-03-18",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4313,7 +4313,7 @@
 				"name": "STEINS;GATE｜GATE OF STEINER -10th Anniversary-",
 				"cover": "/covers/sg/sggos.jpg",
 				"date": "2020-03-18",
-				"description": "Orchestral Soundtrack",
+				"description": "BSO orquestal",
 				"urls": [
 					{
 						"name": "MEGA",
@@ -4603,13 +4603,13 @@
         ],
         "card": "/cards/rned_music_card_horizontal.png",
         "cardOg": "/cards/rned_music_card.jpg",
-        "epigraph": "The science itself may prove cynical. However, one mustn't forget that there is a scientific element in all things. The important truth is this: I am the master of my fate, I am the captain of my soul.",
+        "epigraph": "La ciencia como tal puede parecer escéptica. Sin embargo, es importante recordar que hay una verdad científica en todas las cosas. La más importante de esas verdades es que: Soy el amo de mi destino, soy el capitán de mi alma.",
         "list": [
        		{
 				"name": "拡張プレイス",
 				"cover": "/covers/rned/rn_x360_op.jpg",
 				"date": "2012-06-27",
-				"description": "Xbox 360/PS3 Opening",
+				"description": "Opening de Xbox 360/PS3",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4654,7 +4654,7 @@
 				"name": "空の下の相関図",
 				"cover": "/covers/rned/rn_x360_ed.jpg",
 				"date": "2012-07-25",
-				"description": "Xbox 360/PS3 Ending",
+				"description": "Ending de Xbox 360/PS3",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4699,7 +4699,7 @@
 				"name": "鋼の鎧纏う、三百の大司祭",
 				"cover": "/covers/rned/rn_ed.png",
 				"date": "2012-08-01",
-				"description": "Game Ending",
+				"description": "Ending del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4744,7 +4744,7 @@
 				"name": "海風のブレイブ",
 				"cover": "/covers/rned/rna_ed.jpg",
 				"date": "2012-11-12",
-				"description": "Anime Ending",
+				"description": "Ending del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4789,7 +4789,7 @@
 				"name": "純情スペクトラ",
 				"cover": "/covers/rned/rna_op.png",
 				"date": "2012-11-21",
-				"description": "Anime Opening",
+				"description": "Opening del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4839,7 +4839,7 @@
 				"name": "トポロジー",
 				"cover": "/covers/rned/rna_ed2.jpg",
 				"date": "2013-03-06",
-				"description": "Anime Ending",
+				"description": "Ending del anime",
 				"spoiler": true,
 				"urls": [
 					{
@@ -4890,7 +4890,7 @@
 				"name": "咆筺のメシア",
 				"cover": "/covers/rned/rna_op2.jpg",
 				"date": "2013-03-13",
-				"description": "Anime Opening",
+				"description": "Opening del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -4935,7 +4935,7 @@
 				"name": "ROBOTICS;NOTES｜TV Animation Original Soundtrack",
 				"cover": "/covers/rned/rna_ost.jpg",
 				"date": "2013-04-24",
-				"description": "Anime Soundtrack",
+				"description": "BSO del anime",
 				"urls": [
 					{
 						"name": "MEGA",
@@ -5100,7 +5100,7 @@
 				"name": "約束のオーグメント",
 				"cover": "/covers/rned/rne_op.jpg",
 				"date": "2014-06-25",
-				"description": "Game Opening",
+				"description": "Opening del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -5145,7 +5145,7 @@
 				"name": "ROBOTICS;NOTES ORIGINAL SOUNDTRACK + 6",
 				"cover": "/covers/rned/rn_ost.png",
 				"date": "2015-10-30",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "MEGA",
@@ -5410,7 +5410,7 @@
 				"name": "Avant Story",
 				"cover": "/covers/rned/rnd_op.jpg",
 				"date": "2018-12-26",
-				"description": "Game Opening",
+				"description": "Opening del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -5455,7 +5455,7 @@
 				"name": "ROBOTICS;NOTES DaSH ORIGINAL SOUNDTRACK",
 				"cover": "/covers/rned/rnd_ost.jpg",
 				"date": "2019-02-13",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"spoiler": true,
 				"urls": [
 					{
@@ -5681,13 +5681,13 @@
         ],
         "card": "/cards/cc_music_card_horizontal.png",
         "cardOg": "/cards/cc_music_card.jpg",
-        "epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
+        "epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
         "list": [
        		{
 				"name": "CHAOS;CHILD｜Original Soundtrack -Real Boot Modulation-",
 				"cover": "/covers/cc/cc_ost.jpg",
 				"date": "2016-04-22",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -6007,7 +6007,7 @@
 				"name": "Uncontrollable",
 				"cover": "/covers/cc/cca_op.jpg",
 				"date": "2017-01-25",
-				"description": "Anime Opening",
+				"description": "Opening del anime",
 				"spoiler": true,
 				"urls": [
 					{
@@ -6043,7 +6043,7 @@
 				"name": "カオスシンドローム",
 				"cover": "/covers/cc/cca_ed.jpg",
 				"date": "2017-02-22",
-				"description": "Anime Ending",
+				"description": "Ending del anime",
 				"spoiler": true,
 				"urls": [
 					{
@@ -6089,7 +6089,7 @@
 				"name": "CHAOS;CHILD｜TV Animation Original Soundtrack",
 				"cover": "/covers/cc/cca_ost.png",
 				"date": "2017-02-22",
-				"description": "Anime Soundtrack",
+				"description": "BSO del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -6338,7 +6338,7 @@
 				"name": "罪証のルシファー",
 				"cover": "/covers/cc/cclcc_ed.png",
 				"date": "2017-03-29",
-				"description": "Game Ending",
+				"description": "Ending del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -6393,7 +6393,7 @@
 				"name": "CHAOS;CHILD らぶchu☆chu!!｜Original Soundtrack",
 				"cover": "/covers/cc/cclcc_ost.jpg",
 				"date": "2017-03-30",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "Apple Music",
@@ -6498,7 +6498,7 @@
 				"name": "非合理的かつ訂正不能な思い込み",
 				"cover": "/covers/cc/cclcc_op.png",
 				"date": "2017-04-19",
-				"description": "Game Opening",
+				"description": "Opening del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -6573,13 +6573,13 @@
         ],
         "card": "/cards/sg0_music_card_horizontal.png",
         "cardOg": "/cards/sg0_music_card.jpg",
-        "epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
+        "epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
         "list": [
        		{
 				"name": "アマデウス",
 				"cover": "/covers/sg0/sg0_op.jpg",
 				"date": "2015-11-25",
-				"description": "Game Opening",
+				"description": "Opening del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -6629,7 +6629,7 @@
 				"name": "ライア",
 				"cover": "/covers/sg0/sg0_ed.jpg",
 				"date": "2015-11-25",
-				"description": "Game Ending",
+				"description": "Ending del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -6679,7 +6679,7 @@
 				"name": "STEINS;GATE 0｜Original Soundtrack ～ Gate of Steiner",
 				"cover": "/covers/sg0/sg0_ost.png",
 				"date": "2015-12-29",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "MEGA",
@@ -6819,7 +6819,7 @@
 				"name": "STEINS;GATE 0｜SOUND TRACKS -完全版-",
 				"cover": "/covers/sg0/sg0_ost2.jpg",
 				"date": "2016-08-24",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7039,7 +7039,7 @@
 				"name": "ファティマ",
 				"cover": "/covers/sg0/sg0a_op.jpg",
 				"date": "2018-04-25",
-				"description": "Anime Opening",
+				"description": "Opening del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7094,7 +7094,7 @@
 				"name": "LAST GAME",
 				"cover": "/covers/sg0/sg0a_ed.jpg",
 				"date": "2018-04-25",
-				"description": "Anime Ending",
+				"description": "Ending del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7139,7 +7139,7 @@
 				"name": "World-Line",
 				"cover": "/covers/sg0/sg0a_ed2.jpg",
 				"date": "2018-08-29",
-				"description": "Anime Ending",
+				"description": "Ending del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7199,7 +7199,7 @@
 				"name": "STEINS;GATE 0｜TV Animation Original Soundtrack",
 				"cover": "/covers/sg0/sg0a_ost.jpg",
 				"date": "2018-09-19",
-				"description": "Anime Soundtrack",
+				"description": "BSO del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7519,13 +7519,13 @@
         ],
         "card": "/cards/on_music_card_horizontal.png",
         "cardOg": "/cards/on_music_card.jpg",
-        "epigraph": "There are no such things as \"occult\". It can be disproved all by science. Only the ones who have accepted everything, can get the right to know the truth.",
+        "epigraph": "No existe tal cosa como lo \"oculto\". Todo puede desmentirse por medio de la ciencia. Sólo aquellos que han aceptado todo... tienen derecho a conocer la verdad.",
         "list": [
         	{
 				"name": "聖数3の二乗",
 				"cover": "/covers/on/ona_op.jpg",
 				"date": "2016-10-26",
-				"description": "Anime Opening",
+				"description": "Opening del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7580,7 +7580,7 @@
 				"name": "Open your eyes",
 				"cover": "/covers/on/ona_ed.jpg",
 				"date": "2016-10-26",
-				"description": "Anime Ending",
+				"description": "Ending del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7630,7 +7630,7 @@
 				"name": "OCCULTIC;NINE｜TV Animation Original Soundtrack",
 				"cover": "/covers/on/ona_ost.jpg",
 				"date": "2017-03-08",
-				"description": "Anime Soundtrack",
+				"description": "BSO del anime",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7879,7 +7879,7 @@
 				"name": "Play the game",
 				"cover": "/covers/on/on_op.jpg",
 				"date": "2017-11-08",
-				"description": "Game Opening",
+				"description": "Opening del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7924,7 +7924,7 @@
 				"name": "数奇なるファクタ",
 				"cover": "/covers/on/on_ed.jpg",
 				"date": "2017-11-08",
-				"description": "Game Ending",
+				"description": "Ending del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -7969,7 +7969,7 @@
 				"name": "OCCULTIC;NINE｜Original Soundtrack",
 				"cover": "/covers/on/on_ost.jpg",
 				"date": "2019-09-09",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -8179,13 +8179,13 @@
         ],
         "card": "/cards/ac_music_card_horizontal.png",
         "cardOg": "/cards/ac_music_card.jpg",
-        "epigraph": "The fact that you've arrived here-rather, to this save point- at this moment in your life is nothing short of a miracle. It delights me to no end. Step through the stage's curtain; rip off the mask of the wizard who pulls the strings. Close the loop. Hack into God.",
+        "epigraph": "Sólo podría llamársele milagro al hecho de que hayas llegado hasta aquí, hasta este punto de guardado, en este momento de tu vida. Y me complace en gran manera. Ahora atraviesa el telón del escenario; desenmascara al hechicero que mueve los hilos. Cierra el bucle. Y hackea a Dios.",
         "list": [
        		{
 				"name": "ANONYMOUS;CODE SONGS FILE",
 				"cover": "/covers/ac/ac_sf.jpg",
 				"date": "2022-07-29",
-				"description": "Game Songs",
+				"description": "Canciones del juego",
 				"urls": [
 					{
 						"name": "Spotify",
@@ -8250,7 +8250,7 @@
 				"name": "ANONYMOUS;CODE SOUND DATA LOG",
 				"cover": "/covers/ac/ac_ost.jpg",
 				"date": "2023-09-08",
-				"description": "Game Soundtrack",
+				"description": "BSO del juego",
 				"urls": [
 					{
 						"name": "Steam",
