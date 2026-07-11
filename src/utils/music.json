@@ -2515,6 +2515,96 @@
 	            ]
 	        },
 			{
+				"name": "STEINS;GATE & CHAOS;HEAD｜Science Adventure Dance Remix",
+				"cover": "/covers/sg/sadr.jpg",
+				"date": "2011-09-21",
+				"description": "Remixes",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/dgY3QQBR#FmCLMhTSowo6Zcdh3XbpBQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "スカイクラッドの観測者 -ゆうゆ Remix-",
+						"duration": "04:45",
+						"foundIn": ""
+					},
+					{
+						"name": "Find the blue -8#Prince (八王子P) Remix-",
+						"duration": "04:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Desire Blue sky -Clean Tears Remix-",
+						"duration": "04:34",
+						"foundIn": ""
+					},
+					{
+						"name": "fake me -samfree Remix-",
+						"duration": "04:26",
+						"foundIn": ""
+					},
+					{
+						"name": "Fetishism Ark -Clean Tears Remix-",
+						"duration": "04:18",
+						"foundIn": ""
+					},
+					{
+						"name": "F.D.D. -8#Prince (八王子P) Remix-",
+						"duration": "04:39",
+						"foundIn": ""
+					},
+					{
+						"name": "A.R. -samfree Remix-",
+						"duration": "04:52",
+						"foundIn": ""
+					},
+					{
+						"name": "密教の首飾り -samfree Remix-",
+						"duration": "04:56",
+						"foundIn": ""
+					},
+					{
+						"name": "磔のミサ -Clean Tears Remix-",
+						"duration": "04:40",
+						"foundIn": ""
+					},
+					{
+						"name": "シンクロしようよ -ちょむP Remix-",
+						"duration": "04:32",
+						"foundIn": ""
+					},
+					{
+						"name": "フラグ立てようよ -8#Prince (八王子P) Remix-",
+						"duration": "03:22",
+						"foundIn": ""
+					},
+					{
+						"name": "La+La+Laラボリューション -ゆうゆ Remix-",
+						"duration": "04:13",
+						"foundIn": ""
+					},
+					{
+						"name": "Gate of Steiner -ちょむP Remix-",
+						"duration": "04:11",
+						"foundIn": ""
+					},
+					{
+						"name": "宇宙エンジニア -ゆうゆ Remix-",
+						"duration": "04:28",
+						"foundIn": ""
+					},
+					{
+						"name": "Hacking to the Gate -samfree Remix-",
+						"duration": "04:59",
+						"foundIn": ""
+					}
+				]
+			},
+			{
 	 			"name": "STEINS;GATE 8BIT｜Original Soundtrack",
 	      		"cover": "/covers/sg/sgvso_ost.jpg",
 	      		"date": "2011-10-28",
@@ -4674,23 +4764,23 @@
 				],
 				"trackList": [
 					{
-						"name": "拡張プレイス",
-						"duration": "04:41",
+						"name": "空の下の相関図",
+						"duration": "04:39",
 						"foundIn": ""
 					},
 					{
-						"name": "MONSTER",
-						"duration": "04:26",
+						"name": "zero hour",
+						"duration": "04:19",
 						"foundIn": ""
 					},
 					{
-						"name": "拡張プレイス (off Vocal)",
-						"duration": "04:40",
+						"name": "空の下の相関図 (off Vocal)",
+						"duration": "04:38",
 						"foundIn": ""
 					},
 					{
-						"name": "MONSTER (off Vocal)",
-						"duration": "04:24",
+						"name": "zero hour (off Vocal)",
+						"duration": "04:16",
 						"foundIn": ""
 					}
 				]
@@ -5683,6 +5773,61 @@
         "cardOg": "/cards/cc_music_card.jpg",
         "epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
         "list": [
+        	{
+       			"name": "シンギュラリティ",
+        		"cover": "/covers/cc/cc_s.jpg",
+        		"date": "2015-07-22",
+        		"description": "PS4/PS3/PS Vita Opening",
+        		"urls": [
+          			{
+          				"name": "Spotify",
+           				"url": "https://open.spotify.com/album/3WMHgEebCbIR4wdg78WNa6",
+            			"hidden": false
+             		},
+               		{
+               			"name": "Apple Music",
+                		"url": "https://music.apple.com/jp/album/シンギュラリティ-ps4-ps3-ps-vita版-chaos-child-オープニングテーマ-ep/1024046890",
+                		"hidden": false
+                 	},
+          			{
+          				"name": "MEGA",
+           				"url": "https://mega.nz/folder/4wQBlYiZ#osV3Jbv6fmo7DdL9iKUEtA",
+            			"hidden": true
+             		}
+          		],
+           		"trackList": [
+	            	{
+						"name": "シンギュラリティ",
+						"duration": "04:23",
+						"foundIn": ""
+					},
+					{
+						"name": "silent wind bell -Another Version-",
+						"duration": "05:31",
+						"foundIn": ""
+					},
+					{
+						"name": "TRUE QUALIA",
+						"duration": "03:31",
+						"foundIn": ""
+					},
+					{
+						"name": "シンギュラリティ (off Vocal)",
+						"duration": "04:23",
+						"foundIn": ""
+					},
+					{
+						"name": "silent wind bell -Another Version- (off Vocal)",
+						"duration": "05:31",
+						"foundIn": ""
+					},
+					{
+						"name": "TRUE QUALIA (off Vocal)",
+						"duration": "03:28",
+						"foundIn": ""
+					}
+             	]
+         	},
        		{
 				"name": "CHAOS;CHILD｜Original Soundtrack -Real Boot Modulation-",
 				"cover": "/covers/cc/cc_ost.jpg",
