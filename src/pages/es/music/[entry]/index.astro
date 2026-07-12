@@ -5,6 +5,7 @@ import { getLangFromUrl, useTranslatedPath } from '../../../../i18n/utils'
 import type { GetStaticPaths } from "astro"
 import MusicAlbum from '../../../../components/MusicAlbum/es'
 import MusicSpoilers from '../../../../components/MusicSpoilers'
+import MusicAll from '../../../../components/MusicAll'
 import './styles.scss'
 
 export const getStaticPaths = (() => {
@@ -86,6 +87,7 @@ const customTransition = {
 						<div class="title">
 							<h2>{entry.title}</h2>
 							<span>Temas musicales ({entry.period})</span>
+							<MusicAll url={entry.url} text='Link a todos los albums' client:load />
 						</div>
 					</div>
 				</div>
