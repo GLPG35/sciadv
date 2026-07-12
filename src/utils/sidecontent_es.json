@@ -593,6 +593,22 @@
                 ]
             },
             {
+           		"uuid": "019f57f5-df59-7000-9cc1-074741d9a0d0",
+            	"title": "STEINS;GATE: My Undarling's Embrace",
+            	"date": "2011-12-20",
+            	"finishDate": "2012-08-17",
+            	"essential": true,
+            	"notRecommended": false,
+            	"incomplete": true,
+            	"type": "lightnovel",
+            	"urls": [],
+	            "must": {
+	             	"name": "STEINS;GATE: My Darling's Embrace",
+	              	"link": "/entries/sgmde",
+	               	"type": "play"
+	            }
+            },
+            {
                 "uuid": "019ef96c-52a9-7000-b267-b3e5e25dbd80",
                 "title": "Antología de Steins;Gate: La reunión del espacio alucinado",
                 "date": "2011-12-29",
@@ -927,6 +943,21 @@
                         "url": "https://www.youtube.com/watch?v=qKDhQVVLbEg"
                     }
                 ]
+            },
+            {
+           		"uuid": "019f57f0-e9a9-7000-81b9-24569e7ee251",
+            	"title": "STEINS;GATE: Linear Bounded Mosaicism",
+            	"date": "2014-04-10",
+            	"essential": true,
+            	"notRecommended": false,
+            	"incomplete": true,
+            	"type": "lightnovel",
+            	"urls": [],
+             	"must": {
+	             	"name": "STEINS;GATE: Linear Bounded Phenogram",
+	              	"link": "/entries/sglbp",
+	               	"type": "play"
+	            }
             },
             {
                 "uuid": "019ef96c-52a9-7013-a3eb-a3c2c63951f1",
