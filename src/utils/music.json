@@ -17,18 +17,18 @@
        			"name": "CHAOS;HEAD｜BOX 01 ・ Vocal Disc",
           		"cover": "/covers/chn/chac_1.jpg",
           		"date": "2009-08-05",
-           		"description": "Game Soundtrack",
+           		"description": "Game/Anime Songs",
             	"urls": [
-             		{
-            			"name": "Spotify",
-            			"url": "https://open.spotify.com/album/78flyf1V4VagPK8tjAulC5",
-            			"hidden": false
-               		},
-                 	{
-                		"name": "Apple Music",
-                		"url": "https://music.apple.com/es/album/chaos-head-original-soundtrack/1646367003",
-                		"hidden": false
-                 	},
+	           		{
+	           			"name": "Spotify",
+	            		"url": "https://open.spotify.com/album/748ycaG73LucENFmiiTVgX",
+	              		"hidden": false
+	             	},
+	              	{
+	             		"name": "Apple Music",
+	             		"url": "https://music.apple.com/jp/album/chaos-head-vocal-collection/467996303",
+	             		"hidden": false
+	               	},
              		{
 	           			"name": "MEGA",
 	            		"url": "https://mega.nz/folder/0wIQwBAC#8CVSTaIM05ywQoMkfu5n9w",
@@ -109,6 +109,16 @@
            		"date": "2009-08-05",
            		"description": "Character Songs",
              	"urls": [
+              		{
+            			"name": "Spotify",
+	             		"url": "https://open.spotify.com/album/748ycaG73LucENFmiiTVgX",
+	               		"hidden": false
+	              	},
+	               	{
+	              		"name": "Apple Music",
+	              		"url": "https://music.apple.com/jp/album/chaos-head-vocal-collection/467996303",
+	              		"hidden": false
+                	},
               		{
             			"name": "MEGA",
 	             		"url": "https://mega.nz/folder/A0AEjApa#qSS76TB5slJERPdob1eeOw",
@@ -309,6 +319,16 @@
            		"date": "2009-08-05",
            		"description": "Game Soundtrack",
              	"urls": [
+              		{
+	           			"name": "Spotify",
+	           			"url": "https://open.spotify.com/album/78flyf1V4VagPK8tjAulC5",
+	           			"hidden": false
+            		},
+	              	{
+	               		"name": "Apple Music",
+	               		"url": "https://music.apple.com/es/album/chaos-head-original-soundtrack/1646367003",
+	               		"hidden": false
+	              	},
               		{
             			"name": "MEGA",
 	             		"url": "https://mega.nz/folder/09wynQDT#rlIbnZN8WAxR4181_44Wfw",
@@ -3330,6 +3350,101 @@
 					{
 						"name": "Foresight Oscillator [instrumental]",
 						"duration": "04:51",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "Re:Set",
+				"cover": "/covers/sg/sg_rs.jpg",
+				"date": "2013-04-24",
+				"description": "Game Ending",
+				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0Mm4LluxBjhwxumOQl7ZRf",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/re-set/1068758966",
+						"hidden": false
+					},
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/w9QGUbJB#3t12-9cmB9nyL7uy1saYXQ",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "Re-Set",
+						"duration": "03:43",
+						"foundIn": ""
+					},
+					{
+						"name": "純情スペクトラ",
+						"duration": "04:12",
+						"foundIn": ""
+					},
+					{
+						"name": "MONSTER",
+						"duration": "04:26",
+						"foundIn": ""
+					},
+					{
+						"name": "幻影のメビウス",
+						"duration": "04:21",
+						"foundIn": ""
+					},
+					{
+						"name": "GATEWAY LOVE",
+						"duration": "05:02",
+						"foundIn": ""
+					},
+					{
+						"name": "オカルティクスの魔女 (Zwei Ver.)",
+						"duration": "04:44",
+						"foundIn": ""
+					},
+					{
+						"name": "メフィストフェレスの黙示",
+						"duration": "04:50",
+						"foundIn": ""
+					},
+					{
+						"name": "風の旋律",
+						"duration": "04:34",
+						"foundIn": ""
+					},
+					{
+						"name": "あの夏の日の想い出",
+						"duration": "05:30",
+						"foundIn": ""
+					},
+					{
+						"name": "ソラノシズク",
+						"duration": "04:20",
+						"foundIn": ""
+					},
+					{
+						"name": "イナンナの見た夢",
+						"duration": "04:54",
+						"foundIn": ""
+					},
+					{
+						"name": "拡張プレイス",
+						"duration": "04:39",
+						"foundIn": ""
+					},
+					{
+						"name": "小指のパラドックス",
+						"duration": "04:19",
+						"foundIn": ""
+					},
+					{
+						"name": "Forever More",
+						"duration": "04:39",
 						"foundIn": ""
 					}
 				]
