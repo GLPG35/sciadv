@@ -7,7 +7,7 @@
         "logo": [
        		"/cards/chn_music_card.avif",
 	       	"/cards/chn_music_card.webp",
-        	"/cards/chn_music_card.png"
+        	"/cards/chn_music_card.pngF"
         ],
         "card": "/cards/chn_music_card_horizontal.png",
         "cardOg": "/cards/chn_music_card.jpg",
@@ -5881,7 +5881,7 @@
 		"title": "CHAOS;CHILD",
         "name": "cc",
         "color": "#2e2e2e",
-        "period": "2016-2017",
+        "period": "2016-2025",
         "logo": [
        		"/cards/cc_music_card.avif",
         	"/cards/cc_music_card.webp",
