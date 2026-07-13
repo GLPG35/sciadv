@@ -6822,6 +6822,46 @@
 						"foundIn": ""
 					}
 				]
+			},
+			{
+				"name": "カオスなムーブでラブリのバグ!?",
+				"cover": "/covers/cc/chcclcc_op.jpg",
+				"date": "2025-12-02",
+				"description": "Game Opening",
+				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/0jtXNUWVOKSuFFYlHNGmvc",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/jp/album/chaos-na-move-de-lovely-no-bug-single/1852160261",
+						"hidden": false
+					},
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/99RGQLxa#-hNo__RWUgpae4w0-HUH9A",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "カオスなムーブでラブリのバグ!?",
+						"duration": "04:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Born Free!",
+						"duration": "03:31",
+						"foundIn": ""
+					},
+					{
+						"name": "カワイィ子の宿命",
+						"duration": "03:49",
+						"foundIn": ""
+					}
+				]
 			}
         ]
 	},
