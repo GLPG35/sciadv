@@ -429,6 +429,24 @@
                 ]
             },
             {
+           		"uuid": "019f5907-d115-7000-a67f-2479795b38fb",
+            	"title": "Science Adventure Maniacs",
+            	"date": "2010-12-17",
+            	"essential": true,
+            	"notRecommended": false,
+            	"incomplete": true,
+            	"type": "book",
+            	"urls": [
+             		{
+            			"name": "[PDF] (Sólo en japonés)",
+            			"url": "https://archive.org/details/maniacs_202504/Maniacs/"
+               		}
+             	],
+              	"notes": [
+            		"Un libro de arte para CHAOS;HEAD NOAH, CHAOS;HEAD Love Chu☆Chu! y STEINS;GATE que incluye comentarios de los desarrolladores así como hechos y lore exclusivo que no puede encontrarse dentro del juego."
+               	]
+            },
+            {
                 "uuid": "019ef96c-52a8-7017-b75a-02bff536f5ae",
                 "title": "STEINS;GATE",
                 "date": "2011-04-06",
