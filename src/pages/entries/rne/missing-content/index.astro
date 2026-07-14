@@ -1,0 +1,340 @@
+---
+import Layout from '../../../../layouts/Layout.astro'
+import entries from '../../../../utils/entries.json'
+import GalleryContainer from '../../../../components/GalleryContainer'
+import './styles.scss'
+
+const entry = entries.find(x => x.name == 'rne')
+
+if (!entry) return Astro.redirect('/404')
+
+const screenshots = [
+	[
+		[
+			'/screenshots/rne/missing/aki_pissed.avif',
+			'/screenshots/rne/missing/aki_pissed.webp',
+			'/screenshots/rne/missing/aki_pissed.png'
+		],
+		'visible'
+	],
+	[
+		[
+			'/screenshots/rne/missing/aki_pissed_og.avif',
+			'/screenshots/rne/missing/aki_pissed_og.webp',
+			'/screenshots/rne/missing/aki_pissed_og.png'
+		],
+		'visible'
+	],
+	[
+		[
+			'/screenshots/rne/missing/aki_surprised.avif',
+			'/screenshots/rne/missing/aki_surprised.webp',
+			'/screenshots/rne/missing/aki_surprised.jpg'
+		],
+		'visible'
+	],
+	[
+		[
+			'/screenshots/rne/missing/aki_surprised_og.avif',
+			'/screenshots/rne/missing/aki_surprised_og.webp',
+			'/screenshots/rne/missing/aki_surprised_og.png'
+		],
+		'visible'
+	],
+	[
+		[
+			'/screenshots/rne/missing/aki_angry.avif',
+			'/screenshots/rne/missing/aki_angry.webp',
+			'/screenshots/rne/missing/aki_angry.png'
+		],
+		'hidden'
+	],
+	[
+		[
+			'/screenshots/rne/missing/aki_angry_og.avif',
+			'/screenshots/rne/missing/aki_angry_og.webp',
+			'/screenshots/rne/missing/aki_angry_og.png'
+		],
+		'hidden'
+	],
+	[
+		[
+			'/screenshots/rne/missing/menu.avif',
+			'/screenshots/rne/missing/menu.webp',
+			'/screenshots/rne/missing/menu.png'
+		],
+		'visible'
+	],
+	[
+		[
+			'/screenshots/rne/missing/menu_og.avif',
+			'/screenshots/rne/missing/menu_og.webp',
+			'/screenshots/rne/missing/menu_og.png'
+		],
+		'visible'
+	]
+]
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="SciADV Series" />
+		<link rel="manifest" href="/favicon/site.webmanifest" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>SciADV Series - {entry.title} Missing Content</title>
+		<meta name="description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content={`SciADV Series - ${entry.title} Missing Content`} />
+		<meta property="og:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="og:url" content="https://sciadvseri.es/" />
+		<meta property="og:image" content={`https://sciadvseri.es${entry.cardOg}`} />
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://sciadvseri.es/" />
+		<meta property="twitter:title" content={`SciADV Series - ${entry.title} Missing Content`} />
+		<meta property="twitter:description" content={entry.epigraph || "Is the scenery your eyes perceive truly real?"} />
+		<meta property="twitter:image" content={`https://sciadvseri.es${entry.card}`} />
+	</head>
+	<body>
+		<Layout>
+			<div class="missingContent">
+				<section>
+					<h2>ROBOTICS;NOTES ELITE Missing Content</h2>
+					<p>This section includes some content cut from ROBOTICS;NOTES ELITE. To avoid spoilers, please read this after completing the game.</p>
+				</section>
+				<div class="section">
+					<h3>Missing facial expressions</h3>
+					<GalleryContainer gallery={screenshots.slice(0, 2)} title='ELITE vs OG' spoilerText={['(Show spoilers)', '(Hide spoilers)']} client:idle />
+					<GalleryContainer gallery={screenshots.slice(2, 4)} title='ELITE vs OG' spoilerText={['(Show spoilers)', '(Hide spoilers)']} client:idle />
+					<GalleryContainer gallery={screenshots.slice(4, 6)} title='ELITE vs OG' spoilerText={['(Show spoilers)', '(Hide spoilers)']} client:idle />
+					<p>As you can see, the expressions differ quite a lot. Even if some of them were changed for the better, they limited the models to fewer facial expressions, changing the whole vibe of some scenes for the worse, especially the ones around Aki.</p>
+					<p>It's also worth noting that the UI changed for the worse as well. In the original you were able to use the PokeCom as an actual device that interacts with the world around you, making everything more immersive. In the PS Vita version of the game, they changed the UI to adapt the game to the small screen of the console. Due to a bad and lazy port to PC, they never changed it back to the original.</p>
+					<p>Another small example of the changes to the UI can be seen in the main menu, where the PC and Switch versions of the game received the zoomed version made for the PS Vita, instead of the original menu made for bigger screens.</p>
+					<GalleryContainer gallery={screenshots.slice(6, 8)} title='ELITE vs OG' spoilerText={['(Show spoilers)', '(Hide spoilers)']} client:idle />
+				</div>
+				<div class="section">
+					<h3>Missing dialogues</h3>
+					<p>This game has a lot of missing dialogue, which was allegedly cut to "improve pacing", but that's not completely true.</p>
+					<p>One of the biggest changes comes from Phases 01 and 12. The former is missing a couple of lines, and the latter lacks a whole scene, with both scenes being quite essential to the plot.</p>
+					<p>My sincere thanks to <a href="https://discordapp.com/users/210126588786901003" target="_blank">Rigs (841.exe)</a> for translating the scripts of the original ROBOTICS;NOTES, including the ones available below.</p>
+					<p>If you want to read them, beware of spoilers for the whole game. Don't read any further until you have completed the game.</p>
+					<div class="script">
+						<details>
+							<summary>
+								Phase 01 (spoilers)
+							</summary>
+							<div class="content">
+								<span>Bold part is exclusive to the OG game.</span>
+								<ul class="text">
+									<li>Kaito: “Oil stains are tough to wash out.”</li>
+									<li>Akiho: “I don’t mind. They’re like badges of honor♪”</li>
+									<li>Kaito: “Huh. There really is something off about you, Aki-chan. There aren’t many high school girls who would say that.”</li>
+									<li>Akiho: “And that’s... that.”</li>
+									<li>Looks like she’s finished.</li>
+									<li>Akiho comes crawling out.</li>
+									<li>She brushes off her dirty uniform with her hands.</li>
+									<li>Akiho: “Checks are done.”</li>
+									<li>Kaito: “Rad.”</li>
+									<li>She tucks away her penlight. She was probably just checking to make sure everything is still in order.</li>
+									<li>Akiho: “So, what’s so off about me?”</li>
+									<li>Kaito: “There aren’t many high school girls who would refer to oil stains as badges of honor.”</li>
+									<li>Akiho: “C’mon, you make it sound like a bad thing... Not that I’m not aware of it. Hehe.”</li>
+									<li>Kaito: “I gotta hand it to you. It’s pretty amazing that you admit you’re weird.”</li>
+									<li>Akiho: “And you wouldn’t admit that about yourself, Kai?”</li>
+									<li>Kaito: “My gaming skills are abnormal, but I think I’m pretty ordinary in every other way.”</li>
+									<li>Akiho: “Oh, please. You’re already a pretty big weirdo considering all you care about is gaming♪”</li>
+									<li>Despite the self-deprecation, Akiho’s eyes are twinkling as she grasps my hand. The perfect picture of a friendship between two dudes.</li>
+									<li>Her hand is sticky with oil, but she doesn’t seem to care in the slightest. Akiho then starts nodding like she agrees with herself.</li>
+									<li><b>Akiho: “Then waddya say we weirdos of a feather who flock together finally join hands for the sake of the club? Sound like a plan?”</b></li>
+									<li><b>Kaito: “Gonna elaborate on that?”</b></li>
+									<li><b>Akiho: “How do you feel about doing next month’s oil change?”</b></li>
+									<li><b>Kaito: “Beat me in a match, and sure.”</b></li>
+									<li><b>Akiho: “Guess I shouldn’t have gotten my hopes up...”</b></li>
+									<li><b>Kaito: “Makes more sense to wash my hands than join them right now, is all.”</b></li>
+									<li><b>Akiho: “A-Ah...”</b></li>
+									<li><b>Finally noticing her own filthy hand, she at last lets me go.</b></li>
+									<li>After washing our hands, we close the garage shutters and lock up.</li>
+									<li>Since there are no streetlights near the abandoned airport, it turns pitch black at night.</li>
+									<li>Which is precisely why we need to leave before that happens.</li>
+									<li>Akiho: “By the way...”</li>
+									<li>As we walk, Akiho suddenly pulls out her PokeCom.</li>
+									<li>The Phink plushie attached to it swings back and forth. Its color has darkened considerably, and it only takes a glance to see it’s because of oil.</li>
+								</ul>
+							</div>
+						</details>
+					</div>
+					<div class="script">
+						<details>
+							<summary>Phase 12 (spoilers)</summary>
+							<div class="content">
+								<ul class="text">
+									<li>Entering the clubroom now, she gulps down half a liter of Skal in a single go.</li>
+									<li>Akiho: “Pheeeew-ieee!”</li>
+									<li>I feel relief wash over me at seeing my childhood friend like this. The tension from earlier is all gone now, so if anything, I'm just a bit worn out.</li>
+									<li>Things have been so insane lately.</li>
+									<li>I can only call it a miracle that I'm even able to see this kind of look on her face.</li>
+									<li>Kaito: “Hey, let me see your hands.”</li>
+									<li>Akiho: “What for? They're totally covered in oil, you know. In fact, no matter how much soap I go through, it just doesn't come off, ehehe...”</li>
+									<li>Kaito: “Come on, just do it.”</li>
+									<li>She reaches out a hand toward me.</li>
+									<li>I tightly clasp it with both my hands.</li>
+									<li>Akiho: “K-Kai? Is everything all right?”</li>
+									<li>Kaito: “Yeah, I'm fine.”</li>
+									<li>Her warmth helps me recover some peace of mind.</li>
+									<li>She doesn't look too good right about now.</li>
+									<li>I get the feeling she could collapse at any moment.</li>
+									<li>Kaito: “Aren't you cold wearing that?”</li>
+									<li>Akiho: “I'm super fired up right now, so I'll be fine.”</li>
+									<li>Akiho: “And besides, it's a bit hot in the clubroom.”</li>
+									<li>Kaito: “I guess.”</li>
+									<li>It makes sense that taking shelter from the wind means you won't actually be that cold.</li>
+									<li>You could wear a t-shirt and shorts during the winter and it would be fine under light wind and decent weather.</li>
+									<li>Akiho: “So, you wanted to talk?”</li>
+									<li>Kaito: “I do, yeah.”</li>
+									<li>I look toward the knapsack atop the desk.</li>
+									<li>Trying to bring it closer to me, I begin to loosen my grip on Akiho's hands...</li>
+									<li>...but she doesn't let me. In fact, I can feel her grip tightening.</li>
+									<li>Kaito: “Aki?”</li>
+									<li>Akiho: “Hey...”</li>
+									<li>Akiho: “Can we stay like this?”</li>
+									<li>Kaito: “Well, not exactly, but...”</li>
+									<li>I need both hands so I can carefully take the device out.</li>
+									<li>Akiho: “Not exactly...?”</li>
+									<li>Kaito: “It's fine, I guess.”</li>
+									<li>Though I'm grateful it turned out this way.</li>
+									<li>Kaito: “Holding hands like this is so soothing.”</li>
+									<li>Akiho: “...You feel that way too?”</li>
+									<li>Akiho: “Ehehe, so do I.”</li>
+									<li>Akiho: “When we were kids, we used to hold hands on our way to school all the time. That really brings me back.”</li>
+									<li>Kaito: “Going to school, we only had each other.”</li>
+									<li>It used to be that when I was with Akiho and Misa, Misa would be between us and Akiho would hold her hand from the right.</li>
+									<li>But with Misa being a few years older than us, she was in high school already. She'd take her scooter and be off, totally separate from us.</li>
+									<li>That's how I wound up holding hands with Akiho.</li>
+									<li>Akiho: “Outside of that, it was rare that it was ever just the two of us.”</li>
+									<li>Akiho: “And once my sister left the island, it only was just us two.”</li>
+									<li>Kaito: “Aki, are you sure you're all right?”</li>
+									<li>Kaito: “Are you sure you can fight Misa?”</li>
+									<li>Akiho: “If you're by my side...”</li>
+									<li>Akiho: “...I'll be perfectly all right.”</li>
+									<li>Everything becomes still.</li>
+									<li>Her eyes and mine simply stare into each other.</li>
+									<li>Akiho: “Kai...”</li>
+									<li>Kaito: “Yeah...?”</li>
+									<li>Akiho: “Umm...”</li>
+									<li>Kaito: “Yeah?”</li>
+									<li>Akiho: “I, uh...”</li>
+									<li>Kaito: “...”</li>
+									<li>Akiho: “Erm...”</li>
+									<li>Kaito: “...”</li>
+									<li>Akiho: “Ehm, uh...”</li>
+									<li>Akiho: “I just...”</li>
+									<li>Akiho: “Mrrrmm...”</li>
+									<li>Akiho: “...You big jerk!”</li>
+									<li>Kaito: “Whoa!”</li>
+									<li>Akiho for whatever reason frees her hand from my grasp and begins ruffling my hair like no tomorrow.</li>
+									<li>Kaito: “What was that for...?”</li>
+									<li>Akiho: “Y-You just had to go and put some crazy delusions in my head... How could I NOT just lose it?!”</li>
+									<li>Akiho: “So, um... your head was target practice for getting rid of my worldy desires!”</li>
+									<li>Kaito: “I really don't follow...”</li>
+									<li>Not that it matters all that much.</li>
+									<li>After I mentally regroup and bring the knapsack closer, I pull out the remote for the EM irradiation device.</li>
+									<li>Kaito: “I asked for you because I have something I'd like to try and I need your help to do it.”</li>
+									<li>I hand Akiho the remote.</li>
+									<li>Akiho: “What is it?”</li>
+									<li>Kaito: “Pulled straight from our enemy's secret toolshed”</li>
+									<li>Kaito: “And now it's ours to use.”</li>
+									<li>A frown grows on her face as she glimpses into the knapsack.</li>
+									<li>Akiho: “We shouldn't use this. It's a superweapon of evil.”</li>
+									<li>Kaito: “Isn't it standard procedure in mecha anime to use the enemy's weapons for yourself?”</li>
+									<li>Akiho: “Well, I suppose. Like in Z Gunbam or Gunbam SEED, Gunbam is stolen in the very first episode.”</li>
+									<li>Kaito: “Yeah, like that.”</li>
+									<li>Akiho: “Hmm... I don't think I can agree to this.”</li>
+									<li>Kaito: “Whether you agree with it or not isn't really the point at the moment.”</li>
+									<li>Kaito: “I just wanna test if I can use it in a real fight.”</li>
+									<li>Kaito: “Pressing the button on the remote will start it up, so will you back up a bit and press it for me?”</li>
+									<li>Akiho: “Are you turning yourself into your own guinea pig?”</li>
+									<li>Kaito: “If I don't, I'll never know how effective this is.”</li>
+									<li>Akiho: “And you're sure this is fine?”</li>
+									<li>Kaito: “Of course, not a worry on my end. I'm taking a bit of a break right now, anyhow.”</li>
+									<li>Kaito: “But I need you to stay back.”</li>
+									<li>Kaito: “If we both hallucinate from this, there's no telling what might happen.”</li>
+									<li>Akiho: “Only for a moment, okay?”</li>
+									<li>Reluctance dyes her face as she leaves the clubroom.</li>
+									<li>She crosses the courtyard and enters the classroom for the information processing course right across from the clubroom.</li>
+									<li>With a majority of evacuees being in the gym, this place should be ideal for running any tests.</li>
+									<li>Akiho gets in position and I give a wave of my hand to signal her.</li>
+									<li>Now then... let's see what happens.</li>
+									<li>Akiho: “T-Minus: 3! 2! 1!”</li>
+									<li>Akiho: “Switch activated!”</li>
+									<li>Kaito: “...!”</li>
+									<li>The world suddenly becomes heavy.</li>
+									<li>I can hardly breathe, and whenever I try to breathe, my body doesn't respond.</li>
+									<li>I've experienced this feeling more times than I can count.</li>
+									<li>Slo-mo.</li>
+									<li>An attack.</li>
+									<li>I try to look outside the clubroom.</li>
+									<li>But even that takes eons.</li>
+									<li>My body moves sluggishly and my very will starts to lag.</li>
+									<li>Outside the clubroom...</li>
+									<li>I can see that favorite tree of mine in the courtyard, swaying ever so gently in the wind.</li>
+									<li>But why?</li>
+									<li>Rather than hallucinating, I'm having an attack. Why?</li>
+									<li>There wasn't a single clue I'd have one.</li>
+									<li>I'd been resting, so it isn't like my body is failing.</li>
+									<li>I can't breathe.</li>
+									<li>It almost feels like my brain is going numb.</li>
+									<li>Sensation at the tips of my hands and feet begins to fade.</li>
+									<li>Hurry up...</li>
+									<li>Hurry up and end already.</li>
+									<li>It hurts so much. I want to breathe so badly.</li>
+									<li>Kaito: “Gaaahh...!”</li>
+									<li>Sound returns to the world.</li>
+									<li>My body loses its weight and begins to move freely once more.</li>
+									<li>Kaito: “Gahh... Gahh...!”</li>
+									<li>I desperately gasp over and over, taking in as much air as I can.</li>
+									<li>It was only three seconds in reality, so it isn't like I'd suffocate.</li>
+									<li>But that doesn't stop my brain every single time from parsing the feeling as absolute suffocation.</li>
+									<li>My heart beats out of my chest and my body feels consumed by flames, as if my blood vessels were filled with magma.</li>
+									<li>What then awaits me is a feeling of sluggishness that just completely assails my body.</li>
+									<li>The fatigue after an attack like this is no laughing matter.</li>
+									<li>It feels like lactic acid buildup after consecutive hours of working out.</li>
+									<li>I can't take even a single step thanks to that.</li>
+									<li>Akiho: “Kai...?”</li>
+									<li>Akiho returns and shakes me by the shoulders.</li>
+									<li>Akiho: “Hey, is something wrong? What happened?”</li>
+									<li>Kaito: “Hahh... Hahh...”</li>
+									<li>Akiho: “Are you having an attack?”</li>
+									<li>I barely manage a weak nod in her direction.</li>
+									<li>Akiho: “It can't be... Not right now...”</li>
+									<li>She instantly moves with incredible swiftness.</li>
+									<li>It helps that we've always been the ones to take care of each other.</li>
+									<li>She rapidly pushes the stool out of the way, sets me on the floor, and props me up in her lap.</li>
+									<li>About ten minutes of rest like this should fix me right up.</li>
+									<li>Akiho: “Maybe it was the device?”</li>
+									<li>Akiho: “I still think it's a bad idea to use it...”</li>
+									<li>She rests a hand on my forehead.</li>
+									<li>Her cold hand feels pleasant there.</li>
+									<li>Still, I can't explain what happened.</li>
+									<li>I had an attack instead of hallucinating.</li>
+									<li>But what if I use it on someone other than myself or Akiho? Instead of an attack, will they have hallucinations?</li>
+									<li>Furthermore, I have no clue of the effective range.</li>
+									<li>And on top of that, even if I do manage to show anyone hallucinations, I have no clue what kind I'd show or how to even specify what to show.</li>
+									<li>There are too many unknown variables that complicate any chance of this being a viable strategy.</li>
+									<li>...Actually, I think I know exactly what I can use it for.</li>
+								</ul>
+							</div>
+						</details>
+					</div>
+					<p>There are also multiple instances of the game removing lines from the script to "soften" our perception of Kaito. These are very minor changes that don't really affect the story, unlike the ones previously mentioned.</p>
+				</div>
+			</div>
+		</Layout>
+	</body>
+</html>
