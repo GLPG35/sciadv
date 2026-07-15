@@ -1,0 +1,11 @@
+---
+import { getLangFromUrl, useTranslations } from '../../i18n/utils'
+
+const currentLang = getLangFromUrl(Astro.url)
+const t = useTranslations(currentLang)
+---
+
+<footer>
+	<span>&copy; 2026 Gian Luca Porto</span>
+	<span>{t('footer.disclaimer')}</span>
+</footer>

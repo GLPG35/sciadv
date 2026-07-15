@@ -1,6 +1,9 @@
 .entries {
-	padding: 2em;
-	padding-top: 7em;
+	padding: 8em 5em 5em 5em;
+
+	@media (width < 950px) {
+		padding: 7em 2em 5em 2em;
+	}
 	
 	.timeline {
 		display: grid;

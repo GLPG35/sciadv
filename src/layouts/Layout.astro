@@ -1,6 +1,7 @@
 ---
 import { ClientRouter } from 'astro:transitions'
 import Header from '../components/Header/index.astro'
+import Footer from '../components/Footer/index.astro'
 import '../global.scss'
 import './styles.scss'
 ---
@@ -9,5 +10,6 @@ import './styles.scss'
 <main>
 	<slot />
 </main>
+<Footer />
 
 <ClientRouter />

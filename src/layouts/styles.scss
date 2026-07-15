@@ -2,3 +2,17 @@
 	width: 100%;
 	min-height: calc(100dvh - 5em);
 }
+
+footer {
+	width: 100%;
+	padding: 2.5em 5em;
+	display: flex;
+	justify-content: space-between;
+	font-weight: 380;
+	gap: 1em;
+
+	@media (width < 950px) {
+		padding: 1.5em 2em;
+		flex-direction: column;
+	}
+}
