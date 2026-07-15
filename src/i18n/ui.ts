@@ -24,6 +24,6 @@ export const ui = {
 		'nav.music': 'Música',
 		'nav.password': 'Insertar fórmula',
 		'nav.passwordError': 'Fórmula incorrecta',
-		'footer.disclaimer': 'Este sitio no está afiliado a 5pb./MAGES o con Chiyomaru Studio. Todos los derechos pertenecen a sus respectivos propietarios.'
+		'footer.disclaimer': 'Este sitio no está afiliado a 5pb./MAGES ni a Chiyomaru Studio. Todos los derechos pertenecen a sus respectivos propietarios.'
 	}
 } as const
