@@ -105,6 +105,12 @@
 					"The original CHAOS;HEAD came out earlier than expected, mostly because 5pb. (MAGES' predecessor) lacked the funds to make the game they originally planned.",
 					"As a result, they released a scaled-down version to raise money so they could deliver the full experience later. That complete version is CHAOS;HEAD NOAH."
 				]
+			},
+			{
+				"question": "I watched the anime first, how screwed am I?",
+				"answer": [
+					"Even though it's ideal to play and watch the entries in order, you still need to play the CHAOS;HEAD visual novel if you've seen the anime. The anime is utterly incomplete and very short, so your experience playing the visual novel will be superior in every way."
+				]
 			}
 		]
 	},
@@ -223,7 +229,7 @@
 			{
 				"question": "I watched the anime first, how screwed am I?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, if you have watched the STEINS;GATE anime, you still need to play the visual novel anyway. It provides crucial information not present in the anime, especially details that connect it with the rest of the <em>Science Adventure Series</em>."
+					"Even though it's ideal to play and watch the entries in order, you should still play the STEINS;GATE visual novel even if you've seen the anime. It provides crucial information not present in the anime adaptation, especially details that connect it to the rest of the <em>Science Adventure Series</em>."
 				]
 			}
 		]
@@ -624,6 +630,12 @@
 					"The ELITE version adds new anime cinematics for some key moments where the original CGs fell short. It also adds new lines throughout the script and fixes some typos, while removing other lines to improve pacing. The 3D models were improved, though some facial expressions didn't make the final cut.",
 					"Sadly, the ELITE version cut some important content from the first and last phases of the game, which affected character development. You probably won't notice it unless someone points it out to you, but there are plans for a future patch to restore that missing content. In case you want to read it after finishing the game, you can <a href='/entries/rne/missing-content'>do so here</a>."
 				]
+			},
+			{
+				"question": "I watched the anime first, how screwed am I?",
+				"answer": [
+					"Even though it's ideal to play and watch the entries in order, you still need to play the ROBOTICS;NOTES visual novel if you've seen the anime. The anime is not a perfect adaptation, and some characters suffer from mischaracterization, so your experience playing the visual novel will be superior in every way."
+				]
 			}
 		]
 	},
@@ -815,6 +827,12 @@
 					"If you need to install this patch on Linux or your Steam Deck, follow the steps <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicated here</a>.",
 					"In case you encounter any issues, check the <a href='https://sonome.dareno.me/projects/chaoschild-steam.html#troubleshooting' target='_blank'>troubleshooting section</a> in CoZ's website, and check <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>this page</a> if you are having issues with the Linux installer."
 				]
+			},
+			{
+				"question": "I watched the anime first, how screwed am I?",
+				"answer": [
+					"Even though it's ideal to play and watch the entries in order, you still need to play the CHAOS;CHILD visual novel if you've seen the anime. The anime is far from a good adaptation, as it was rushed and lacks proper character development and world-building, so your experience playing the visual novel will be superior in every way."
+				]
 			}
 		]
 	},
@@ -926,7 +944,7 @@
 			{
 				"question": "I watched the anime first, how screwed am I?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, if you have watched the STEINS;GATE 0 anime, you still need to play the visual novel anyway. It provides crucial information not present in the anime, especially details from other routes.",
+					"Even though it's ideal to play and watch the entries in order, you still need to play the STEINS;GATE 0 visual novel if you've seen the anime. It provides crucial information not present in the anime, especially details from other routes.",
 					"If you watched the STEINS;GATE 0 anime before playing the original STEINS;GATE, you might be kinda screwed, but I still recommend just following the release order for the games."
 				]
 			}

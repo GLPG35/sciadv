@@ -2,7 +2,7 @@
 	padding: 8em 5em 5em 5em;
 
 	@media (width < 950px) {
-		padding: 7em 2em 5em 2em;
+		padding: 7em 2em 2em 2em;
 	}
 	
 	.timeline {
@@ -10,7 +10,6 @@
 		grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
 		grid-auto-rows: max-content;
 		gap: 4em;
-		padding-bottom: 2em;
 
 		.entry {
 			width: 100%;

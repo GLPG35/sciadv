@@ -105,6 +105,12 @@
 					"El CHAOS;HEAD original salió antes de lo esperado, más que nada porque 5pb. (predecesor de MAGES) no tenía el presupuesto suficiente para hacer el juego que originalmente tenían planeado.",
 					"Como resultado, lanzaron una versión con menos contenido para recaudar dinero, para así poder brindar la experiencia completa más adelante. Esa versión completa es CHAOS;HEAD NOAH."
 				]
+			},
+			{
+				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"answer": [
+					"A pesar de que lo ideal es jugar y ver las entregas en orden, de todas formas necesitas jugar la novela visual de CHAOS;HEAD si ya viste el anime. Este último está totalmente incompleto y es muy corto, por lo que tu experiencia jugando la novela visual será infinitamente superior."
+				]
 			}
 		]
 	},
@@ -223,7 +229,7 @@
 			{
 				"question": "Miré el anime primero, ¿qué tan mal estoy?",
 				"answer": [
-					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE, tienes que jugar la novela visual de todas formas. La misma provee información crucial que no está presente en el anime, especialmente detalles que la conectan con el resto de la <em>Science Adventure Series</em>."
+					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE, tienes que jugar la novela visual de todas formas. Esta última provee información crucial que no está presente en el anime, especialmente detalles que la conectan con el resto de la <em>Science Adventure Series</em>."
 				]
 			}
 		]
@@ -624,6 +630,12 @@
 					"La versión ELITE añade nuevas cinemáticas animadas para algunos momentos clave en los que los CGs originales no alcanzaban. También añade nuevas líneas a lo largo del guion y arregla algunas faltas de ortografía, a su vez eliminando otras líneas para mejorar el ritmo. Los modelos 3D fueron mejorados, aunque algunas expresiones faciales no llegaron a la versión definitiva.",
 					"Tristemente, la versión ELITE elimina un poco de contenido importante de la primera y última fase del juego, lo cual afectó el desarrollo de personajes. Probablemente no te des cuenta a menos que alguien te lo indique, aunque hay planes para un futuro parche que restaure ese contenido faltante. En el caso de que quieras leerlo después de terminar el juego, puedes <a href='/es/entries/rne/missing-content'>hacerlo aquí</a>."
 				]
+			},
+			{
+				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"answer": [
+					"A pesar de que lo ideal es jugar y ver las entregas en orden, de todas formas necesitas jugar la novela visual de ROBOTICS;NOTES si ya viste el anime. Este último no es una adaptación perfecta, y algunos personajes sufren de una mala caracterización, por lo que tu experiencia jugando la novela visual será infinitamente superior."
+				]
 			}
 		]
 	},
@@ -815,6 +827,12 @@
 					"Si necesitas instalar este parche en Linux o en tu Steam Deck, sigue los pasos <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher' target='_blank'>indicados aquí</a>.",
 					"En caso de que tengas algún inconveniente, chequea la <a href='https://sonome.dareno.me/projects/chaoschild-steam.html#troubleshooting' target='_blank'>sección de resolución de problemas</a> en el sitio de CoZ, y chequea <a href='https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher/blob/main/docs/TROUBLESHOOTING.md' target='_blank'>esta página</a> si estás teniendo problemas con el instalador de Linux."
 				]
+			},
+			{
+				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"answer": [
+					"A pesar de que lo ideal es jugar y ver las entregas en orden, de todas formas necesitas jugar la novela visual de CHAOS;CHILD si ya viste el anime. Este último está lejos de ser una buena adaptación, ya que fue una producción apresurada y carece de una buena evolución de personajes y construcción de mundo, por lo que tu experiencia jugando la novela visual será infinitamente superior."
+				]
 			}
 		]
 	},
@@ -926,8 +944,8 @@
 			{
 				"question": "Miré el anime primero, ¿qué tan mal estoy?",
 				"answer": [
-					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE 0, tienes que jugar la novela visual de todas formas. La misma provee información crucial que no está presente en el anime, especialmente detalles de otras rutas.",
-					"Si ya viste el anime de STEINS;GATE 0 antes de jugar el STEINS;GATE original, puede que estés un poco jodido, pero aún así recomiendo simplemente seguir con el orden de lanzamiento de los juegos."
+					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE 0, tienes que jugar la novela visual de todas formas. Esta última provee información crucial que no está presente en el anime, especialmente detalles de otras rutas.",
+					"Si viste el anime de STEINS;GATE 0 antes de jugar al STEINS;GATE original, puede que estés un poco jodido, pero aún así recomiendo simplemente seguir con el orden de lanzamiento de los juegos."
 				]
 			}
 		]
