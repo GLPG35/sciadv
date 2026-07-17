@@ -390,16 +390,6 @@
                     {
                         "name": "[PDF]",
                         "url": "https://dn760003.eu.archive.org/0/items/manga_Steins_Gate_Youen_no_Valhalla/Steins%3BGate%20-%20Youen%20no%20Valhalla.pdf"
-                    },
-                    {
-                        "name": "[EPUB]",
-                        "url": "https://files.catbox.moe/wgob7j.epub",
-                        "external": true,
-                        "externalName": "Steins;Gate - Youen no Valhalla.epub"
-                    },
-                    {
-                        "name": "[EPUB] (Mirror)",
-                        "url": "https://file.garden/afE1MkDycVrE3Bhr/Steins%3BGate%20-%20Youen%20no%20Valhalla.epub"
                     }
                 ]
             },
@@ -1842,7 +1832,7 @@
 	            "title": "Annularly-Chained Ouroboros",
 	            "date": "2010-08-20",
 	            "finishDate": "2011-03-19",
-	            "essential": true,
+	            "essential": false,
 	            "notRecommended": false,
 	            "incomplete": true,
 	            "type": "lightnovel",
@@ -2007,7 +1997,7 @@
                 "uuid": "019ef96c-52a9-704d-aae0-695118e31ba8",
                 "title": "Blended Coffee Encounter",
                 "date": "2018-06-27",
-                "essential": false,
+                "essential": true,
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "dramacd",

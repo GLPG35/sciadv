@@ -2027,7 +2027,7 @@
                 "uuid": "019ef96c-52a9-704d-aae0-695118e31ba8",
                 "title": "Encuentro en torno a un café de mezcla",
                 "date": "2018-06-27",
-                "essential": false,
+                "essential": true,
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "dramacd",
