@@ -142,6 +142,9 @@
                         "name": "[PDF]",
                         "url": "https://ns2c.github.io/assets/gRo9U5kprwiaOq57.pdf"
                     }
+                ],
+                "notes": [
+                	"A short story crossover featuring an appearance from the protagonist of STEINS;GATE. Takes place during Chapter 7: Psychopath."
                 ]
             },
             {
@@ -265,6 +268,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLFiYu_t_gpoR8DlDiNdcoiFyj3X26oNIm"
                     }
+                ],
+                "notes": [
+                	"A drama CD that follows Kurisu during Chapter 10: Paradox Meltdown."
                 ]
             },
             {
@@ -296,6 +302,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=TZk9Y1EiNP4"
                     }
+                ],
+                "notes": [
+                	"A drama CD that takes place in the Beta attractor field, showing a part of how Operation Skuld was made possible."
                 ]
             },
             {
@@ -346,6 +355,9 @@
                         "name": "[MangaDex]",
                         "url": "https://mangadex.org/title/bfecc659-d191-4126-8946-7e0ab082c185/steins-gate-rebellion-of-the-missing-ring"
                     }
+                ],
+                "notes": [
+                	"A manga that follows a part of STEINS;GATE's events from Suzuha's perspective, as well as exploring some of her backstory."
                 ]
             },
             {
@@ -391,6 +403,9 @@
                         "name": "[PDF]",
                         "url": "https://dn760003.eu.archive.org/0/items/manga_Steins_Gate_Youen_no_Valhalla/Steins%3BGate%20-%20Youen%20no%20Valhalla.pdf"
                     }
+                ],
+                "notes": [
+                	"A short story that takes place in the Alpha attractor field, following Okabe and Kurisu after they are captured."
                 ]
             },
             {
@@ -422,6 +437,9 @@
                         "name": "[PDF]",
                         "url": "https://ns2c.github.io/assets/SDBApPBOBD6xkWOk.pdf"
                     }
+                ],
+                "notes": [
+                	"A novella that acts as a direct sequel to the STEINS;GATE visual novel."
                 ]
             },
             {
@@ -439,7 +457,7 @@
                		}
              	],
              	"notes": [
-              		"An artbook for Chaos;Head NoAH, Chaos;Head Love Chu☆Chu! and Steins;Gate that features commentary from the developers as well as exclusive facts and lore that can't be found in-game."
+              		"An artbook for CHAOS;HEAD NOAH, CHAOS;HEAD Love Chu☆Chu! and STEINS;GATE that features commentary from the developers as well as exclusive facts and lore that can't be found in-game."
               	]
             },
             {
@@ -481,6 +499,9 @@
                         "name": "[Arc Relight]",
                         "url": "https://arc-relight.com/reader/braunian-motion/"
                     }
+                ],
+                "notes": [
+                	"A prequel manga that explores the backstory of Mister Braun/Tennouji Yuugo and how he met a certain character..."
                 ]
             },
             {
@@ -620,7 +641,10 @@
 	             	"name": "STEINS;GATE: My Darling's Embrace",
 	              	"link": "/entries/sgmde",
 	               	"type": "play"
-	            }
+	            },
+				"notes": [
+					"A light novel adaptation of STEINS;GATE: My Darling's Embrace that includes some new content."
+				]
             },
             {
                 "uuid": "019ef96c-52a9-7000-b267-b3e5e25dbd80",
@@ -651,7 +675,10 @@
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
-                "hidden": true
+                "hidden": true,
+                "notes": [
+                	"An anime OVA episode that takes place after STEINS;GATE."
+                ]
             },
             {
                 "uuid": "019ef96c-52a9-7002-bb65-8ff33fe74894",
@@ -767,6 +794,9 @@
                         "name": "[MangaDex]",
                         "url": "https://mangadex.org/title/c33b69c1-078e-4a83-9dd3-e4bd76936a68/steins-gate-babel-of-the-grieved-maze"
                     }
+                ],
+                "notes": [
+                	"A manga based off the drama CD with the same name that follows Kurisu during Chapter 10: Paradox Meltdown."
                 ]
             },
             {
@@ -856,7 +886,10 @@
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
-                "hidden": true
+                "hidden": true,
+                "notes": [
+                	"An anime movie that takes place after Egoistic Poriomania."
+                ]
             },
             {
                 "uuid": "019ef96c-52a9-700d-b8ff-2c15406a6f86",
@@ -933,6 +966,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=CEo4IsxRZ0k"
                     }
+                ],
+                "notes": [
+                	"A drama CD that acts as a prequel to Load Region of Déjà Vu."
                 ]
             },
             {
@@ -963,7 +999,10 @@
 	             	"name": "STEINS;GATE: Linear Bounded Phenogram",
 	              	"link": "/entries/sglbp",
 	               	"type": "play"
-	            }
+	            },
+				"notes": [
+					"A light novel adaptation of STEINS;GATE: Linear Bounded Phenogram that includes some new content."
+				]
             },
             {
                 "uuid": "019ef96c-52a9-7013-a3eb-a3c2c63951f1",
@@ -1175,6 +1214,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=xEst-wTZGMU"
                     }
+                ],
+                "notes": [
+                	"A drama CD that takes place during Phase 7: Ionosphere Driver."
                 ]
             },
             {
@@ -1190,6 +1232,9 @@
                         "name": "[PDF]",
                         "url": "https://ns2c.github.io/assets/W3WBOPcjW7QFx4kM.pdf"
                     }
+                ],
+                "notes": [
+                	"A short story that follows Sawada during Phase 9: Exosphere Breaker, as well as exploring some of his backstory."
                 ]
             },
             {
@@ -1283,6 +1328,9 @@
                         "name": "[MangaDex]",
                         "url": "https://mangadex.org/title/9f8b295d-06fd-4be7-bcc6-62c3bf0fe4a0/robotics-notes-senomiya-misaki-no-mihappyou-shuki"
                     }
+                ],
+                "notes": [
+                	"A prequel light novel with a manga adaptation that explores Misaki's backstory."
                 ]
             },
             {
@@ -1298,6 +1346,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=FVoSXe0vBwk"
                     }
+                ],
+                "notes": [
+                	"A drama CD that takes place one week after the events of the ROBOTICS;NOTES anime."
                 ]
             },
             {
@@ -1346,6 +1397,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=lMd1NxIYtxU"
                     }
+                ],
+                "notes": [
+                	"A drama CD that acts as an epilogue to ROBOTICS;NOTES ELITE, and a bridge between it and ROBOTICS;NOTES DaSH."
                 ]
             }
         ]
@@ -1414,6 +1468,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLy_Bwyf7LCb5c73MCP0JRgVd2uovEYRoN"
                     }
+                ],
+                "notes": [
+                	"A drama CD that explores Kunosato Mio's backstory."
                 ]
             },
             {
@@ -1439,6 +1496,9 @@
                         "name": "[PDF]",
                         "url": "https://ns2c.github.io/assets/mZ9iOBaahXHXFsjG.pdf"
                     }
+                ],
+                "notes": [
+                	"A light novel retelling of CHAOS;CHILD from multiple different perspectives, primarily, Kurusu Nono's. Adds several new insights to the original story."
                 ]
             },
             {
@@ -1536,6 +1596,9 @@
                         "name": "[MangaDex]",
                         "url": "https://mangadex.org/title/633efa03-dc62-4543-be42-a8de0a7a8d11/ch-os-child-children-s-collapse"
                     }
+                ],
+                "notes": [
+                	"A prequel manga series that further explores Mio's backstory, as well as her friendship with STEINS;GATE's Makise Kurisu."
                 ]
             },
             {
@@ -1551,6 +1614,9 @@
                         "name": "[PDF]",
                         "url": "https://ns2c.github.io/assets/IX4VVKFnUf4GMskw.pdf"
                     }
+                ],
+                "notes": [
+                	"A short story set between chapters 2 and 3 of Children's Collapse."
                 ]
             },
             {
@@ -1627,7 +1693,10 @@
                 	"name": "CHAOS;CHILD Love Chu☆Chu!!",
                  	"link": "/entries/cclcc",
                  	"type": "play"
-                }
+                },
+                "notes": [
+                	"A light novel set some time after the visual novel that acts as an epilogue for CHAOS;CHILD."
+                ]
             },
             {
                 "uuid": "019ef96c-52a9-703a-a5fd-4b74930f085a",
@@ -1738,6 +1807,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PL1no7IlUs7O8ejQMH-yIdRedAdl_8F-BW"
                     }
+                ],
+                "notes": [
+                	"A drama CD that follows the culprit as they ponder over their motive for committing the Return of the New Generation Madness murders."
                 ]
             },
             {
@@ -1753,6 +1825,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=hqvnm1XmhvI"
                     }
+                ],
+                "notes": [
+                	"A Valentine's Day-themed drama CD that was included with the CHAOS;CHILD: Silent Sky anime OVA DVD and Blu-ray."
                 ]
             },
             {
@@ -1851,6 +1926,9 @@
                         "name": "[PDF]",
                         "url": "https://ns2c.github.io/assets/oENJ5iEioM7aYFT3.pdf"
                     }
+                ],
+                "notes": [
+                	"A short manga that shows how Kurisu and Maho first met."
                 ]
             },
             {
@@ -1866,6 +1944,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=EDMd6_Y9Q8w"
                     }
+                ],
+                "notes": [
+               		"A short audio monologue narrated by Okabe during the events of STEINS;GATE 0."
                 ]
             },
             {
@@ -1881,6 +1962,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=rMGD9QcWBsg"
                     }
+                ],
+                "notes": [
+               		"A short audio monologue narrated by Amadeus during the events of STEINS;GATE 0."
                 ]
             },
             {
@@ -1897,7 +1981,10 @@
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
-                "hidden": true
+                "hidden": true,
+                "notes": [
+                	"An alternate version of Episode 23 of the STEINS;GATE anime adaptation, featuring a different ending that leads into STEINS;GATE 0."
+                ]
             },
             {
                 "uuid": "019ef96c-52a9-7048-ba1c-1b735b66b0ac",
@@ -1912,6 +1999,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=F3BI58ExBDU"
                     }
+                ],
+                "notes": [
+                	"A drama CD made of material from a route that was cut from the visual novel due to time constraints."
                 ]
             },
             {
@@ -1927,6 +2017,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAi9KHRjoHWscQyV2wvffgE"
                     }
+                ],
+                "notes": [
+                	"Part one of a trilogy of drama CDs following the adventures of Daru and his family on the Steins Gate worldline, set long after the events of the original STEINS;GATE."
                 ]
             },
             {
@@ -1991,6 +2084,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAUV1dEv37A73qrJ_lH5p0L"
                     }
+                ],
+                "notes": [
+                	"Part two of a trilogy of drama CDs following the adventures of Daru and his family on the Steins Gate worldline, set long after the events of the original STEINS;GATE."
                 ]
             },
             {
@@ -2006,6 +2102,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTCfcdhf4jmpkC4CzowMA1hC"
                     }
+                ],
+                "notes": [
+                	"A drama CD set after the Christmas party in STEINS;GATE 0, showing how Kurisu and Maho first met."
                 ]
             },
             {
@@ -2021,6 +2120,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTCtfeiMACB9iPMx_m5jhxnO"
                     }
+                ],
+                "notes": [
+                	"Part three of a trilogy of drama CDs following the adventures of Daru and his family on the Steins Gate worldline, set long after the events of the original STEINS;GATE."
                 ]
             },
             {
@@ -2051,6 +2153,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=RjuKYPax7iA"
                     }
+                ],
+                "notes": [
+               		"A short audio monologue narrated by Kurisu during the events of STEINS;GATE 0."
                 ]
             },
             {
@@ -2066,6 +2171,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=YRaYBPc4E94"
                     }
+                ],
+                "notes": [
+               		"A short audio monologue narrated by Mayuri during the events of STEINS;GATE 0."
                 ]
             },
             {
@@ -2081,6 +2189,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTA3t7sH-LiLnw2xMR6HWOC8"
                     }
+                ],
+                "notes": [
+                	"A drama CD that follows the formation of Okabe's Valkyrie group, set in between episodes 19 and 20 of the STEINS;GATE 0 anime."
                 ]
             },
             {
@@ -2097,7 +2208,10 @@
                         "url": "magnet:?xt=urn:btih:05ba2e0ed4bf46f49bbb555e38e047b8f811ee4e&dn=%5BArid%5D%20Steins%3BGate%20Complete%20Collection%20%5BDual-Audio%5D%5BBD%201080p%20FLAC%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce"
                     }
                 ],
-                "hidden": true
+                "hidden": true,
+                "notes": [
+               		"An anime OVA episode that takes place during Valentine's Day in the STEINS;GATE 0 anime."
+                ]
             }
         ]
     },
@@ -2126,6 +2240,9 @@
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/watch?v=FY5JaPFLz44"
                     }
+                ],
+                "notes": [
+                	"A short audio monologue narrated by Akiho, set a few months after the events of ROBOTICS;NOTES ELITE. Intended to be listened to before starting ROBOTICS;NOTES DaSH."
                 ]
             }
         ]

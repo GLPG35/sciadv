@@ -301,7 +301,7 @@
 				"question": "¿Cuándo habrá un parche para este juego?",
 				"answer": [
 					"El Committee of Zero está trabajando arduamente en un port y parche para este juego.",
-					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso. Estará disponible para Windows, Mac, Linux, Android, PS Vita y Nintendo Switch."
+					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso, con una ventana de lanzamiento para finales de 2026. Estará disponible para Windows, Mac, Linux, Android y Nintendo Switch."
 				]
 			}
 		]
@@ -1231,7 +1231,7 @@
 				"question": "¿Cuándo habrá un parche para este juego?",
 				"answer": [
 					"El Committee of Zero está trabajando arduamente en un port y parche para este juego.",
-					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso. Estará disponible para Windows, Mac, Linux, Android, PS Vita y Nintendo Switch."
+					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso, con una ventana de lanzamiento para finales de 2026. Estará disponible para Windows, Mac, Linux, Android y Nintendo Switch."
 				]
 			}
 		]
