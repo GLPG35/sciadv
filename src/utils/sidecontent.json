@@ -144,7 +144,7 @@
                     }
                 ],
                 "notes": [
-                	"A short story crossover featuring an appearance from the protagonist of STEINS;GATE. Takes place during Chapter 7: Psychopath."
+                	"A short story crossover between CHAOS;HEAD and STEINS;GATE. Takes place during Chapter 7: Psychopath."
                 ]
             },
             {
@@ -304,7 +304,7 @@
                     }
                 ],
                 "notes": [
-                	"A drama CD that takes place in the Beta attractor field, showing a part of how Operation Skuld was made possible."
+                	"A drama CD that takes place in the Beta attractor field, showing a part of how Operation Skuld was made possible, later adapted into STEINS;GATE 0."
                 ]
             },
             {
@@ -796,7 +796,7 @@
                     }
                 ],
                 "notes": [
-                	"A manga based off the drama CD with the same name that follows Kurisu during Chapter 10: Paradox Meltdown."
+                	"A manga based off the drama CD with the same name that follows Kurisu during Chapter 10: Paradox Meltdown. Includes some extra content not available in the original drama CD."
                 ]
             },
             {
@@ -1330,7 +1330,7 @@
                     }
                 ],
                 "notes": [
-                	"A prequel light novel with a manga adaptation that explores Misaki's backstory."
+                	"A prequel manga adaptation of the light novel of the same name that explores Misaki's backstory."
                 ]
             },
             {
@@ -1598,7 +1598,7 @@
                     }
                 ],
                 "notes": [
-                	"A prequel manga series that further explores Mio's backstory, as well as her friendship with STEINS;GATE's Makise Kurisu."
+                	"A prequel manga series that further explores Mio's backstory, as well as her friendship with a certain someone from STEINS;GATE."
                 ]
             },
             {
@@ -1617,6 +1617,36 @@
                 ],
                 "notes": [
                 	"A short story set between chapters 2 and 3 of Children's Collapse."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7042-b08b-51297198bb6e",
+                "title": "Maid in Uki",
+                "date": "2017-02-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF]",
+                        "url": "https://ns2c.github.io/assets/OJnZM1T6kyrXoXYz.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7043-957a-a9f7dee93af9",
+                "title": "Chaos;Sister",
+                "date": "2017-02-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF]",
+                        "url": "https://ns2c.github.io/assets/R1epG16UxyroIegg.pdf"
+                    }
                 ]
             },
             {
@@ -1827,37 +1857,7 @@
                     }
                 ],
                 "notes": [
-                	"A Valentine's Day-themed drama CD that was included with the CHAOS;CHILD: Silent Sky anime OVA DVD and Blu-ray."
-                ]
-            },
-            {
-                "uuid": "019ef96c-52a9-7042-b08b-51297198bb6e",
-                "title": "Maid in Uki",
-                "date": "2019-01-23",
-                "essential": false,
-                "notRecommended": false,
-                "incomplete": false,
-                "type": "manga",
-                "urls": [
-                    {
-                        "name": "[PDF]",
-                        "url": "https://ns2c.github.io/assets/OJnZM1T6kyrXoXYz.pdf"
-                    }
-                ]
-            },
-            {
-                "uuid": "019ef96c-52a9-7043-957a-a9f7dee93af9",
-                "title": "Chaos;Sister",
-                "date": "2019-01-23",
-                "essential": false,
-                "notRecommended": false,
-                "incomplete": false,
-                "type": "manga",
-                "urls": [
-                    {
-                        "name": "[PDF]",
-                        "url": "https://ns2c.github.io/assets/R1epG16UxyroIegg.pdf"
-                    }
+                	"A Valentine's Day-themed drama CD that was included with the CHAOS;CHILD: Silent Sky anime movie DVD and Blu-ray."
                 ]
             }
         ]

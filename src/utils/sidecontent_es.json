@@ -144,7 +144,7 @@
                     }
                 ],
                 "notes": [
-                	"Una historia corta crossover que cuenta con la aparición del protagonista de STEINS;GATE. Toma lugar durante el Capítulo 7: Psycopath."
+                	"Una historia corta crossover CHAOS;HEAD y STEINS;GATE. Toma lugar durante el Capítulo 7: Psycopath."
                 ]
             },
             {
@@ -304,7 +304,7 @@
                     }
                 ],
                 "notes": [
-                	"Un drama CD que transcurre en el campo de atracción Beta, mostrando una parte de cómo se hizo posible la Operación Skuld."
+                	"Un drama CD que transcurre en el campo de atracción Beta, mostrando una parte de cómo se hizo posible la Operación Skuld, el cual fue adaptado en STEINS;GATE 0."
                 ]
             },
             {
@@ -808,7 +808,7 @@
                     }
                 ],
                 "notes": [
-                	"Un manga basado en el drama CD del mismo nombre, el cual sigue a Kurisu durante el Capítulo 10: Paradox Meltdown."
+                	"Un manga basado en el drama CD del mismo nombre, el cual sigue a Kurisu durante el Capítulo 10: Paradox Meltdown. Incluye contenido extra que no se puede encontrar en el drama CD."
                 ]
             },
             {
@@ -1346,7 +1346,7 @@
                     }
                 ],
                 "notes": [
-                	"Una precuela en formato de novela ligera, con adaptación al manga, que explora el pasado de Misaki."
+                	"Un manga precuela basado en la novela ligera del mismo nombre que explora el pasado de Misaki."
                 ]
             },
             {
@@ -1619,7 +1619,7 @@
                     }
                 ],
                 "notes": [
-                	"Un manga precuela que profundiza en el pasado de Mio, así como en su amistad con Makise Kurisu de STEINS;GATE."
+                	"Un manga precuela que profundiza en el pasado de Mio, así como en su amistad con cierto personaje de STEINS;GATE."
                 ]
             },
             {
@@ -1638,6 +1638,36 @@
                 ],
                 "notes": [
                 	"Una historia corta situada entre los capítulos 2 y 3 de Children's Collapse."
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7042-b08b-51297198bb6e",
+                "title": "Maid in Uki",
+                "date": "2017-02-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/OJnZM1T6kyrXoXYz.pdf"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-7043-957a-a9f7dee93af9",
+                "title": "Chaos;Sister",
+                "date": "2017-02-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[PDF] (Sólo en inglés)",
+                        "url": "https://ns2c.github.io/assets/R1epG16UxyroIegg.pdf"
+                    }
                 ]
             },
             {
@@ -1848,37 +1878,7 @@
                     }
                 ],
                 "notes": [
-                	"Un drama CD con temática del Día de San Valentín que venía incluido con el DVD y Blu-ray de la OVA del anime CHAOS;CHILD Silent Sky."
-                ]
-            },
-            {
-                "uuid": "019ef96c-52a9-7042-b08b-51297198bb6e",
-                "title": "Maid in Uki",
-                "date": "2019-01-23",
-                "essential": false,
-                "notRecommended": false,
-                "incomplete": false,
-                "type": "manga",
-                "urls": [
-                    {
-                        "name": "[PDF] (Sólo en inglés)",
-                        "url": "https://ns2c.github.io/assets/OJnZM1T6kyrXoXYz.pdf"
-                    }
-                ]
-            },
-            {
-                "uuid": "019ef96c-52a9-7043-957a-a9f7dee93af9",
-                "title": "Chaos;Sister",
-                "date": "2019-01-23",
-                "essential": false,
-                "notRecommended": false,
-                "incomplete": false,
-                "type": "manga",
-                "urls": [
-                    {
-                        "name": "[PDF] (Sólo en inglés)",
-                        "url": "https://ns2c.github.io/assets/R1epG16UxyroIegg.pdf"
-                    }
+                	"Un drama CD con temática del Día de San Valentín que venía incluido con el DVD y Blu-ray de la película de anime de CHAOS;CHILD Silent Sky."
                 ]
             }
         ]
@@ -2221,7 +2221,7 @@
                     }
                 ],
                 "notes": [
-                	"Un drama CD que sigue la formación del grupo Valkyrie de Okabe, ambientado entre los episodios 19 y 20 del anime de STEINS;GATE 0."
+                	"Un drama CD que muestra la formación del grupo Valkyrie de Okabe, ambientado entre los episodios 19 y 20 del anime de STEINS;GATE 0."
                 ]
             },
             {
