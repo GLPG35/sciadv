@@ -1,12 +1,12 @@
 ---
 import Layout from "../../../layouts/Layout.astro"
 import music from '../../../utils/music.json'
-import { getLangFromUrl, useTranslatedPath } from '../../../i18n/utils'
 import type { GetStaticPaths } from "astro"
 import MusicAlbum from '../../../components/MusicAlbum'
 import MusicSpoilers from '../../../components/MusicSpoilers'
 import MusicAll from '../../../components/MusicAll'
 import './styles.scss'
+import { LuChevronLeft, LuChevronRight } from "react-icons/lu"
 
 export const getStaticPaths = (() => {
 	return music.map(({ name }) => ({
@@ -18,8 +18,8 @@ const entry = music.find(x => x.name == Astro.params.entry)
 
 if (!entry) return Astro.redirect('/404')
 
-const currentLang = getLangFromUrl(Astro.url)
-const translatePath = useTranslatedPath(currentLang)
+const prevEntry = music.findIndex(x => x.name === Astro.params.entry) === 0 ? null : music.findIndex(x => x.name === Astro.params.entry) - 1
+const nextEntry = music.findIndex(x => x.name === Astro.params.entry) === music.length - 1 ? null : music.findIndex(x => x.name === Astro.params.entry) + 1
 
 const anim = {
 	old: {
@@ -87,6 +87,10 @@ const customTransition = {
 						<div class="title">
 							<h2>{entry.title}</h2>
 							<span>Music tracks ({entry.period})</span>
+							<div class="prevNext">
+								{prevEntry !== null && <a href={`/music/${music[prevEntry].name}`}><LuChevronLeft /> Previous</a>}
+								{nextEntry !== null && <a href={`/music/${music[nextEntry].name}`}>Next <LuChevronRight /></a>}
+							</div>
 							<MusicAll url={entry.url} text='Link to all albums' client:load />
 						</div>
 					</div>

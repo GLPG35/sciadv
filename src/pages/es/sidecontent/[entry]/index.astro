@@ -6,6 +6,7 @@ import './styles.scss'
 import EntryPercent from "../../../../components/EntryPercent"
 import SideContentList from "../../../../components/SideContentList/es"
 import type { Title } from "../../../../store/entryStore"
+import { LuChevronLeft, LuChevronRight } from "react-icons/lu"
 
 export const getStaticPaths = (() => {
 	return sideContent.map(({ name }) => ({
@@ -16,6 +17,9 @@ export const getStaticPaths = (() => {
 const entry = sideContent.find(x => x.name == Astro.params.entry)
 
 if (!entry) return Astro.redirect('/404')
+
+const prevEntry = sideContent.findIndex(x => x.name === Astro.params.entry) === 0 ? null : sideContent.findIndex(x => x.name === Astro.params.entry) - 1
+const nextEntry = sideContent.findIndex(x => x.name === Astro.params.entry) === sideContent.length - 1 ? null : sideContent.findIndex(x => x.name === Astro.params.entry) + 1
 
 const anim = {
 	old: {
@@ -82,6 +86,10 @@ const customTransition = {
 						<div class="title">
 							<h2>{entry.title}</h2>
 							<span>Contenido Extra</span>
+							<div class="prevNext">
+								{prevEntry !== null && <a href={`/es/sidecontent/${sideContent[prevEntry].name}`}><LuChevronLeft /> Anterior</a>}
+								{nextEntry !== null && <a href={`/es/sidecontent/${sideContent[nextEntry].name}`}>Siguiente <LuChevronRight /></a>}
+							</div>
 						</div>
 						<div class="list">
 							<SideContentList title={entry.name as Title} list={entry.list} url={Astro.url} client:idle />

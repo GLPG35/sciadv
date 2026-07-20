@@ -6,10 +6,14 @@ import entries from '../../../utils/entries.json'
 import './styles.scss'
 import ExtDownload from '../../../components/ExtDownload'
 import GalleryContainer from '../../../components/GalleryContainer'
+import { LuChevronLeft, LuChevronRight } from 'react-icons/lu'
 
 const entry = entries.find(x => x.name == 'chlcc')
 
 if (!entry) return Astro.redirect('/404')
+
+const prevEntry = entries.findIndex(x => x.name === 'chlcc') === 0 ? null : entries.findIndex(x => x.name === 'chlcc') - 1
+const nextEntry = entries.findIndex(x => x.name === 'chlcc') === entries.length - 1 ? null : entries.findIndex(x => x.name === 'chlcc') + 1
 
 const isDate = entry.year.includes('-')
 const [fullYear, month, day] = entry.year.split('-')
@@ -113,6 +117,10 @@ const customTransition = {
 							<span class="jpn">{entry.jpn}</span>
 							<h2>{entry.title}</h2>
 							<div class="date">{date}</div>
+							<div class="prevNext">
+								{prevEntry !== null && <a href={`/entries/${entries[prevEntry].name}`}><LuChevronLeft /> Previous</a>}
+								{nextEntry !== null && <a href={`/entries/${entries[nextEntry].name}`}>Next <LuChevronRight /></a>}
+							</div>
 						</div>
 						<div class="downloads">
 							<h3>Downloads</h3>
