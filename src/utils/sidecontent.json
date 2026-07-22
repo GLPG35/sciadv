@@ -42,7 +42,7 @@
             },
             {
            		"uuid": "019f1026-ad38-7000-9498-ab4f226b6297",
-            	"title": "CHAOS;HEAD Delusional Voices: Nishijou Nanami Chapter",
+            	"title": "CHAOS;HEAD Delusion Voice: Nishijou Nanami Chapter",
             	"date": "2008-12-24",
             	"essential": false,
              	"notRecommended": false,
@@ -116,7 +116,7 @@
             },
             {
                 "uuid": "019ef96c-52a8-7005-9742-88b509472fa4",
-                "title": "CHAOS;HEAD Delusional Voices: Hazuki Shino Chapter",
+                "title": "CHAOS;HEAD Delusion Voice: Hazuki Shino Chapter",
                 "date": "2009-08-05",
                 "essential": false,
                 "notRecommended": false,
@@ -166,7 +166,12 @@
                         "name": "[EPUB] (Mirror)",
                         "url": "https://file.garden/afE1MkDycVrE3Bhr/Chaos%3BHead%20Normie%20Complex.epub"
                     }
-                ]
+                ],
+                "must": {
+	             	"name": "CHAOS;HEAD Love Chu☆Chu!",
+	              	"link": "/entries/chlcc",
+	               	"type": "play"
+	            }
             },
             {
                 "uuid": "019ef96c-52a8-7008-b7f1-2c1e48ce3ac4",
