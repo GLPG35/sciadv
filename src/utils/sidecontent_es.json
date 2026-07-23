@@ -56,6 +56,21 @@
                	]
             },
             {
+           		"uuid": "019f8f43-1d33-7000-a0a1-54c3e3f7b199",
+            	"title": "CHAOS;HEAD Delusion Voice: Sakihata Rimi Chapter",
+            	"date": "2008-12-24",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube] (Sólo en inglés)",
+            			"url": "https://www.youtube.com/watch?v=CHqxjtR5ND0"
+               		}
+             	]
+            },
+            {
                 "uuid": "019ef96c-52a8-7001-b82f-b6c7f602bcfd",
                 "title": "Chaos;Chat",
                 "date": "2008-12-28",
