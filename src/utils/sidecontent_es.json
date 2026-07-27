@@ -11,10 +11,10 @@
         "cardOg": "/cards/chn_side_card.jpg",
         "faq": [
         	{
-       			"question": "¿Por qué no puedo mirar el anime?",
+       			"question": "¿Por qué no debería mirar el anime primero?",
             	"answer": [
-             		"El anime de CHAOS;HEAD no es en absoluto un reemplazo para la novela visual. Sus 12 episodios no logran captar el concepto de la novela visual original, y mucho menos de la versión NOAH.",
-               		"Si aun así quieres verlo para reírte un poco, hazlo sólo después de terminar CHAOS;HEAD NOAH, ya que el anime por sí mismo no es bueno."
+             		"La adaptación animada de CHAOS;HEAD no es, bajo ningún concepto, un sustituto adecuado para la novela visual original. Su corta duración de 12 episodios falla al capturar los conceptos centrales del juego original, y mucho menos la narrativa expandida de la edición NOAH.",
+               		"Para aquellos interesados en explorar la adaptación por mera curiosidad, esta sólo debería reproducirse luego de haber completado CHAOS;HEAD NOAH, ya que el anime se queda considerablemente corto en calidad y cohesión narrativa."
              	]
          	}
         ],
@@ -37,7 +37,7 @@
                     }
                 ],
                 "notes": [
-                    "No mires el anime antes que la novela visual, es una adaptación horrible y arruinará tu experiencia."
+                    "Jugar a la novela visual antes de ver el anime es esencial. La adaptación animada dista notablemente del material original, y al verla primero se corre el riesgo de revelar de forma prematura los giros de la trama, además de ofrecer una introducción a la historia significativamente inferior."
                 ]
             },
             {
@@ -84,6 +84,36 @@
                         "url": "https://ns2c.github.io/assets/PTOKFQapmu9Z6MYG.pdf"
                     }
                 ]
+            },
+            {
+           		"uuid": "019fa369-80d7-7000-9f1a-1cbda1650997",
+            	"title": "CHAOS;HEAD Delusion Voice: Kishimoto Ayase Chapter",
+            	"date": "2009-01-28",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube]",
+            			"url": "https://www.youtube.com/watch?v=MrKpjZNStLQ"
+               		}
+             	]
+            },
+            {
+           		"uuid": "019fa3e5-2cb4-7000-8f9d-25a064b60352",
+            	"title": "CHAOS;HEAD Delusion Voice: Orihara Kozue Chapter",
+            	"date": "2009-01-28",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube]",
+            			"url": "https://www.youtube.com/watch?v=gToS2f_HTPU"
+               		}
+             	]
             },
             {
                 "uuid": "019ef96c-52a8-7002-9668-2b8b873a492f",
@@ -217,29 +247,28 @@
         "cardOg": "/cards/sg_side_card.jpg",
         "faq": [
 	        {
-		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
+		        "question": "¿Puedo omitir la novela visual y ver el anime en su lugar?",
 				"answer": [
-					"Absolutamente no. El anime de STEINS;GATE no es un reemplazo de la obra original, aunque sigue siendo una de las mejores adaptaciones de esta serie de juegos.",
-					"Si ya lo viste, aun así debes jugar la novela visual, ya que muchos detalles se perdieron en la adaptación."
+					"Omitir la novela visual original no es recomendable, ya que la adaptación al anime no sirve como un reemplazo completo del material de origen. A pesar de ello, la serie animada de STEINS;GATE es ampliamente considerada una de las mejores adaptaciones dentro de la franquicia.",
+					"Incluso para aquellos que ya completaron el anime, experimentar la novela visual sigue siendo esencial, ya que durante el proceso de adaptación se omitió una cantidad considerable de detalles narrativos y de construcción de mundo."
 				]
 	        },
         	{
       			"question": "¿Cuál es el orden correcto para ver STEINS;GATE?",
            		"answer": [
-            		"Mientras que muchas guías en línea recomiendan un orden específico para consumir STEINS;GATE, sólo hay una opción correcta.",
-              		"STEINS;GATE debe mirarse en orden de emisión:",
+            		"La forma definitiva de experimentar esta serie es estrictamente en su orden de emisión original, a pesar de las diversas rutas alternativas sugeridas en línea. Desviarse de esta secuencia puede introducir importantes inconsistencias narrativas y perjudicar el ritmo previsto.",
+              		"El orden de visualización óptimo para STEINS;GATE es el siguiente:",
                 	[
                			"STEINS;GATE Anime (2011)",
                			"Egoistic Poriomania OVA (2012)",
                  		"STEINS;GATE Película: Load Region of Déjà Vu (2013)"
                  	],
-                	"Con todo eso visto, puedes jugar la novela visual de STEINS;GATE 0 y luego mirar el anime también en orden de emisión:",
+                	"Tras completar la serie original, se recomienda experimentar la novela visual de STEINS;GATE 0 antes de proceder con sus adaptaciones animadas, las cuales también deberían verse en orden de lanzamiento:",
                  	[
                   		"STEINS;GATE Episodio 23β: Open the Missing Link OVA (2015)",
                     	"STEINS;GATE 0 Anime (2018)",
                      	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
-                  	],
-                 	"No hay otro orden. No te dejes engañar por gente en línea; de lo contrario, podrías arruinar tu experiencia."
+                  	]
             	]
         	}
         ],
@@ -501,12 +530,12 @@
                     }
                 ],
                 "notes": [
-                    "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
-                    "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden para ver el anime está en la sección de preguntas y respuestas."
+                    "La serie animada está diseñada para ser experimentada estrictamente en orden de emisión. Se recomienda ampliamente ignorar las sugerencias en línea de la comunidad sobre cierto orden \"cronológico\", ya que seguirlo introduce importantes disrupciones narrativas y compromisos en el ritmo previsto.",
+                    "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden definitivo para ver las adaptaciones animadas se encuentra detallado en la sección de preguntas frecuentes más abajo."
                 ],
                 "hiddenNotes": [
-	              	"El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
-	                "El orden para ver el anime está en la sección de preguntas y respuestas."
+	              	"La serie animada está diseñada para ser experimentada estrictamente en su orden de emisión. Se recomienda desestimar las sugerencias en línea de la comunidad sobre un supuesto orden \"cronológico\", ya que seguirlo introduce importantes disrupciones narrativas y perjudica el ritmo previsto.",
+	                "El orden definitivo para ver las adaptaciones animadas se encuentra detallado en la sección de preguntas frecuentes más abajo."
                 ]
             },
             {
@@ -1200,10 +1229,10 @@
         "cardOg": "/cards/rne_side_card.jpg",
         "faq": [
         	{
-       			"question": "¿Por qué no puedo mirar el anime?",
+       			"question": "¿Por qué no debería mirar el anime primero?",
             	"answer": [
-             		"El anime de ROBOTICS;NOTES no es un reemplazo para la novela visual. A pesar de tener 22 episodios, no es una adaptación fiel.",
-               		"Si aun así quieres verlo, hazlo sólo después de terminar la novela visual de ROBOTICS;NOTES."
+             		"La serie animada de ROBOTICS;NOTES no puede servir como un sustituto adecuado para la novela visual original, ya que dista de ser una adaptación completamente fiel a pesar de su duración de 22 episodios.",
+               		"Para aquellos que aún deseen ver la adaptación animada, se recomienda encarecidamente hacerlo sólo después de haber completado la novela visual, asegurando así que la narrativa se experimente con su profundidad y ritmo originales e intactos."
              	]
          	}
         ],
@@ -1452,10 +1481,10 @@
         "cardOg": "/cards/cc_side_card.jpg",
         "faq": [
         	{
-       			"question": "¿Por qué no puedo mirar el anime?",
+       			"question": "¿Por qué no debería mirar el anime primero?",
             	"answer": [
-             		"El anime de CHAOS;CHILD no es un reemplazo para la novela visual. Sus 13 episodios no logran captar el concepto de la novela visual original, más que nada porque la producción fue apresurada debido a problemas de presupuesto.",
-               		"Si aun así quieres verlo, hazlo sólo después de terminar la novela visual de CHAOS;CHILD, ya que el anime no es una buena adaptación."
+             		"El anime de CHAOS;CHILD no puede servir como un reemplazo adecuado para la novela visual, ya que su corta duración de 13 episodios falla al capturar los conceptos centrales de la obra original. Tras la abrupta retirada de fondos por parte de los inversionistas en una etapa avanzada de la producción, el equipo creativo se enfrentó a severas complicaciones de tiempo y presupuesto que forzaron una reescritura masiva del guion. Este proceso de adaptación de emergencia perjudicó gravemente el desarrollo de los personajes y la construcción de mundo.",
+               		"Para aquellos interesados en explorar la adaptación animada, esta sólo debería visualizarse estrictamente luego de haber completado la novela visual, asegurando así que la narrativa se experimente con la profundidad prevista."
              	]
          	}
         ],
@@ -1585,11 +1614,11 @@
                     }
                 ],
                 "notes": [
-                    "No mires el anime antes que la novela visual, es una adaptación horrible y arruinará tu experiencia.",
+                    "Jugar a la novela visual antes de ver el anime es fundamental. La adaptación animada dista notablemente del material original debido a los severos recortes narrativos. Al verla primero, se corre el riesgo de revelar de forma prematura los giros de la trama, además de ofrecer una introducción a la historia significativamente inferior.",
                     "El torrent incluye el anime y la película."
                 ],
                 "hiddenNotes": [
-                	"No mires el anime antes que la novela visual, es una adaptación horrible y arruinará tu experiencia."
+              		"Jugar a la novela visual antes de ver el anime es fundamental. La adaptación animada dista notablemente del material original debido a los severos recortes narrativos. Al verla primero, se corre el riesgo de revelar de forma prematura los giros de la trama, además de ofrecer una introducción a la historia significativamente inferior."
                 ]
             },
             {
@@ -1915,30 +1944,29 @@
         "cardOg": "/cards/sg0_side_card.jpg",
         "faq": [
 	        {
-		        "question": "¿Puedo saltearme la novela visual y ver el anime?",
+		        "question": "¿Puedo omitir la novela visual y ver el anime en su lugar?",
 				"answer": [
-					"Absolutamente no. El anime de STEINS;GATE 0 no es un reemplazo de la obra original. De hecho, es una continuación de la novela visual que, esencialmente, sirve como otra ruta.",
-					"Si ya lo viste, aun así debes jugar la novela visual, ya que las otras rutas son esenciales para tener la historia completa."
+					"No, el anime de STEINS;GATE 0 no puede servir como un reemplazo para la novela visual original. Más que una adaptación directa, la serie animada funciona como una extensión y continuación de la narrativa del juego, actuando esencialmente como una ruta final de la historia.",
+					"Para aquellos que ya vieron el anime, jugar a la novela visual sigue siendo esencial, ya que experimentar las rutas alternativas es necesario para comprender la totalidad de la historia."
 				]
 	        },
         	{
       			"question": "¿Cuál es el orden correcto para ver STEINS;GATE?",
-	       		"answer": [
-	        		"Mientras que muchas guías en línea recomiendan un orden específico para consumir STEINS;GATE, sólo hay una opción correcta.",
-	          		"STEINS;GATE debe mirarse en orden de emisión:",
-	            	[
-	           			"STEINS;GATE Anime (2011)",
-	           			"Egoistic Poriomania OVA (2012)",
-	             		"STEINS;GATE Película: Load Region of Déjà Vu (2013)"
-	             	],
-	            	"Con todo eso visto, puedes jugar la novela visual de STEINS;GATE 0 y luego mirar el anime también en orden de emisión:",
-	             	[
-	              		"STEINS;GATE Episodio 23β: Open the Missing Link OVA (2015)",
-	                	"STEINS;GATE 0 Anime (2018)",
-	                 	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
-	              	],
-	             	"No hay otro orden. No te dejes engañar por gente en línea; de lo contrario, podrías arruinar tu experiencia."
-	        	]
+           		"answer": [
+            		"La forma definitiva de experimentar esta serie es estrictamente en su orden de emisión original, a pesar de las diversas rutas alternativas sugeridas en línea. Desviarse de esta secuencia puede introducir importantes inconsistencias narrativas y perjudicar el ritmo previsto.",
+              		"El orden de visualización óptimo para STEINS;GATE es el siguiente:",
+                	[
+               			"STEINS;GATE Anime (2011)",
+               			"Egoistic Poriomania OVA (2012)",
+                 		"STEINS;GATE Película: Load Region of Déjà Vu (2013)"
+                 	],
+                	"Tras completar la serie original, se recomienda experimentar la novela visual de STEINS;GATE 0 antes de proceder con sus adaptaciones animadas, las cuales también deberían verse en orden de lanzamiento:",
+                 	[
+                  		"STEINS;GATE Episodio 23β: Open the Missing Link OVA (2015)",
+                    	"STEINS;GATE 0 Anime (2018)",
+                     	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
+                  	]
+            	]
         	}
         ],
         "epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
@@ -2113,12 +2141,12 @@
                     }
                 ],
                 "notes": [
-                    "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
-                    "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden para ver el anime está en la sección de preguntas y respuestas."
+                    "La serie animada está diseñada para ser experimentada estrictamente en orden de emisión. Se recomienda ampliamente ignorar las sugerencias en línea de la comunidad sobre cierto orden \"cronológico\", ya que seguirlo introduce importantes disrupciones narrativas y compromisos en el ritmo previsto.",
+                    "El torrent incluye el anime, OVA, película, ONA, Episodio 23β y STEINS;GATE 0. El orden definitivo para ver las adaptaciones animadas se encuentra detallado en la sección de preguntas frecuentes más abajo."
                 ],
                 "hiddenNotes": [
-	                "El anime está pensado para ser visto en orden de emisión. No le creas a nadie en línea que diga que necesitas ver un orden \"cronológico\". Eso es mentira y arruinará tu experiencia.",
-	                "El orden para ver el anime está en la sección de preguntas y respuestas."
+	              	"La serie animada está diseñada para ser experimentada estrictamente en su orden de emisión. Se recomienda desestimar las sugerencias en línea de la comunidad sobre un supuesto orden \"cronológico\", ya que seguirlo introduce importantes disrupciones narrativas y perjudica el ritmo previsto.",
+	                "El orden definitivo para ver las adaptaciones animadas se encuentra detallado en la sección de preguntas frecuentes más abajo."
                 ]
             },
             {

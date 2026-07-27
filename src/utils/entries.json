@@ -86,9 +86,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/chn-patch.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/chn-patch.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -102,14 +102,14 @@
 			{
 				"question": "What's the difference between the original CHAOS;HEAD and the NOAH version?",
 				"answer": [
-					"The original CHAOS;HEAD came out earlier than expected, mostly because 5pb. (MAGES' predecessor) lacked the funds to make the game they originally planned.",
-					"As a result, they released a scaled-down version to raise money so they could deliver the full experience later. That complete version is CHAOS;HEAD NOAH."
+					"The original CHAOS;HEAD came out earlier than expected due to time constraints demanded by Nitroplus. As 5pb. (the predecessor to MAGES.) developed the game using Nitroplus proprietary engine (N2System), they were forced to comply with a rigid, non-flexible release window. Even after several expansions were made to the scope of the script, Nitroplus refused to extend the deadline.",
+					"As a result, they had to ship a scaled-down version of the game. Although 5pb. later wanted to deliver the missing content as a downloadable patch for the PC version, Nitroplus denied the request. This forced 5pb. to instead release a brand-new, standalone edition that included all the content that missed the original launch. That complete version is CHAOS;HEAD NOAH."
 				]
 			},
 			{
-				"question": "I watched the anime first, how screwed am I?",
+				"question": "I watched the anime first, do I still need to play the visual novel?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, you still need to play the CHAOS;HEAD visual novel if you've seen the anime. The anime is utterly incomplete and very short, so your experience playing the visual novel will be superior in every way."
+					"Yes, playing the CHAOS;HEAD NOAH visual novel remains essential even if you have already watched the anime adaptation. The anime adaptation is heavily condensed and leaves out significant portions of the story. Ultimately, the visual novel provides a vastly superior and more complex narrative experience."
 				]
 			}
 		]
@@ -206,9 +206,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sghd.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/sghd.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -222,14 +222,14 @@
 			{
 				"question": "And what about STEINS;GATE ELITE?",
 				"answer": [
-					"While the ELITE version of ROBOTICS;NOTES is recommended over the original (even if the original isn't translated), the ELITE version of STEINS;GATE is a straight up downgrade of the original version.",
-					"STEINS;GATE ELITE cuts around 35% of the original script, while also getting rid of the usual VN format and replacing it with full anime cinematics."
+					"While ROBOTICS;NOTES ELITE is widely considered the definitive version over its original release, the same cannot be said for STEINS;GATE ELITE, which many consider a compromise of the original experience.",
+					"The ELITE version of STEINS;GATE removes approximately 35% of the original visual novel's script. Furthermore, it abandons the traditional static artwork and text format in favor of fully animated cinematics adapted from the anime series, altering the pacing and depth of the narrative."
 				]
 			},
 			{
-				"question": "I watched the anime first, how screwed am I?",
+				"question": "I watched the anime first, do I still need to play the visual novel?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, you should still play the STEINS;GATE visual novel even if you've seen the anime. It provides crucial information not present in the anime adaptation, especially details that connect it to the rest of the <em>Science Adventure Series</em>."
+					"Yes, playing the STEINS;GATE visual novel remains essential even if you have already watched the anime adaptation. The visual novel delivers crucial world-building and narrative context omitted from the animated series. Most notably, it provides the foundational details and deeper lore required to fully understand the game's connection with the other entries in the <em>Science Adventure Series</em>."
 				]
 			}
 		]
@@ -254,7 +254,12 @@
 		"position": "center 30%",
 		"epigraph": "If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Ог...",
 		"description": "Summer has finally come to Shibuya. Takumi and the six heroines from the previous game get to hang out, living the everyday high school life. But in truth, his will to stop being a useless otaku and become a normie has created an image world where the girls succumb to his charm. The only way to return to the real world is to kill Seira-tan, who roams the streets of Shibuya. But until then, Taku will be able to enjoy a life of lovey-doveyness with 3D girls (only in his delusions, though!)",
-		"downloads": [],
+		"downloads": [
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://store-jp.nintendo.com/item/software/D70010000103269"
+			}
+		],
 		"japaneseOnly": {
 			"downloads": true
 		},
@@ -390,9 +395,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sgmde-patch.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/sgmde-patch.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -406,22 +411,22 @@
 		]
 	},
 	{
-		"title": "STEINS;GATE: Variant Space Octet",
+		"title": "STEINS;GATE: Octet of Shifting Space",
 		"jpn": "シュタインズ・ゲート 変移空間のオクテット",
-		"name": "sgvso",
+		"name": "sgoss",
 		"year": "2011-10-28",
 		"covers": [
-			"/banners/sgvso_banner1.avif",
-			"/banners/sgvso_banner1.webp",
-			"/banners/sgvso_banner1.png"
+			"/banners/sgoss_banner1.avif",
+			"/banners/sgoss_banner1.webp",
+			"/banners/sgoss_banner1.png"
 		],
 		"coversHorizontal": [
-			"/banners/sgvso_horizontal.avif",
-			"/banners/sgvso_horizontal.webp",
-			"/banners/sgvso_horizontal.jpg"
+			"/banners/sgoss_horizontal.avif",
+			"/banners/sgoss_horizontal.webp",
+			"/banners/sgoss_horizontal.jpg"
 		],
-		"card": "/cards/sgvso_card.png",
-		"cardOg": "/cards/sgvso_card.jpg",
+		"card": "/cards/sgoss_card.png",
+		"cardOg": "/cards/sgoss_card.jpg",
 		"position": "center",
 		"epigraph": "The universe has a beginning, but no end. — Infinite. The stars too have beginnings, but their power accompanies their decline. — Finite. It's the wise who are the most foolish. History has taught us as much. The fish of the sea know not the world of the land. Were they to possess wisdom, they too would experience decline. It is more absurd that humans should surpass the speed of light than it is that fish should start living on the land. This can be said to be God's final warning to those who resist...",
 		"description": "An extension of the True End of the original game. Unlike the modern visual novel format of the original game, this retro game perfectly mimics the style of graphical text adventure games from the 8-bit PC era (e.g. PC-88), with the player typing short commands to interact with and explore the game world. It features all backgrounds and characters drawn in a low-color pixelated style with emulated scanlines, chiptune music played through an emulated FM chip, and no voice acting. The premise of the game features Okabe receiving a D-Mail from himself in 2025 that states that he must save the future by reclaiming an IBN 5100 from a person under of the alias “Neidhardt”.",
@@ -497,9 +502,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sgvso-patch.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/sgvso-patch.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -610,9 +615,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/rne-steam.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/rne-steam.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -626,15 +631,15 @@
 			{
 				"question": "What's the difference between the original ROBOTICS;NOTES and the ELITE version?",
 				"answer": [
-					"Leaving aside the fact that the original game didn't get an official localization, the ELITE version of ROBOTICS;NOTES was designed to improve upon the original in several ways.",
-					"The ELITE version adds new anime cinematics for some key moments where the original CGs fell short. It also adds new lines throughout the script and fixes some typos, while removing other lines to improve pacing. The 3D models were improved, though some facial expressions didn't make the final cut.",
-					"Sadly, the ELITE version cut some important content from the first and last phases of the game, which affected character development. You probably won't notice it unless someone points it out to you, but there are plans for a future patch to restore that missing content. In case you want to read it after finishing the game, you can <a href='/entries/rne/missing-content'>do so here</a>."
+					"Independent of the fact that the original release never received an official localization, ROBOTICS;NOTES ELITE was designed to enhance the foundational experience in several key areas.",
+					"The ELITE version incorporates animated sequences to elevate the visual presentation of certain action-oriented scenes. It also incorporates script revisions that add new dialogue, correct typographical errors and streamline pacing. Additionally, the character 3D models received a noticeable upgrade, though some facial expressiveness was reduced in the transition.",
+					"Unfortunately, the ELITE version also excised certain narrative segments from the opening and closing phases of the game, slightly compromising early character development. While this omissions may go unnoticed by newcomers, there are plans for a future community patch to enjoy that missing content. For those interested in reviewing the cut material after completing the game, the full text is available in <a href='/entries/rne/missing-content'>this section</a>."
 				]
 			},
 			{
-				"question": "I watched the anime first, how screwed am I?",
+				"question": "I watched the anime first, do I still need to play the visual novel?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, you still need to play the ROBOTICS;NOTES visual novel if you've seen the anime. The anime is not a perfect adaptation, and some characters suffer from mischaracterization, so your experience playing the visual novel will be superior in every way."
+					"Yes, playing the ROBOTICS;NOTES ELITE visual novel remains essential even if you have already watched the anime adaptation. The animated series faces limitations in its adaption choices, occasionally resulting in compromised character development and altered character traits. Ultimately, the visual novel provides a vastly superior and more nuanced narrative experience."
 				]
 			}
 		]
@@ -713,9 +718,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sglbp-patch.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/sglbp-patch.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -815,9 +820,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/chaoschild-steam.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/chaoschild-steam.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -829,9 +834,9 @@
 				]
 			},
 			{
-				"question": "I watched the anime first, how screwed am I?",
+				"question": "I watched the anime first, do I still need to play the visual novel?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, you still need to play the CHAOS;CHILD visual novel if you've seen the anime. The anime is far from a good adaptation, as it was rushed and lacks proper character development and world-building, so your experience playing the visual novel will be superior in every way."
+					"Yes, playing the CHAOS;CHILD visual novel remains essential even if you have already watched the anime adaptation. The animated series suffered from severe budgetary and time constraints after investors abruptly withdrew funding late in production. This forced the writing team to heavily rewrite the script to fit a significantly reduced episode count, resulting in compromised world-building and character development. Ultimately, the original visual novel stands as the definitive version, providing the complete and fully realized narrative."
 				]
 			}
 		]
@@ -928,9 +933,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/sg0-steam.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/sg0-steam.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -942,10 +947,10 @@
 				]
 			},
 			{
-				"question": "I watched the anime first, how screwed am I?",
+				"question": "I watched the anime first, do I still need to play the visual novel?",
 				"answer": [
-					"Even though it's ideal to play and watch the entries in order, you still need to play the STEINS;GATE 0 visual novel if you've seen the anime. It provides crucial information not present in the anime, especially details from other routes.",
-					"If you watched the STEINS;GATE 0 anime before playing the original STEINS;GATE, you might be kinda screwed, but I still recommend just following the release order for the games."
+					"Yes, playing the STEINS;GATE 0 visual novel remains essential even if you have already watched the anime adaptation. The visual novel provides vital narrative context omitted from the animated series, particularly regarding details from its alternate story routes.",
+					"Furthermore, watching STEINS;GATE 0 prior to completing the original STEINS;GATE severly compromises the narrative stakes and pacing of the overarching plot. Consequently, adhering strictly to the games' original release order is highly recommended for the best experience."
 				]
 			}
 		]
@@ -1074,9 +1079,9 @@
 			}
 		],
 		"orderGuide": [
-			"If you want to understand OCCULTIC;NINE's story to the fullest, there's a recommended consumption order, as the anime is very fast-paced.",
-			"You should read the light novels first (even though they are incomplete), as they provide enough context to understand and enjoy the anime.",
-			"If you know Japanese, you can also read the manga and play the visual novel, since every version of OCCULTIC;NINE features a different ending."
+			"To fully comprehend the narrative of OCCULTIC;NINE, following a specific consumption order is highly recommended, as the anime adaptation features an incredibly fast-paced delivery.",
+			"It is best to begin with the light novels, as despite remaining incomplete, they provide the essential context necessary to properly follow and appreciate the anime's plot.",
+			"Furthermore, for those familiar with Japanese, exploring the manga adaptation and playing the visual novel is highly encouraged, as every media format of OCCULTIC;NINE features a completely distinct ending."
 		],
 		"screenshots": [
 			[
@@ -1132,15 +1137,15 @@
 			{
 				"question": "Why are there so many ways to experience OCCULTIC;NINE?",
 				"answer": [
-					"Shikura Chiyomaru, the creator of the OCCULTIC;NINE light novel, conceived the project as a multimedia series. As mentioned previously in the \"Order Guide\", OCCULTIC;NINE was released in four different formats: light novel (2014), manga (2015), anime (2016) and visual novel (2017), with each one featuring different endings and story variations.",
-					"Consequently, to understand the story to the fullest, it is recommended to experience every version, starting with the light novel."
+					"Shikura Chiyomaru, the creator of the OCCULTIC;NINE light novel, originally conceived the project as a multimedia franchise. As outlined in the previous \"Order Guide\", the narrative spans four distinct formats: the light novel (2014), manga (2015), anime (2016), and visual novel (2017). Each iteration introduces unique story variations and entirely different endings.",
+					"Consequently, to fully comprehend the overarching narrative, readers and viewers are encouraged to experience every adaptation, beginning with the light novel."
 				]
 			},
 			{
-				"question": "But why can't I read OCCULTIC;NINE before STEINS;GATE 0?",
+				"question": "Why can't I read OCCULTIC;NINE before STEINS;GATE 0?",
 				"answer": [
-					"Even though the first volume of the light novel came out before STEINS;GATE 0, the subsequent volumes were released in 2017, while the anime aired a year prior.",
-					"You could probably read it first if you want, but STEINS;GATE 0 (or at least its concept, the Epigraphy Trilogy) existed way before OCCULTIC;NINE was even created."
+					"Although the initial volume of the OCCULTIC;NINE light novel predates the release of STEINS;GATE 0, its subsequent volumes were not published until 2017, well after the anime adaptation had already aired in 2016.",
+					"While reading the light novel first remains a viable option, it is worth noting that the conceptual foundation of STEINS;GATE 0 (specifically the Epigraphy Trilogy light novels) existed long before OCCULTIC;NINE was conceived."
 				]
 			}
 		]
@@ -1177,6 +1182,10 @@
 			{
 				"platform": "PlayStation 4",
 				"url": "https://store.playstation.com/ja-jp/product/JP0745-CUSA07047_00-CHAOSCHILDLCCPS4"
+			},
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://store-jp.nintendo.com/item/software/D70010000103269"
 			}
 		],
 		"japaneseOnly": {
@@ -1324,9 +1333,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/rnd-steam.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/rnd-steam.html' target='_blank'>review them here</a>."
 				]
 			},
 			{
@@ -1425,9 +1434,9 @@
 			{
 				"question": "Do I really need to apply the patch?",
 				"answer": [
-					"Yes, you absolutely need to install the patch.",
-					"Most games in the <em>Science Adventure Series</em> suffer from incorrect terminology, bad translations, and a lack of features (effects, word wrapping, edited CGs, etc.). Some even feature cut content due to censorship, but the patch restores it. These fixes also allow you to play the game in Japanese if that's what you want.",
-					"If you want to see the full list of fixes made by the Committee of Zero made for this game, you can <a href='https://sonome.dareno.me/projects/ac-patch.html' target='_blank'>check it here</a>."
+					"Yes, installing the patch is highly recommended.",
+					"Most official releases in the <em>Science Adventure Series</em> suffer from localization issues, including inconsistent terminology, translation inaccuracies, and missing technical features like proper word wrapping, visual effects, and unedited CGs. In some cases, the patch also restores content that was cut due to platform censorship and reintroduces the option to play with Japanese text.",
+					"For a comprehensive breakdown of all the specific fixes and improvements made by the Committee of Zero, you can <a href='https://sonome.dareno.me/projects/ac-patch.html' target='_blank'>review them here</a>."
 				]
 			},
 			{

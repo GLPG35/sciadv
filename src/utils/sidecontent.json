@@ -11,10 +11,10 @@
         "cardOg": "/cards/chn_side_card.jpg",
         "faq": [
         	{
-       			"question": "Why can't I watch the anime?",
+       			"question": "Why shouldn't I watch the anime first?",
             	"answer": [
-             		"The CHAOS;HEAD anime is by no means a replacement for the visual novel. Its 12 episodes fail to grasp the concept of the original visual novel, let alone the NOAH version.",
-               		"If you still want to watch it for a few laughs, do so only after finishing CHAOS;HEAD NOAH, as the anime itself is not good."
+             		"The CHAOS;HEAD anime adaptation is by no means an adequate substitute for the original visual novel. Its brief 12-episode runtime fails to capture the core concepts of the original game, much less the expanded narrative of the NOAH edition.",
+               		"For those interested in watching the adaptation out of curiosity, it should only be viewed after completing CHAOS;HEAD NOAH, as the anime falls significantly short in quality and narrative cohesion."
              	]
          	}
         ],
@@ -37,7 +37,7 @@
                 ],
                 "hidden": true,
                 "notes": [
-                    "Do not watch the anime before the visual novel, it's a horrible adaptation and it will ruin your experience."
+                    "Experiencing the visual novel before the anime is essential. The animated adaptation falls considerably short of the source material, and watching it first risk spoiling the plot while offering a significantly degraded introduction to the story."
                 ]
             },
             {
@@ -84,6 +84,36 @@
                         "url": "https://ns2c.github.io/assets/PTOKFQapmu9Z6MYG.pdf"
                     }
                 ]
+            },
+            {
+           		"uuid": "019fa369-80d7-7000-9f1a-1cbda1650997",
+            	"title": "CHAOS;HEAD Delusion Voice: Kishimoto Ayase Chapter",
+            	"date": "2009-01-28",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube] (Sólo en inglés)",
+            			"url": "https://www.youtube.com/watch?v=MrKpjZNStLQ"
+               		}
+             	]
+            },
+            {
+           		"uuid": "019fa3e5-2cb4-7000-8f9d-25a064b60352",
+            	"title": "CHAOS;HEAD Delusion Voice: Orihara Kozue Chapter",
+            	"date": "2009-01-28",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube] (Sólo en inglés)",
+            			"url": "https://www.youtube.com/watch?v=gToS2f_HTPU"
+               		}
+             	]
             },
             {
                 "uuid": "019ef96c-52a8-7002-9668-2b8b873a492f",
@@ -219,27 +249,26 @@
 	        {
 		        "question": "Can I skip the visual novel and watch the anime?",
 				"answer": [
-					"Absolutely not. The STEINS;GATE anime is not a replacement for the original work, but it's still one of the best adaptations of this series.",
-					"If you have already watched it, you still must play the visual novel, as a lot of details were lost in the adaptation."
+					"Skipping the original visual novel is not recommended, as the anime adaptation cannot serve as a complete replacement for the source material. However, the STEINS;GATE animated series is widely considered one of the finest adaptations within the franchise.",
+					"Even for those who have already completed the anime, experiencing the original visual novel remains essential, as a significant amount of narrative detail and world-building was omitted during the adaptation process."
 				]
 	        },
         	{
       			"question": "What's the right order to watch STEINS;GATE?",
            		"answer": [
-            		"While multiple guides online advise a specific order for consuming STEINS;GATE, there's only one right option.",
-              		"STEINS;GATE must be watched in broadcast order:",
+            		"The definitive way to experience the series is strictly in original broadcast order, despite various alternative viewing paths suggested online. Deviating from this sequence can introduce major narrative inconsistencies and compromise the intended pacing.",
+              		"The optimal viewing order for STEINS;GATE is as follows:",
                 	[
                			"STEINS;GATE Anime (2011)",
                			"Egoistic Poriomania OVA (2012)",
                  		"STEINS;GATE Movie: Load Region of Déjà Vu (2013)"
                  	],
-                	"With all that out of the way, you can play the STEINS;GATE 0 visual novel and then watch the anime also in broadcast order:",
+                	"Upon completing the original series, you should experience the STEINS;GATE 0 visual novel before proceeding to its animated adaptations, which should be viewed in release order as well:",
                  	[
                   		"STEINS;GATE Episode 23β: Open the Missing Link OVA (2015)",
                     	"STEINS;GATE 0 Anime (2018)",
                      	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
-                  	],
-                 	"There's no other order. Don't be fooled by people online, as doing otherwise could ruin your experience."
+                  	]
             	]
         	}
         ],
@@ -497,12 +526,12 @@
                 ],
                 "hidden": true,
                 "notes": [
-                    "This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
-                    "The torrent includes the anime, OVA, movie, ONA, Episode 23β and STEINS;GATE 0. The order to watch the anime is in the FAQ section."
+                    "The animated series is designed to be experienced strictly in release order. It is highly recommended to disregard online community suggestions regarding an alternative \"chronological\" viewing order, as doing so introduces major narrative disruptions and compromises the intended pacing.",
+                    "The torrent includes the anime, OVA, movie, ONA, Episode 23β and STEINS;GATE 0. The definitive viewing order for the animated adaptations can be found detailed in the FAQ section down below."
                 ],
                 "hiddenNotes": [
-	                "This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
-	                "The order to watch the anime is in the FAQ section."
+	                "The animated series is designed to be experienced strictly in release order. It is highly recommended to disregard online community suggestions regarding an alternative \"chronological\" viewing order, as doing so introduces major narrative disruptions and compromises the intended pacing.",
+	                "The definitive viewing order for the animated adaptations can be found detailed in the FAQ section down below."
                 ]
             },
             {
@@ -1188,10 +1217,10 @@
         "cardOg": "/cards/rne_side_card.jpg",
         "faq": [
         	{
-       			"question": "Why can't I watch the anime?",
+       			"question": "Why shouldn't I watch the anime first?",
             	"answer": [
-             		"The ROBOTICS;NOTES anime is by no means a replacement for the visual novel. Despite being 22 episodes long, it's not a faithful adaptation.",
-               		"If you still want to watch it, do so only after finishing the ROBOTICS;NOTES visual novel."
+             		"The ROBOTICS;NOTES animated series cannot serve as an adequate substitute for the original visual novel, as it falls short of being a completely faithful adaptation despite its 22-episode runtime.",
+               		"For those who still wish to view the animated adaptation, it is highly recommended to do so only after completing the visual novel to ensure the narrative is experienced with its intended depth and pacing intact."
              	]
          	}
         ],
@@ -1436,10 +1465,10 @@
         "cardOg": "/cards/cc_side_card.jpg",
         "faq": [
         	{
-       			"question": "Why can't I watch the anime?",
+       			"question": "Why shouldn't I watch the anime first?",
             	"answer": [
-             		"The CHAOS;CHILD anime is by no means a replacement for the visual novel. Its 13 episodes fail to grasp the full concept of the original work, mostly because it was rushed due to budget constraints.",
-               		"If you still want to watch it, do so only after finishing the CHAOS;CHILD visual novel, as the anime itself is not a good adaptation."
+             		"The CHAOS;CHILD anime cannot serve as an adequate substitute for the visual novel, as its brief 13-episode runtime fails to capture the core concepts of the original work. Following an abrupt withdrawal of investor funding during late in production, the creative team faced severe budget and time constraints that forced a massive restructuring of the script. This emergency adaptation process compromised vital character development and world-building.",
+               		"For those still interested in exploring the animated adaptation, it should be viewed strictly after completing the visual novel to ensure the narrative is experienced with its intended depth."
              	]
          	}
         ],
@@ -1564,11 +1593,11 @@
                 ],
                 "hidden": true,
                 "notes": [
-                    "Do not watch the anime before the visual novel, it's a horrible adaptation and it will ruin your experience.",
+                    "Experiencing the visual novel before the anime is essential. The animated adaptation falls considerably short of the source material due to severe narrative cuts. Viewing the series first risks spoiling major plot twists while offering a heavily degraded introduction to the story.",
                     "The torrent includes the anime and the movie."
                 ],
                 "hiddenNotes": [
-                	"Do not watch the anime before the visual novel, it's a horrible adaptation and it will ruin your experience."
+               		"Experiencing the visual novel before the anime is essential. The animated adaptation falls considerably short of the source material due to severe narrative cuts. Viewing the series first risks spoiling major plot twists while offering a heavily degraded introduction to the story."
                 ]
             },
             {
@@ -1896,27 +1925,26 @@
 	        {
 		        "question": "Can I skip the visual novel and watch the anime?",
 				"answer": [
-					"Absolutely not. The STEINS;GATE 0 anime doesn't replace the original work. It's actually a continuation of the visual novel, essentially serving as another route.",
-					"If you've watched it, you still need to play the visual novel because the other routes are essential to the complete story."
+					"No, the STEINS;GATE 0 anime cannot serve as a replacement for the original visual novel. Rather than a straightforward adaptation, the animated series functions as an extension and a continuation of the visual novel's narrative, essentially acting as a final story route.",
+					"For those who have already watched the anime, playing the visual novel remains essential, as experiencing the game's alternate branching routes is necessary to comprehend the complete overarching storyline."
 				]
 	        },
         	{
       			"question": "What's the right order to watch STEINS;GATE?",
            		"answer": [
-            		"While multiple guides online advise a specific order for consuming STEINS;GATE, there's only one right option.",
-              		"STEINS;GATE must be watched in broadcast order:",
+           			"The definitive way to experience the series is strictly in original broadcast order, despite various alternative viewing paths suggested online. Deviating from this sequence can introduce major narrative inconsistencies and compromise the intended pacing.",
+             		"The optimal viewing order for STEINS;GATE is as follows:",
+               		[
+              			"STEINS;GATE Anime (2011)",
+              			"Egoistic Poriomania OVA (2012)",
+                		"STEINS;GATE Movie: Load Region of Déjà Vu (2013)"
+                	],
+                	"Upon completing the original series, you should experience the STEINS;GATE 0 visual novel before proceeding to its animated adaptations, which should be viewed in release order as well:",
                 	[
-               			"STEINS;GATE Anime (2011)",
-               			"Egoistic Poriomania OVA (2012)",
-                 		"STEINS;GATE Movie: Load Region of Déjà Vu (2013)"
-                 	],
-                	"With all that out of the way, you can play the STEINS;GATE 0 visual novel and then watch the anime also in broadcast order:",
-                 	[
-                  		"STEINS;GATE Episode 23β: Open the Missing Link OVA (2015)",
-                    	"STEINS;GATE 0 Anime (2018)",
-                     	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
-                  	],
-                 	"There's no other order. Don't be fooled by people online, as doing otherwise could ruin your experience."
+                 		"STEINS;GATE Episode 23β: Open the Missing Link OVA (2015)",
+                   		"STEINS;GATE 0 Anime (2018)",
+                    	"Valentine's of Crystal Polymorphism: Bittersweet Intermedio OVA (2018)"
+                 	]
             	]
         	}
         ],
@@ -2083,12 +2111,12 @@
                 ],
                 "hidden": true,
                 "notes": [
-                    "This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
-                    "The torrent includes the anime, OVA, movie, ONA, Episode 23β and STEINS;GATE 0. The order to watch the anime is in the FAQ section."
+                    "The animated series is designed to be experienced strictly in release order. It is highly recommended to disregard online community suggestions regarding an alternative \"chronological\" viewing order, as doing so introduces major narrative disruptions and compromises the intended pacing.",
+                    "The torrent includes the anime, OVA, movie, ONA, Episode 23β and STEINS;GATE 0. The definitive viewing order for the animated adaptations can be found detailed in the FAQ section down below."
                 ],
                 "hiddenNotes": [
-	               	"This anime is meant to be watched in release order. Do not believe anyone online who says that you need to watch some \"chronological\" order. That's a lie and will ruin your experience.",
-	                "The order to watch the anime is in the FAQ section."
+	               	"The animated series is designed to be experienced strictly in release order. It is highly recommended to disregard online community suggestions regarding an alternative \"chronological\" viewing order, as doing so introduces major narrative disruptions and compromises the intended pacing.",
+	                "The definitive viewing order for the animated adaptations can be found detailed in the FAQ section down below."
                 ]
             },
             {

@@ -86,9 +86,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/chn-patch.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/chn-patch.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -102,14 +102,14 @@
 			{
 				"question": "¿Cuál es la diferencia entre el CHAOS;HEAD original y la versión NOAH?",
 				"answer": [
-					"El CHAOS;HEAD original salió antes de lo esperado, más que nada porque 5pb. (predecesor de MAGES) no tenía el presupuesto suficiente para hacer el juego que originalmente tenían planeado.",
-					"Como resultado, lanzaron una versión con menos contenido para recaudar dinero, para así poder brindar la experiencia completa más adelante. Esa versión completa es CHAOS;HEAD NOAH."
+					"El CHAOS;HEAD original se publicó antes de lo esperado debido a los estrictos plazos impuestos por Nitroplus. Dado que 5pb. (predecesor de MAGES.) desarrolló el título utilizando el motor propietario de Nitroplus (N2System), se vio obligado a cumplir con una ventana de lanzamiento completamente rígida. A pesar de que el alcance del guion se había expandido sustancialmente, Nitroplus se negó a prorrogar la fecha de salida.",
+					"Como consecuencia, el estudio tuvo que comercializar una versión reducida de la obra. Aunque 5pb. planeaba distribuir posteriormente el material recortado mediante un parche descargable para PC, Nitroplus rechazó la propuesta. Esto forzó a 5pb. a publicar una edición independiente completamente nueva que incluyera todo el contenido que había quedado fuera del lanzamiento original. Esa versión definitiva es CHAOS;HEAD NOAH."
 				]
 			},
 			{
-				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"question": "Miré el anime primero, ¿aún así necesito jugar a la novela visual?",
 				"answer": [
-					"A pesar de que lo ideal es jugar y ver las entregas en orden, de todas formas necesitas jugar la novela visual de CHAOS;HEAD si ya viste el anime. Este último está totalmente incompleto y es muy corto, por lo que tu experiencia jugando la novela visual será infinitamente superior."
+					"Sí, jugar a la novela visual de CHAOS;HEAD NOAH sigue siendo fundamental incluso si ya has visto la adaptación al anime. La serie animada está extremadamente condensada y deja fuera partes significativas de la historia. En definitiva, la novela visual ofrece una experiencia ampliamente superior y una capa narrativa de mayor profundidad."
 				]
 			}
 		]
@@ -206,9 +206,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sghd.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/sghd.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -222,14 +222,14 @@
 			{
 				"question": "¿Y qué hay de STEINS;GATE ELITE?",
 				"answer": [
-					"Mientras que la versión ELITE de ROBOTICS;NOTES es recomendada por sobre la original (incluso si la original no está traducida), la versión ELITE de STEINS;GATE es simplemente una versión altamente degradada de la original.",
-					"STEINS;GATE ELITE corta alrededor de un 35% del guion original, mientras a su vez se deshace del típico formato de novela visual, reemplazándolo completamente por cinemáticas animadas."
+					"Mientras que ROBOTICS;NOTES ELITE es ampliamente considerada la versión definitiva en comparación con su lanzamiento original, no se puede decir lo mismo de STEINS;GATE ELITE, la cual muchos consideran una alternativa recortada respecto a la experiencia original.",
+					"La versión ELITE de STEINS;GATE elimina aproximadamente un 35% del guion de la novela visual original. Asimismo, abandona el arte estático tradicional y el formato de texto para reemplazarlos por cinemáticas completamente animadas y adaptadas del anime, lo que altera el ritmo y la profundidad de la narrativa."
 				]
 			},
 			{
-				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"question": "Miré el anime primero, ¿aún así necesito jugar a la novela visual?",
 				"answer": [
-					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE, tienes que jugar la novela visual de todas formas. Esta última provee información crucial que no está presente en el anime, especialmente detalles que la conectan con el resto de la <em>Science Adventure Series</em>."
+					"Sí, jugar a la novela visual de STEINS;GATE sigue siendo fundamental incluso si ya has visto la adaptación al anime. La novela visual aporta una construcción de mundo y un contexto narrativo, ambos cruciales, que fueron omitidos en la versión animada. Principalmente, aporta los detalles fundamentales y el trasfondo necesarios para comprender por completo la conexión de este título con las demás entregas de la <em>Science Adventure Series</em>."
 				]
 			}
 		]
@@ -254,7 +254,12 @@
 		"position": "center 30%",
 		"epigraph": "Si fueras Dios, y tus delirios pudieran volverse realidad. ¿En qué clase de delirios pensarías? ¿Un mundo concupiscente? ¿Una sociedad despótica? ¿Castigos destructivos? O...",
 		"description": "El verano al fin ha llegado a Shibuya. Takumi y las seis heroínas del juego anterior se juntan para salir, viviendo la vida escolar cotidiana. Pero en realidad, su voluntad de dejar de ser un otaku inútil y convertirse en un normie ha creado un mundo ilusorio donde las chicas sucumben ante su encanto. La única manera de volver al mundo real es matando a Seira-tan, quien recorre las calles de Shibuya. Mientras tanto, Taku será capaz de disfrutar una vida cursi con chicas 3D (¡aunque sólo en sus delirios!).",
-		"downloads": [],
+		"downloads": [
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://store-jp.nintendo.com/item/software/D70010000103269"
+			}
+		],
 		"japaneseOnly": {
 			"downloads": true
 		},
@@ -390,9 +395,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sgmde-patch.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/sgmde-patch.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -406,22 +411,22 @@
 		]
 	},
 	{
-		"title": "STEINS;GATE: Variant Space Octet",
+		"title": "STEINS;GATE: Octet of Shifting Space",
 		"jpn": "シュタインズ・ゲート 変移空間のオクテット",
-		"name": "sgvso",
+		"name": "sgoss",
 		"year": "2011-10-28",
 		"covers": [
-			"/banners/sgvso_banner1.avif",
-			"/banners/sgvso_banner1.webp",
-			"/banners/sgvso_banner1.png"
+			"/banners/sgoss_banner1.avif",
+			"/banners/sgoss_banner1.webp",
+			"/banners/sgoss_banner1.png"
 		],
 		"coversHorizontal": [
-			"/banners/sgvso_horizontal.avif",
-			"/banners/sgvso_horizontal.webp",
-			"/banners/sgvso_horizontal.jpg"
+			"/banners/sgoss_horizontal.avif",
+			"/banners/sgoss_horizontal.webp",
+			"/banners/sgoss_horizontal.jpg"
 		],
-		"card": "/cards/sgvso_card.png",
-		"cardOg": "/cards/sgvso_card.jpg",
+		"card": "/cards/sgoss_card.png",
+		"cardOg": "/cards/sgoss_card.jpg",
 		"position": "center",
 		"epigraph": "El universo tiene un principio, pero no un final. - Es infinito. Las estrellas también tienen un principio, pero su propio poder es lo que termina por destruirlas. - Son finitas. La historia ha demostrado que aquellos que poseen sabiduría son los más grandes ingenuos. Los peces del mar no conocen el mundo sobre la superficie. Si tuvieran esa sabiduría, también terminarían por destruirse. Es todavía más absurdo que la humanidad supere la velocidad de la luz a que los peces caminen sobre la tierra. Esta es la historia de aquellos que se revelaron ante la última advertencia de Dios...",
 		"description": "Una extensión del final verdadero del juego original. Al contrario del formato moderno de novela visual de su predecesor, esta entrega retro replica perfectamente el estilo de los juegos de aventura de la era de las PC en 8 bits (por ej., PC-88), donde el jugador ejecuta comandos cortos para interactuar y explorar el mundo virtual. Cuenta con escenarios y personajes dibujados en un estilo pixelado de pocos colores con líneas de escaneo emuladas, música chiptune reproducida a través de un chip FM simulado y carece de actuaciones de voz. La premisa involucra a Okabe, quien recibe un D-Mail de de su yo del 2025 en el que se le indica que debe salvar el futuro reclamando una IBN 5100 en posesión de una persona bajo el alias “Neidhardt”.",
@@ -497,9 +502,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sgvso-patch.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/sgvso-patch.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -610,9 +615,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/rne-steam.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/rne-steam.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -626,15 +631,15 @@
 			{
 				"question": "¿Cuál es la diferencia entre el ROBOTICS;NOTES original y la versión ELITE?",
 				"answer": [
-					"Dejando de lado el hecho de que el juego original nunca tuvo una localización oficial, la versión ELITE de ROBOTICS;NOTES fue diseñada para perfeccionar la obra original de muchas maneras.",
-					"La versión ELITE añade nuevas cinemáticas animadas para algunos momentos clave en los que los CGs originales no alcanzaban. También añade nuevas líneas a lo largo del guion y arregla algunas faltas de ortografía, a su vez eliminando otras líneas para mejorar el ritmo. Los modelos 3D fueron mejorados, aunque algunas expresiones faciales no llegaron a la versión definitiva.",
-					"Tristemente, la versión ELITE elimina un poco de contenido importante de la primera y última fase del juego, lo cual afectó el desarrollo de personajes. Probablemente no te des cuenta a menos que alguien te lo indique, aunque hay planes para un futuro parche que restaure ese contenido faltante. En el caso de que quieras leerlo después de terminar el juego, puedes <a href='/es/entries/rne/missing-content'>hacerlo aquí</a>."
+					"Independientemente del hecho de que el título original nunca recibió una localización oficial, ROBOTICS;NOTES ELITE fue diseñado para mejorar la experiencia fundacional en varios aspectos clave.",
+					"La versión ELITE incorpora secuencias animadas para elevar la presentación visual de ciertas escenas de acción. Asimismo, incluye revisiones al guion que añaden nuevos diálogos, correcciones de errores tipográficos y ajustes al ritmo general del juego. Adicionalmente, los modelos 3D de los personajes recibieron una mejora notable, aunque la expresividad facial se redujo en la transición.",
+					"Desafortunadamente, esta edición también prescindió de ciertos segmentos narrativos de la primera y la última fase del juego, lo que compromete ligeramente el desarrollo temprano de los personajes. Mientras que estas omisiones pueden pasar desapercibidas para los jugadores nuevos, hay planes para un futuro parche de la comunidad que permitirá disfrutar de ese contenido faltante. Para aquellos interesados en revisar el contenido recortado después de terminar el juego, el texto completo se encuentra disponible en <a href='/es/entries/rne/missing-content'>esta sección</a>."
 				]
 			},
 			{
-				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"question": "Miré el anime primero, ¿aún así necesito jugar a la novela visual?",
 				"answer": [
-					"A pesar de que lo ideal es jugar y ver las entregas en orden, de todas formas necesitas jugar la novela visual de ROBOTICS;NOTES si ya viste el anime. Este último no es una adaptación perfecta, y algunos personajes sufren de una mala caracterización, por lo que tu experiencia jugando la novela visual será infinitamente superior."
+					"Sí, jugar a la novela visual de ROBOTICS;NOTES sigue siendo fundamental incluso si ya has visto la adaptación al anime. La serie animada enfrentó limitaciones operativas al trasladar ciertos elementos de la obra original, lo que derivó en una pérdida de profundidad en el desarrollo de personajes y en la alteración de sus personalidades. En última instancia, la novela visual ofrece una experiencia narrativa ampliamente superior y con un trasfondo mucho más enriquecido."
 				]
 			}
 		]
@@ -713,9 +718,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sglbp-patch.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/sglbp-patch.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -815,9 +820,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/chaoschild-steam.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/chaoschild-steam.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -829,9 +834,9 @@
 				]
 			},
 			{
-				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"question": "Miré el anime primero, ¿aún así necesito jugar a la novela visual?",
 				"answer": [
-					"A pesar de que lo ideal es jugar y ver las entregas en orden, de todas formas necesitas jugar la novela visual de CHAOS;CHILD si ya viste el anime. Este último está lejos de ser una buena adaptación, ya que fue una producción apresurada y carece de una buena evolución de personajes y construcción de mundo, por lo que tu experiencia jugando la novela visual será infinitamente superior."
+					"Sí, jugar a la novela visual de CHAOS;CHILD sigue siendo fundamental incluso si ya has visto la adaptación al anime. La serie animada sufrió severas restricciones de tiempo y presupuesto luego de que los inversionistas retiraran los fondos de forma abrupta en una etapa avanzada de la producción. Esto forzó al equipo de escritores a reescribir por completo el guion para adaptarlo a una cantidad de episodios muy reducida, lo que perjudicó gravemente la construcción de mundo y el desarrollo de los personajes. En última instancia, la novela visual original se mantiene como la versión definitiva, proporcionando una narrativa completa y plenamente desarrollada."
 				]
 			}
 		]
@@ -928,9 +933,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/sg0-steam.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/sg0-steam.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -942,10 +947,10 @@
 				]
 			},
 			{
-				"question": "Miré el anime primero, ¿qué tan mal estoy?",
+				"question": "Miré el anime primero, ¿aún así necesito jugar a la novela visual?",
 				"answer": [
-					"Aunque jugar y ver las entregas en orden es lo ideal, si ya viste el anime de STEINS;GATE 0, tienes que jugar la novela visual de todas formas. Esta última provee información crucial que no está presente en el anime, especialmente detalles de otras rutas.",
-					"Si viste el anime de STEINS;GATE 0 antes de jugar al STEINS;GATE original, puede que estés un poco jodido, pero aún así recomiendo simplemente seguir con el orden de lanzamiento de los juegos."
+					"Sí, jugar a la novela visual de STEINS;GATE 0 sigue siendo fundamental incluso si ya has visto la adaptación al anime. La novela visual ofrece un contexto narrativo vital que fue omitido de la serie animada, particularmente en lo que respecta a los detalles de las rutas alternativas de la historia.",
+					"Además, ver STEINS;GATE 0 antes de completar el STEINS;GATE original afecta gravemente la tensión dramática y el ritmo de la trama en general. Por consiguiente, se recomienda encarecidamente adherirse estrictamente al orden de lanzamiento original de los juegos para disfrutar de la mejor experiencia posible."
 				]
 			}
 		]
@@ -1074,9 +1079,9 @@
 			}
 		],
 		"orderGuide": [
-			"Si quieres aprovechar al máximo la historia de OCCULTIC;NINE, hay un orden de consumo recomendado, ya que el anime va a un ritmo muy apresurado.",
-			"Deberías leer las novelas ligeras primero (aunque estén incompletas), ya que aportan el contexto suficiente para poder entender y disfrutar del anime.",
-			"Si sabes japonés, también puedes leer el manga y jugar la novela visual, ya que cada versión de OCCULTIC;NINE cuenta con un final diferente."
+			"Para comprender completamente la narrativa de OCCULTIC;NINE, se recomienda encarecidamente seguir un orden de consumo específico, ya que la adaptación al anime presenta un ritmo de entrega increíblemente rápido.",
+			"Lo ideal es comenzar con las novelas ligeras; a pesar de que permanecen incompletas, ofrecen el contexto esencial necesario para seguir y apreciar la trama de la serie animada.",
+			"Además, para aquellos con dominio del japonés, explorar la adaptación al manga y jugar a la novela visual es una opción muy aconsejable, ya que cada adaptación individual de OCCULTIC;NINE ofrece un final completamente diferente."
 		],
 		"screenshots": [
 			[
@@ -1132,15 +1137,15 @@
 			{
 				"question": "¿Por qué hay tantas formas de experimentar OCCULTIC;NINE?",
 				"answer": [
-					"Shikura Chiyomaru, el creador de la novela ligera de OCCULTIC;NINE, concebió el proyecto como una serie multimedia. Como se menciona anteriormente en el \"Orden para ver\", OCCULTIC;NINE fue lanzado en cuatro formatos diferentes: novela ligera (2014), manga (2015), anime (2016) y novela visual (2017), cada uno con finales diferentes y variaciones en la historia.",
-					"Consecuentemente, para entender la historia por completo, es recomendable experimentar cada versión, empezando con la novela ligera."
+					"Shikura Chiyomaru, el creador de la novela ligera de OCCULTIC;NINE, concebió el proyecto originalmente como una franquicia multimedia. Como se detalla en la mencionada sección anterior \"Orden de consumo\", la narrativa se extiende a través de cuatro formatos distintos: la novela ligera (2014), el manga (2015), el anime (2016) y la novela visual (2017). Cada iteración introduce variaciones únicas en la trama y finales completamente diferentes.",
+					"Por lo tanto, para comprender la historia en su totalidad, se aconseja a los lectores y espectadores experimentar cada una de las adaptaciones, empezando por la novela ligera."
 				]
 			},
 			{
 				"question": "¿Pero por qué no puedo leer OCCULTIC;NINE antes que STEINS;GATE 0?",
 				"answer": [
-					"Aunque el primer volumen de la novela ligera salió antes que STEINS;GATE 0, los volúmenes posteriores se lanzaron en 2017, mientras que el anime se emitió un año antes.",
-					"Probablemente podrías leerlos primero si quieres, pero STEINS;GATE 0 (o al menos su concepto, la Trilogía Epígrafe) existía desde mucho antes de que OCCULTIC;NINE fuese creado."
+					"Aunque el primer volumen de la novela ligera precede al lanzamiento original de STEINS;GATE 0, los volúmenes posteriores no fueron publicados hasta 2017, mucho después de que el anime se emitiera en 2016.",
+					"Mientras que leer la novela ligera primero sigue siendo una opción viable, vale la pena destacar que la base conceptual de STEINS;GATE 0 (específicamente la Trilogía Epígrafe) existió mucho antes de que OCCULTIC;NINE fuese siquiera concebido."
 				]
 			}
 		]
@@ -1177,6 +1182,10 @@
 			{
 				"platform": "PlayStation 4",
 				"url": "https://store.playstation.com/ja-jp/product/JP0745-CUSA07047_00-CHAOSCHILDLCCPS4"
+			},
+			{
+				"platform": "Nintendo Switch",
+				"url": "https://store-jp.nintendo.com/item/software/D70010000103269"
 			}
 		],
 		"japaneseOnly": {
@@ -1324,9 +1333,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/rnd-steam.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/rnd-steam.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
@@ -1425,9 +1434,9 @@
 			{
 				"question": "¿Realmente necesito aplicar el parche?",
 				"answer": [
-					"Sí, necesitas aplicarlo sin dudas.",
-					"La mayoría de los juegos en la <em>Science Adventure Series</em> sufren de terminología incorrecta, malas traducciones y de la falta de algunas características (efectos, ajuste de texto, CGs editados, etc.). Algunos incluso tienen contenido recortado gracias a la censura, pero el parche lo restaura. Estos cambios también te permiten jugar el juego en japonés si lo deseas.",
-					"Si quieres ver una lista completa de los cambios hechos por el Committee of Zero para este juego, puedes <a href='https://sonome.dareno.me/projects/ac-patch.html' target='_blank'>chequearla aquí</a>."
+					"Sí, instalar el parche es altamente recomendable.",
+					"La mayoría de las entregas en la <em>Science Adventure Series</em> sufren deficiencias de localización, lo que incluye terminología inconsistente, traducciones imprecisas y la ausencia de ciertas características técnicas esenciales, como word wrapping, efectos visuales y CGs sin editar. En algunos casos, el parche también restaura el contenido censurado por las plataformas y reintroduce la opción para jugar con el texto en japonés.",
+					"Si quieres consultar el desglose completo de todas las correcciones y mejoras realizadas por el Committee of Zero, puedes <a href='https://sonome.dareno.me/projects/ac-patch.html' target='_blank'>revisarlo aquí</a>."
 				]
 			},
 			{
