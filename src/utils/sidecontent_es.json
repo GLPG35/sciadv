@@ -95,7 +95,7 @@
             	"type": "dramacd",
             	"urls": [
              		{
-            			"name": "[YouTube]",
+            			"name": "[YouTube] (Sólo en inglés)",
             			"url": "https://www.youtube.com/watch?v=MrKpjZNStLQ"
                		}
              	]
@@ -110,7 +110,7 @@
             	"type": "dramacd",
             	"urls": [
              		{
-            			"name": "[YouTube]",
+            			"name": "[YouTube] (Sólo en inglés)",
             			"url": "https://www.youtube.com/watch?v=gToS2f_HTPU"
                		}
              	]
@@ -130,6 +130,21 @@
                         "url": "https://mangadex.org/title/2d4fdda0-cfb0-4bec-9417-08c6fac229e4/chaos-head-blue-complex"
                     }
                 ]
+            },
+            {
+           		"uuid": "019fae07-72fa-7000-b5e8-36df15addd3c",
+            	"title": "CHAOS;HEAD Delusion Voice: Kusunoki Yua Chapter",
+            	"date": "2009-02-25",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube] (Sólo en inglés)",
+            			"url": "https://www.youtube.com/watch?v=WfJpC1mbLUg"
+               		}
+             	]
             },
             {
                 "uuid": "019ef96c-52a8-7003-bc8e-62f7b097d81f",
