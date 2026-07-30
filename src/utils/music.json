@@ -790,9 +790,14 @@
           		"date": "2010-08-13",
           		"description": "Game Soundtrack",
               	"urls": [
+             		{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/4TjlV3N8wC4LjHHyf1qPrk",
+						"hidden": false
+					},
                		{
                			"name": "Apple Music",
-                		"url": "https://music.apple.com/jp/album/chaos-child-%E3%82%89%E3%81%B6chu-chu-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%CE%B1/6772871212",
+                		"url": "https://music.apple.com/jp/album/chaos-child-らぶchu-chu-サウンドトラック-α/6772871212",
                 		"hidden": false
                  	},
                		{
@@ -6659,6 +6664,11 @@
 				"date": "2017-03-30",
 				"description": "Game Soundtrack",
 				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/4TjlV3N8wC4LjHHyf1qPrk",
+						"hidden": false
+					},
 					{
 						"name": "Apple Music",
 						"url": "https://music.apple.com/jp/album/chaos-child-らぶchu-chu-サウンドトラック-α/6772871212",
