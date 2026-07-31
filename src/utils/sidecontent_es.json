@@ -234,21 +234,6 @@
 	            }
             },
             {
-                "uuid": "019ef96c-52a8-7008-b7f1-2c1e48ce3ac4",
-                "title": "Tríptico de una cadena abrupta: pabellón enigmático",
-                "date": "2013-08-10",
-                "essential": false,
-                "notRecommended": false,
-                "incomplete": false,
-                "type": "dramacd",
-                "urls": [
-                    {
-                        "name": "[YouTube] (Sólo en inglés)",
-                        "url": "https://www.youtube.com/watch?v=Mxikgi5nVNI"
-                    }
-                ]
-            },
-            {
                 "uuid": "019fb7f1-51c7-7000-8b53-6382753e6015",
                 "title": "CHAOS;HEAD Love Chu☆Chu!",
                 "date": "2011-03-01",
@@ -274,6 +259,21 @@
 	              	"link": "/entries/chlcc",
 	               	"type": "play"
 	            }
+            },
+            {
+                "uuid": "019ef96c-52a8-7008-b7f1-2c1e48ce3ac4",
+                "title": "Tríptico de una cadena abrupta: pabellón enigmático",
+                "date": "2013-08-10",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=Mxikgi5nVNI"
+                    }
+                ]
             }
         ]
     },
