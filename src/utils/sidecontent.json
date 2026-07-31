@@ -247,6 +247,33 @@
                         "url": "https://www.youtube.com/watch?v=Mxikgi5nVNI"
                     }
                 ]
+            },
+            {
+                "uuid": "019fb7f1-51c7-7000-8b53-6382753e6015",
+                "title": "CHAOS;HEAD Love Chu☆Chu!",
+                "date": "2011-03-01",
+                "finishDate": "2012-06-01",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "manga",
+                "urls": [
+                    {
+                        "name": "[CBZ]",
+                        "url": "https://files.catbox.moe/qs2yvh.zip",
+                        "external": true,
+                        "externalName": "CHAOS;HEAD Love Chu☆Chu! Manga.zip"
+                    },
+                    {
+                        "name": "[CBZ] (Mirror)",
+                        "url": "https://file.garden/afE1MkDycVrE3Bhr/CHAOS%3BHEAD%20Love%20Chu%E2%98%86Chu!%20Manga.zip"
+                    }
+                ],
+                "must": {
+	             	"name": "CHAOS;HEAD Love Chu☆Chu!",
+	              	"link": "/entries/chlcc",
+	               	"type": "play"
+	            }
             }
         ]
     },
