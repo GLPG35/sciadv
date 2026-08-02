@@ -147,6 +147,21 @@
              	]
             },
             {
+           		"uuid": "019fc097-d9c8-7000-80c9-26d57eaf682c",
+            	"title": "CHAOS;HEAD Delusion Voice: Aoi Sena Chapter",
+            	"date": "2009-02-25",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube]",
+            			"url": "https://www.youtube.com/watch?v=DejT5dbew0c"
+               		}
+             	]
+            },
+            {
                 "uuid": "019ef96c-52a8-7003-bc8e-62f7b097d81f",
                 "title": "CHAOS;HEAD",
                 "date": "2009-04-27",
