@@ -190,6 +190,21 @@
                 ]
             },
             {
+           		"uuid": "019fc8d3-eb4a-7000-86ad-f51483407067",
+            	"title": "CHAOS;HEAD Delusion Voice: Seira Orgel Chapter",
+            	"date": "2009-02-25",
+            	"essential": false,
+            	"notRecommended": false,
+            	"incomplete": false,
+            	"type": "dramacd",
+            	"urls": [
+             		{
+            			"name": "[YouTube]",
+            			"url": "https://www.youtube.com/watch?v=hay21Eup1IU"
+               		}
+             	]
+            },
+            {
                 "uuid": "019ef96c-52a8-7005-9742-88b509472fa4",
                 "title": "CHAOS;HEAD Delusion Voice: Hazuki Shino Chapter",
                 "date": "2009-08-05",
