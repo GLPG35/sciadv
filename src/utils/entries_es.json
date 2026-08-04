@@ -306,7 +306,8 @@
 				"question": "¿Cuándo habrá un parche para este juego?",
 				"answer": [
 					"El Committee of Zero está trabajando arduamente en un port y parche para este juego.",
-					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso, con una ventana de lanzamiento para finales de 2026. Estará disponible para Windows, Mac, Linux, Android y Nintendo Switch."
+					"El juego está completamente traducido y el port se encuentra en su fase final de desarrollo, con una ventana de lanzamiento para finales de 2026. Estará disponible para Windows, Mac, Linux, Android y Nintendo Switch.",
+					"Para obtener información detallada sobre el progreso del port, por favor consulte el <a href='https://github.com/CommitteeOfZero/impacto/milestones' target='_blank'>repositorio en GitHub</a>."
 				]
 			}
 		]
@@ -1240,7 +1241,8 @@
 				"question": "¿Cuándo habrá un parche para este juego?",
 				"answer": [
 					"El Committee of Zero está trabajando arduamente en un port y parche para este juego.",
-					"El juego está completamente traducido y el port se encuentra al {percentage} de progreso, con una ventana de lanzamiento para finales de 2026. Estará disponible para Windows, Mac, Linux, Android y Nintendo Switch."
+					"El juego está completamente traducido y el port se encuentra en su fase final de desarrollo, con una ventana de lanzamiento para finales de 2026. Estará disponible para Windows, Mac, Linux, Android y Nintendo Switch.",
+					"Para obtener información detallada sobre el progreso del port, por favor consulte el <a href='https://github.com/CommitteeOfZero/impacto/milestones' target='_blank'>repositorio en GitHub</a>."
 				]
 			}
 		]

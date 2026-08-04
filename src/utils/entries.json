@@ -305,8 +305,9 @@
 			{
 				"question": "When will there be a patch for this game?",
 				"answer": [
-					"The Committee of Zero is working hard on a patch and port of this game.",
-					"The game is fully translated and the port is currently at {percentage}, with an expected release window of late 2026. It will be available for Windows, Mac, Linux, Android and Nintendo Switch."
+					"The Committee of Zero is working hard to deliver a patch and port of this game.",
+					"The game is fully translated, and the port is currently being finalized, with an expected release window of late 2026. It will be available for Windows, Mac, Linux, Android, and Nintendo Switch.",
+					"For detailed information regarding the progress of the port, please refer to the <a href='https://github.com/CommitteeOfZero/impacto/milestones' target='_blank'>GitHub repository</a>."
 				]
 			}
 		]
@@ -1239,8 +1240,9 @@
 			{
 				"question": "When will there be a patch for this game?",
 				"answer": [
-					"The Committee of Zero is working hard on a patch and port of this game.",
-					"The game is fully translated and the port is currently at {percentage}, with an expected release window of late 2026. It will be available for Windows, Mac, Linux, Android and Nintendo Switch."
+					"The Committee of Zero is working hard to deliver a patch and port of this game.",
+					"The game is fully translated, and the port is currently being finalized, with an expected release window of late 2026. It will be available for Windows, Mac, Linux, Android, and Nintendo Switch.",
+					"For detailed information regarding the progress of the port, please refer to the <a href='https://github.com/CommitteeOfZero/impacto/milestones' target='_blank'>GitHub repository</a>."
 				]
 			}
 		]
