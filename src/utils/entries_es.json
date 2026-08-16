@@ -267,19 +267,8 @@
 			"name": "Parche del Committee of Zero",
 			"completionURLs": [
 				{
-					"name": "v0.9.X (Pulido)",
-					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
-				},
-				{
-					"name": "v0.10.X (Características comunes y extras)",
+					"name": "v0.10.X Finalización (Experiencia de usuario, sistemas de recompensas, optimizaciones, especificidades por plataforma)",
 					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
-				},
-				{
-					"name": "v0.10.X (Blocked by)",
-					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/6",
-					"notes": [
-						"\"Blocked by\" son issues que están bloqueados por otro issue."
-					]
 				}
 			]
 		},
@@ -1196,19 +1185,8 @@
 			"name": "Parche del Committee of Zero",
 			"completionURLs": [
 				{
-					"name": "v0.9.X (Pulido)",
-					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/5"
-				},
-				{
-					"name": "v0.10.X (Características comunes y extras)",
+					"name": "v0.10.X Finalización (Experiencia de usuario, sistemas de recompensas, optimizaciones, especificidades por plataforma)",
 					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/4"
-				},
-				{
-					"name": "v0.10.X (Blocked by)",
-					"url": "https://api.github.com/repos/CommitteeOfZero/impacto/milestones/6",
-					"notes": [
-						"\"Blocked by\" son issues que están bloqueados por otro issue."
-					]
 				}
 			]
 		},
