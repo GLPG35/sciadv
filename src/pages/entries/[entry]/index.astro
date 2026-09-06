@@ -23,6 +23,9 @@ const nextEntry = entries.findIndex(x => x.name === Astro.params.entry) === entr
 const isDate = entry.year.includes('-')
 const [fullYear, month, day] = entry.year.split('-')
 const date = isDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+fullYear, +month - 1, +day)) : entry.year
+const altDate = entry.altYear ? entry.altYear : null
+const [altYear, altMonth, altDay] = altDate ? altDate.year.split('-') : []
+const altNewDate = altDate ? Intl.DateTimeFormat('en-US', { dateStyle: 'long' }).format(new Date(+altYear, +altMonth - 1, +altDay)) : null
 
 const anim = {
 	old: {
@@ -94,7 +97,8 @@ const customTransition = {
 						<div class="title">
 							<span class="jpn">{entry.jpn}</span>
 							<h2>{entry.title}</h2>
-							<div class="date">{date}</div>
+							<div class="date">{`${date}${altDate ? ` (${altDate.original})` : ''}`}</div>
+							{altDate && <div class="date">{altNewDate} ({altDate.new})</div>}
 							<div class="prevNext">
 								{prevEntry !== null && <a href={`/entries/${entries[prevEntry].name}`}><LuChevronLeft /> Previous</a>}
 								{nextEntry !== null && <a href={`/entries/${entries[nextEntry].name}`}>Next <LuChevronRight /></a>}
@@ -122,13 +126,13 @@ const customTransition = {
 									<span>Upcoming patch:</span>
 									<p>{entry.upcomingPatch.name}</p>
 									<ul>
-										{entry.upcomingPatch.completionURLs.map(async version => {
+										{entry.upcomingPatch.completionURLs && entry.upcomingPatch.completionURLs.map(async version => {
 											const percentage = await fetch(version.url).then(res => res.json().then(json => {
 												if (res.ok) {
 													const { open_issues, closed_issues } = json
 													const total = open_issues + closed_issues
 													const percentage = ((closed_issues / total) * 100).toFixed(2)
-	
+
 													return percentage
 												}
 
@@ -137,7 +141,7 @@ const customTransition = {
 													"4": 70.59,
 													"6": 0.00,
 												}
-	
+
 												return fallback[version.url.split('/').pop() as keyof typeof fallback]
 											}))
 
@@ -146,6 +150,7 @@ const customTransition = {
 												{version.notes && <span>{version.notes}</span>}
 											</>
 										})}
+										{entry.upcomingPatch.notes && <span>{entry.upcomingPatch.notes}</span>}
 									</ul>
 								}
 								{entry.lightNovel &&

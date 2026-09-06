@@ -657,7 +657,7 @@
               		}
                	],
               	"trackList": [
-               		{	
+               		{
             			"name": "密教の首飾り (Black Mass Ver.)",
             			"duration": "04:54",
                			"foundIn": ""
@@ -4797,6 +4797,201 @@
 					{
 						"name": "GATE OF STEINER -10th anniversary-",
 						"duration": "04:19",
+						"foundIn": ""
+					}
+				]
+			},
+			{
+				"name": "STEINS;GATE RE:BOOT SOUNDTRACK",
+				"cover": "/covers/sg/sgrb_ost.jpg",
+				"date": "2026-08-20",
+				"description": "BSO del juego",
+				"urls": [
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/A5oUEKaZ#UW2g-G7obqYyu2JXNQoVaA",
+						"hidden": true
+					},
+					{
+						"name": "Steam",
+						"url": "https://store.steampowered.com/app/4872720/STEINSGATE_REBOOT_Soundtrack/",
+						"hidden": false
+					}
+				],
+				"trackList": [
+					{
+						"name": "GATE OF STEINER -Main theme- (RE:BOOT)",
+						"duration": "03:51",
+						"foundIn": ""
+					},
+					{
+						"name": "The universe (RE:BOOT)",
+						"duration": "01:01",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory (RE:BOOT)",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Suspicious eyes (RE:BOOT)",
+						"duration": "03:58",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times (RE:BOOT)",
+						"duration": "02:24",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation (RE:BOOT)",
+						"duration": "04:16",
+						"foundIn": ""
+					},
+					{
+						"name": "Quiet air (RE:BOOT)",
+						"duration": "02:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Yanabayashi (RE:BOOT)",
+						"duration": "02:39",
+						"foundIn": ""
+					},
+					{
+						"name": "Walking on sleeping (RE:BOOT)",
+						"duration": "03:01",
+						"foundIn": ""
+					},
+					{
+						"name": "Cycle (RE:BOOT)",
+						"duration": "05:44",
+						"foundIn": ""
+					},
+					{
+						"name": "Hack -beta vision- (RE:BOOT)",
+						"duration": "03:00",
+						"foundIn": ""
+					},
+					{
+						"name": "\"SERN\" (RE:BOOT)",
+						"duration": "03:26",
+						"foundIn": ""
+					},
+					{
+						"name": "Assailant (RE:BOOT)",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "The Limit (RE:BOOT)",
+						"duration": "03:36",
+						"foundIn": ""
+					},
+					{
+						"name": "Select of sorrow (RE:BOOT)",
+						"duration": "02:40",
+						"foundIn": ""
+					},
+					{
+						"name": "Chaos mind (RE:BOOT)",
+						"duration": "03:27",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads (RE:BOOT)",
+						"duration": "02:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Self affirmation (RE:BOOT)",
+						"duration": "03:02",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me (RE:BOOT)",
+						"duration": "02:31",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER -Piano- (RE:BOOT)",
+						"duration": "04:55",
+						"foundIn": ""
+					},
+					{
+						"name": "Human community (RE:BOOT)",
+						"duration": "02:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Network battle (RE:BOOT)",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Hesitative consideration (RE:BOOT)",
+						"duration": "02:48",
+						"foundIn": ""
+					},
+					{
+						"name": "Urd (RE:BOOT)",
+						"duration": "03:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Fake Verthandi (RE:BOOT)",
+						"duration": "02:27",
+						"foundIn": ""
+					},
+					{
+						"name": "OPERATION SKULD (RE:BOOT)",
+						"duration": "04:08",
+						"foundIn": ""
+					},
+					{
+						"name": "Solitude (RE:BOOT)",
+						"duration": "02:14",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Beginning of fight- (RE:BOOT)",
+						"duration": "00:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Village- (RE:BOOT)",
+						"duration": "00:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Easygoingness- (RE:BOOT)",
+						"duration": "00:41",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Precaution- (RE:BOOT)",
+						"duration": "01:10",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Over the sky- (RE:BOOT)",
+						"duration": "00:50",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Reunion- (RE:BOOT)",
+						"duration": "00:30",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -GATE OF STEINER- (RE:BOOT)",
+						"duration": "00:42",
+						"foundIn": ""
+					},
+					{
+						"name": "Leap (RE:BOOT)",
+						"duration": "00:17",
 						"foundIn": ""
 					}
 				]

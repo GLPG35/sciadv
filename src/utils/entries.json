@@ -3,7 +3,12 @@
 		"title": "CHAOS;HEAD NOAH",
 		"jpn": "カオスヘッド ノア",
 		"name": "chn",
-		"year": "2009-02-26",
+		"year": "2008-04-25",
+		"altYear": {
+			"year": "2009-02-26",
+			"original": "Original",
+			"new": "NOAH"
+		},
 		"covers": [
 			"/banners/chn_banner1.avif",
 			"/banners/chn_banner1.webp",
@@ -512,6 +517,11 @@
 		"jpn": "ロボティクス・ノーツ エリート",
 		"name": "rne",
 		"year": "2012-06-28",
+		"altYear": {
+			"year": "2014-06-26",
+			"original": "Original",
+			"new": "ELITE"
+		},
 		"covers": [
 			"/banners/rne_banner1.avif",
 			"/banners/rne_banner1.webp",
@@ -949,7 +959,7 @@
 		"title": "OCCULTIC;NINE",
 		"jpn": "オカルティック・ナイン",
 		"name": "on",
-		"year": "2016-10-08",
+		"year": "2016-10-09",
 		"covers": [
 			"/banners/on_banner1.avif",
 			"/banners/on_banner1.webp",
@@ -997,7 +1007,7 @@
 				"link": "[Direct]",
 				"link2": "[Mirror]",
 				"url": "https://files.catbox.moe/6x56fl.zip",
-				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20LN%20Volumes%201-3.zip", 
+				"url2": "https://file.garden/afE1MkDycVrE3Bhr/Occultic%3BNine%20LN%20Volumes%201-3.zip",
 				"external": {
 					"name": "Occultic;Nine LN (Volumes 1-3).zip",
 					"index": 0
@@ -1042,7 +1052,7 @@
 						"url": "https://amzn.asia/d/0e47bdaG"
 					}
 				]
-				
+
 			},
 			{
 				"name": "OCCULTIC;NINE Manga Volumes 1 - 4 [CBZ] (JPN)",
@@ -1461,6 +1471,15 @@
 				"url": "https://store.steampowered.com/app/4012810/STEINSGATE_REBOOT/"
 			}
 		],
+		"upcomingPatch": {
+			"name": "Committee of Zero Patch",
+			"notes": "This patch will address several critical bugs, add translated CGs, and resolve translation inconsistencies"
+		},
+		"guide": {
+			"name": "Kiri Kiri Basara 100% Spoiler-free Guide",
+			"url": "https://www.kirikiribasara.com/2026/08/19/steins-gate-reboot-100-guide/",
+			"optional": false
+		},
 		"screenshots": [
 			[
 				[
@@ -1493,7 +1512,32 @@
 					"/screenshots/sgrb/4.png"
 				],
 				"visible"
+			],
+			[
+				[
+					"/screenshots/sgrb/5.avif",
+					"/screenshots/sgrb/5.webp",
+					"/screenshots/sgrb/5.png"
+				],
+				"visible"
 			]
+		],
+		"faq": [
+			{
+				"question": "Can I skip the original STEINS;GATE and play RE:BOOT instead?",
+				"answer": [
+					"The original STEINS;GATE remains the definitive way to experience the story. Despite the new features and narrative additions in this remake, playing the original game first is highly recommended. Because the RE:BOOT script is based on the ELITE version, players end up missing out on more than 40% of the overarching narrative.",
+					"Furthermore, this entry follows the established rules of the series and should be played in release order, specifically after ANONYMOUS;CODE."
+				]
+			},
+			{
+				"question": "What's the difference between the original STEINS;GATE and the RE:BOOT version?",
+				"answer": [
+					"The main differences lie in the overall presentation, narrative additions, and script cuts.",
+					"RE:BOOT features a brand-new art style by huke, while also doubling the number of CGs compared to the original game. This updated aesthetic also introduces 2.5D sprites animated with E-mote technology, which brings the characters to life with dynamic reactions and expressions, a stark contrast to the static 2D sprites of the original.",
+					"Furthermore, this remake introduces a brand-new route alongside several original scenes; however, as mentioned previously, it also cuts a significant amount of content from the script due to it being based on the ELITE version."
+				]
+			}
 		]
 	},
 	{

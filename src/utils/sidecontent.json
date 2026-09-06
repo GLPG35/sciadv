@@ -51,7 +51,7 @@
               	"urls": [
                		{
                			"name": "[YouTube]",
-                		"url": "https://www.youtube.com/watch?v=GeT8YjFsfNo"
+                		"url": "https://www.youtube.com/watch?v=9gW93aBqiys"
                  	}
                	]
             },
@@ -66,7 +66,7 @@
             	"urls": [
              		{
             			"name": "[YouTube]",
-            			"url": "https://www.youtube.com/watch?v=CHqxjtR5ND0"
+            			"url": "https://www.youtube.com/watch?v=hU_3lh6E1UM"
                		}
              	]
             },
@@ -266,8 +266,8 @@
             {
                 "uuid": "019fb7f1-51c7-7000-8b53-6382753e6015",
                 "title": "CHAOS;HEAD Love Chu☆Chu!",
-                "date": "2011-03-01",
-                "finishDate": "2012-06-01",
+                "date": "2011-03-14",
+                "finishDate": "2012-06-15",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -392,7 +392,7 @@
                 "uuid": "019ef96c-52a8-700c-b7cd-cb3dcddea6b7",
                 "title": "Magi-Cue 4Koma: World Line Divergence x.091015%",
                 "date": "2010-04-24",
-                "finishDate": "2011-04-25",
+                "finishDate": "2012-11-24",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": true,
@@ -444,7 +444,7 @@
                 "uuid": "019ef96c-52a8-700f-801d-9797f8857593",
                 "title": "STEINS;GATE",
                 "date": "2010-06-19",
-                "finishDate": "2013-07-27",
+                "finishDate": "2013-09-30",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1007,21 +1007,6 @@
                 ]
             },
             {
-                "uuid": "019ef96c-52a9-700d-b8ff-2c15406a6f86",
-                "title": "Arpeggio of Time's Rotation",
-                "date": "2013-06-28",
-                "essential": false,
-                "notRecommended": false,
-                "incomplete": true,
-                "type": "dramacd",
-                "urls": [
-                    {
-                        "name": "[YouTube]",
-                        "url": "https://www.youtube.com/watch?v=zKFiqymnTUU"
-                    }
-                ]
-            },
-            {
                 "uuid": "019ef96c-52a9-700e-b1e4-aa8a1efc38a0",
                 "title": "Steins;Gate: Epigraph of the Closed Curve",
                 "date": "2013-07-13",
@@ -1038,17 +1023,17 @@
                 ]
             },
             {
-                "uuid": "019ef96c-52a9-700f-920b-7e80c557f23f",
-                "title": "Triptych of an Abrupt Chain: An Idol's Dream Stage",
-                "date": "2013-08-10",
+                "uuid": "019ef96c-52a9-700d-b8ff-2c15406a6f86",
+                "title": "Arpeggio of Time's Rotation",
+                "date": "2013-09-26",
                 "essential": false,
                 "notRecommended": false,
-                "incomplete": false,
+                "incomplete": true,
                 "type": "dramacd",
                 "urls": [
                     {
                         "name": "[YouTube]",
-                        "url": "https://www.youtube.com/watch?v=pQ74GF7goes"
+                        "url": "https://www.youtube.com/watch?v=zKFiqymnTUU"
                     }
                 ]
             },
@@ -1065,6 +1050,21 @@
                     {
                         "name": "[YouTube]",
                         "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAg-3-dsjVe7w9ytoCjVzrH"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-700f-920b-7e80c557f23f",
+                "title": "Triptych of an Abrupt Chain: An Idol's Dream Stage",
+                "date": "2013-11-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=pQ74GF7goes"
                     }
                 ]
             },
@@ -1184,7 +1184,7 @@
             {
                 "uuid": "019ef96c-52a9-7017-afe0-533fed2de5b0",
                 "title": "Steins;Gate: Inductance of World Rotation",
-                "date": "2015",
+                "date": "2015-10-26",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1257,7 +1257,8 @@
             {
                 "uuid": "019ef96c-52a9-701c-80d9-e9651afbdab5",
                 "title": "Steins;Gate x Hello Kitty: Chance Encounter of Goldig Party",
-                "date": "2020-01-23",
+                "date": "2020-04-02",
+                "finishDate": "2020-04-23",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1403,7 +1404,7 @@
             {
                 "uuid": "019ef96c-52a9-7023-b681-a4d3f795d698",
                 "title": "A Day in the Life of Koujiro Frau",
-                "date": "2013-04-08",
+                "date": "2012-07-10",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,

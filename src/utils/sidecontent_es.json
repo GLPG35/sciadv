@@ -51,7 +51,7 @@
               	"urls": [
                		{
                			"name": "[YouTube] (Sólo en inglés)",
-                		"url": "https://www.youtube.com/watch?v=GeT8YjFsfNo"
+                		"url": "https://www.youtube.com/watch?v=9gW93aBqiys"
                  	}
                	]
             },
@@ -66,7 +66,7 @@
             	"urls": [
              		{
             			"name": "[YouTube] (Sólo en inglés)",
-            			"url": "https://www.youtube.com/watch?v=CHqxjtR5ND0"
+            			"url": "https://www.youtube.com/watch?v=hU_3lh6E1UM"
                		}
              	]
             },
@@ -266,8 +266,8 @@
             {
                 "uuid": "019fb7f1-51c7-7000-8b53-6382753e6015",
                 "title": "CHAOS;HEAD Love Chu☆Chu!",
-                "date": "2011-03-01",
-                "finishDate": "2012-06-01",
+                "date": "2011-03-14",
+                "finishDate": "2012-06-15",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -444,7 +444,7 @@
                 "uuid": "019ef96c-52a8-700f-801d-9797f8857593",
                 "title": "STEINS;GATE",
                 "date": "2010-06-19",
-                "finishDate": "2013-07-27",
+                "finishDate": "2013-09-30",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1019,21 +1019,6 @@
                 ]
             },
             {
-                "uuid": "019ef96c-52a9-700d-b8ff-2c15406a6f86",
-                "title": "Arpeggio of Time's Rotation",
-                "date": "2013-06-28",
-                "essential": false,
-                "notRecommended": false,
-                "incomplete": true,
-                "type": "dramacd",
-                "urls": [
-                    {
-                        "name": "[YouTube] (Sólo en inglés)",
-                        "url": "https://www.youtube.com/watch?v=zKFiqymnTUU"
-                    }
-                ]
-            },
-            {
                 "uuid": "019ef96c-52a9-700e-b1e4-aa8a1efc38a0",
                 "title": "Steins;Gate: Epígrafe de la curva temporal cerrada",
                 "date": "2013-07-13",
@@ -1050,17 +1035,17 @@
                 ]
             },
             {
-                "uuid": "019ef96c-52a9-700f-920b-7e80c557f23f",
-                "title": "Tríptico de una cadena abrupta: el escenario de ensueño de una idol",
-                "date": "2013-08-10",
+                "uuid": "019ef96c-52a9-700d-b8ff-2c15406a6f86",
+                "title": "Arpeggio of Time's Rotation",
+                "date": "2013-09-26",
                 "essential": false,
                 "notRecommended": false,
-                "incomplete": false,
+                "incomplete": true,
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[YouTube]",
-                        "url": "https://www.youtube.com/watch?v=1KI4zbdiBJY"
+                        "name": "[YouTube] (Sólo en inglés)",
+                        "url": "https://www.youtube.com/watch?v=zKFiqymnTUU"
                     }
                 ]
             },
@@ -1077,6 +1062,21 @@
                     {
                         "name": "[YouTube] (Sólo en inglés)",
                         "url": "https://www.youtube.com/playlist?list=PLDNhWVdKIOTAg-3-dsjVe7w9ytoCjVzrH"
+                    }
+                ]
+            },
+            {
+                "uuid": "019ef96c-52a9-700f-920b-7e80c557f23f",
+                "title": "Tríptico de una cadena abrupta: el escenario de ensueño de una idol",
+                "date": "2013-11-27",
+                "essential": false,
+                "notRecommended": false,
+                "incomplete": false,
+                "type": "dramacd",
+                "urls": [
+                    {
+                        "name": "[YouTube]",
+                        "url": "https://www.youtube.com/watch?v=1KI4zbdiBJY"
                     }
                 ]
             },
@@ -1173,8 +1173,8 @@
                 "type": "manga",
                 "urls": [
                     {
-                        "name": "[Zona TMO]",
-                        "url": "https://zonatmo.com/library/manga/29850/steinsgateeigoukaikinopandora"
+                        "name": "[Novel Cool]",
+                        "url": "https://es.novelcool.com/novel/Steins-Gate-Eigou-Kaiki-No-Pandora.html"
                     }
                 ]
             },
@@ -1196,7 +1196,7 @@
             {
                 "uuid": "019ef96c-52a9-7017-afe0-533fed2de5b0",
                 "title": "Steins;Gate: Inductancia de rotación de mundo",
-                "date": "2015",
+                "date": "2015-10-26",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1269,7 +1269,8 @@
             {
                 "uuid": "019ef96c-52a9-701c-80d9-e9651afbdab5",
                 "title": "Steins;Gate x Hello Kitty: Chance Encounter of Goldig Party",
-                "date": "2020-01-23",
+                "date": "2020-04-02",
+                "finishDate": "2020-04-23",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1392,7 +1393,7 @@
                 "type": "manga",
                 "urls": [
 	                {
-	                    "name": "[MangaDex]",
+	                    "name": "[MangaDex] (Sólo en inglés)",
 	                    "url": "https://mangadex.org/title/26fe1eff-4a85-4cb0-bee9-139a9c8982cc/robotics-notes-revival-legacy"
 	                },
                     {
@@ -1419,7 +1420,7 @@
             {
                 "uuid": "019ef96c-52a9-7023-b681-a4d3f795d698",
                 "title": "Un día en la vida de Koujiro Frau",
-                "date": "2013-04-08",
+                "date": "2012-07-10",
                 "essential": false,
                 "notRecommended": false,
                 "incomplete": false,
@@ -1581,14 +1582,14 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[Guión] (Sólo en inglés)",
+                        "name": "[Guion] (Sólo en inglés)",
                         "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=1623103648#gid=1623103648"
                     }
                 ]
             },
             {
                 "uuid": "019ef96c-52a9-702d-86f2-843edb785f2e",
-                "title": "Demasiado tarde: necios dormidos",
+                "title": "El sueño de unos necios impuntuales: Fools",
                 "date": "2015-06-25",
                 "essential": true,
                 "notRecommended": false,
@@ -1689,7 +1690,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-7032-941a-9e3d40f01442",
-                "title": "El día a día de los Chaos Children",
+                "title": "El día a día de los Hijos del Caos",
                 "date": "2017-01-11",
                 "finishDate": "2017-03-29",
                 "essential": false,
@@ -1810,14 +1811,14 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[Guión] (Sólo en inglés)",
+                        "name": "[Guion] (Sólo en inglés)",
                         "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=1389499898#gid=1389499898"
                     }
                 ]
             },
             {
                 "uuid": "019ef96c-52a9-7038-916b-2a720c5046f9",
-                "title": "Una melodía inocente que induce al sueño",
+                "title": "La melodía de la paz que induce al sueño",
                 "date": "2017-03-29",
                 "essential": false,
                 "notRecommended": false,
@@ -1825,7 +1826,7 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[Guión] (Sólo en inglés)",
+                        "name": "[Guion] (Sólo en inglés)",
                         "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=1740638505#gid=1740638505"
                     }
                 ],
@@ -1866,7 +1867,7 @@
             },
             {
                 "uuid": "019ef96c-52a9-703a-a5fd-4b74930f085a",
-                "title": "La melodía de la paz que induce al sueño",
+                "title": "Una melodía inocente que induce al sueño",
                 "date": "2017-04-19",
                 "essential": false,
                 "notRecommended": false,
@@ -1874,7 +1875,7 @@
                 "type": "dramacd",
                 "urls": [
                     {
-                        "name": "[Guión] (Sólo en inglés)",
+                        "name": "[Guion] (Sólo en inglés)",
                         "url": "https://docs.google.com/spreadsheets/d/12M9VzbTDRwTUFCSp-F47bEg01KmoOMuK2LdisNXVBlI/edit?gid=428550070#gid=428550070"
                     }
                 ],
