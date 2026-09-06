@@ -4357,6 +4357,91 @@
 				]
 			},
 			{
+				"name": "FAMICOLLE STEINS;GATE｜Original Soundtrack",
+				"cover": "/covers/sg/sgfc_ost.jpg",
+				"date": "2018-12-29",
+				"description": "BSO del juego",
+				"urls": [
+					{
+						"name": "Spotify",
+						"url": "https://open.spotify.com/album/01BBWWz2827p1ec4ETH35B",
+						"hidden": false
+					},
+					{
+						"name": "Apple Music",
+						"url": "https://music.apple.com/us/album/ファミコレadv-steins-gate-8bit-original-soundtrack/1475456438",
+						"hidden": false
+					},
+					{
+						"name": "MEGA",
+						"url": "https://mega.nz/folder/Zx4m1ZAS#N6GN63zHCNiKS2ze_4ujhg",
+						"hidden": true
+					}
+				],
+				"trackList": [
+					{
+						"name": "GATE OF STEINER",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "GATE OF STEINER",
+						"duration": "02:47",
+						"foundIn": ""
+					},
+					{
+						"name": "Laboratory",
+						"duration": "02:59",
+						"foundIn": ""
+					},
+					{
+						"name": "Noisy times",
+						"duration": "02:17",
+						"foundIn": ""
+					},
+					{
+						"name": "Explanation",
+						"duration": "04:56",
+						"foundIn": ""
+					},
+					{
+						"name": "Believe me",
+						"duration": "03:22",
+						"foundIn": ""
+					},
+					{
+						"name": "Walking on sleeping",
+						"duration": "02:49",
+						"foundIn": ""
+					},
+					{
+						"name": "Urd",
+						"duration": "03:08",
+						"foundIn": ""
+					},
+					{
+						"name": "Crossroads",
+						"duration": "03:31",
+						"foundIn": ""
+					},
+					{
+						"name": "Ringing -Beginning of fight-",
+						"duration": "01:04",
+						"foundIn": ""
+					},
+					{
+						"name": "スカイクラッドの観測者 8BIT Mix (instrumental)",
+						"duration": "04:41",
+						"foundIn": ""
+					},
+					{
+						"name": "S.E.COLLECTION",
+						"duration": "01:05",
+						"foundIn": ""
+					}
+				]
+			},
+			{
 				"name": "STEINS;GATE ELITE｜Original Soundtrack",
 				"cover": "/covers/sg/sge_ost.jpg",
 				"date": "2020-03-18",
