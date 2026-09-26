@@ -184,9 +184,14 @@
                 "notRecommended": false,
                 "incomplete": false,
                 "type": "shortstory",
-                "urls": [],
+                "urls": [
+                	{
+                 		"name": "[YouTube]",
+                   		"url": "https://www.youtube.com/watch?v=5NOJjXJ135o"
+                 	}
+                ],
                 "notes": [
-                    "Un monólogo de una historia corta ambientada 18 meses antes de los eventos de CHAOS;HEAD NOAH. Está disponible dentro del juego como parte del parche de CoZ después de terminar el final verdadero."
+                    "Un monólogo de una historia corta ambientada 18 meses antes de los eventos de CHAOS;HEAD NOAH. Está disponible dentro del juego como parte del parche de CoZ después de terminar el final verdadero y debe verse exclusivamente después del mismo. La versión en español está disponible en YouTube."
                 ]
             },
             {
