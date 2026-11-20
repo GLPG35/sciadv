@@ -11,8 +11,8 @@ const translatePath = useTranslatedPath(currentLang)
 ---
 
 <header>
-	{<Menu url={Astro.url} client:load />}
-	<a href='/' class='menu'>
+	<Menu url={Astro.url} client:load />
+	<a href={translatePath('/')} class='menu'>
 		<img src="/sciadv_logo.svg" alt="" />
 	</a>
 	<nav>
