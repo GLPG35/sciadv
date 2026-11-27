@@ -15,6 +15,5 @@ export default defineConfig({
             prefixDefaultLocale: false
       }
   },
-
   adapter: cloudflare()
 });
